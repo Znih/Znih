@@ -30,7 +30,7 @@ Hier sind einige der Sprachen und Tools, mit denen ich arbeite:
 
 Danke, dass Sie mein Profil besucht haben! Ich wünsche Ihnen einen schönen Tag! 😊
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Concerning … <a href="https://t.co/7dLDnQfsbP">pic.twitter.com/7dLDnQfsbP</a></p>&mdash; Ron Filipkowski (@RonFilipkowski) <a href="https://twitter.com/RonFilipkowski/status/1881431947706298632?ref_src=twsrc%5Etfw">January 20, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+https://t.co/7dLDnQfsbP
 
 ![20250120_143007](https://github.com/user-attachments/assets/7f12a90e-b4e7-4527-91e1-2b11f051ed70)
 
