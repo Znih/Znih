@@ -25,8 +25,7 @@ Hier sind einige der Sprachen und Tools, mit denen ich arbeite:
 
 ## 🔗 Mit mir in Verbindung treten
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
+- [Twitter](@Marco874753)
 - [Persönliche Website](https://www.matrixhacker.de) 502 da Zwangsabschaltung durch Hetzner drohte, aufgrund politischer Weisungen
 
 Danke, dass Sie mein Profil besucht haben! Ich wünsche Ihnen einen schönen Tag! 😊
