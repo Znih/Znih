@@ -1,4 +1,36 @@
-Ich war MatrixHacker und bin in Kürze endgültig im verdienten Ruhestand.
+# Hallo, ich bin Znih 👋
+
+Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher (Recht)Entwickler, der immer lernbegierig ist und zu Open-Source-Projekten beitragen möchte. Hier ein paar Informationen über mich und was ich mache:
+
+## 🚀 Über mich
+
+- 🔭 Ich arbeite derzeit flüchtend an **Evolution**
+- 🌱 Ich lerne derzeit zwangsweise **Historie**
+- 👯 Ich möchte an **Verfassungsgebenden Arbeiten** mitarbeiten und sehe mich bereits als Teil des Deutschen Verfassungsvolkes
+- 🤔 Ich suche Hilfe bei **Verfassungsrecht**
+- 💬 Fragen Sie mich nach **Expertisen und Interessen**
+- 📫 So erreichen Sie mich: **via Mail oder Github Kommentar**
+- 😄 Pronomen: **W.I.R. als Deutsches Bundesvolk** gemäß Art. 1 bis 3 Absätze I bis III unserer Bundesverfassung v. 1867/70/71 idF v. 28.10.1918
+- ⚡ Interessante Tatsache: **Fiktionen**
+
+## 🛠️ Sprachen und Tools
+
+Hier sind einige der Sprachen und Tools, mit denen ich arbeite:
+
+- **Sprachen:** [ps], [script], [iptables]
+
+## 📈 GitHub-Statistiken
+
+![Ihre GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=Artikel-278-VV&show_icons=true&theme=radical)
+
+## 🔗 Mit mir in Verbindung treten
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+- [Persönliche Website](https://your-website.com)
+
+Danke, dass Sie mein Profil besucht haben! Ich wünsche Ihnen einen schönen Tag! 😊
+
 
 ![20250120_143007](https://github.com/user-attachments/assets/7f12a90e-b4e7-4527-91e1-2b11f051ed70)
 
