@@ -36,6 +36,20 @@ Danke, dass Sie mein Profil besucht haben! Ich wünsche Ihnen einen schönen Tag
 
 https://github.com/user-attachments/assets/3e6fda25-7e6a-4115-9826-8d55f6f26342
 
+`Your account has been locked.
+
+Marco
+@Marco874753
+What happened?
+
+We found some unusual activity on your account. To make sure X is safe for everyone, we need you to confirm your identity before you can continue using X.
+
+What you can do:
+
+To unlock your account, you must do the following:
+
+Verify your email address`
+
 Quelle: [X](https://t.co/7dLDnQfsbP) && 🗞️ 🙄 🧻 § 130 StGB will kein Volljurist ziehen ... nun droht selbst § 130 V StGB (Buschmann-§§)
 
 ![20250120_143007](https://github.com/user-attachments/assets/7f12a90e-b4e7-4527-91e1-2b11f051ed70)
