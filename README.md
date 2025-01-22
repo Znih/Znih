@@ -38,6 +38,9 @@ Quelle: [X](https://t.co/7dLDnQfsbP)
 
 ![20250120_143007](https://github.com/user-attachments/assets/7f12a90e-b4e7-4527-91e1-2b11f051ed70)
 
+![Bildschirmfoto vom 2025-01-22 09-32-46](https://github.com/user-attachments/assets/84f796f1-ceb9-441e-84c0-8ef90569684a)
+
+
 ![a91edb30-cfdf-4ae3-9856-39476116be8b](https://github.com/user-attachments/assets/7cd60180-434b-4eb9-a2a3-8fb652e51672)
 
 https://github.com/user-attachments/assets/cfce28c4-7da0-44e0-b302-0ed051f28f87
