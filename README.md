@@ -140,6 +140,7 @@ https://github.com/user-attachments/assets/b92e5fd3-87a9-49ab-a5f5-d632a41c09c1
 
 
 
+![Bildschirmfoto vom 2025-01-22 12-46-52](https://github.com/user-attachments/assets/73ac6703-8c2b-4dfd-a609-ceea161beadc)
 
 
 ![20241116_093638](https://github.com/user-attachments/assets/cd0a5710-4261-4825-97e9-edcde7cdbd7f)
