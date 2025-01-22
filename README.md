@@ -36,7 +36,7 @@ Danke, dass Sie mein Profil besucht haben! Ich wünsche Ihnen einen schönen Tag
 
 https://github.com/user-attachments/assets/3e6fda25-7e6a-4115-9826-8d55f6f26342
 
-`Your account has been locked.
+"_Your account has been locked.
 
 Marco
 @Marco874753
@@ -48,7 +48,14 @@ What you can do:
 
 To unlock your account, you must do the following:
 
-Verify your email address`
+Verify your email address_"
+
+![Bildschirmfoto vom 2025-01-22 16-35-47](https://github.com/user-attachments/assets/c40e45cd-0779-435e-8d1c-9d3a57b43bd6)
+
+![Bildschirmfoto vom 2025-01-22 16-32-11](https://github.com/user-attachments/assets/84690589-60bc-4c51-a43b-fe651e0a6e42)
+
+![Bildschirmfoto vom 2025-01-22 16-16-04](https://github.com/user-attachments/assets/2537111b-77e0-4215-84ba-e5eedc553dc4)
+
 
 Quelle: [X](https://t.co/7dLDnQfsbP) && 🗞️ 🙄 🧻 § 130 StGB will kein Volljurist ziehen ... nun droht selbst § 130 V StGB (Buschmann-§§)
 
