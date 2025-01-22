@@ -4,7 +4,7 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher (Recht)Entwi
 
 ## 🚀 Über mich
 
-(poli. verfolgter Menschenrechtverteidiger i.s.v. UN-Res. 53/144 i.V.m Art. 2 Abs. 1 GG i. Wortlaut und Wortsinn)
+`poli. verfolgter Menschenrechtverteidiger i.s.v. UN-Res. 53/144 i.V.m Art. 2 Abs. 1 GG i. Wortlaut und Wortsinn`
 
 - 🔭 Ich arbeite derzeit flüchtend an **Evolution**
 - 🌱 Ich lerne derzeit zwangsweise **Historie**
