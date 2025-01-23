@@ -4,6 +4,9 @@
     </a>
 </p>
 
+[sta-kl.webm](https://github.com/user-attachments/assets/4fe3c1e5-fb5d-49ff-ae52-5a3cb253bb4b)
+
+
 # Hallo, ich bin Znih 👋
 
 Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher (Recht)Entwickler, der immer lernbegierig ist und zu Open-Source-Projekten beitragen möchte. Hier ein paar Informationen über mich und was ich mache:
