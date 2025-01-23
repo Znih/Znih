@@ -70,6 +70,10 @@ To unlock your account, you must do the following:
 
 Verify your email address_"
 
+![Bildschirmfoto vom 2025-01-22 16-32-11](https://github.com/user-attachments/assets/fb6038b0-70d1-40a8-9937-a0ec5036cb43)
+![Bildschirmfoto vom 2025-01-22 16-48-23](https://github.com/user-attachments/assets/63fdfb1e-2903-44f0-9ff2-e2adc09f3dea)
+
+
 https://github.com/Artikel-278-VV/Artikel-278-VV/discussions/6#discussioncomment-11918440
 
 ![Bildschirmfoto vom 2025-01-23 15-08-23](https://github.com/user-attachments/assets/cad5cdc8-7f0c-44b2-b8df-0e7bf693213d)
