@@ -62,6 +62,14 @@ https://github.com/Znih/script/blob/master/powershell/Window10Setup2K18/Window10
 
 Danke, dass Sie mein Profil besucht haben! Ich wünsche Ihnen einen schönen Tag! 😊
 
+
+
+https://github.com/user-attachments/assets/d883fcf2-0a0c-4d8f-9a80-31fd83a9362f
+
+[russland.webm](https://github.com/user-attachments/assets/437a0e59-d2c1-4957-bf5a-239b3a404530)
+
+
+
 https://github.com/user-attachments/assets/3e6fda25-7e6a-4115-9826-8d55f6f26342
 
 "_Your account has been locked.
