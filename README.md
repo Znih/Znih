@@ -31,7 +31,7 @@ Hier sind einige der Sprachen und Tools, mit denen ich arbeite:
 - **Sprachen:** [ps], [script], [iptables]
 - **Werkzeuge:** [iTap] [volltransparente bridges] [tcpdump] [wireshark] [F.C.C.U] [NSA OS] etc.
 
-#Vita neben MCP, MCSA, MCSE
+# Vita neben MCP, MCSA, MCSE
 
 https://github.com/Znih/script
 https://github.com/Znih/script/tree/master/firewall
