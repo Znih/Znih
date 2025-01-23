@@ -18,7 +18,7 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher (Recht)Entwi
 - 🔭 Ich arbeite derzeit flüchtend an **Evolution**
 - 🌱 Ich lerne derzeit zwangsweise **Historie**
 - 👯 Ich möchte an **Verfassungsgebenden Arbeiten** mitarbeiten und sehe mich bereits als Teil des Deutschen Verfassungsvolkes
-- 🤔 Ich suche Hilfe bei **Verfassungsrecht**
+- 🤔 Ich suche Hilfe bei **Verfassungsrechtlern** **Staatsrechtlern** **Historikern**
 - 💬 Fragen Sie mich nach **Expertisen und Interessen**
 - 📫 So erreichen Sie mich: **via Mail oder Github Kommentar**
 - 😄 Pronomen: **W.I.R. als Deutsches Bundesvolk** gemäß Art. 1 bis 3 Absätze I bis III unserer Bundesverfassung v. 1867/70/71 idF v. 28.10.1918
@@ -29,6 +29,14 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher (Recht)Entwi
 Hier sind einige der Sprachen und Tools, mit denen ich arbeite:
 
 - **Sprachen:** [ps], [script], [iptables]
+- **Werkzeuge:** [iTap] [volltransparente bridges] [tcpdump] [wireshark] [F.C.C.U] [NSA OS] etc.
+
+#Vita neben MCP, MCSA, MCSE
+
+https://github.com/Znih/script
+https://github.com/Znih/script/tree/master/firewall
+https://github.com/Znih/script/blob/master/firewall/basis-script-bridge
+https://github.com/Znih/script/blob/master/powershell/Window10Setup2K18/Window10Setup2K18.ps1
 
 ## 📈 GitHub-Statistiken
 
@@ -58,6 +66,8 @@ What you can do:
 To unlock your account, you must do the following:
 
 Verify your email address_"
+
+https://github.com/Artikel-278-VV/Artikel-278-VV/discussions/6#discussioncomment-11918440
 
 ![Bildschirmfoto vom 2025-01-23 15-08-23](https://github.com/user-attachments/assets/cad5cdc8-7f0c-44b2-b8df-0e7bf693213d)
 
