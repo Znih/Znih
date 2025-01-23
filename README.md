@@ -50,6 +50,9 @@ To unlock your account, you must do the following:
 
 Verify your email address_"
 
+![Bildschirmfoto vom 2025-01-23 15-08-23](https://github.com/user-attachments/assets/cad5cdc8-7f0c-44b2-b8df-0e7bf693213d)
+
+
 ![Bildschirmfoto vom 2025-01-22 16-35-47](https://github.com/user-attachments/assets/c40e45cd-0779-435e-8d1c-9d3a57b43bd6)
 
 ![Bildschirmfoto vom 2025-01-22 16-32-11](https://github.com/user-attachments/assets/84690589-60bc-4c51-a43b-fe651e0a6e42)
