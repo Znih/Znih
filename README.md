@@ -89,6 +89,8 @@ Verify your email address_"
 ![Bildschirmfoto vom 2025-01-22 16-32-11](https://github.com/user-attachments/assets/fb6038b0-70d1-40a8-9937-a0ec5036cb43)
 ![Bildschirmfoto vom 2025-01-22 16-48-23](https://github.com/user-attachments/assets/63fdfb1e-2903-44f0-9ff2-e2adc09f3dea)
 
+![Bildschirmfoto vom 2025-01-23 20-39-06](https://github.com/user-attachments/assets/a0abace1-d0be-4ef6-bfa6-6e7901dcdaac)
+
 
 https://github.com/Artikel-278-VV/Artikel-278-VV/discussions/6#discussioncomment-11918440
 
