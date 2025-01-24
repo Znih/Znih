@@ -5,7 +5,7 @@
 </p>
 
 <div align="center"> 
-  <p>Besucherzähler von [@Znih](https://github.com/Znih)</p>
+  <p>Besucherzähler von https://github.com/Znih</p>
   <img src="https://profile-counter.glitch.me/Znih/count.svg" alt="Visitor's Count" />
 </div>
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
