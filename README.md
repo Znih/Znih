@@ -15,7 +15,7 @@
 
 <video src="https://github.com/user-attachments/assets/51a1c58a-8a1d-4147-b9e9-30049d5e174a" controls="controls" style="max-width: 730px;"></video>
 
-https://github.com/Znih/Antje17/discussions/2 🦨 💀 ☠️
+[![Bildschirmfoto vom 2025-01-24 19-00-50](https://github.com/user-attachments/assets/31a0b407-cf50-42ec-92a3-a2c30e03331c)](https://github.com/Znih/Antje17/discussions/2) 🦨 💀 ☠️
 
 <p align="center">
     <a href="http://aashisjha.com.np" target="_blank">
