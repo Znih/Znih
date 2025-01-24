@@ -281,9 +281,14 @@ https://github.com/user-attachments/assets/b92e5fd3-87a9-49ab-a5f5-d632a41c09c1
 Unlocked on Jan 30, 2023
 inaccessible · Coauthored with an unknown user
 
-https://github.com/user-attachments/assets/7d26eb82-9577-468e-8505-73bb95e1b1f3
+https://github.com/Chitus?tab=achievements
+
 
 [![alt text](https://static.wixstatic.com/media/a92ab5_aeff87c7737144f5ba31dbeb52f9818e~mv2.png/v1/fit/w_2500,h_1330,al_c/a92ab5_aeff87c7737144f5ba31dbeb52f9818e~mv2.png)](https://www.asssr.org/)
+
+https://github.com/user-attachments/assets/7d26eb82-9577-468e-8505-73bb95e1b1f3
+
+
 
 
 ### WhatsApp Happen
@@ -309,7 +314,3 @@ https://github.com/user-attachments/assets/7d26eb82-9577-468e-8505-73bb95e1b1f3
 
 
 [gr9.webm](https://github.com/user-attachments/assets/cfe99de2-3d76-4791-b423-7db67a866cb4)
-
-
-
-https://github.com/Chitus?tab=achievements
