@@ -97,10 +97,6 @@ https://github.com/Znih/script/blob/master/powershell/Window10Setup2K18/Window10
 
 https://github.com/Znih/script/blob/master/powershell/Window10Setup2K18/Window10Setup2K18_tablesfw.ps1
 
-## 📈 GitHub-Statistiken
-
-![Ihre GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=Artikel-278-VV&show_icons=true&theme=radical)
-
 ## 🔗 Mit mir in Verbindung treten
 
 - [Github](https://github.com/Artikel-278-VV/Artikel-278-VV/discussions)
