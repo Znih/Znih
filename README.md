@@ -5,7 +5,7 @@
 </p>
 
 <div align="center"> 
-  <p>Visitor count</p>
+  <p>Besucherzähler von @Znih</p>
   <img src="https://profile-counter.glitch.me/Znih/count.svg" alt="Visitor's Count" />
 </div>
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
@@ -21,7 +21,7 @@
 </a>
 
 <div align="center"> 
-  <p>Visitor count</p>
+  <p>Besucherzähler von @Artikel-278-VV</p>
   <img src="https://profile-counter.glitch.me/Artikel-278-VV/count.svg" alt="Visitor's Count" />
 </div>
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
