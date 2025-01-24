@@ -15,6 +15,8 @@
 
 <video src="https://github.com/user-attachments/assets/51a1c58a-8a1d-4147-b9e9-30049d5e174a" controls="controls" style="max-width: 730px;"></video>
 
+https://github.com/Znih/Antje17/discussions/2 🦨 💀 ☠️
+
 <p align="center">
     <a href="http://aashisjha.com.np" target="_blank">
         <img src="https://github.com/OracleBrain/OracleBrain/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
