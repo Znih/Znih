@@ -21,7 +21,7 @@
 </a>
 
 <div align="center"> 
-  <p>Besucherzähler von @Artikel-278-VV</p>
+  <p>Besucherzähler von https://github.com/Artikel-278-VV</p>
   <img src="https://profile-counter.glitch.me/Artikel-278-VV/count.svg" alt="Visitor's Count" />
 </div>
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
