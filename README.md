@@ -279,4 +279,32 @@ https://github.com/user-attachments/assets/b92e5fd3-87a9-49ab-a5f5-d632a41c09c1
 
 Unlocked on Jan 30, 2023
 inaccessible · Coauthored with an unknown user
+
+### WhatsApp Happen
+
+<video src="https://github.com/user-attachments/assets/51a1c58a-8a1d-4147-b9e9-30049d5e174a" controls="controls" style="max-width: 730px;"></video>
+
+<video src="https://github.com/user-attachments/assets/90bca90a-e350-4d98-9ed7-237cc808a93c" controls="controls" style="max-width: 730px;"></video>
+
+
+[goldenrule.webm](https://github.com/user-attachments/assets/739674e8-33ec-4a8a-9373-6b2a62516908)
+
+[goldenrule3.webm](https://github.com/user-attachments/assets/4fb495b2-d039-4e7a-ae64-6c07dca8b218)
+
+[goldenrule4.webm](https://github.com/user-attachments/assets/e2ad45f6-9560-426a-b227-7f15b3d40b30)
+
+[goldenrule5.webm](https://github.com/user-attachments/assets/4c35a72d-6116-467a-845f-8017d2a3418e)
+
+[goldenrule6.webm](https://github.com/user-attachments/assets/e395250e-4604-4c1f-815a-368e32c974b7)
+
+[goldenrule7.webm](https://github.com/user-attachments/assets/17e06136-6721-4b64-80a0-985dda37231f)
+
+[goldenrule7.webm](https://github.com/user-attachments/assets/0b42a690-81c9-48c6-99c3-6933a83f22b1)
+
+
+[gr9.webm](https://github.com/user-attachments/assets/cfe99de2-3d76-4791-b423-7db67a866cb4)
+
+https://github.com/user-attachments/assets/7d26eb82-9577-468e-8505-73bb95e1b1f3
+
+
 https://github.com/Chitus?tab=achievements
