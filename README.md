@@ -133,19 +133,19 @@ https://github.com/user-attachments/assets/d883fcf2-0a0c-4d8f-9a80-31fd83a9362f
 
 https://github.com/user-attachments/assets/3e6fda25-7e6a-4115-9826-8d55f6f26342
 
-"_Your account has been locked.
+`Ihr Konto wurde gesperrt.
 
 Marco
 @Marco874753
-What happened?
+Was ist passiert?
 
-We found some unusual activity on your account. To make sure X is safe for everyone, we need you to confirm your identity before you can continue using X.
+Wir haben ungewöhnliche Aktivitäten auf Ihrem Konto festgestellt. Um sicherzustellen, dass X für alle sicher ist, müssen Sie Ihre Identität bestätigen, bevor Sie X weiter verwenden können.
 
-What you can do:
+Was Sie tun können:
 
-To unlock your account, you must do the following:
+Um Ihr Konto zu entsperren, müssen Sie Folgendes tun:
 
-Verify your email address_"
+Bestätigen Sie Ihre E-Mail-Adresse` **erneut**!!!
 
 ![Bildschirmfoto vom 2025-01-22 16-32-11](https://github.com/user-attachments/assets/fb6038b0-70d1-40a8-9937-a0ec5036cb43)
 ![Bildschirmfoto vom 2025-01-22 16-48-23](https://github.com/user-attachments/assets/63fdfb1e-2903-44f0-9ff2-e2adc09f3dea)
