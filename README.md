@@ -17,6 +17,15 @@
 
 [![Bildschirmfoto vom 2025-01-24 19-00-50](https://github.com/user-attachments/assets/31a0b407-cf50-42ec-92a3-a2c30e03331c)](https://github.com/Znih/Antje17/discussions/2) 🦨 💀 ☠️
 
+Hier sollte das Github-Profil eines unter 16jährigen Spieler und Schüler zu erreichen sein:
+
+https://github.com/FelixXIII/FelixXIII
+
+[FelixXIII_soll_US-Sanktionen-umgangen-haben-Isolationshaft-bei-Github.webm](https://github.com/user-attachments/assets/0247637a-236f-48e4-bb83-647e2498378f)
+
+
+Das passiert, wenn selbst Volljuristen, hier wie übern großen Teich, den ins gesunde Gehirn springende Unterschied zwischen Recht (ius) und dem GESETZten Rechte (lex) NICHT KENNEN!!! Dr. Marco Buschmann (Agent) zeigte am 16.09.2022 wohl nicht zufällig auf Celsus und Ulpian!!! IHR NARREN!!! @Juristen
+
 ![Bildschirmfoto vom 2025-01-25 11-12-54](https://github.com/user-attachments/assets/e58e083c-4ab1-49b1-8e73-ac97ad17e2f2)
 
 
