@@ -17,6 +17,10 @@
 
 [![Bildschirmfoto vom 2025-01-24 19-00-50](https://github.com/user-attachments/assets/31a0b407-cf50-42ec-92a3-a2c30e03331c)](https://github.com/Znih/Antje17/discussions/2) 🦨 💀 ☠️
 
+![Bildschirmfoto vom 2025-01-25 11-12-54](https://github.com/user-attachments/assets/e58e083c-4ab1-49b1-8e73-ac97ad17e2f2)
+
+
+
 <p align="center">
     <a href="http://aashisjha.com.np" target="_blank">
         <img src="https://github.com/OracleBrain/OracleBrain/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
