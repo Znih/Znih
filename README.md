@@ -24,7 +24,7 @@ https://github.com/FelixXIII/FelixXIII
 [FelixXIII_soll_US-Sanktionen-umgangen-haben-Isolationshaft-bei-Github.webm](https://github.com/user-attachments/assets/0247637a-236f-48e4-bb83-647e2498378f)
 
 
-Das passiert, wenn selbst Volljuristen, hier wie übern großen Teich, den ins gesunde Gehirn springende Unterschied zwischen Recht (ius) und dem GESETZten Rechte (lex) NICHT KENNEN!!! Dr. Marco Buschmann (Agent) zeigte am 16.09.2022 wohl nicht zufällig auf Celsus und Ulpian!!! IHR NARREN!!! @Juristen
+Das passiert, wenn selbst Volljuristen, hier wie übern großen Teich, den ins gesunde Gehirn springenden Unterschied zwischen Recht (ius) und dem GESETZten Rechte (lex) NICHT KENNEN!!! Dr. Marco Buschmann ([Agent](https://www.buzer.de/5a_DRiG.htm)) zeigte am 16.09.2022 wohl nicht zufällig auf Celsus und Ulpian!!! IHR NARREN!!! @Juristen
 
 ![Bildschirmfoto vom 2025-01-25 11-12-54](https://github.com/user-attachments/assets/e58e083c-4ab1-49b1-8e73-ac97ad17e2f2)
 
