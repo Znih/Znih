@@ -28,7 +28,7 @@ Das passiert, wenn selbst Volljuristen, hier wie übern großen Teich, den ins g
 
 ![Bildschirmfoto vom 2025-01-25 11-12-54](https://github.com/user-attachments/assets/e58e083c-4ab1-49b1-8e73-ac97ad17e2f2)
 
-
+[(d)arpa.NET Backup vom 24.01.2025](https://web.archive.org/web/20250124004221/https://github.com/Znih/Znih/blob/main/README.md)
 
 <p align="center">
     <a href="http://aashisjha.com.np" target="_blank">
