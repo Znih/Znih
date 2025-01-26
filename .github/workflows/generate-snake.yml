@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
 steps:
-  - name: Checkout repository
+  - name: user.name
     uses: actions/checkout@v2
 
   - name: Debug repository owner
-    run: echo "Repository owner: ${{ github.repository_owner }}"
+    run: echo "Repository owner: user.name"
   - name: Generate GitHub Contribution Snake
     uses: Platane/snk@v3
     with:
