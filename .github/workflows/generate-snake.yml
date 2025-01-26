@@ -15,7 +15,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-        permissions: write
+        # permissions: write
 
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
