@@ -29,3 +29,7 @@ steps:
       git commit -m "Updated GitHub Contribution Snake"
       git push
 
+#-- ERROR
+# Invalid workflow file: .github/workflows/generate-snake.yml#L1
+# No steps defined in `steps` and no workflow called in `uses` for the following jobs: build
+#
