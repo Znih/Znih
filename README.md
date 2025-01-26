@@ -19,8 +19,8 @@
 
 Willkommen zu meinem Projekt!
 
-- GitHub Benutzer: {{GITHUB_USER}}
-- Repository Besitzer: {{GITHUB_OWNER}}
+- GitHub Benutzer: Znih
+- Repository Besitzer: Znih
 
 Weitere Informationen folgen...
 
