@@ -107,7 +107,8 @@ https://github.com/Znih/script/tree/master/firewall
 
 https://github.com/Znih/script/blob/master/firewall/basis-script-bridge
 
-https://github.com/Znih/script/tree/master/firewall (GPT40)
+[![Bildschirmfoto vom 2025-01-26 17-01-07](https://github.com/user-attachments/assets/5721887e-c4e3-4c3a-9fec-d4e9973b9c64)](https://github.com/Znih/script/tree/master/firewall)
+
 
 https://github.com/Znih/script/blob/master/powershell/Window10Setup2K18/Window10Setup2K18.ps1
 
