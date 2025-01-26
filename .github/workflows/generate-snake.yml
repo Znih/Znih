@@ -22,7 +22,7 @@ jobs:
             git status
 
       - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
