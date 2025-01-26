@@ -71,10 +71,8 @@
 
   <h3>Streak Stats</h3>
 
-
-  
   <p>
-      <img title="Streak Stats" alt=Znih Streak" src="https://streak-stats.demolab.com/?user=Znih&theme=monokai-metallian&hide_border=true"/>
+      <img title="Streak Stats" alt=JahidNation Streak" src="https://streak-stats.demolab.com/?user=jahidnation&theme=monokai-metallian&hide_border=true"/>
   </p>
 
   <h3>GitHub Profile Stats</h3>
