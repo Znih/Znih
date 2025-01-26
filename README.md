@@ -86,7 +86,7 @@ Weitere Informationen folgen [...](https://github.com/Znih/Znih/commit/f8ee65886
 ---
 
 <p align="center">
-<img alt="Contributions" title="Contributions" src="https://github.com/Znih/Znih/blob/contributions/snake.svg"/>
+<img alt="Contributions" title="Contributions" src="https://github.com/jahidnation/jahidnation/blob/contributions/snake.svg"/>
 </p>
 
 
@@ -142,12 +142,6 @@ Das passiert, wenn selbst Volljuristen, hier wie übern großen Teich, den ins g
 <a href="https://github.com/Znih">
     <img src="https://github.com/Znih/XiaomingX/blob/315b265f6f081e9104f18365412cedaab4110e99/output/github-snake.svg" />
 </a>
-
-# Test 
-
-<p align="center">
-<img alt="Contributions" title="Contributions" src="https://github.com/jahidnation/jahidnation/blob/contributions/snake.svg"/>
-</p>
 
 [![Bildschirmfoto vom 2025-01-24 09-52-44](https://github.com/user-attachments/assets/691caea3-369f-432d-98fc-4c926d00a6ea)](https://github.com/Artikel-278-VV/Artikel-278-VV/graphs/traffic)
 
