@@ -14,10 +14,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
 
       - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@v1
+        uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -50,3 +50,5 @@ jobs:
 #        git status
 
 # src: https://pastebin.com/ELfPZ8xF
+
+# runs-on: ubuntu-latest ???
