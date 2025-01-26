@@ -1,58 +1,34 @@
 name: Generate GitHub Contribution Snake
 
 on:
-  schedule: # 每天生成一张新的图片
+  schedule: # 每天生成一张新的图片  有趣的 "Jeden Tag ein neues Bild generieren"
     - cron: "0 0 * * *"
   workflow_dispatch:
-  
-#  user: user.name
-#  permissions: 
-#  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-        
-      - name: Debug repository owner
-        run: echo "${{ github.repository_owner }}"
-        
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@v2
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            output/github-snake.svg
-            output/github-snake-dark.svg?palette=github-dark
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v2
 
-      - name: Commit and push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "Updated GitHub Contribution Snake"
-          git push
+  - name: Debug repository owner
+    run: echo "Repository owner: ${{ github.repository_owner }}"
 
-# name: CI
+  - name: Generate GitHub Contribution Snake
+    uses: Platane/snk@v3
+    with:
+      github_user_name: ${{ github.repository_owner }}
+      outputs: |
+        output/github-snake.svg
+        output/github-snake-dark.svg?palette=github-dark
 
-# on: [push]
+  - name: Commit and push
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      git add -A
+      git commit -m "Updated GitHub Contribution Snake"
+      git push
 
-# jobs:
-#  build:
-#    runs-on: ubuntu-latest
-    
-#    steps:
-#    - uses: actions/checkout@v1
-#    - name: Run a one-line script
-#        run: pwd
-#    - name: Run a multi-line script
-#      run: |
-#        ls
-#        git status
-
-# src: https://pastebin.com/ELfPZ8xF
-
-# runs-on: ubuntu-latest ???
