@@ -32,3 +32,22 @@ jobs:
           git add -A
           git commit -m "Updated GitHub Contribution Snake"
           git push
+
+# name: CI
+
+# on: [push]
+
+# jobs:
+#  build:
+#    runs-on: ubuntu-latest
+    
+#    steps:
+#    - uses: actions/checkout@v1
+#    - name: Run a one-line script
+#        run: pwd
+#    - name: Run a multi-line script
+#      run: |
+#        ls
+#        git status
+
+# src: https://pastebin.com/ELfPZ8xF
