@@ -91,7 +91,7 @@ Weitere Informationen folgen [...](https://github.com/Znih/Znih/commit/f8ee65886
 
 <p align="center"><quote>
 <b>ZUSAMMENhänge ZUSAMMEN ZUSAMMENsetzen!</b>
-Analyse Systemfehler: Geldschöpfung und unendliches Wachstum sind Werkzeuge zur modernen Versklavung. Ein Planet mit begrenzten Ressourcen an Rohstoffen und begrenztem Platz für den Müll, widerspricht logisch einem unendlichen Wachstum und der Notlösung einer "Geplanten Obsoleszenz", mithin also die Die fortschreitende, sich beschleunigende Umwandlung von Rohstoffen, Energie und menschlicher Arbeitskraft in MÜLL. Nur ein Krieg setzt das System immer wieder zurück auf Anfang.
+Analyse Systemfehler: <b>Geldschöpfung</b> und <b>unendliches Wachstum</b> sind <b>Werkzeuge</b> zur <b>modernen Versklavung</b>. Ein Planet mit <b>begrenzten Ressourcen</b> an Rohstoffen und <b>begrenztem Platz</b> für den Müll, <b>widerspricht logisch</b> einem <b>unendlichen Wachstum</b> und der Notlösung einer "<b>Geplanten Obsoleszenz</b>", mithin also die Die fortschreitende, sich beschleunigende Umwandlung von Rohstoffen, Energie und menschlicher Arbeitskraft in MÜLL. Nur ein Krieg setzt das System immer wieder zurück auf Anfang.
 </quote><p align="center">
 <p></p>
 <p></p>
