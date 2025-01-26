@@ -5,9 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
   
-  user: user.name
-  permissions: 
-  contents: write
+#  user: user.name
+#  permissions: 
+#  contents: write
 
 jobs:
   build:
