@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2 github-actions[bot]
 
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v2
@@ -23,7 +23,7 @@ jobs:
           outputs: |
             output/github-snake.svg
             output/github-snake-dark.svg?palette=github-dark
-
+      - 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
