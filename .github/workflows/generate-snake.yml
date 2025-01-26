@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 # user: github-actions[bot]
 permissions: 
-contents: rw
+contents: write
 
 jobs:
   build:
