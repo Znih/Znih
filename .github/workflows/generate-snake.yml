@@ -5,8 +5,8 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 user: github-actions[bot]
-permissions: https://github.com/Znih/Znih/
-contents: write
+permissions: /Znih/Znih/
+contents: rw
 
 jobs:
   build:
