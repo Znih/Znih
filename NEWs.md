@@ -1,4 +1,5 @@
-<h1 align="center">Folgendes hat sich zugetragen, von und mit user.name</h1>
+<h1 align="center">Folgendes hat sich zugetragen, von und mit {{GITHUB_USER}}
+</h1>
 <p align="center">
   <img alt="Daily Work" height="160px" src="https://i.imgur.com/uhZdH9C.gif" />
 </p>
