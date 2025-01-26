@@ -16,8 +16,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v1
 
-            git status
-
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v1
         with:
