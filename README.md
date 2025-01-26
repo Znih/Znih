@@ -107,6 +107,8 @@ https://github.com/Znih/script/tree/master/firewall
 
 https://github.com/Znih/script/blob/master/firewall/basis-script-bridge
 
+https://github.com/Znih/script/tree/master/firewall (GPT40)
+
 https://github.com/Znih/script/blob/master/powershell/Window10Setup2K18/Window10Setup2K18.ps1
 
 ### fw script speziell für den MS Basisfilter ab Windoof XP
