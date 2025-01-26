@@ -13,13 +13,13 @@
   <img alt="Last Update" title="Last Update" src="https://img.shields.io/github/last-commit/Znih/Znih?logo=markdown&label=LAST+UPDATE&color=29bf12&style=for-the-badge"/>
 </p>
 <p align="center">
-      <a href="https://youtube.com/@jahidnation">
+      <a href="https://youtube.com/@WELT">
          <img alt="YouTube Channel" title="YouTube Channel" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a> 
       <a href="https://facebook.com/marco.hinz.14">
          <img alt="FaceBook Page" title="FaceBook Page" src="https://img.shields.io/badge/FaceBook-%234267B2.svg?logo=FaceBook&logoColor=white"/></a>
-      <a href="mailto:mail@jahid.eu.org">
+      <a href="mailto:art278vv@proton.me">
          <img alt="Mail Account" title="Mail Account" src="https://img.shields.io/badge/Mail-%23c71610.svg?logo=Gmail&logoColor=white"/></a>
-      <a href="#">
+      <a href="https://x.com/Marco874753">
          <img alt="Twitter Account" title="X Account" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>
 </p>
 
@@ -73,17 +73,16 @@
 
 
   
-<!-- hier
   <p>
       <img title="Streak Stats" alt=Znih Streak" src="https://streak-stats.demolab.com/?user=Znih&theme=monokai-metallian&hide_border=true"/>
   </p>
 
   <h3>GitHub Profile Stats</h3>
   <p>
-  <img alt="JahidNation Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Znih&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Znih Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Znih&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </p>
 
---->
+---
 
 <p align="center">
 <img alt="Contributions" title="Contributions" src="https://github.com/Znih/Znih/blob/contributions/snake.svg"/>
