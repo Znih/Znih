@@ -4,9 +4,10 @@ on:
   schedule: # 每天生成一张新的图片
     - cron: "0 0 * * *"
   workflow_dispatch:
-# user: github-actions[bot]
-# permissions: 
-# contents: write
+  
+  user: user.name
+  permissions: 
+  contents: write
 
 jobs:
   build:
@@ -14,8 +15,11 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2 github-actions[bot]
-
+        uses: actions/checkout@v2
+        
+      - name: Debug repository owner
+        run: echo "${{ github.repository_owner }}"
+        
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v2
         with:
