@@ -4,6 +4,8 @@ on:
   schedule: # 每天生成一张新的图片
     - cron: "0 0 * * *"
   workflow_dispatch:
+permissions: 
+contents: write
 
 jobs:
   build:
@@ -11,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
 
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
