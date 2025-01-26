@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 user: github-actions[bot]
-permissions: /
+permissions: 
 contents: rw
 
 jobs:
