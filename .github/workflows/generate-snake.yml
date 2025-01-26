@@ -15,7 +15,6 @@ steps:
 
   - name: Debug repository owner
     run: echo "Repository owner: ${{ github.repository_owner }}"
-
   - name: Generate GitHub Contribution Snake
     uses: Platane/snk@v3
     with:
