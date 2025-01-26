@@ -14,8 +14,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
-        # permissions: write
+        uses: actions/checkout@v1
+      - name: Run a one-line script
+        run: pwd
+      - name: Run a multi-line script
+        run: |
+            git status
 
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
