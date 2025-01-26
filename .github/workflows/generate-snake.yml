@@ -14,7 +14,7 @@ steps:
     uses: actions/checkout@v2
 
   - name: Debug repository owner
-    run: echo "Repository owner: user.name"
+    run: echo "Repository owner: ${{ github.repository_owner }}"
   - name: Generate GitHub Contribution Snake
     uses: Platane/snk@v3
     with:
