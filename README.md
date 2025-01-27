@@ -39,8 +39,13 @@ Weitere Informationen folgen [...](https://github.com/Znih/Znih/commit/f8ee65886
 <p align="center">
   <img alt="Daily Work" height="160px" src="https://i.imgur.com/uhZdH9C.gif" />
 </p>
+
 <details open>
- <summary><h3>Bio</h3></summary>
+      <summary><h3>Bio</h3>
+            <p align="center">
+            <b>Für alle Preußischen Staatsangehörigen</b> mit der Eigenschaft als Preuße, wenn auch weiterhin mit vakantem Status (Art. 1 BVerf. vs. Art. 2 WRV) UND <b>für alle Bundesangehörigen</b> mit der Eigenschaft als Deutsche gemäß Art. 1 bis 3 I-III BVerf. iVm. <b>§ 1 BuStAG</b>, Art. 2 I, 3 I, 20 IV, 123 I iVm. Art. 68 BVerf. u. Art. 111 Sz. 2 PreußV., 116 II, <b>139 iVm. BefrG v. 05.03.1946</b> und 146 GG!!!.
+             </p>
+      </summary>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Every+day%2C+learn+something+new.;Make+mistakes%2C+learn+from+them.;Work+hard%2C+stay+humble%2C+succeed.;Dream+big%2C+take+action%2C+succeed.;Small+steps+lead+to+big+leaps.;Take+action%2C+make+things+happen.&font=Fira%20Code&center=true&width=440&height=45&color=808080&vCenter=true&pause=1000&size=22" />
 </p>
