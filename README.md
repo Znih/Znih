@@ -186,12 +186,12 @@ Weitere Informationen folgen [...](#)
 </a>
 
 <div align="center"> 
-  <p>Besucherzähler von @hinzigers</p>
-  <img src="https://profile-counter.glitch.me/Artikel-278-VV/count.svg" alt="Visitor's Count" />
+  <p>Besucherzähler von @hinzigers (old)</p>
+  <img src="https://profile-counter.glitch.me/hinzigers/count.svg" alt="Visitor's Count" />
 </div>
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=hinzigers&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Znih's GitHub Stats" />
-  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=hinzigers&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en" alt="Hinzigers's Most Used Languages" />
+  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=hinzigers&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en" alt="Hinzigers's (old) Most Used Languages" />
 </div>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinzigers&theme=xcode&hide_border=true" alt="Activity graph">
