@@ -78,7 +78,7 @@ Weitere Informationen folgen [...](https://github.com/Znih/Znih/commit/f8ee65886
   <h3>Streak Stats</h3>
 
   <p>
-      <img title="Streak Stats" alt=JahidNation Streak" src="https://streak-stats.demolab.com/?user=jahidnation&theme=monokai-metallian&hide_border=true"/>
+      <img title="Streak Stats" alt=JahidNation Streak" src="https://streak-stats.demolab.com/?user=Znih&theme=monokai-metallian&hide_border=true"/>
   </p>
 
   <h3>GitHub Profile Stats</h3>
@@ -104,7 +104,7 @@ Analyse Systemfehler: <b>Geldschöpfung</b> und <b>unendliches Wachstum</b> sind
 ab hier Hinzigers altes Profil
 -->
 
-# Joined 8 years ago (nebenbei, [backup](#))
+# Joined 10 years ago (nebenbei, [backup](#))
 
 Willkommen zu meinem alten Projekt!
 
@@ -123,8 +123,8 @@ Weitere Informationen folgen [...](#)
 </p>
 
 <p align="center">
-<img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=Hinzigers&style=for-the-badge&color=29bf12"/>
-  <img alt="Last Update" title="Last Update" src="https://img.shields.io/github/last-commit/Hinzigers/Hinzigers?logo=markdown&label=LAST+UPDATE&color=29bf12&style=for-the-badge"/>
+<img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=hinzigers&style=for-the-badge&color=29bf12"/>
+  <img alt="Last Update" title="Last Update" src="https://img.shields.io/github/last-commit/hinzigers/hinzigers?logo=markdown&label=LAST+UPDATE&color=29bf12&style=for-the-badge"/>
 </p>
 <p align="center">
       <a href="https://youtube.com/@WELT">
@@ -143,7 +143,7 @@ Weitere Informationen folgen [...](#)
 <details open>
  <summary><h3>GitHub Trophies</h3></summary>
 
-<img alt="GitHub Trophies" title="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Hinzigers&column=8&theme=gruvbox&no-frame=true"/>
+<img alt="GitHub Trophies" title="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=hinzigers&column=8&theme=gruvbox&no-frame=true"/>
 
 ---
 
@@ -164,12 +164,12 @@ Weitere Informationen folgen [...](#)
   <h3>Streak Stats</h3>
 
   <p>
-      <img title="Streak Stats" alt=JahidNation Streak" src="https://streak-stats.demolab.com/?user=jahidnation&theme=monokai-metallian&hide_border=true"/>
+      <img title="Streak Stats" alt=JahidNation Streak" src="https://streak-stats.demolab.com/?user=hinzigers&theme=monokai-metallian&hide_border=true"/>
   </p>
 
   <h3>GitHub Profile Stats</h3>
   <p>
-  <img alt="Hinzigers Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Hinzigers&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Hinzigers Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hinzigers&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </p>
 
 ---
