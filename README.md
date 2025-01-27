@@ -181,6 +181,27 @@ Weitere Informationen folgen [...](#)
 <img alt="Contributions" title="Contributions" src="https://github.com/jahidnation/jahidnation/blob/contributions/snake.svg"/>
 </p>
 
+<a href="https://github.com/Znih">
+    <img src="https://github.com/Znih/XiaomingX/blob/551793bb446888a2df6be529bb9a3802ddba38b3/output/github-snake-dark.svg" />
+</a>
+
+<div align="center"> 
+  <p>Besucherzähler von https://github.com/Artikel-278-VV</p>
+  <img src="https://profile-counter.glitch.me/Artikel-278-VV/count.svg" alt="Visitor's Count" />
+</div>
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=hinzigers&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Znih's GitHub Stats" />
+  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=hinzigers&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en" alt="Artikel-278-VV's Most Used Languages" />
+</div>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinzigers&theme=xcode&hide_border=true" alt="Activity graph">
+</a>
+
+<a href="https://github.com/Znih">
+    <img src="https://github.com/Znih/XiaomingX/blob/315b265f6f081e9104f18365412cedaab4110e99/output/github-snake.svg" />
+</a>
+
+
 <p align="center"><quote>
 <b>ZUSAMMENhänge ZUSAMMEN ZUSAMMENsetzen!</b>
 Analyse Systemfehler: <b>Geldschöpfung</b> und <b>unendliches Wachstum</b> sind <b>Werkzeuge</b> zur <b>modernen Versklavung</b>. Ein Planet mit <b>begrenzten Ressourcen</b> an Rohstoffen und <b>begrenztem Platz</b> für den Müll, <b>widerspricht <u>logisch</u></b> einem <b>unendlichen Wachstum</b> und der Notlösung einer "<b><i>Geplanten Obsoleszenz</i></b>", mithin also die Die fortschreitende, sich beschleunigende Umwandlung von Rohstoffen, Energie und menschlicher Arbeitskraft in MÜLL. <b>Nur ein Krieg setzt das System immer wieder zurück auf Anfang.</b>
