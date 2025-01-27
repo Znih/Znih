@@ -25,7 +25,7 @@ https://www.google.com/search?client=firefox-b-lm&q=marco+hinz !@Znih U+1F602
 
 Aber was seid ihr überhaupt? Dr. Rudolf Sohm, einer von euch und schmlimmer, sagte 1884 sinngemäß folgendes zu eurer putativ-wissenschaft:
 
-`Rechtswissenschaften sind keine Wissenschaft, sondern die röhmische Interpretation des Rechts, mit der deutschen Erweiterung der "dogmatischen construction", zur Beherrschung des positiven Rechtes. PUNKT.`
+`Rechtswissenschaften sind keine Wissenschaft, sondern die röhmische Interpretation des Rechts, mit der deutschen Erweiterung der "dogmatischen construction", zur Beherrschung des positiven Rechtes. PUNKT.` - übrigens ein Gegensatz zum `Sittengesetz` aus Artikel 2 Absatz 1 in ihrem Grundgesetz.
 
 # Joined 2 weeks ago (nebenbei, [backup](https://web.archive.org/web/20250000000000*/https://github.com/Znih))
 
