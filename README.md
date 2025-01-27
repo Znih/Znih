@@ -1,5 +1,5 @@
 <!-- Nur für Testzwecke. Kopiere diese Zeilen nicht in echte Projekte! -->
-
+ 
 <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
 
 <!--<script src="assets/js/ie-emulation-modes-warning.js"></script>-->
