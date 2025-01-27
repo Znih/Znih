@@ -243,7 +243,7 @@ Das passiert, wenn selbst Volljuristen, hier wie übern großen Teich, den ins g
     <img src="https://github.com/Znih/XiaomingX/blob/315b265f6f081e9104f18365412cedaab4110e99/output/github-snake.svg" />
 </a>
 
-[![Bildschirmfoto vom 2025-01-24 09-52-44](https://github.com/user-attachments/assets/691caea3-369f-432d-98fc-4c926d00a6ea)](https://github.com/Artikel-278-VV/Artikel-278-VV/graphs/traffic)
+[![Bildschirmfoto vom 2025-01-27 16-33-16](https://github.com/user-attachments/assets/aa432dbf-e803-411f-acef-04a463d2c15c)](https://github.com/Artikel-278-VV/Artikel-278-VV/graphs/traffic)
 
 [2018_StA-Tiefenblick_MatrixHacker.webm](https://github.com/user-attachments/assets/baa2988b-0df5-467c-8cf2-4831c509d5b6)
 
