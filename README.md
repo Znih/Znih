@@ -19,14 +19,9 @@
 
 [scheissCODER1080_kann-so-nic-arbeiten_KONZENTRATION-PLZzz.webm](https://github.com/user-attachments/assets/dbd9a368-7804-4fdc-882f-79cb796bfe76)
 
-https://www.google.com/search?client=firefox-b-lm&q=marco+hinz !@Znih U+1F602 `Anmerkung für deutsche Juristen, besonders an alle Volljuristen!
+https://www.google.com/search?client=firefox-b-lm&q=marco+hinz !@Znih U+1F602
 
-Eure "Spielregeln"?
-Eurer "Spiel"?
-Eure Regeln?
-Eure [Gehmein-]Sprache?
-
-@Znih fragt höflich: Wollen wir spielen?`
+`Anmerkung für deutsche Juristen, besonders an alle Volljuristen! Eure "Spielregeln"? Eurer "Spiel"? Eure Regeln? Eure [Gehmein-]Sprache? @Znih fragt höflich: Wollen wir spielen?`
 
 # Joined 2 weeks ago (nebenbei, [backup](https://web.archive.org/web/20250000000000*/https://github.com/Znih))
 
