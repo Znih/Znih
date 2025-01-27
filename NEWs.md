@@ -87,3 +87,6 @@
 <p align="center">
 <img alt="Contributions" title="Contributions" src="https://github.com/Znih/Znih/blob/contributions/snake.svg"/>
 </p>
+
+https://github.com/Znih/Znih/discussions/7
+
