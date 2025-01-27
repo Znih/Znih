@@ -17,6 +17,9 @@
 
 [Und!?_Wie_gehts_euch_so_in_der_YGL-Telegram-Babbel?.webm](https://github.com/user-attachments/assets/942b4949-9b70-4f9b-835d-edcb81b4f3d2)
 
+[scheissCODER1080_kann-so-nic-arbeiten_KONZENTRATION-PLZzz.webm](https://github.com/user-attachments/assets/dbd9a368-7804-4fdc-882f-79cb796bfe76)
+
+
 
 # Joined 2 weeks ago (nebenbei, [backup](https://web.archive.org/web/20250000000000*/https://github.com/Znih))
 
