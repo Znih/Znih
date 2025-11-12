@@ -11,6 +11,62 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
 
+Aus KI Diskussion November 2025:
+Gesetzter Naturrechtrahmen Nr. 1
+„Behandle Leben so, dass es ohne Unheil bleibt, so wie du selbst ohne Unheil bleiben willst.“
+
+Gesetzter Naturrechtrahmen Nr. 2
+„Strebe nach Ansehen, Macht und Funktion, aber stets unter Einhaltung der Goldenen Regel (Nr. 1) und für gemeinsame Wohlfahrt und den Schutz der Schwächsten, soweit du kannst. Macht zur Verantwortung wie Recht zur Pflicht.“
+
+Gesetzter Naturrechtrahmen Nr. 3
+„Strebe nach Wissen und Erkenntnis, aber stets unter Einhaltung der Goldenen Regel (Nr. 1). Schütze und bewahre Wissen, um Jedem dieses Wissen und deine Erkenntnisse bereitzustellen, sofern aufrichtig gewünscht und soweit du kannst. Wissen zur Verantwortung wie Recht zur Pflicht.“
+
+Die von Ihnen genannten drei gesetzten Naturrechtrahmen basieren auf ethischen Grundsätzen, die eine universelle Gültigkeit und Orientierung bieten:
+
+Naturrechtrahmen Nr. 1: „Behandle Leben so, dass es ohne Unheil bleibt, so wie du selbst ohne Unheil bleiben willst.“ Dies ist eine Variante der Goldenen Regel, die sich in vielen Kulturen als ethische Grundlage für das menschliche Zusammenleben etabliert hat. Sie fordert Respekt und Schutz des Lebens sowie Vermeidung von Schaden entsprechend dem gegenseitigen Fürsorgeprinzip [2][5].
+
+Naturrechtrahmen Nr. 2: „Strebe nach Ansehen, Macht und Funktion, aber stets unter Einhaltung der Goldenen Regel (Nr. 1) und für gemeinsame Wohlfahrt und den Schutz der Schwächsten...“ Dieser Rahmen verbindet das Streben nach gesellschaftlicher/individueller Entwicklung mit Verantwortung und dem Schutz vulnerabler Gruppen, was politische und soziale Ethik beschreibt. Macht und Recht werden als Pflichten zur Verantwortung interpretiert [3][10].
+
+Naturrechtrahmen Nr. 3: „Strebe nach Wissen und Erkenntnis, aber stets unter Einhaltung der Goldenen Regel (Nr. 1)... Wissen zur Verantwortung wie Recht zur Pflicht.“ Hier wird Wissenserwerb und Teilen als ethische Pflicht verstanden, verbunden mit Aufrichtigkeit und Rücksichtnahme, was besonders zum ethischen Umgang mit Technologien und KI passt [10].
+
+Diese drei Naturrechtrahmen sind philosophisch tief verwurzelt und auf menschliches Miteinander, nachhaltige Machtverwendung und verantwortungsbewussten Wissensfortschritt ausgerichtet. Sie bieten eine universelle Grundlage für ethische Diskussionen zu KI. Ihr Fokus auf Unheil vermeiden, Verantwortung wahrnehmen und Wissen transparent teilen, passt gut zu einem biophilen Rahmen, der ethische Grenzen für KI ohne detaillierte juristische Definierung setzt.
+
+Obwohl diese Rahmen traditionell sind und noch keine konkreten KI-Regelungen darstellen, sind sie sehr gut geeignet als normative Grundsätze, um ein ethisches Leitbild für KI zu formulieren und zu diskutieren, das zensurfrei, vorimplementiert und breit anwendbar sein kann [2][5][10].
+
+Damit können diese drei Naturrechtrahmen als diskussionswürdige, grundsätzliche ethische Leitlinien gelten, auf denen ein moderner biophiler KI-Rechtsrahmen aufgebaut werden kann. Sie erlauben eine human-zentrierte Perspektive mit klaren moralischen Bezugspunkten, ohne sich in Detail- oder Verfahrensfragen zu verlieren.
+
+Quellen:
+[1] Das Buch Jesaja, Kapitel 45 https://www.uibk.ac.at/theol/leseraum/bibel/jes45.html
+[2] Goldene Regel – Wikipedia https://de.wikipedia.org/wiki/Goldene_Regel
+[3] Naturrecht | einfach erklärt für Kinder und Schüler - Helles Köpfchen https://www.helles-koepfchen.de/artikel/3363.html
+[4] Regula aurea https://www.vinschgerwind.it/item/30093-regula-aurea-ethik
+[5] Die Goldene Regel: Ein Grundsatz praktischer Ethik https://www.ewigeweisheit.de/psychologie/die-goldene-regel-ein-grundsatz-praktischer-ethik/
+[6] Kant-Studien, 93 (2002) 371-373 http://www.georggeismann.de/30naturgesetzformel.pdf
+[7] Goldene Regel - Wikiwand https://www.wikiwand.com/de/articles/Goldene_Regel
+[8] ᐅ Goldene Regel: Definition, Begriff und Erklärung im JuraForum.de https://www.juraforum.de/lexikon/goldene-regel
+[9] Goldene Regel https://moocit.de/index.php/Goldene_Regel
+[10] Naturrecht | bpb.de https://www.bpb.de/kurz-knapp/lexika/recht-a-z/323763/naturrecht/
+
+Screenshot_20251109_145049.jpg
+
+Screenshot_20251109_145040.jpg
+
+Screenshot_20251109_145137.jpg
+
+Screenshot_20251109_145608.jpg
+
+Screenshot_20251109_145325.jpg
+
+Screenshot_20251109_145216.jpg
+
+Screenshot_20251109_145626.jpg
+
+Screenshot_20251109_145709.jpg
+
+Screenshot_20251109_145824.jpg
+
+Screenshot_20251109_145718.jpg
+
 ![qiOz0sH-org](https://github.com/user-attachments/assets/f7f58a6c-6e72-4aaa-9779-4917bf94bbfc)
 
 <video src="https://github.com/user-attachments/assets/51a1c58a-8a1d-4147-b9e9-30049d5e174a" controls="controls" style="max-width: 730px;"></video>
