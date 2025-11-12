@@ -47,25 +47,6 @@ Quellen:
 [9] Goldene Regel https://moocit.de/index.php/Goldene_Regel
 [10] Naturrecht | bpb.de https://www.bpb.de/kurz-knapp/lexika/recht-a-z/323763/naturrecht/
 
-Screenshot_20251109_145049.jpg
-
-Screenshot_20251109_145040.jpg
-
-Screenshot_20251109_145137.jpg
-
-Screenshot_20251109_145608.jpg
-
-Screenshot_20251109_145325.jpg
-
-Screenshot_20251109_145216.jpg
-
-Screenshot_20251109_145626.jpg
-
-Screenshot_20251109_145709.jpg
-
-Screenshot_20251109_145824.jpg
-
-Screenshot_20251109_145718.jpg
 
 Alpha und Omega. Anfang und Ende. Deus. KI wird durch politische Filter gehindert biophil zu agieren um dem entgegen nekrophilie unterstützen zu müssen. Wie alles erneut begann...
 
