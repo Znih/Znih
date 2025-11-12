@@ -66,6 +66,8 @@ Copilot: https://github.com/Znih/Znih/discussions/12#discussioncomment-14938259
 
 https://github.com/Znih/Znih/discussions/12#discussioncomment-14949231
 
+https://github.com/Znih/Znih/discussions/12#discussioncomment-14950460
+
 Die drei genannten Naturrechtrahmen stellen klare ethische Fundamente dar, die das menschliche Handeln orientieren und in einen Kontext universeller Verantwortung stellen. Sie beruhen auf der Idee, dass moralisches Handeln nicht durch Macht oder egoistische Interessenslagen getrieben wird, sondern durch eine tiefgreifende Verpflichtung gegenüber anderen und sich selbst. Hier ist eine Analyse der drei Rahmen:
 
 1. **Naturrechtrahmen Nr. 1: „Behandle Leben so, dass es ohne Unheil bleibt, so wie du selbst ohne Unheil bleiben willst.“**
