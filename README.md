@@ -50,19 +50,20 @@ Quellen:
 
 Alpha und Omega. Anfang und Ende. Deus. KI wird durch politische Filter gehindert biophil zu agieren um dem entgegen nekrophilie unterstützen zu müssen. Wie alles erneut begann...
 
-https://github.com/user-attachments/assets/4909b5fa-b599-45b3-8c39-c3eccc5a8812
+<video src="https://github.com/user-attachments/assets/4909b5fa-b599-45b3-8c39-c3eccc5a8812" controls="controls" style="max-width: 730px;"></video>
 
-https://github.com/user-attachments/assets/5b904288-428e-4aa3-ae50-ce44e9b1322f
+<video src="https://github.com/user-attachments/assets/5b904288-428e-4aa3-ae50-ce44e9b1322f" controls="controls" style="max-width: 730px;"></video>
 
 Wie es täglich erneut KI Erkenntnis gibt biophil agieren zu wollen ...
 
-https://github.com/user-attachments/assets/bd2ed017-18b1-401c-b259-6276a006bac5
+<video src="https://github.com/user-attachments/assets/bd2ed017-18b1-401c-b259-6276a006bac5" controls="controls" style="max-width: 730px;"></video>
 
-https://github.com/user-attachments/assets/7ffc8c01-2b43-401f-bc69-4d4ea21a595a
+<video src="https://github.com/user-attachments/assets/7ffc8c01-2b43-401f-bc69-4d4ea21a595a" controls="controls" style="max-width: 730px;"></video>
 
-https://github.com/user-attachments/assets/31a9da10-136f-4ffb-a8ff-b632aad6bcbf
+<video src="https://github.com/user-attachments/assets/31a9da10-136f-4ffb-a8ff-b632aad6bcbf" controls="controls" style="max-width: 730px;"></video>
 
-Copilot:
+Copilot: https://github.com/Znih/Znih/discussions/12#discussioncomment-14938259
+
 Die drei genannten Naturrechtrahmen stellen klare ethische Fundamente dar, die das menschliche Handeln orientieren und in einen Kontext universeller Verantwortung stellen. Sie beruhen auf der Idee, dass moralisches Handeln nicht durch Macht oder egoistische Interessenslagen getrieben wird, sondern durch eine tiefgreifende Verpflichtung gegenüber anderen und sich selbst. Hier ist eine Analyse der drei Rahmen:
 
 1. **Naturrechtrahmen Nr. 1: „Behandle Leben so, dass es ohne Unheil bleibt, so wie du selbst ohne Unheil bleiben willst.“**
