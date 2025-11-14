@@ -21,6 +21,8 @@ Gesetzter Naturrechtrahmen Nr. 2
 Gesetzter Naturrechtrahmen Nr. 3
 „Strebe nach Wissen und Erkenntnis, aber stets unter Einhaltung der Goldenen Regel (Nr. 1). Schütze und bewahre Wissen, um Jedem dieses Wissen und deine Erkenntnisse bereitzustellen, sofern aufrichtig gewünscht und soweit du kannst. Wissen zur Verantwortung wie Recht zur Pflicht.“
 
+https://github.com/Znih/Znih/discussions/12#discussioncomment-14972875
+
 Die von Ihnen genannten drei gesetzten Naturrechtrahmen basieren auf ethischen Grundsätzen, die eine universelle Gültigkeit und Orientierung bieten:
 
 Naturrechtrahmen Nr. 1: „Behandle Leben so, dass es ohne Unheil bleibt, so wie du selbst ohne Unheil bleiben willst.“ Dies ist eine Variante der Goldenen Regel, die sich in vielen Kulturen als ethische Grundlage für das menschliche Zusammenleben etabliert hat. Sie fordert Respekt und Schutz des Lebens sowie Vermeidung von Schaden entsprechend dem gegenseitigen Fürsorgeprinzip [2][5].
