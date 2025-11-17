@@ -11,6 +11,10 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
 
+Aus KI Diskussion vom 17. November 2025:
+KI ! Ko
+https://github.com/Znih/Znih/discussions/14
+
 Aus KI Diskussion November 2025:
 Gesetzter Naturrechtrahmen Nr. 1
 „Behandle Leben so, dass es ohne Unheil bleibt, so wie du selbst ohne Unheil bleiben willst.“
