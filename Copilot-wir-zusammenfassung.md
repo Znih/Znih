@@ -891,7 +891,7 @@ Die tiefer kommentierten Codeabschnitte bieten:
 Möchtest du weitere Aspekte oder Beispiele ausarbeiten, wie z. B. konkrete Anwendungen in KI- oder Render-Frameworks? 😊
 
 
-
+![Screenshot_20251118_232907.jpg](https://github.com/user-attachments/assets/99124086-a443-4f3a-a5aa-179cd229acf1)
 
 
 
