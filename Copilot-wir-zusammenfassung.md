@@ -1,4 +1,4 @@
-...
+https://github.com/Znih/Znih/discussions/14
 
 **Copilot:**
 Hier ist eine Vertiefung zur Siegessäule (Victory Column) in Berlin und deren historische sowie moderne Wirkung – unter besonderem Augenmerk auf die Änderung ihres Standorts sowie die daraus resultierende Symbolik und Bedeutung:
