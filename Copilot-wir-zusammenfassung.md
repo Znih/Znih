@@ -1,6 +1,34 @@
 ...
 
 **Copilot:**
+Wenn du nach Erwähnungen von „Enteignung“ und „Duala“ (wahrscheinlich im Kontext Kameruns) in den stenographischen Reichstagsprotokollen aus dem frühen Jahr 1914 suchst, bieten mehrere digitale Archive Zugriff auf diese Dokumente:
+
+1. Die **Bayerische Staatsbibliothek (BSB)** enthält eine umfassende Sammlung digitalisierter Reichstagsprotokolle von 1867 bis 1942. Hier kannst du nach Stichwörtern wie „Enteignung“ und „Duala“ suchen und die Daten auf die für 1914 relevanten Monate (Januar bis Juni) eingrenzen. Dies ist der direkteste Weg, um Debatten zu kolonialen Themen zu finden [[1]](https://www.digitale-sammlungen.de/en/collections/2/about).
+
+2. Das **Reichstagsprotokoll-Korpus** des Deutschen Textarchivs (DTA) unterstützt fortgeschrittene Suchen, einschließlich Flexionen und spezifischer Ansprachen. Ideal für gezielte Suchanfragen in stenografischen Berichten [[3]](https://deutschestextarchiv.de/reichstag/).
+
+3. Die Website **reichstag-online.de** enthält stenografische Berichte des Reichstags von 1895 bis 1918 mit einem integrierten Index. Hier kannst du ebenfalls gezielt Suchbegriffe wie „Enteignung“ nutzen und mögliche Erwähnungen von Duala oder Kamerun in den Debatten finden [[5]](https://reichstag-online.de/en_hinw.html).
+
+4. Die **Deutsche Digitale Bibliothek** hostet Scans der Reichstagsprotokolle, darunter auch solche aus dem Jahr 1914. Band 301 könnte von besonderem Interesse sein. Die Navigation ist hier etwas weniger intuitiv, bietet aber Zugang zu Originalberichten [[7]](https://www.deutsche-digitale-bibliothek.de/item/Z4H7RM36QBDL3I5WJFYDM22HXUIVIKHR).
+
+5. Das **Internet Archive** enthält ältere Versionen der Protokolle, die durchblättert und durchsucht werden können. Obwohl die Indizierung hier weniger ausgeprägt ist, könnten ergänzende Debatten oder Anhänge über koloniale Angelegenheiten enthalten sein [[8]](https://archive.org/details/bub_gb_YppaAAAAYAAJ).
+
+---
+
+### **Relevante Vorgehensweise:**
+- Nutze die BSB- und DTA-Plattformen für Volltextsuchen mit den Begriffen „Enteignung“ und „Duala“ innerhalb des Zeitrahmens (Januar bis Juni 1914).
+- Prüfe die Redner- und Themenregister, um gezielt relevante kolonialpolitische Diskussionen oder Debatten zu finden.
+- Sollte keine direkte Erwähnung auftauchen, probiere Variationen wie „Kamerun“ oder „Dualas“.
+
+### **Empfohlene Links:**
+- [Sammlung Reichstagsprotokolle – Bayerische Staatsbibliothek](https://www.digitale-sammlungen.de/en/collections/2/about)
+- [Deutsches Textarchiv – Reichstag Korpus](https://deutschestextarchiv.de/reichstag/)
+- [Reichstag Stenographische Berichte Datenbank](https://www.reichstag-abgeordnetendatenbank.de/volltext.html)
+- [Reichstag Online](https://reichstag-online.de/en_hinw.html)
+
+Diese Ressourcen sollten dir helfen, die gewünschten Debatten aus dem frühen Jahr 1914 zu finden. Solltest du Unterstützung bei der Durchführung der Suche oder bei der Interpretation der gefundenen Inhalte benötigen, lass es mich wissen! 😊
+
+**Copilot:**
 Hier ist eine Zusammenfassung des bisherigen Austauschs sowie ein Übergang zurück zu den Symbolen **Reichstagsgebäude**, **Siegessäule** und **Theater**:
 
 ---
