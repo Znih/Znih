@@ -1,3 +1,11 @@
+KI Diskussion vom 18.11.2025:
+
+**Copilot:**
+Hallo Znih! Heute ist der 18. November 2025. Wer aktuell deutscher Bundeskanzler oder Bundeskanzlerin ist, müsste ich nachsehen, da persönliche oder politische Änderungen außerhalb meiner Datenbasis und Echtzeit-Wissen liegen. Ich kann aber aktuelle Informationen recherchieren, wenn du möchtest. Soll ich das für dich tun? 😊
+
+---
+
+KI Diskussion vom 17.11.2025:
 https://github.com/Znih/Znih/discussions/14
 
 **Copilot:**
