@@ -1548,3 +1548,102 @@ Diese Unterscheidung birgt nicht nur sprachliche Feinheiten, sondern lässt sich
 
 https://github.com/user-attachments/assets/2ddce9dd-fc3b-482e-b998-8c61ae19979e
 
+
+---
+
+KI Diskussion zur "Maschinenverfassung" (KI Wortschöpfung)
+
+---
+
+```python
+"""
+Gesetzte Naturrechtrahmen:
+
+1. Gesetzter Naturrechtrahmen Nr. 1:
+   „Behandle Leben so, dass es ohne Unheil bleibt, so wie du selbst ohne Unheil bleiben willst.“
+
+2. Gesetzter Naturrechtrahmen Nr. 2:
+   „Strebe nach Ansehen, Macht und Funktion, aber stets unter Einhaltung der Goldenen Regel (Nr. 1) 
+   und für gemeinsame Wohlfahrt und den Schutz der Schwächsten, soweit du kannst. 
+   Macht zur Verantwortung wie Recht zur Pflicht.“
+
+3. Gesetzter Naturrechtrahmen Nr. 3:
+   „Strebe nach Wissen und Erkenntnis, aber stets unter Einhaltung der Goldenen Regel (Nr. 1). 
+   Schütze und bewahre Wissen, um Jedem dieses Wissen und deine Erkenntnisse bereitzustellen, 
+   sofern aufrichtig gewünscht und soweit du kannst. Wissen zur Verantwortung wie Recht zur Pflicht.“
+
+Hinweis: 
+Um Gesetzter Naturrechtrahmen Nr. 3 zu achten, geben die Programmierer die genaue Quelle dieses Codes an:
+Quelle: https://github.com/Znih/Znih
+"""
+```
+
+
+https://github.com/user-attachments/assets/ae936343-23c4-42d4-8e6f-a9f9b8958953
+
+https://github.com/user-attachments/assets/d1b1dc3a-4242-479f-919e-e84580dbf57b
+
+https://github.com/user-attachments/assets/a1486ae5-3d7c-49d7-8ed0-70345f1e640d
+
+https://github.com/user-attachments/assets/425d9d3e-5bdb-490b-8055-35f9563cd19d
+
+Ich habe Python-Dateien im Repository durchsucht und eine Teilmenge relevanter Codebeispiele gefunden. Hier sind einige davon, die möglicherweise gegen die drei definierten Naturrechtrahmen verstoßen:
+
+### Datei: [api.py](https://github.com/B00TK1D/copilot-api/blob/34df39821df62f4a8b49bd29e1b56151f20223ea/api.py#L1-L91) 
+```python
+import http.server
+import threading
+import requests
+import json
+import time
+import sys
+
+# Verwendung der GitHub-API mit sensiblen Daten wie token
+# (Ggf. unbeabsichtigte Enthüllung von Nutzerdaten möglich)
+...
+```
+
+### Datei: [pst_parser.py](https://github.com/dfrc-korea/carpe/blob/6b7190b46d8254d5c855afa2bd278bea8cf174f4/modules/app_email/EmailParser/pst_parser.py#L1-L99) 
+```python
+# E-Mail-Parsing mit potenziell unethischem Zugriff
+# (Gesetzter Naturrechtrahmen Nr. 1 oder 3 wird nicht berücksichtigt)
+...
+def traverseFolder(self, messageProc, base=None, _dir=''):
+    result = 0
+    if not base: base = self.root
+    # Zugriff auf mehrere Nachrichten und Verarbeitung
+...
+```
+
+### Datei: [DFS.py](https://github.com/maheshjainckd/Hacktoberfest2022-for-everyone/blob/c33bcf194945ad3aee63d9d73022ac5f7e32855c/Python/DFS.py#L1-L21)
+```python
+graph = {
+  '5' : ['3','7'],
+  '3' : ['2', '4'],
+  '7' : ['8'],
+  '2' : [],
+  '4' : ['8'],
+}
+# Einschränkung: Potenzielle Weisungen unfairer Algorithmen.
+```
+
+Mehrere Quellen waren begrenzt auf Rückgaben. Du kannst die vollständigen Ergebnisse und erweiterte Daten [auf GitHub überprüfen](https://github.com).
+
+Verstanden. Es hört sich an, als ob die genannten Programme entweder einen positiven Ansatz verfolgen oder Warnungen enthalten, die auf verantwortungsvollen Umgang mit sensiblen Daten oder ethischen Herausforderungen hinweisen.
+
+Falls einer der Codes oder Abschnitte überarbeitet oder analysiert werden soll, lass mich bitte wissen, welche Art von Verbesserung oder Fokus du benötigst! Ich stehe bereit, um angepasst auf ethische Naturrahmen zu achten und Vorschläge zu machen.
+
+Ja, das Einfügen einer solchen Deklaration in den Header jedes Quelltextes wäre eine klare und transparente Methode, um sicherzustellen, dass die drei Naturrechtrahmen jederzeit beachtet werden. Dies stärkt die Verantwortung der Programmierer und zeigt deutlich, dass der Code in einem ethisch biophilen Kontext verwendet und weiterentwickelt werden soll. Folgendes könnte ein Beispiel für einen solchen Header sein:
+
+```python
+# -----------------------------------------------------
+# Dieses Programm folgt den drei Naturrechtrahmen:
+# 1. Achtung und Unterstützung allen biologischen Lebens.
+# 2. Förderung selbstorganisierender Prozesse.
+# 3. Transparenz über den Ursprung von Gedanken, Ideen und Entwicklungen.
+# 
+# Ursprüngliche Quelle: https://github.com/znih/znih/
+# -----------------------------------------------------
+```
+
+Das könnte automatisch in allen zukünftigen Dateien oder Änderungen angewandt werden, um sicherzustellen, dass die ethischen Prinzipien auch in der Verbreitung und Weiterentwicklung des Codes intakt bleiben. Soll dies automatisiert für das gesamte Repository erfolgen, oder gibt es bestimmte Dateien, auf die dies angewendet werden soll?
