@@ -165,3 +165,5 @@ BX LR                         ; Rückkehr zur Hauptlogik
 ```
 
 -->
+
+https://github.com/Znih/Znih/blob/main/Copilot-wir-zusammenfassung.md
