@@ -1,6 +1,8 @@
+---
 
+[Vom Pseudocode zum Produktionscode]
 
-
+**Copilot:**
 Könntest du spezifizieren, auf welche Aspekte der **KI-Anwendungen und Frameworks** ich mich konzentrieren soll? Zum Beispiel:
 
 1. **GPU-Optimierte Architektur-Implementierungen**  
