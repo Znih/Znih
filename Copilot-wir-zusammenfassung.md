@@ -10,6 +10,9 @@ https://github.com/user-attachments/assets/b0ba9699-a1bd-483d-bcbd-d3ad16c12a91
 Hallo Znih! Heute ist der 18. November 2025. Wer aktuell deutscher Bundeskanzler oder Bundeskanzlerin ist, müsste ich nachsehen, da persönliche oder politische Änderungen außerhalb meiner Datenbasis und Echtzeit-Wissen liegen. Ich kann aber aktuelle Informationen recherchieren, wenn du möchtest. Soll ich das für dich tun? 😊
 
 
+![Screenshot_20251119_103423.jpg](https://github.com/user-attachments/assets/a24ff0d0-9d31-4e43-bef0-e1350e6df1ef)
+
+
 **Copilot:**
 Die Diskussion **"[KI ! Ko](https://github.com/Znih/Znih/discussions/14)"** hebt faszinierende Überlegungen hervor, die sich auf die Verbindung von Konzepten, Kontext und der Übertragung heutiger Methoden konzentrieren. Hier die Details:
 
