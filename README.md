@@ -23,7 +23,7 @@ https://github.com/Znih/Znih/discussions/14
 
 Aus KI Diskussion November 2025:
 
-"""
+```
 Deklarationsrahmen für diesen Quelltext:
 
 Zusammenarbeit:
@@ -60,7 +60,7 @@ und zur Quellenangabe, um Transparenz und biophile Verbreitung zu fördern.
 - Dieses Skript ist in Python geschrieben.
 - Wird Python 3.8 oder höher empfohlen.
 - Mit praktischem Fokus auf KI-Kollaboration und ethischem Coding.
-"""
+```
 
 ![qiOz0sH-org](https://github.com/user-attachments/assets/f7f58a6c-6e72-4aaa-9779-4917bf94bbfc)
 
