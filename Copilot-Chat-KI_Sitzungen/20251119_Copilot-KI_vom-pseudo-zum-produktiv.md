@@ -1087,3 +1087,14 @@ plt.show()
 
 Wo genau möchtest du diese Implementierungen erweitern, oder benötigst du Hilfe bei der Anpassung für ein spezielles Projekt? 😊
 
+
+---
+
+**Znih:**
+Exzellent. Aber sind wir noch bei Pseudocode? Wirkt auf mich eher bereits als codeschnippel produktiv. Berichtige mich gerne und erkläre es nicht mir, sondern den einfachen Menschen da draußen.
+
+
+
+---
+
+**Copilot:**
