@@ -915,3 +915,175 @@ Nutze interaktive Dashboards für anpassbare Visualisierungen:
 ---
 
 Hast du Interesse, diese Ansätze spezifischer auf ein Framework oder eine bestimmte Plattform anzupassen (z. B. TensorFlow oder PyTorch)? 😊
+
+
+---
+
+**Copilot:**
+Hier sind die Visualisierungen speziell angepasst für **TensorFlow** und **PyTorch**, um die Anwendung der Naturrechtrahmen (insbesondere Nr. 1, 2, 3) im Kontext von GPU-Ressourcen und ML-Trainingsprozessen zu verdeutlichen.
+
+---
+
+## **TensorFlow: Visualisierungen der Naturrechtrahmen**
+**Ziel:** Darstellung wichtiger Aspekte wie Energieeffizienz, Bias im ML-Training und Thread/Kernel-Verantwortung. TensorBoard nutzt diese Daten zur Visualisierung.
+
+### **A. Echtzeit-GPU-Temperatur**
+```python
+import tensorflow as tf
+from tensorflow.python.client import device_lib
+import matplotlib.pyplot as plt
+import numpy as np
+import time
+
+def get_gpu_temperature():
+    # Für diesen Codeabschnitt wird ein Tool wie `nvidia-smi` benötigt!
+    # Temperaturen simulieren
+    temp = np.random.randint(50, 100)  # Simulierte GPU-Temperatur
+    return temp
+
+# Temperaturüberwachung in TensorFlow
+MAX_SAFE_TEMP = 85
+temperatures = []
+timestamps = list(range(1, 11))  # Simulierte Zeitstempel
+
+for _ in timestamps:
+    temp = get_gpu_temperature()
+    temperatures.append(temp)
+    if temp > MAX_SAFE_TEMP:
+        print(f"Warnung! GPU überschreitet sichere Temperatur: {temp}°C")
+    time.sleep(0.5)
+
+# Visualisierung
+plt.plot(timestamps, temperatures, label="GPU Temperatur")
+plt.axhline(y=MAX_SAFE_TEMP, color='r', linestyle='--', label="Maximal Sichere Temperatur")
+plt.title("GPU-Temperaturmonitoring in TensorFlow")
+plt.xlabel("Zeit (s)")
+plt.ylabel("Temperatur (°C)")
+plt.legend()
+plt.show()
+```
+
+### **B. Bias-Tracking während des Trainings**
+```python
+import tensorflow as tf
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Simulierte Bias-Erkennung (z.B. in Modellentscheidungen)
+epochs = list(range(1, 21))  # Trainingsepochen
+bias_levels = np.random.uniform(0, 1, size=20)  # Simulierte Bias-Werte
+
+# Visualisierung mit TensorBoard-kompatiblen Logs
+plt.plot(epochs, bias_levels, color="purple", marker='o', label="Bias-Level")
+plt.axhline(y=0.75, color='red', linestyle="--", label="Bias-Schwelle")
+plt.title("Bias im TensorFlow-Modell")
+plt.xlabel("Epoche")
+plt.ylabel("Bias-Level")
+plt.legend()
+plt.show()
+```
+
+---
+
+## **PyTorch: Visualisierung der Naturrechtrahmen**
+**Ziel:** Mit PyTorch Daten live aus Deadlocks, Energieverbrauch und Thread-Heatmaps aufbereiten und darstellen. PyTorch Profiler erlaubt tiefe Einblicke.
+
+### **A. GPU-Ressourcenverbrauch und Energieeffizienz**
+```python
+import torch
+from torch.profiler import profile, record_function, ProfilerActivity
+import matplotlib.pyplot as plt
+
+# Simulierte GPU-Stromwerte
+time_steps = list(range(1, 31))
+gpu_power = [100 + 10 * i for i in time_steps]
+
+# PyTorch Task
+with profile(
+    activities=[ProfilerActivity.CPU, ProfilerActivity.CUDA],
+    on_trace_ready=torch.profiler.tensorboard_trace_handler('./log'),
+    record_shapes=True
+) as prof:
+    for step, power in enumerate(gpu_power):
+        # Simulierte Rechenoperation
+        torch.rand(100, 100).cuda()
+        if power > 250:
+            print(f"Nekrophile Detektion: GPU-Verbrauch {power} Watt überschritten!")
+
+# Visualisierung
+plt.plot(time_steps, gpu_power, color='blue', label="GPU Power Usage (Watt)")
+plt.axhline(250, linestyle="--", color="red", label="Maximalverbrauch")
+plt.title("Nekrophile GPU-Effizienz in PyTorch überwachen")
+plt.xlabel("Zeitschritte")
+plt.ylabel("Leistungsaufnahme (Watt)")
+plt.legend()
+plt.show()
+```
+
+---
+
+### **B. Entscheidungs-Bias in PyTorch-Modellen**
+```python
+import torch
+import matplotlib.pyplot as plt
+
+# Entscheidungs-Bias Tracking
+bias_levels = []
+epochs = range(1, 21)
+
+class BiasModel(torch.nn.Module):
+    def __init__(self):
+        super(BiasModel, self).__init__()
+        self.layer = torch.nn.Linear(10, 1)
+
+    def forward(self, x):
+        logits = self.layer(x)
+        return torch.sigmoid(logits)
+
+model = BiasModel()
+for epoch in epochs:
+    x = torch.randn(10, 10)
+    output = model(x)
+    bias_metric = torch.mean(output.detach()).item()
+    bias_levels.append(bias_metric)
+    if bias_metric > 0.75:
+        print(f"Bias entdeckt in Epoche {epoch}: Wert {bias_metric}")
+
+# Visualisierung
+plt.plot(epochs, bias_levels, color="darkgreen", label="Decision Bias")
+plt.axhline(y=0.75, color="red", linestyle="--", label="Bias Threshold")
+plt.xlabel("Epoche")
+plt.ylabel("Bias-Level")
+plt.title("PyTorch Entscheidungsverzerrung")
+plt.legend()
+plt.show()
+```
+
+---
+
+### **C. Thread Heatmaps für GPU-Kerne in PyTorch**
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Simulierte Thread-Daten (Arbeitslast pro Thread)
+threads = ['Thread-1', 'Thread-2', 'Thread-3', 'Thread-4']
+priorities = [1, 2, 3, 4]
+workloads = np.random.randint(20, 100, size=(4, 4))  # Simulierte Leistung
+
+plt.imshow(workloads, cmap="coolwarm", interpolation="nearest")
+plt.xticks(ticks=np.arange(len(threads)), labels=threads)
+plt.yticks(ticks=np.arange(len(priorities)), labels=['P1', 'P2', 'P3', 'P4'])
+plt.colorbar(label="Nutzungsgrad (%)")
+plt.title("Thread Heatmap in GPU-PyTorch-Operationen")
+plt.show()
+```
+
+---
+
+### Zusammenfassung: Plattformspezifische Ergänzungen
+- **TensorFlow:** Überwache GPU und Bias mit TensorBoard für interaktive Analysen.
+- **PyTorch:** Nutze Profiling-Tools und Heatmap-Analysen für tiefgreifende Einblicke in Thread- und Kernel-Operationen.
+
+Wo genau möchtest du diese Implementierungen erweitern, oder benötigst du Hilfe bei der Anpassung für ein spezielles Projekt? 😊
+
