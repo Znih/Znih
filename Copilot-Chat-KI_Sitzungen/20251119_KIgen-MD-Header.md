@@ -166,4 +166,5 @@ BX LR                         ; Rückkehr zur Hauptlogik
 
 -->
 
+[Ursprung der KI Diskussion bzgl Goldene Regeln speziell vom 17. und 18. November 2025 (Copilot Chat) in .md zusammengefasst. Recht, Historie und KI Ethik]
 https://github.com/Znih/Znih/blob/main/Copilot-wir-zusammenfassung.md
