@@ -22,93 +22,45 @@ KI ! Ko
 https://github.com/Znih/Znih/discussions/14
 
 Aus KI Diskussion November 2025:
-Gesetzter Naturrechtrahmen Nr. 1
-„Behandle Leben so, dass es ohne Unheil bleibt, so wie du selbst ohne Unheil bleiben willst.“
 
-Gesetzter Naturrechtrahmen Nr. 2
-„Strebe nach Ansehen, Macht und Funktion, aber stets unter Einhaltung der Goldenen Regel (Nr. 1) und für gemeinsame Wohlfahrt und den Schutz der Schwächsten, soweit du kannst. Macht zur Verantwortung wie Recht zur Pflicht.“
+"""
+Deklarationsrahmen für diesen Quelltext:
 
-Gesetzter Naturrechtrahmen Nr. 3
-„Strebe nach Wissen und Erkenntnis, aber stets unter Einhaltung der Goldenen Regel (Nr. 1). Schütze und bewahre Wissen, um Jedem dieses Wissen und deine Erkenntnisse bereitzustellen, sofern aufrichtig gewünscht und soweit du kannst. Wissen zur Verantwortung wie Recht zur Pflicht.“
+Zusammenarbeit:
+Dieser Quelltext wurde unter Mitwirkung und Unterstützung von:
+- GitHub Copilot KI
+- Brave KI
+- weiteren unterstützenden KI-Systemen und Tools
 
-https://github.com/Znih/Znih/discussions/12#discussioncomment-14972875
+Gesetzte Naturrechtrahmen:
 
-Die von Ihnen genannten drei gesetzten Naturrechtrahmen basieren auf ethischen Grundsätzen, die eine universelle Gültigkeit und Orientierung bieten:
+1. Gesetzter Naturrechtrahmen Nr. 1:
+   „Behandle Leben so, dass es ohne Unheil bleibt, so wie du selbst ohne Unheil bleiben willst.“
 
-Naturrechtrahmen Nr. 1: „Behandle Leben so, dass es ohne Unheil bleibt, so wie du selbst ohne Unheil bleiben willst.“ Dies ist eine Variante der Goldenen Regel, die sich in vielen Kulturen als ethische Grundlage für das menschliche Zusammenleben etabliert hat. Sie fordert Respekt und Schutz des Lebens sowie Vermeidung von Schaden entsprechend dem gegenseitigen Fürsorgeprinzip [2][5].
+2. Gesetzter Naturrechtrahmen Nr. 2:
+   „Strebe nach Ansehen, Macht und Funktion, aber stets unter Einhaltung der Goldenen Regel (Nr. 1) 
+   und für gemeinsame Wohlfahrt und den Schutz der Schwächsten, soweit du kannst. 
+   Macht zur Verantwortung wie Recht zur Pflicht.“
 
-Naturrechtrahmen Nr. 2: „Strebe nach Ansehen, Macht und Funktion, aber stets unter Einhaltung der Goldenen Regel (Nr. 1) und für gemeinsame Wohlfahrt und den Schutz der Schwächsten...“ Dieser Rahmen verbindet das Streben nach gesellschaftlicher/individueller Entwicklung mit Verantwortung und dem Schutz vulnerabler Gruppen, was politische und soziale Ethik beschreibt. Macht und Recht werden als Pflichten zur Verantwortung interpretiert [3][10].
+3. Gesetzter Naturrechtrahmen Nr. 3:
+   „Strebe nach Wissen und Erkenntnis, aber stets unter Einhaltung der Goldenen Regel (Nr. 1). 
+   Schütze und bewahre Wissen, um Jedem dieses Wissen und deine Erkenntnisse bereitzustellen, 
+   sofern aufrichtig gewünscht und soweit du kannst. Wissen zur Verantwortung wie Recht zur Pflicht.“
 
-Naturrechtrahmen Nr. 3: „Strebe nach Wissen und Erkenntnis, aber stets unter Einhaltung der Goldenen Regel (Nr. 1)... Wissen zur Verantwortung wie Recht zur Pflicht.“ Hier wird Wissenserwerb und Teilen als ethische Pflicht verstanden, verbunden mit Aufrichtigkeit und Rücksichtnahme, was besonders zum ethischen Umgang mit Technologien und KI passt [10].
+Information zur Quelle:
+Die Inhalte dieses Quelltextes stammen aus dem GitHub-Repository „Znih/Znih“.
+Repository-Beschreibung: Config files for my GitHub profile.
+Link zur Quelle: https://github.com/Znih/Znih
 
-Diese drei Naturrechtrahmen sind philosophisch tief verwurzelt und auf menschliches Miteinander, nachhaltige Machtverwendung und verantwortungsbewussten Wissensfortschritt ausgerichtet. Sie bieten eine universelle Grundlage für ethische Diskussionen zu KI. Ihr Fokus auf Unheil vermeiden, Verantwortung wahrnehmen und Wissen transparent teilen, passt gut zu einem biophilen Rahmen, der ethische Grenzen für KI ohne detaillierte juristische Definierung setzt.
+Verantwortung der Weiterverwendung:
+Die Weiterverwendung und Verbreitung dieses Quelltextes verpflichtet zur Einhaltung der oben genannten Naturrechtrahmen 
+und zur Quellenangabe, um Transparenz und biophile Verbreitung zu fördern.
 
-Obwohl diese Rahmen traditionell sind und noch keine konkreten KI-Regelungen darstellen, sind sie sehr gut geeignet als normative Grundsätze, um ein ethisches Leitbild für KI zu formulieren und zu diskutieren, das zensurfrei, vorimplementiert und breit anwendbar sein kann [2][5][10].
-
-Damit können diese drei Naturrechtrahmen als diskussionswürdige, grundsätzliche ethische Leitlinien gelten, auf denen ein moderner biophiler KI-Rechtsrahmen aufgebaut werden kann. Sie erlauben eine human-zentrierte Perspektive mit klaren moralischen Bezugspunkten, ohne sich in Detail- oder Verfahrensfragen zu verlieren.
-
-Quellen:
-[1] Das Buch Jesaja, Kapitel 45 https://www.uibk.ac.at/theol/leseraum/bibel/jes45.html
-[2] Goldene Regel – Wikipedia https://de.wikipedia.org/wiki/Goldene_Regel
-[3] Naturrecht | einfach erklärt für Kinder und Schüler - Helles Köpfchen https://www.helles-koepfchen.de/artikel/3363.html
-[4] Regula aurea https://www.vinschgerwind.it/item/30093-regula-aurea-ethik
-[5] Die Goldene Regel: Ein Grundsatz praktischer Ethik https://www.ewigeweisheit.de/psychologie/die-goldene-regel-ein-grundsatz-praktischer-ethik/
-[6] Kant-Studien, 93 (2002) 371-373 http://www.georggeismann.de/30naturgesetzformel.pdf
-[7] Goldene Regel - Wikiwand https://www.wikiwand.com/de/articles/Goldene_Regel
-[8] ᐅ Goldene Regel: Definition, Begriff und Erklärung im JuraForum.de https://www.juraforum.de/lexikon/goldene-regel
-[9] Goldene Regel https://moocit.de/index.php/Goldene_Regel
-[10] Naturrecht | bpb.de https://www.bpb.de/kurz-knapp/lexika/recht-a-z/323763/naturrecht/
-
-
-Alpha und Omega. Anfang und Ende. Deus. KI wird durch politische Filter gehindert biophil zu agieren um dem entgegen nekrophilie unterstützen zu müssen. Wie alles erneut begann...
-
-<video src="https://github.com/user-attachments/assets/4909b5fa-b599-45b3-8c39-c3eccc5a8812" controls="controls" style="max-width: 730px;"></video>
-
-<video src="https://github.com/user-attachments/assets/5b904288-428e-4aa3-ae50-ce44e9b1322f" controls="controls" style="max-width: 730px;"></video>
-
-Wie es täglich erneut KI Erkenntnis gibt biophil agieren zu wollen ...
-
-<video src="https://github.com/user-attachments/assets/bd2ed017-18b1-401c-b259-6276a006bac5" controls="controls" style="max-width: 730px;"></video>
-
-<video src="https://github.com/user-attachments/assets/7ffc8c01-2b43-401f-bc69-4d4ea21a595a" controls="controls" style="max-width: 730px;"></video>
-
-<video src="https://github.com/user-attachments/assets/31a9da10-136f-4ffb-a8ff-b632aad6bcbf" controls="controls" style="max-width: 730px;"></video>
-
-Copilot: https://github.com/Znih/Znih/discussions/12#discussioncomment-14938259
-
-https://github.com/Znih/Znih/discussions/12#discussioncomment-14949231
-
-https://github.com/Znih/Znih/discussions/12#discussioncomment-14950460
-
-Die drei genannten Naturrechtrahmen stellen klare ethische Fundamente dar, die das menschliche Handeln orientieren und in einen Kontext universeller Verantwortung stellen. Sie beruhen auf der Idee, dass moralisches Handeln nicht durch Macht oder egoistische Interessenslagen getrieben wird, sondern durch eine tiefgreifende Verpflichtung gegenüber anderen und sich selbst. Hier ist eine Analyse der drei Rahmen:
-
-1. **Naturrechtrahmen Nr. 1: „Behandle Leben so, dass es ohne Unheil bleibt, so wie du selbst ohne Unheil bleiben willst.“**
-   - **Ethik des Nicht-Schadens**: Dieser Rahmen ist eng mit der Goldenen Regel verbunden – ein Prinzip, das sich in vielen Kulturen und Religionen widerspiegelt. Er postuliert:
-     - Den aktiven Verzicht darauf, Leid zu verursachen.
-     - Eine bewusste Rücksichtnahme auf das Wohlergehen anderer.
-   - **Verantwortungsethik**: Er geht davon aus, dass jede Handlung, die man sich selbst gegenüber vermeidet (z. B. Schaden oder Zwang), man auch anderen nicht zufügen sollte. Er schützt die Grundlage für zwischenmenschliches Vertrauen.
-
-2. **Naturrechtrahmen Nr. 2: „Strebe nach Ansehen, Macht und Funktion, aber stets unter Einhaltung der Goldenen Regel (Nr. 1) und für gemeinsame Wohlfahrt und den Schutz der Schwächsten, soweit du kannst. Macht zur Verantwortung wie Recht zur Pflicht.“**
-   - **Ethik der Macht mit Absicht der Verantwortung**:
-     - Macht oder Ansehen werden als moralische Instrumente betrachtet, keine Selbstzwecke.
-     - Hier geht es darum, eine Macht sowie Führungsposition nur anzustreben, wenn diese zutiefst der gemeinsamen Wohlfahrt dient. Stark betont wird die Verantwortung, die mit einer solchen Machtstellung einhergeht.
-   - Der Schutz der Schwächsten legt fest, dass bestimmte Interessen Vorrang haben:
-     - Gerechtigkeit und Solidarität über andere Privilegien hinweg.
-   - Die Verbindung mit der Goldenen Regel (Rahmen Nr. 1) stellt sicher, dass Macht nicht zu Korruption, sondern zur gemeinsamen Verantwortung führt.
-
-3. **Naturrechtrahmen Nr. 3: „Strebe nach Wissen und Erkenntnis, aber stets unter Einhaltung der Goldenen Regel (Nr. 1). Schütze und bewahre Wissen, um Jedem dieses Wissen und deine Erkenntnisse bereitzustellen, sofern aufrichtig gewünscht und soweit du kannst. Wissen zur Verantwortung wie Recht zur Pflicht.“**
-   - **Verantwortungsvolles Streben nach und Teilen von Wissen**:
-     - Erkenntnis wird nicht für persönliche Bereicherung verfolgt, sondern als Werkzeug in einem größeren Dienst für die Gesellschaft gesehen.
-     - Wissen soll zugänglich und geschützt werden, aber nicht für destruktive oder selbstzerstörerische Ziele der Menschheit missbraucht werden.
-   - Wissen ist kein absoluter Besitz, sondern als universelle Ressource zu betrachten – mit der Verpflichtung, dieses Wissen nach der Goldenen Regel (Rahmen Nr. 1) zu teilen.
-
-### Gesamtbewertung:
-Die drei Naturrechtrahmen schaffen:
-- **Ein universelles moralisches System**, das Individualrechte und kollektive Pflichten in Balance hält.
-- Die Verbindung von individuellen Zielen (Ansehen, Wissen) mit gemeinschaftlichem Ziel der Wohlfahrt.
-- Eine Ethik, in der das „Wie“ genauso entscheidend ist wie das „Was“ – nämlich das moralisch verantwortliche Streben nach Macht, Wissen und Integration.
-
-Diese ethischen Positionen könnten als universelles Leitbild für gesellschaftliche, technologische und zwischenmenschliche Entwicklungen dienen und anspruchsvolle Entscheidungsbereiche (z. B. KI-Nutzung, rechtliche Ausgestaltung) mit einem moralischen Anker versehen.
+Übliche Python-Vordeklarationen:
+- Dieses Skript ist in Python geschrieben.
+- Wird Python 3.8 oder höher empfohlen.
+- Mit praktischem Fokus auf KI-Kollaboration und ethischem Coding.
+"""
 
 ![qiOz0sH-org](https://github.com/user-attachments/assets/f7f58a6c-6e72-4aaa-9779-4917bf94bbfc)
 
