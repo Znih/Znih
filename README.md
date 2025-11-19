@@ -11,6 +11,12 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
 
+[Vom Pseudocode zum Produktionscode v. 19.11.2025]
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251119_Copilot-KI_vom-pseudo-zum-produktiv.md
+
+---
+
+
 Aus KI Diskussion vom 17. November 2025:
 KI ! Ko
 https://github.com/Znih/Znih/discussions/14
