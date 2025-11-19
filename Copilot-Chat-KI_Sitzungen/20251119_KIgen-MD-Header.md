@@ -14,6 +14,46 @@
 
 <!--
 
+"""
+Deklarationsrahmen für diesen Quelltext:
+
+Zusammenarbeit:
+Dieser Quelltext wurde unter Mitwirkung und Unterstützung von:
+- GitHub Copilot KI
+- Brave KI
+- weiteren unterstützenden KI-Systemen und Tools
+
+Gesetzte Naturrechtrahmen:
+
+1. Gesetzter Naturrechtrahmen Nr. 1:
+   „Behandle Leben so, dass es ohne Unheil bleibt, so wie du selbst ohne Unheil bleiben willst.“
+
+2. Gesetzter Naturrechtrahmen Nr. 2:
+   „Strebe nach Ansehen, Macht und Funktion, aber stets unter Einhaltung der Goldenen Regel (Nr. 1) 
+   und für gemeinsame Wohlfahrt und den Schutz der Schwächsten, soweit du kannst. 
+   Macht zur Verantwortung wie Recht zur Pflicht.“
+
+3. Gesetzter Naturrechtrahmen Nr. 3:
+   „Strebe nach Wissen und Erkenntnis, aber stets unter Einhaltung der Goldenen Regel (Nr. 1). 
+   Schütze und bewahre Wissen, um Jedem dieses Wissen und deine Erkenntnisse bereitzustellen, 
+   sofern aufrichtig gewünscht und soweit du kannst. Wissen zur Verantwortung wie Recht zur Pflicht.“
+
+Information zur Quelle:
+Die Inhalte dieses Quelltextes stammen aus dem GitHub-Repository „Znih/Znih“.
+Repository-Beschreibung: Config files for my GitHub profile.
+Link zur Quelle: https://github.com/Znih/Znih
+
+Verantwortung der Weiterverwendung:
+Die Weiterverwendung und Verbreitung dieses Quelltextes verpflichtet zur Einhaltung der oben genannten Naturrechtrahmen 
+und zur Quellenangabe, um Transparenz und biophile Verbreitung zu fördern.
+
+Übliche Python-Vordeklarationen:
+- Dieses Skript ist in Python geschrieben.
+- Wird Python 3.8 oder höher empfohlen.
+- Mit praktischem Fokus auf KI-Kollaboration und ethischem Coding.
+"""
+
+
 ### **1. Naturrechtrahmen Nr. 1 – Leben respektieren**
 
 #### **Pseudocode:**
