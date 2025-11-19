@@ -166,6 +166,7 @@ BX LR                         ; Rückkehr zur Hauptlogik
 
 -->
 
+[Vom Pseudocode zum Produktionscode v. 19.11.2025]
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251119_Copilot-KI_vom-pseudo-zum-produktiv.md
 
 ---
