@@ -283,3 +283,5 @@ Diese Dokumente könnten Sie auch interessieren:
  Separat-Konvention zwischen dem Deutschen Reich und der Französischen Republik über den Abzug von deutschen Besatzungstruppen und die Zahlung der Kriegskostenentschädigung für das Jahr 1872 (12.10.1871)
  Zusatzkonvention zu dem am 10. Mai 1871 zu Frankfurt a. M. abgeschlossenen Friedensvertrage zwischen Deutschland und Frankreich (11.12.1871)
  Spezial-Konvention zwischen Deutschland und Frankreich, die Zahlung des Restes der französischen Kriegskosten-Entschädigung etc. betreffend (29.06.1872)
+
+https://github.com/Znih/Znih/discussions/16
