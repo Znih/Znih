@@ -68,8 +68,10 @@ diverse Gesetze / Verordnungen zum Erwerb und Verlust bzw. der Aberkennung der d
 
 24.05.1956
 2. Gesetz zur Regelung von Fragen der Staatsangehörigkeit vom 17.05.1956
+
 seit dem
-01.01.2000	Staatsangehörigkeitsgesetz
+01.01.2000
+Staatsangehörigkeitsgesetz
 
 ---
 
