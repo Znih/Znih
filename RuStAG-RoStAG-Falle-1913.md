@@ -9,4 +9,6 @@ wer die Staatsangehörigkeit in einem Bundesstaat (§§3 bis 32)
 oder
 
 [deutscher ist, wer] die unmittelbare Reichsangehörigkeit (§§ 33 bis 35) besitzt.
- 
+
+
+https://www.verfassungen.de/de67-18/rustag13.htm
