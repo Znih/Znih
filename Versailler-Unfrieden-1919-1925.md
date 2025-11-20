@@ -1071,3 +1071,7 @@ siehe hierzu auch
 - das Reichsausgleichgesetz vom 24. April 1920 (RGBl. S. 597, geändert durch Gesetz vom 4. Juni 1923 (RGBl. I S. 305, 324)); mit diesem Gesetz wurde ein Reichsausgleichsamt als Prüfungs- und Ausgleichsamt für Deutschland im Sinne des Art. 296 des Vertrags von Versailles eingerichtet.
 - das Gesetz über Maßnahmen zur Durchführung des im Vertrage von Versailles vorgesehenen Ausgleichsverfahrens in bezug auf das Saargebiet vom 4. September 1924 (RGBl. I. S. 701) sowie Verordnung hierzu vom 21. November 1924 (RGBl. I. S. 753).
 - das Deutsch-Britische Abkommen über die Durchführung des Abschnitts IV von Teil X des Friedensvertrags (d. i. Art. 296 mit Anhang) vom 31. Dezember 1920 (RGBl. 1921 S. 779, Druckfehlerberichtigung S. 824) samt Gesetz vom 25. Januar 1921 (RGBl. S. 777), Bekanntmachung betr. die Ratifikation vom 15. Oktober 1921 (RGBl. S. 1309) und DVO vom 17. August 1921 (RGBl. S. 1309); mit diesem wurde das Prüfungs- und Ausgleichsverfahren zwischen Deutschen und Briten (nur Vereinigtes Königreich, Neuseeland und Indien) näher geregelt.
+
+
+Auszug, Teil X
+https://www.versailler-vertrag.de/vv-i.htm
