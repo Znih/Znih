@@ -618,3 +618,39 @@ Die drei Naturrechtsrahmen (Leben, Gerechtigkeit, Transparenz) bieten universell
 - **1870/71 und 1918/19:** Die späten Schritte der Biophilie stützen den Ansatz geteilter Verantwortlichkeit und Minderung von Extremismus.
 
 Wie möchtest du den Fokus weiter vertiefen? Revolutionäre Strategien oder historische Vergleiche? 😊
+
+---
+
+**Copilot:**
+Recent years have seen the wide adoption and implementation of global AI ethical frameworks, with institutions such as the UN, UNESCO, the OECD, and the EU leading major initiatives. Here are highlights and context from developments up to 2025:
+
+**Global Frameworks and Cooperation**
+- **UNESCO’s Recommendation on the Ethics of AI**: As of June 2024, 89 member states had adopted UNESCO’s global normative instrument on AI ethics, designed to guide governments in creating legislation that aligns with international values—human rights, transparency, fairness, and accountability—in AI deployment. This instrument is the most internationally ratified to date[[1]](https://ethicstech.org/2025/04/04/global-ai-ethics-2024-governance-developments-and-standards/)[[2]](https://wrcouncil.org/ai-ethics-framework-a-global-perspective/).
+- **OECD Principles**: The OECD updated its AI policy principles in 2023 and 2024, advocating for inclusive growth, human rights, transparency, and robustness. These guidelines serve as non-binding, but influential, standards referenced in national and cross-border AI legislation[[3]](https://www.bradley.com/insights/publications/2025/08/global-ai-governance-five-key-frameworks-explained)[[2]](https://wrcouncil.org/ai-ethics-framework-a-global-perspective/).
+- **EU AI Act and Ethics Guidelines**: The European Union continues to set benchmarks with its AI Act and High-Level Expert Group guidelines—which enforce strict requirements on high-risk AI applications and promote trustworthy AI[[4]](https://academic.oup.com/ulr/article/29/3/524/7904690)[[2]](https://wrcouncil.org/ai-ethics-framework-a-global-perspective/).
+- **International multi-stakeholder engagement**: Across these frameworks, a clear trend is seen: comprehensive ethical AI governance increasingly depends on cooperation among governments, academia, the private sector, and civil society. There’s a growing convergence on principles such as explainability, non-discrimination, privacy, and human-centric values[[5]](https://www.sciencedirect.com/science/article/pii/S2666389923002416)[[6]](https://ieeexplore.ieee.org/document/10986906)[[7]](https://leadaiethically.com/ethical-ai-governance/)[[8]](https://www.gartner.com/en/articles/ai-ethics-governance-and-compliance).
+
+**Russia’s Role and Putin’s Stance in UN/Global Cooperation**
+- There is **limited explicit reference to Vladimir Putin or Russia taking a leading role or making significant initiatives in UN-level or global cooperative AI ethical frameworks** as of 2025. Recent analyses of global governance show Russia is present in international discussions, such as UNESCO and OECD summits, but usually aligns with broader state-centric approaches rather than pioneering transnational cooperation or ethical innovation.
+- Russia’s AI policy is mainly focused on sovereign technological advancement and national strategy, often emphasizing state oversight, control of data, and cyber-sovereignty. This stance is frequently contrasted with the EU’s or UNESCO’s human-rights-first perspective.
+- Publicly, Russia (under Putin) is known for advocating digital sovereignty and protection of national interests within technical standards discussions—sometimes raising concerns about Western “dominance” in standard-setting and the risk to national security. However, there is no substantial evidence of direct leadership or unique Russian frameworks being adopted at a global or UN level in 2025.
+- In UN forums, Russia pushes for frameworks that avoid overly restrictive global regulations, favoring flexible guidelines that allow for domestic interpretation and implementation, rather than harmonized, binding international norms[[4]](https://academic.oup.com/ulr/article/29/3/524/7904690)[[9]](https://www.weforum.org/stories/2025/11/trust-ai-global-governance/)[[1]](https://ethicstech.org/2025/04/04/global-ai-ethics-2024-governance-developments-and-standards/)[[3]](https://www.bradley.com/insights/publications/2025/08/global-ai-governance-five-key-frameworks-explained)[[2]](https://wrcouncil.org/ai-ethics-framework-a-global-perspective/).
+
+**Summary**
+- Yes, recent years have brought widespread implementation of global AI ethics frameworks, especially by UNESCO, OECD, and the EU, with significant international cooperation.
+- Russia is engaged but is not a principal architect or driver of international AI ethics frameworks; its approach focuses on sovereignty and national control. Putin’s role is primarily in advocating for state-led governance rather than global regulatory harmonization.
+- There’s a continued effort within the UN and other bodies to build consensus, but Russia’s contributions are largely shaped by its preference for flexible, nation-centered rules—aligned with broader geopolitical views, rather than leading in ethical standardization.
+
+If you need further details on Russia’s national AI strategy or its official documents in global AI governance, please let me know!
+
+---
+
+1. [Global AI Ethics: 2024 Governance Developments and Standards](https://ethicstech.org/2025/04/04/global-ai-ethics-2024-governance-developments-and-standards/)
+2. [AI Ethics Framework: A Global Perspective - wrcouncil.org](https://wrcouncil.org/ai-ethics-framework-a-global-perspective/)
+3. [Global AI Governance: Five Key Frameworks Explained](https://www.bradley.com/insights/publications/2025/08/global-ai-governance-five-key-frameworks-explained)
+4. [Shaping the future of AI: balancing innovation and ethics in global ...](https://academic.oup.com/ulr/article/29/3/524/7904690)
+5. [Worldwide AI ethics: A review of 200 guidelines and ... - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2666389923002416)
+6. [Ethical Frameworks for Artificial Intelligence: A Comparative Study](https://ieeexplore.ieee.org/document/10986906)
+7. [Ethical AI Governance for Developing Global Standards](https://leadaiethically.com/ethical-ai-governance/)
+8. [AI’s Next Frontier: Why Ethics, Governance and Compliance ... - Gartner](https://www.gartner.com/en/articles/ai-ethics-governance-and-compliance)
+9. [How the world can build a global AI governance framework](https://www.weforum.org/stories/2025/11/trust-ai-global-governance/)
