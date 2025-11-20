@@ -46,7 +46,8 @@
 
 ---
 
-Dazu führt das BVA Köln seit Webauftritt bewusst falsch aus bzgl. BGBl. I 1955 S. 65 ff. v. 22.02.1955 (26.02.1955)
+Dazu führt das BVA Köln seit Webauftritt bewusst falsch aus, bzgl. BGBl. I 1955 S. 65 ff. v. 22.02.1955 (26.02.1955)
+https://www.bva.bund.de/DE/Services/Buerger/Ausweis-Dokumente-Recht/Staatsangehoerigkeit/_documents/Infobox_S_5.html
 
 ---
 
