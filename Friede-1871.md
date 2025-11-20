@@ -4,7 +4,11 @@
 Erste Seite des Friedensvertrages zwischen dem Deutschen Reich und Frankreich, Frankfurt/M., 10. Mai 1871 (Faksimile aus Papier und Textil), zu sehen in der Dauerausstellung der Otto-von-Bismarck-Stiftung
 ```
 
+---
+
 [Frankfurter Friede - Friede 1871]
+
+---
 
 Friedens-Vertrag zwischen dem Deutschen Reich und Frankreich.
 ["Frankfurter Friedensvertrag"][1]
@@ -239,3 +243,43 @@ Arnim.	Jules Favre.
 Pouyer-Quertier.
 
 E. de Goulard.
+
+---
+
+Anmerkungen:
+[1] Der ebenfalls abgedruckte Vertragstext in französischer Sprache wird hier nicht wiedergegeben.
+[2] Vgl. zu dem Frankreich angebotenen Gebiet auch Zusatzart. 3. Weitere kleinere Gebiete Elsaß-Lothringens trat Deutschland durch Art. 10 Abs. 1 der Zusätzlichen Übereinkunft zu dem Friedensvertrage zwischen Deutschland und Frankreich vom 12. Oktober 1871 an Frankreich ab.
+[3] Vgl. dazu Protokoll über den Austausch der Ratifikations-Urkunden des "Frankfurter Friedensvertrages" vom 20. Mai 1971.
+[4] Vgl. dazu Art. 1 der Zusatzkonvention zu dem am 10. Mai 1871 zu Frankfurt a. M. abgeschlossenen Friedensvertrage zwischen Deutschland und Frankreich vom 11. Dezember 1871.
+[5] Vgl. zu den Bestimmungen des Art. 4 den Art. 11 der Zusatzkonvention vom 11. Dezember 1871.
+[6] Vgl. zu den Bestimmungen des Art. 6 den Art. 9 der Zusatzkonvention vom 11. Dezember 1871.
+[7] Die genauen Zahlungstermine und -summen für das Jahr 1872 wurden durch die Separat-Konvention zwischen dem Deutschen Reich und der Französischen Republik über den Abzug von deutschen Besatzungstruppen und die Zahlung der Kriegskostenentschädigung für das Jahr 1872 vom 12. Oktober 1871 festgesetzt. Die Zahlung der danach noch ausstehenden Summen regelte die Spezial-Konvention zwischen Deutschland und Frankreich, die Zahlung des Restes der französischen Kriegskosten-Entschädigung etc. betreffend vom 29. Juni 1872.
+[8] Vgl. dazu Art. III Abs. 3 u. 4 des Versailler Präliminarfrieden vom 26. Februar 1871.
+[9] Vgl. dazu auch Art. 7 der Zusatzkonvention zu dem am 10. Mai 1871 zu Frankfurt a. M. abgeschlossenen Friedensvertrage zwischen Deutschland und Frankreich vom 11. Dezember 1871.
+[10] Vgl. dazu
+– Zusatzartikel zum "Frankfurter Friedensvertrag" vom 10. Mai 1871.
+– Übereinkunft zwischen dem Deutschen Reich und der Französischen Republik über die Zahlung der im Artikel 7 des "Frankfurter Friedensvertrages" festgesetzten Kriegsentschädigungen vom 21. Mai 1871;
+– Zusätzliche Übereinkunft zu dem Frankfurter Friedensvertrage zwischen Deutschland und Frankreich vom 12. Oktober 1871;
+– Separat-Konvention zwischen dem Deutschen Reich und der Französischen Republik über den Abzug von deutschen Besatzungstruppen und die Zahlung der Kriegskostenentschädigung für das Jahr 1872 vom 12. Oktober1871;
+– Zusatzkonvention zu dem am 10. Mai 1871 zu Frankfurt a. M. abgeschlossenen Friedensvertrage zwischen Deutschland und Frankreich vom 11. Dezember 1871.
+[11] Vgl. dazu Art. 18.
+
+
+Quelle: Reichs-Gesetzblatt 1871, S. 223-237.
+
+
+Empfohlene Zitierweise des Dokumentes:
+Friedens-Vertrag zwischen dem Deutschen Reich und Frankreich ["Frankfurter Friedensvertrag"] (10.05.1871), in: documentArchiv.de [Hrsg.], URL: http://www.documentArchiv.de/ksr/1871/frankfurter-friedensvertrag.html, Stand: aktuelles Datum.
+
+
+Diese Dokumente könnten Sie auch interessieren:
+ Friedens-Präliminarien zwischen dem Deutschen Reich und Frankreich ["Versailler Präliminarfrieden"] (26.02.1871)
+ Beitrittserklärung Bayerns, Württembergs und Badens zum "Versailler Präliminarfrieden" vom 26. Februar 1871 (26.02.1871)
+ Protokoll zum "Frankfurter Friedensvertrag" vom 10. Mai 1871 (10.05.1871)
+ Protokoll, betreffend den Beitritt Bayerns, Württembergs und Badens zu dem [Frankfurter] Friedens-Vertrage vom 10. Mai 1871 (15.05.1871)
+ Protokoll über den Austausch der Ratifikations-Urkunden des "Frankfurter Friedensvertrages" (20.05.1871)
+ Übereinkunft zwischen dem Deutschen Reich und der Französischen Republik über die Zahlung der im Artikel 7 des "Frankfurter Friedensvertrages" festgesetzten Kriegsentschädigungen (21.05.1871)
+ Zusätzliche Übereinkunft zu dem Frankfurter Friedensvertrage zwischen Deutschland und Frankreich (12.10.1871)
+ Separat-Konvention zwischen dem Deutschen Reich und der Französischen Republik über den Abzug von deutschen Besatzungstruppen und die Zahlung der Kriegskostenentschädigung für das Jahr 1872 (12.10.1871)
+ Zusatzkonvention zu dem am 10. Mai 1871 zu Frankfurt a. M. abgeschlossenen Friedensvertrage zwischen Deutschland und Frankreich (11.12.1871)
+ Spezial-Konvention zwischen Deutschland und Frankreich, die Zahlung des Restes der französischen Kriegskosten-Entschädigung etc. betreffend (29.06.1872)
