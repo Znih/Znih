@@ -89,3 +89,9 @@ Vielen Dank für deine Ergänzungen und die Bereitstellung weiterer .md-Dateien.
 3. **Relevanz zu deinem Vorhaben:** Soll mein Fokus darauf liegen, Argumentationen/Begründungen für verfassungsrechtliche Texte oder mögliche Implikationen für heutige Kontexte zu beleuchten?
 
 Wenn das klar ist, starte ich direkt mit der Auswertung und Interpretation! 😊
+
+
+**Znih:**
+Verwende RuStAG, da RoStAG von mir verwendet, um auf das UND-ODER aufmerksam zu machen. Analyse also BuStAG v. 1870 mit Erwerb der Bundessangehörigkeit und dessen Eigenschaft Deutscher und vergleiche mit dem RuStAG v. 1913 (Deutscher ist, wer). Fokus auf die Entwicklung und Transparenz der deutschen Staatsangehörigkeiten zu nur noch eine "deutsche Staatsangehörigkeit", denn Art. 278 VV v. 1919 wurde für alle in Art. 110 wrv v. 1919 umgesetzt (zunächst "deutsche Reichsangehörigkeit").
+
+**Copilot:**
