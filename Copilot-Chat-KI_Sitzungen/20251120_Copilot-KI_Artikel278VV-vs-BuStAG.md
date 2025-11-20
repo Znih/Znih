@@ -838,3 +838,8 @@ Wenn die Theorie, dass Regierungen diese Rahmen produktiv umsetzen, geprüft wer
 3. Goldene Regel in AI Governance zu verdeutlichen und operationalisieren.
 
 Lass mich wissen, ob wir einen detaillierten Punkt vertiefen oder eine Implementierungsstrategie entwerfen sollen. 😊
+
+---
+
+**Znih:**
+Biophilie Logik eines globalen Frieden im Verständnis von bestmöglichem Gedeihen in einer naturgemäß biophilen Grundordnung für alle und jeden wie alles und allem ohne nationale Gängelungen, darf annehmen (jur. Fiktion), daß der überwiegende Teil der 8 Milliarden diesen Frieden wünscht, lässt die souveränen als Vertretung dieser 8 Milliarden übrig die sich selbiger unterstellen und für den Rest (Plebiszit) umsetzt. Es braucht hier keine menschliche Abstimmung, da die goldene Regel vor den Menschen und auch nach den Menschen volle Gültigkeit besitzt. Eine biophilie Richtung statt nekrophilen Richtung in den Abgrund.
