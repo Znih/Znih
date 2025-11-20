@@ -51,6 +51,10 @@ https://www.bva.bund.de/DE/Services/Buerger/Ausweis-Dokumente-Recht/Staatsangeho
 
 ---
 
+![Screenshot_20251120_115121.jpg](https://github.com/user-attachments/assets/9ac62159-61f2-48dc-9e1a-71f99e1f7e16)
+
+https://www.bva.bund.de/DE/Services/Buerger/Ausweis-Dokumente-Recht/Staatsangehoerigkeit/_documents/Infobox_S_5.html
+
 1818-1864
 Staatsangehörigkeits- bzw. Untertanengesetz der deutschen Länder (z. B. Bayern 1818, Württemberg 1819, Preußen 1842, Sachsen 1852, Hamburg 1864)
 
@@ -71,7 +75,7 @@ diverse Gesetze / Verordnungen zum Erwerb und Verlust bzw. der Aberkennung der d
 
 seit dem
 01.01.2000
-Staatsangehörigkeitsgesetz
+Staatsangehörigkeitsgesetz [StAG-RG v. 15.07.1999]
 
 ---
 
