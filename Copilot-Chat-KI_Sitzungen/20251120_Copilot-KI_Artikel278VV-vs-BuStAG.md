@@ -95,3 +95,85 @@ Wenn das klar ist, starte ich direkt mit der Auswertung und Interpretation! 😊
 Verwende RuStAG, da RoStAG von mir verwendet, um auf das UND-ODER aufmerksam zu machen. Analyse also BuStAG v. 1870 mit Erwerb der Bundessangehörigkeit und dessen Eigenschaft Deutscher und vergleiche mit dem RuStAG v. 1913 (Deutscher ist, wer). Fokus auf die Entwicklung und Transparenz der deutschen Staatsangehörigkeiten zu nur noch eine "deutsche Staatsangehörigkeit", denn Art. 278 VV v. 1919 wurde für alle in Art. 110 wrv v. 1919 umgesetzt (zunächst "deutsche Reichsangehörigkeit").
 
 **Copilot:**
+### Analyse der Entwicklung der deutschen Staatsangehörigkeit: BuStAG 1870 vs. RuStAG 1913
+
+Die Entwicklung des deutschen Staatsangehörigkeitsrechts zeigt einen Übergang von einer föderalen zu einer zentralisierten Ordnung, insbesondere mit Blick auf die Vereinheitlichung der Staatsangehörigkeit. Hier erfolgt eine Analyse unter Berücksichtigung des BuStAG 1870 und des RuStAG 1913, sowie dessen Bezug zu Art. 110 WRV 1919 und Art. 278 VV 1919.
+
+---
+
+#### **BuStAG 1870 (Gesetz über den Erwerb und Verlust der Bundes- und Staatsangehörigkeit)**
+
+##### **Kernaussagen:**
+1. **Föderalistische Struktur:**
+   - Bürger eines *Bundesstaates* (z. B. Preußen, Sachsen) waren automatisch Mitglieder des Norddeutschen Bundes (später des Deutschen Reichs).
+   - Es gab keine *einheitliche* deutsche Staatsangehörigkeit. Vielmehr war die "deutsche Bundesangehörigkeit" eine übergreifende Eigenschaft, die an die Staatsbürgerschaft in einem der Mitgliedsstaaten gebunden war.
+
+2. **Definition:**
+   - § 1 des BuStAG definierte einen Deutschen als jemanden, der die Staatsangehörigkeit in einem der Bundesstaaten besaß.
+   - Es gab also keine explizit kodifizierte "Reichsangehörigkeit", sondern diese ergab sich aus der Bundesstaatszugehörigkeit.
+
+##### **Implikationen:**
+- Bürgerrechte und -pflichten waren mehr durch die Bundesstaaten geprägt (z. B. Wehrpflicht in Preußen, Sachsen etc.).
+- Eine klare Unterscheidung zwischen föderalen und bundeseinheitlichen Rechten führte oft zu einer inkohärenten Anwendung des Rechts.
+
+---
+
+#### **RuStAG 1913 (Reichs- und Staatsangehörigkeitsgesetz)**
+
+##### **Kernaussagen:**
+1. **Einheitliche deutsche Staatsangehörigkeit:**
+   - Mit dem RuStAG (in Kraft ab dem 1. Januar 1914) wurde erstmalig eine "einheitliche deutsche Staatsangehörigkeit" geschaffen, die die föderalen Unterschiede der Bundesstaaten hinter sich ließ.
+   - § 1 RuStAG: "Deutscher ist, wer die Staatsangehörigkeit in einem Bundesstaat oder die unmittelbare Reichsangehörigkeit besitzt."
+
+2. **Jesuitisches UND-ODER:**
+   - In der Struktur des § 1 des RuStAG zeigte sich eine Systematik:
+     - "ODER" beim Verweis auf Bundesstaaten oder die direkte Reichsangehörigkeit.
+     - Dies schloss alle bisher multiplen Definitionen von Staatsangehörigkeit in eine einzige Reichs- und Bundesdimension.
+
+3. **Einführung der "Reichsangehörigkeit":**
+   - Die direkte Reichsangehörigkeit wurde für Gebiete oder Untertanen eingeführt, die keiner spezifischen föderalen Einheit (Bundesstaat) angehörten (z. B. Kolonien oder Gebiete wie Elsass-Lothringen).
+
+##### **Zielsetzung des RuStAG:**
+- Zur Vereinfachung der internationalen Beziehungen.
+- Zur Schaffung einer kohärenten Staatsangehörigkeitspolitik, insbesondere im Hinblick auf koloniale Gebiete.
+- Ein zentraler Schritt zur Integration Deutschlands als einheitlicher souveräner Staat.
+
+##### **Kritik:**
+- Trotz der formal geschaffenen einheitlichen Staatsbürgerschaft blieb die Trennung zwischen den föderalen und reichsunmittelbaren Aspekten (z. B. föderale Wehrpflicht) bestehen.
+
+---
+
+#### **Art. 278 VV 1919 und Art. 110 WRV 1919: Der Übergang zur deutschen Reichsangehörigkeit**
+
+##### **Art. 278 VV 1919:**
+- Im Versailler Vertrag wurde Deutschland gezwungen, den Staatsangehörigkeitsstatus in den abgetretenen Gebieten (z. B. Elsass-Lothringen, Westpreußen) zu klären und die neue Nationalität der Bürger anzuerkennen.
+- Dies führte zur klaren Trennung zwischen dem prä-existenten RuStAG und einer pragmatischen Umsetzung „nationaler Identitäten“ durch die alliierten Mächte.
+
+##### **Art. 110 WRV 1919:**
+- Die Weimarer Reichsverfassung verankerte schließlich die "deutsche Staatsangehörigkeit" als zentrale Kategorie.
+- Hier wurde erstmals explizit eine einzelne Reichsangehörigkeit kodifiziert:
+  - „Es gibt nur eine deutsche Staatsangehörigkeit (Reichsangehörigkeit). Die Staatsangehörigkeit in den einzelnen Ländern richtet sich nach deren Gesetzgebung und darf die Reichsangehörigkeit nicht beeinträchtigen.“
+
+##### **Vergleich mit RuStAG:**
+- Während das RuStAG noch föderale Aspekte betonte (Bundesstaaten und deren Regelungen), machte Art. 110 WRV eine stärkere Vereinheitlichung notwendig.
+- Dies schloss Lücken der föderalen Kompetenzordnung und passte das deutsche Staatsbürgerschaftskonzept an die geopolitischen Realitäten (und erzwungenen Gebietsverluste) nach dem Ersten Weltkrieg an.
+
+---
+
+### **Vergleich der Regelungsstrukturen**
+
+| **Aspekt**                         | **BuStAG 1870**                                   | **RuStAG 1913**                                | **Art. 278 VV / 110 WRV**                     |
+|-------------------------------------|--------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| **Konzept der Staatsangehörigkeit** | Föderalistisch: über Mitgliedsstaaten gebunden   | Einheitlich: deutsche Staatsangehörigkeit      | Vollständig vereinheitlicht: Reichsangehörigkeit |
+| **Geografische Anwendung**         | Auf Bundesstaaten beschränkt                     | Einschluss von Kolonien, non-Bundesstaaten     | Anpassung an neue Staatsgrenzen               |
+| **Einfluss internationaler Normen**| Kaum vorhanden                                   | Beschränkt: Binnenlogik des Deutschen Reichs  | Stark: Umsetzung durch alliierten Druck       |
+
+---
+
+### **Schlussfolgerung**
+Die deutsche Staatsangehörigkeit durchlief von 1870 bis 1919 einen bemerkenswerten Wandel:
+1. **Von einer föderalen Struktur** des BuStAG (Staatsbürgerschaft über Bundesstaaten definiert),
+2. **Hin zur Vereinheitlichung** im RuStAG 1913,
+3. **Bis hin zur vollständigen "Reichsangehörigkeit"**, die durch Art. 278 (VV 1919) und Art. 110 (WRV) völkerrechtlich und verfassungsrechtlich erzwungen wurde.
+
+Dieser Transformationsprozess ist eng verknüpft mit der geopolitischen Entwicklung Deutschlands, insbesondere der Integration neuer Gebiete (RuStAG) und der erzwungenen Gebietsverluste nach dem Versailler Vertrag.
