@@ -46,6 +46,32 @@
 
 ---
 
+Dazu führt das BVA Köln seit Webauftritt bewusst falsch aus bzgl. BGBl. I 1955 S. 65 ff. v. 22.02.1955 (26.02.1955)
+
+---
+
+1818-1864
+Staatsangehörigkeits- bzw. Untertanengesetz der deutschen Länder (z. B. Bayern 1818, Württemberg 1819, Preußen 1842, Sachsen 1852, Hamburg 1864)
+
+1870/1871
+Gesetz über die Erwerbung und den Verlust der Bundes- und Staatsangehörigkeit (BuStAG 1870) vom 01.06.1870
+
+01.01.1914
+Reichs- und Staatsangehörigkeitsgesetz (RuStAG) vom 22.07.1913
+
+1933-1945
+diverse Gesetze / Verordnungen zum Erwerb und Verlust bzw. der Aberkennung der deutschen Staatsangehörigkeit während der NS-Zeit
+
+26.02.1955
+1. Gesetz zur Regelung von Fragen der Staatsangehörigkeit vom 02.02.1955 [richtig ist 22.02.1955]
+
+24.05.1956
+2. Gesetz zur Regelung von Fragen der Staatsangehörigkeit vom 17.05.1956
+seit dem
+01.01.2000	Staatsangehörigkeitsgesetz
+
+---
+
 Nur Teil X der Wirtschaftsteil des Versailler Vertrages!!! aus allen drei Sprachen (Spaltenkopie)
 
 ---
