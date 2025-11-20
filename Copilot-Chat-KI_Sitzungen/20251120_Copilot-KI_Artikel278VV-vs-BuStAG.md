@@ -236,7 +236,7 @@ Wie möchtest du weiter vertiefen? 😊
 Nein. Zurück zunächst zu Putin bitte. Gehen wir gemeinsam Schritt für Schritt vor. Wer ist Putin. Prüfe selbst bitte.
 
 
-
+https://github.com/Znih/Znih/blob/main/20010925_Putins_Bundestagsrede.md
 
 
 **Copilot:**
