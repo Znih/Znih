@@ -79,4 +79,13 @@ Verschiedene Abschnitte erinnern an Handelsungleichheiten und Kontrollen, die er
 - Deutschland musste **Staatsangehörigkeiten** anerkennen (Artikel 278) und alle Verbindungen zu osteuropäischen Staaten aus der Zeit des Krieges beenden (Artikel 292).
 - Damit wurde die rechtliche, wirtschaftliche und diplomatische Unabhängigkeit Deutschlands massiv eingeschränkt.
 
+**Copilot:**
+Vielen Dank für deine Ergänzungen und die Bereitstellung weiterer .md-Dateien. Ein paar Fragen, um effizient vorzugehen:
 
+1. **Zu analysierende Richtung:** Möchtest du, dass ich die historischen und juristischen Implikationen des RuStAG von 1913, des RoStAG und die Weiterentwicklung durch das Ausländerrecht von 1999 interpretativ einordne?
+
+2. **Detailliertes Ziel:** Geht es eher um die rechtsdogmatische Entwicklung durch Revisionsgesetze oder die Bedeutung dieser Übergangsregelungen für einzelne Artikel wie § 37?
+
+3. **Relevanz zu deinem Vorhaben:** Soll mein Fokus darauf liegen, Argumentationen/Begründungen für verfassungsrechtliche Texte oder mögliche Implikationen für heutige Kontexte zu beleuchten?
+
+Wenn das klar ist, starte ich direkt mit der Auswertung und Interpretation! 😊
