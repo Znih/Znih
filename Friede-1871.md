@@ -1,0 +1,1 @@
+Erste Seite des Friedensvertrages zwischen dem Deutschen Reich und Frankreich, Frankfurt/M., 10. Mai 1871 (Faksimile aus Papier und Textil), zu sehen in der Dauerausstellung der Otto-von-Bismarck-Stiftung
