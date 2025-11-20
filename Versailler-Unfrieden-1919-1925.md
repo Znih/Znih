@@ -66,6 +66,7 @@ Reichs- und Staatsangehörigkeitsgesetz (RuStAG) vom 22.07.1913
 
 1933-1945
 diverse Gesetze / Verordnungen zum Erwerb und Verlust bzw. der Aberkennung der deutschen Staatsangehörigkeit während der NS-Zeit
+https://www.verfassungen.de/de67-18/rustag13.htm
 
 26.02.1955
 1. Gesetz zur Regelung von Fragen der Staatsangehörigkeit vom 02.02.1955 [richtig ist 22.02.1955]
