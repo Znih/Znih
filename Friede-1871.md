@@ -395,3 +395,32 @@ A. Thiers.
 
 Jules Favre.
 (L. S.)
+
+---
+
+Anmerkungen:
+[1] Der ebenfalls abgedruckte Vertragstext in französischer Sprache wird hier nicht wiedergegeben.
+[2] In der französischen Fassung ist "St. Aie" abgedruckt.
+[3] Der Austausch der Ratifikationsurkunden erfolgte am 2. März 1871 in Versailles.
+[4] Vgl. dazu Protokoll über den Austausch der Ratifikations-Urkunden des "Frankfurter Friedensvertrages" vom 20. Mai 1971.
+[5] Vgl. zu den Bestimmungen des Art. 3 auch Separat-Konvention zwischen dem Deutschen Reich und der Französischen Republik über den Abzug von deutschen Besatzungstruppen und die Zahlung der Kriegskostenentschädigung für das Jahr 1872 vom 12. Oktober 1871.
+
+
+Quelle: Reichs-Gesetzblatt 1871, S. 215-222.
+
+
+Empfohlene Zitierweise des Dokumentes:
+Friedens-Präliminarien zwischen dem Deutschen Reich und Frankreich ["Versailler Präliminarfrieden"] (26.02.1871), in: documentArchiv.de [Hrsg.], URL: http://www.documentArchiv.de/ksr/1871/praeliminarfrieden_deutschland-frankreich.html, Stand: aktuelles Datum.
+
+
+Diese Dokumente könnten Sie auch interessieren:
+ Beitrittserklärung Bayerns, Württembergs und Badens zum "Versailler Präliminarfrieden" vom 26. Februar 1871 (26.02.1871)
+ Friedens-Vertrag zwischen dem Deutschen Reich und Frankreich ["Frankfurter Friedensvertrag"] (10.05.1871)
+ Protokoll zum "Frankfurter Friedensvertrag" vom 10. Mai 1871 (10.05.1871)
+ Protokoll, betreffend den Beitritt Bayerns, Württembergs und Badens zu dem [Frankfurter] Friedens-Vertrage vom 10. Mai 1871 (15.05.1871)
+ Protokoll über den Austausch der Ratifikations-Urkunden des "Frankfurter Friedensvertrages" (20.05.1871)
+ Übereinkunft zwischen dem Deutschen Reich und der Französischen Republik über die Zahlung der im Artikel 7 des "Frankfurter Friedensvertrages" festgesetzten Kriegsentschädigungen (21.05.1871)
+ Zusätzliche Übereinkunft zu dem Frankfurter Friedensvertrage zwischen Deutschland und Frankreich (12.10.1871)
+ Separat-Konvention zwischen dem Deutschen Reich und der Französischen Republik über den Abzug von deutschen Besatzungstruppen und die Zahlung der Kriegskostenentschädigung für das Jahr 1872 (12.10.1871)
+ Zusatzkonvention zu dem am 10. Mai 1871 zu Frankfurt a. M. abgeschlossenen Friedensvertrage zwischen Deutschland und Frankreich (11.12.1871)
+ Spezial-Konvention zwischen Deutschland und Frankreich, die Zahlung des Restes der französischen Kriegskosten-Entschädigung etc. betreffend (29.06.1872)
