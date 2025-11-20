@@ -1,8 +1,13 @@
 Wortprotokoll der Rede Wladimir Putins im Deutschen Bundestag am 25.09.2001
+
+https://www.bundestag.de/parlament/geschichte/gastredner/putin/putin_wort-244966
+
 Wladimir Putin, Präsident der Russischen Föderation:
 
 Wortprotokoll der Rede am 25. September 2001 vor dem Deutschen Bundestag
 (Simultanübersetzung)
+
+--
 
 Sehr geehrter Herr Präsident! Sehr geehrter Herr Bundeskanzler! Meine sehr geehrten Damen und Herren!
 Ich bin aufrichtig dankbar für die Gelegenheit, hier im Bundestag zu Ihnen zu sprechen. Es ist das erste Mal in der Geschichte der deutsch-russischen Beziehungen, dass ein russisches Staatsoberhaupt in diesem Hohen Hause auftritt. Diese Ehre, die mir heute zuteil geworden ist, bestätigt das Interesse Russlands und Deutschlands am gegenseitigen Dialog. Ich bin gerührt, dass ich über die deutsch-russischen Beziehungen sprechen kann, über die Entwicklung meines Landes sowie des vereinigten Europa und über die Probleme der internationalen Sicherheit - gerade hier in Berlin, in einer Stadt mit einem so komplizierten Schicksal.
