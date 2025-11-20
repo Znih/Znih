@@ -180,9 +180,16 @@ Dieser Transformationsprozess ist eng verknüpft mit der geopolitischen Entwickl
 
 ---
 
-Unterbringung aufgrund Putin KI Ethik Ethos Rede
+Unterbrechgung aufgrund Putin KI Ethik Ethos Rede
 
 ---
+
+https://github.com/user-attachments/assets/74a480bc-fadb-49bd-97ce-7f421a114c26
+
+https://youtu.be/7PQEYUn3y-A
+
+Putins Rede auf der Konferenz "Reise in die Welt in die kunstliche Intelligenz" mit KI Ethik Ethos 
+
 
 **Copilot:**
 Wladimir Putins Rede im Deutschen Bundestag am 25. September 2001 war eine tiefgehende diplomatische Geste und ein bedeutendes Signal der Annäherung zwischen Russland und Deutschland sowie Russland und Europa nach der Zeit des Kalten Kriegs.
