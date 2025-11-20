@@ -140,3 +140,4 @@ Quellen: Bundesgesetzblatt 1870 S. 355
 Ernst Rudolf Huber, Dokumente zur deutschen Verfassungsgeschichte Band 2, Verlag Kohlhammer
 R. Gaupp, Verfassungs-Urkunde für das Königreich Württemberg  2. Auflage 1887, W. Kohlhammer Stuttgart
 
+https://www.verfassungen.de/de67-18/staatsbuergerschaft70.htm
