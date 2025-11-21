@@ -43,4 +43,30 @@ Mit den rasanten Veränderungen in allen Bereichen wächst auch die Zahl der Nut
 
 Ein weiterer wichtiger Faktor ist jedoch, dass solche Modelle enorme Mengen neuer Daten generieren und somit zu einem der wichtigsten Instrumente der Informationsverbreitung werden. Dadurch haben sie das Potenzial, die Werte und Weltanschauungen der Menschen zu beeinflussen, den semantischen Raum ganzer Länder und letztlich der gesamten Menschheit zu prägen.
 
-Wir dürfen keine kritische Abhängigkeit von ausländischen Systemen zulassen. Für Russland bedeutet dies:
+Wir dürfen keine kritische Abhängigkeit von ausländischen Systemen zulassen. Für Russland bedeutet dies: Solche Modelle generieren gigantische Mengen neuer Daten und werden so zu einem der wichtigsten Instrumente der Informationsverbreitung. Sie können Werte und Weltanschauungen beeinflussen, den semantischen Raum ganzer Länder und letztlich der gesamten Menschheit prägen.
+
+Wir dürfen keine kritische Abhängigkeit von ausländischen Systemen zulassen. Für Russland ist dies eine Frage der staatlichen, technologischen und, wie ich meine, auch der Wertesouveränität. Daher muss unser Land über ein umfassendes Spektrum eigener Technologien und Produkte im Bereich der generativen künstlichen Intelligenz verfügen.
+
+In erster Linie handelt es sich dabei um nationale Sprachmodelle – sowohl grundlegende als auch kleinere – für spezifische Branchen. Das gesamte Spektrum dieser Modelle muss von russischen Spezialisten in allen Phasen, einschließlich der Verifizierung des Endprodukts, trainiert und vollständig kontrolliert werden.
+
+Die Arbeit an solch komplexen Systemen soll die Stärkung der heimischen Ingenieursausbildung in diesem entscheidenden Bereich maßgeblich vorantreiben. Wir müssen über einzigartige Kompetenzen im gesamten Zyklus der Entwicklung grundlegender Sprachmodelle verfügen: von ihrer Erstellung und ihrem Training bis hin zu ihrer Anpassung an die Bedürfnisse verschiedener Branchen. Tatsächlich beschreiten alle Länder, die in diesem Bereich ihre Führungsrolle, Unabhängigkeit und Souveränität sichern wollen, diesen Weg.
+
+Der zweite, grundlegende Schwerpunkt liegt auf der gesamten Infrastruktur für die Entwicklung und Implementierung solcher nationaler Produkte, also der Basis elektronischer Komponenten, Rechenzentren und Rechenleistung mit stabiler Stromversorgung.
+
+Die von mir angesprochenen Aufgaben sind komplex und anspruchsvoll – das ist uns allen bewusst. Wir werden sie in Partnerschaft mit inländischen Unternehmen angehen. In diesem Zusammenhang möchte ich hervorheben, dass die Produkte von Sber und Yandex zu den besten weltweit gehören. Und während der bevorstehenden Direct Line im Laufe dieses Jahres werden wir erneut GigaChat einsetzen – das Sprachmodell von Sber, das seine Effektivität bei der Analyse und Systematisierung einer Vielzahl von Bürgeranfragen bereits unter Beweis gestellt hat.
+
+Ich wiederhole: Es geht nicht nur um die Verfügbarkeit unserer eigenen Technologien. Entscheidend ist deren breite praktische Anwendung. Wir müssen eine Implementierung in Industrie, Transportwesen, Gesundheitswesen, öffentlicher Verwaltung und anderen Sektoren erreichen. Ich möchte dieses Thema nun näher erläutern.
+
+Die Nationale Strategie zur Entwicklung Künstlicher Intelligenz setzt ein Ziel: Der kumulative Beitrag dieser Schlüsseltechnologie zum BIP des Landes soll bis 2030 11 Billionen Rubel übersteigen. Um dieses Ziel zu erreichen, bitte ich die Regierung und die regionalen Führungskräfte, einen nationalen Plan für die Implementierung generativer künstlicher Intelligenz auf nationaler Ebene sowie branchen- und regionsübergreifend zu erarbeiten.
+
+Heute Morgen habe ich dieses Thema ausführlich mit dem Premierminister besprochen. Er erinnerte mich daran, dass die Regierung bereits ein Analysezentrum mit derzeit 50 Mitarbeitern eingerichtet und eine Arbeitsgruppe geschaffen hat. Das Ministerium für Digitale Entwicklung leitet diese Arbeit formell. Doch weder das eine noch das andere reicht aus. Wir brauchen ein echtes Führungsteam für die Branche, wenn wir wollen, dass diese Arbeit in allen genannten Bereichen – also branchen-, regions-, ministerien- und behördenübergreifend – entschlossen und zielgerichtet voranschreitet. Wir brauchen ein Team, das realistische Ziele setzen, die Umsetzung sicherstellen und die Ergebnisse überwachen kann.
+
+Diese Analysegruppe ist sehr gut, aber es mangelt ihr an administrativen Ressourcen. Was fehlt, sind administrative Ressourcen. Daher bitte ich die Präsidialverwaltung und die Regierung – den Minister bzw. die Regierung als Ganzes – zu prüfen, wie wir dieses Führungsteam aufbauen können, nicht nur für die Branche, sondern für alle diese Aktivitäten. Dabei sollen die Fähigkeiten aller genutzt werden, die daran interessiert sind oder sich dessen noch nicht bewusst sind. Wir müssen dies gemeinsam erläutern.
+
+Ich betone: Die Umsetzung dieses Plans wird ein entscheidendes Instrument sein, um die Nachfrage nach nationalen Basismodellen zu generieren. Im Wesentlichen geht es um einen ganzen Markt für die Anwendung generativer KI-Systeme.
+
+Produkte, die darauf basieren, sollen bis 2030 in allen Schlüsselbranchen eingesetzt werden. Dazu gehören Lösungen wie intelligente menschliche Assistenten und KI-Agenten. Sie sollen in den meisten Management- und Produktionsprozessen Anwendung finden.
+
+Bereits im März nächsten Jahres müssen die Regierung, die Ministerien und Behörden umfassende Informationen über die Anwendung von künstlicher Intelligenz in Wirtschaft, Gesellschaft und den Gliedstaaten des Bundes bereitstellen. Das Tempo der Implementierung dieser Technologien in den Regionen soll zum wichtigsten Indikator für das jährliche Ranking der digitalen Transformation werden. Ich bitte darum, dass die Erstellung nach dieser neuen Methodik spätestens bis Ende nächsten Jahres, 2026, erfolgt.
+
+In diesem Zusammenhang appelliere ich an die Leiter der Ministerien und Behörden sowie an die Regionalleiter. Es geht hier nicht um Berichte, sondern um konkrete Ergebnisse. Sie müssen den Innovationsbedarf von Unternehmen und Betrieben klar erkennen und den ständigen Austausch mit Wissenschaftlern pflegen.
