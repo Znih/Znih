@@ -36,3 +36,18 @@ Ja, schon Auf vergangenen Konferenzen haben wir ausführlich über Generativ ges
 Was Wichtig ist, dass sie nicht nach starren, vorgegebenen Algorithmen agieren Und sie treffen immer autonomere Entscheidungen ohne menschliches Eingreifen. Derjenige, der Besitzt solche Produkte bereits, nutzt sie und erhält ernsthafte Vorteile in Effizienz und Produktivität.
 
 Offensichtlich dass generative Technologien der künstlichen Intelligenz zum Schlüssel werden Strategischen. Für den Besitz eigener Grundsprachen Modelle konkurrieren nicht nur mit den größten, sondern auch mit führenden Unternehmen Staaten.
+
+Offensichtlich dass generative Technologien der künstlichen Intelligenz zum Schlüssel werden Strategischen. Für den Besitz eigener Grundsprachen Modelle konkurrieren nicht nur mit den größten, sondern auch mit führenden Unternehmen Staaten.
+
+Anders Schätzungen zufolge könnte die Entwicklung der künstlichen Intelligenz eine der größten Technologieprojekte der Geschichte. Gleichzeitig Der Hauptinvestitionsbereich – ist der Ausbau der Informatik Kapazität, sowie die Bildung zusätzlicher Gigawatt Energie, die Entscheidend für den zuverlässigen Betrieb aller wachsenden «digital Infrastrukturen». Folgende, noch effektivere Systeme zu trainieren Generative künstliche Intelligenz. Also, das habe ich nur schon gesagt Der Stromverbrauch wird sich im laufenden Jahrzehnt mehr als verdreifachen Rechenzentren.
+
+Entlang Mit raschen Veränderungen in allen Bereichen nimmt sie zu und die Anzahl der Benutzer von Produkten, die auf generativen künstlichen Produkten basieren Intelligenz. In Russland ist die große Mehrheit der Jugendlichen bereits weit verbreitet Neuronale Netze und Sprachmodelle werden für verschiedene Arten von Lernproblemen eingesetzt Im Beruf und einfach nur im Alltag.
+
+Aber wichtig Und noch was: Solche Modelle erzeugen gigantische Mengen neuer Daten Eines der wichtigsten Instrumente zur Verbreitung von Informationen werden, die So sind sie in der Lage, die Werte und die Weltanschauung der Menschen zu beeinflussen Semantischen Raum ganzer Staaten und der Menschheit zu bilden Insgesamt immerhin.
+
+Kritisch Wir können die Abhängigkeit von den Systemen anderer Menschen nicht zulassen. Für Russland ist das Das Thema ist staatlich, technologisch und, würde ich sagen, wertvoll Souveränität, daher muss unser Land einen ganz eigenen Komplex haben Technologien und Produkte auf dem Gebiet der generativen künstlichen Intelligenz.
+
+Vorher Insgesamt handelt es sich tatsächlich um nationalsprachliche Modelle – as fundamental Das gilt auch für kleine – für bestimmte Branchen. Die gesamte Palette solcher Modelle Ausbildung durchlaufen müssen und vollständig von den Russen kontrolliert werden Spezialisten und in allen Phasen, einschließlich der Prüfung des Endprodukts.
+
+Arbeit Über solch komplexe Systeme soll es zu einem ernsthaften Anreiz zur Stärkung werden Hausingenieurschule in diesem wichtigsten Bereich. Wir sollten Einzigartige Kompetenzen im gesamten Zyklus der Grundbildung sein Sprachmodelle: von ihrer Entstehung und Ausbildung bis zur Anpassung an Aufgaben verschiedener Branchen. Tatsächlich gehen alle diesen Weg Ländern, die sich um ihre Führung und Unabhängigkeit bemühen seiner Souveränität in diesem Bereich.
+
