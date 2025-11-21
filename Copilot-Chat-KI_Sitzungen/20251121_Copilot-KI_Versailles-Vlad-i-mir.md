@@ -312,3 +312,34 @@ Hier ist eine Gegenüberstellung von spezifischen Passagen aus Wladimir Putins R
 ---
 
 Möchtest du weitere Passagen vergleichen oder etwas spezifischer analysiert haben?
+
+---
+
+**Copilot:**
+Hier ist eine Zusammenfassung der wichtigsten Beschlüsse des Wiener Kongresses (1814-1815), mit Fokus auf Souveränität und Allianzen, abgesehen von der Schlussakte:
+
+1. **Wiederherstellung der legitimen Herrschaft**  
+   Der Kongress legte großen Wert auf die Wiederherstellung legitimer Monarchien in Gebieten, wo Napoleon rechtmäßige Herrscher abgesetzt hatte. Frankreich, Spanien, Portugal und verschiedene italienische Staaten wurden in diesem Sinne reorganisiert. Diese Legitimität sollte langfristig Stabilität gewährleisten.
+
+2. **Gleichgewicht der Mächte**  
+   Ziel war es, die Vormachtstellung einer einzelnen Macht, wie es mit Frankreich unter Napoleon der Fall war, zu verhindern. Um dies zu erreichen, wurden politische Grenzen neu gezogen und Territorien unter den Großmächten aufgeteilt. Ein Beispiel ist die Schaffung des Königreichs der Niederlande als Puffer gegen Frankreich.
+
+3. **Gründung des Deutschen Bundes**  
+   Der ehemalige Heilige Römische Reich wurde durch den Deutschen Bund ersetzt—eine lose Vereinigung von 39 Staaten, die zwar ihre Souveränität behielten, aber gleichzeitig unter gemeinsamen Rahmenbedingungen agierten. Österreich und Preußen gewannen dabei erheblichen Einfluss.
+
+4. **Neue territoriale Grenzen**  
+   - Russland erhielt den Großteil des Herzogtums Warschau (Polen).  
+   - Preußen nahm Teile Sachsens, Westfalens und des Rheinlandes ein.  
+   - Österreich erhielt Lombardei, Venetien und Tirol zurück.  
+   - Die Schweiz wurde unabhängig und neutral.  
+   - Italienische Staaten wurden unter österreichischer Kontrolle neu organisiert.  
+
+5. **Konzert Europas und Defensivbündnisse**  
+   Die Großmächte etablierten den "Konzert Europas" als diplomatischen Mechanismus zur Krisenbewältigung. Großbritannien, Österreich, Preußen und Russland bildeten defensive Allianzen, um revolutionäre Bewegungen zu verhindern.
+
+6. **Unterdrückung von Revolutionen und Nationalismus**  
+   Der Kongress beugte demokratischen und nationalistischen Bewegungen vor, um die monarchische Souveränität zu stärken. Politische Selbstbestimmung wurde zugunsten von Stabilität und der alten Ordnung unterdrückt.
+
+**Zusammengefasst:** Der Wiener Kongress stärkte monarchische Souveränität, schuf territoriale Pufferzonen und implementierte Mechanismen wie das „Konzert von Europa“, um revolutionäre Bedrohungen zu unterdrücken und die neue territoriale und machtpolitische Ordnung zu bewahren.
+
+Möchtest du einen direkten Vergleich zwischen Putin und diesen Beschlüssen detailliert?
