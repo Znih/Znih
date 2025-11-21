@@ -175,3 +175,16 @@ Falls Sie den genauen Text der Rede haben oder dieser öffentlich zugänglich wi
 1. [Transcripts ∙ President ∙ Events ∙ President of Russia](http://en.kremlin.ru/events/president/transcripts)
 2. [Transcripts ∙ President ∙ Events ∙ President of Russia](http://en.kremlin.ru/events/president/transcripts/press_conferences)
 3. [President of Russia - Президент России](http://en.special.kremlin.ru/events/president/transcripts)
+
+
+---
+
+**Copilot:**
+Ich konnte den vollständigen russischen Text von Wladimir Putins Rede vom 19. November 2025 auf der offiziellen Website des Kremls oder anderen zuverlässigen Quellen nicht finden. Die Website des Kremls enthält derzeit Protokolle und Videoansprachen bis zum 18. November 2025, jedoch keine Abschrift für den 19. November 2025 unter der angefragten URL (http://kremlin.ru/events/president/transcripts/78498)[[1]](http://kremlin.ru/events/president/transcripts/speeches)[[2]](http://en.special.kremlin.ru/events/president/transcripts).
+
+Wenn Sie Abschriften früherer Reden oder offizieller Ansprachen von Wladimir Putin benötigen, sind diese auf der offiziellen Website des Kremls und in verschiedenen seriösen Nachrichtenarchiven verfügbar[[1]](http://kremlin.ru/events/president/transcripts/speeches)[[2]](http://en.special.kremlin.ru/events/president/transcripts). Lassen Sie es mich wissen, falls Sie Hilfe benötigen, eine andere Rede zu finden oder eine Zusammenfassung kürzlich öffentlich verfügbarer Ansprachen zu erhalten.
+
+---
+
+1. [Стенограммы ∙ Президент ∙ События ∙ Президент России](http://kremlin.ru/events/president/transcripts/speeches)  
+2. [President of Russia - Президент России](http://en.special.kremlin.ru/events/president/transcripts)
