@@ -161,3 +161,17 @@ For direct transcripts or more detailed quotations from his speech specifically 
 5. [The President of Russia (via Public) / AI Journey international conference](https://www.publicnow.com/view/A52493519273086B8437C550B7B8A0A7576EE625)
 6. [President of Russia - Президент России](http://en.special.kremlin.ru/events/president/transcripts)
 7. [Transcripts ∙ President ∙ Events ∙ President of Russia](http://en.kremlin.ru/events/president/transcripts/speeches)
+
+
+---
+
+**Copilot:**
+Ich konnte die vollständige Abschrift von Wladimir Putins Rede vom 19. November 2025 unter der angegebenen URL (http://kremlin.ru/events/president/transcripts/78498) oder aus zuverlässigen Quellen nicht finden. Derzeit ist auf der offiziellen Website des Kremls keine Abschrift für dieses Datum oder Ereignis verfügbar. Auch gibt es keine vertrauenswürdigen Nachrichtenquellen oder Datenbanken, die das angeforderte Dokument vollständig oder in einer Übersetzung veröffentlichen[[1]](http://en.kremlin.ru/events/president/transcripts)[[2]](http://en.kremlin.ru/events/president/transcripts/press_conferences)[[3]](http://en.special.kremlin.ru/events/president/transcripts).
+
+Falls Sie den genauen Text der Rede haben oder dieser öffentlich zugänglich wird, kann ich Ihnen eine deutsche Übersetzung anbieten. Lassen Sie mich wissen, wie ich Ihnen sonst weiterhelfen kann.
+
+--- 
+
+1. [Transcripts ∙ President ∙ Events ∙ President of Russia](http://en.kremlin.ru/events/president/transcripts)
+2. [Transcripts ∙ President ∙ Events ∙ President of Russia](http://en.kremlin.ru/events/president/transcripts/press_conferences)
+3. [President of Russia - Президент России](http://en.special.kremlin.ru/events/president/transcripts)
