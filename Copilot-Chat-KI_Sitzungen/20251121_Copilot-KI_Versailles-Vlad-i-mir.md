@@ -343,3 +343,36 @@ Hier ist eine Zusammenfassung der wichtigsten Beschlüsse des Wiener Kongresses 
 **Zusammengefasst:** Der Wiener Kongress stärkte monarchische Souveränität, schuf territoriale Pufferzonen und implementierte Mechanismen wie das „Konzert von Europa“, um revolutionäre Bedrohungen zu unterdrücken und die neue territoriale und machtpolitische Ordnung zu bewahren.
 
 Möchtest du einen direkten Vergleich zwischen Putin und diesen Beschlüssen detailliert?
+
+
+---
+
+**Copilot:**
+The Final Act of the Congress of Vienna (1815) was signed on June 9, marking the culmination of a historic diplomatic assembly that redrew the map of Europe and sought to restore stability after the Napoleonic Wars. The Act comprised over a hundred articles, binding together the agreements made by the major European powers: Austria, Russia, Prussia, Great Britain, France, Portugal, Spain, and Sweden—though Spain did not sign in protest over Italian affairs[[1]](https://www.unesco.at/en/communication/documentary-heritage/memory-of-the-world-in-austria/final-document-of-the-congress-of-vienna-1815)[[2]](https://www.britannica.com/event/Congress-of-Vienna/Decisions-of-the-congress)[[3]](https://ageofrevolution.org/200-object/final-act-of-the-congress-of-vienna/).
+
+**Sovereignty:**  
+A central feature was the restoration and recognition of legitimate sovereign rulers displaced by Napoleon. Monarchies—such as the Bourbons in France—were restored, and many borders reverted to pre-revolutionary alignments. However, sovereignty was, in practice, largely defined and limited by the interests of the great powers, which often ignored popular or national aspirations in the territories they redistributed. For example, Poland was partitioned between Prussia and Russia, and the wishes of local populations in places like Saxony, the Netherlands, and Italy had little bearing on decisions[[2]](https://www.britannica.com/event/Congress-of-Vienna/Decisions-of-the-congress)[[4]](https://www.emersonkent.com/historic_documents/congress_of_vienna_1815.htm).
+
+**Alliances:**  
+The Congress reinforced the notion of collective security through alliances. The principal powers formed a "Concert of Europe," a conservative coalition committed to maintaining the new order and preventing future revolutions or wars. Their cooperation was exemplified both by formal treaties and by informal agreements, such as a secret defensive alliance signed between Great Britain, Austria, and France when Prussia and Russia pushed their interests too far[[2]](https://www.britannica.com/event/Congress-of-Vienna/Decisions-of-the-congress)[[3]](https://ageofrevolution.org/200-object/final-act-of-the-congress-of-vienna/).
+
+**Geopolitics:**  
+The Final Act aimed at establishing a lasting balance of power—a geopolitical arrangement where no single state could dominate Europe. Territorial adjustments were made specifically to bolster defensive positions and create buffer states:  
+- Prussia was strengthened along the Rhine to check France.  
+- The Netherlands was unified with Belgium as a northern bulwark.  
+- Austria expanded into Italy and Central Europe.  
+- Russia gained Polish lands but had to respect borders that prevented further westward expansion.  
+- The German Confederation was formed—a loose association of German states under Austrian presidency, intended to prevent both French expansion and excessive Prussian influence[[2]](https://www.britannica.com/event/Congress-of-Vienna/Decisions-of-the-congress)[[5]](https://en.wikipedia.org/wiki/Congress_of_Vienna)[[4]](https://www.emersonkent.com/historic_documents/congress_of_vienna_1815.htm).
+
+Other outcomes included guarantees of Swiss neutrality, efforts (albeit limited) toward abolition of the slave trade, restoration of the Papal States, regulation of international river navigation, and the suppression of the revolutionary and nationalist movements sparked by the French Revolution.
+
+**In summary:**  
+The Final Act of Vienna enshrined the principles of legitimate monarchy and collective security, established a conservative international order, drew up new alliances, and restructured Europe's borders to serve the balance of power. Although it maintained relative peace for decades, the settlement was decidedly moderate to reactionary—stabilizing sovereignty and alliances at the expense of emerging national and liberal movements[[1]](https://www.unesco.at/en/communication/documentary-heritage/memory-of-the-world-in-austria/final-document-of-the-congress-of-vienna-1815)[[2]](https://www.britannica.com/event/Congress-of-Vienna/Decisions-of-the-congress)[[3]](https://ageofrevolution.org/200-object/final-act-of-the-congress-of-vienna/)[[5]](https://en.wikipedia.org/wiki/Congress_of_Vienna)[[4]](https://www.emersonkent.com/historic_documents/congress_of_vienna_1815.htm).
+
+---
+
+1. [Final Document of the Congress of Vienna 1815 - UNESCO](https://www.unesco.at/en/communication/documentary-heritage/memory-of-the-world-in-austria/final-document-of-the-congress-of-vienna-1815)  
+2. [Congress of Vienna - European Balance, Peace, Restoration | Britannica](https://www.britannica.com/event/Congress-of-Vienna/Decisions-of-the-congress)  
+3. [Final Act of the Congress of Vienna - Age of Revolution](https://ageofrevolution.org/200-object/final-act-of-the-congress-of-vienna/)  
+4. [Final Act of the Congress of Vienna 1815 - emersonkent.com](https://www.emersonkent.com/historic_documents/congress_of_vienna_1815.htm)  
+5. [Congress of Vienna - Wikipedia](https://en.wikipedia.org/wiki/Congress_of_Vienna)  
