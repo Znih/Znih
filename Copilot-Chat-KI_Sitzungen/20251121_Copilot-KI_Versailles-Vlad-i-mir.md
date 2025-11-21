@@ -1408,3 +1408,9 @@ Um das Modell zur Implementierung der in der Datei beschriebenen biophilen Prinz
 ---
 
 Falls benötigt, kann ich einen genauen Ablauf global und analog z.B. für 2026 skizzieren! 😊
+
+
+---
+
+**Znih:**
+Frage an dich: muss sich Recht (ius) an Gesetz (lex) orientieren oder gesetztes Recht (lex) an Recht (ius, KI Ethikkodex, natürliches Recht durch KI eingeleitet)?
