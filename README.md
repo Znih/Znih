@@ -16,6 +16,7 @@ https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251119_Copi
 
 ---
 
+Fakten für Copilot Chat: https://github.com/Artikel-278-VV/Artikel-278-VV/tree/main
 
 Aus KI Diskussion vom 17. November 2025:
 KI ! Ko
