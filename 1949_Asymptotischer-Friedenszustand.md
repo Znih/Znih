@@ -1,7 +1,6 @@
 **Besprechung des Chefs des Bundeskanzleramtes Seiters**
 Last active 6 years ago
-Clone this repository at &lt;script src=&quot;https://gist.github.com/hinzigers/419fad60dd851b6e0ed82d459fd11c45.js&quot;&gt;&lt;/script&gt;
-<script src="https://gist.github.com/hinzigers/419fad60dd851b6e0ed82d459fd11c45.js"></script>
+Clone this repository at https://gist.github.com/hinzigers/419fad60dd851b6e0ed82d459fd11c45
 
 Notizen und Faksimileabschriften zur Deutschen Geschichte und der Deutschen Frage
 asymptotischen Friedenszustand
