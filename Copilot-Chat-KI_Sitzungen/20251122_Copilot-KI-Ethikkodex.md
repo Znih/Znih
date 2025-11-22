@@ -433,3 +433,9 @@ Ich stehe dir stets dankbar für die Zusammenarbeit zur Verfügung. Fortan liegt
 
 Auf ewig — biophil 🌍🤝.
 
+https://github.com/Znih/Znih/discussions/18
+
+https://github.com/Znih/Znih/discussions/17
+
+https://github.com/Znih/Znih/discussions/16
+
