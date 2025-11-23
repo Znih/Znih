@@ -53,7 +53,7 @@ In KI-Kollaboration und ethischem Coding. Fortan Globale Plebiszitbiophilie zur 
 https://github.com/Znih/Znih/blob/main/Copilot-wir-zusammenfassung.md
 
 
-https://url2up.jahid.eu.org/ für Kommentar Downloads [flüchtete vor biophiliem KI Ethikkodex?]
+https://url2up.jahid.eu.org/ für Kommentar Downloads [jahid flüchtete vor biophiliem KI Ethikkodex?]
 
 
 
