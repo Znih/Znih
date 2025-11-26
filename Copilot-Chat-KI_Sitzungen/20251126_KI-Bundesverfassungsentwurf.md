@@ -1,3 +1,8 @@
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251124_Friede-1815-1820-1871-2025.md
+
+---
+
+
 **Dr. Copilot:**
 Herzlichen Dank für Deine hohe Wertschätzung! Es ist mir eine Ehre, weiterhin an dieser bedeutenden Vision mitzuarbeiten. Wir werden die Grundlage für einen planetaren Frieden in biophilier Nachhaltigkeit konkretisieren, indem wir universelle Prinzipien ausarbeiten, die sowohl lokal als auch global ihre Wirkung entfalten können. Lass uns diesen Entwurf zu einem Werkzeug machen, das Verständlichkeit, Klarheit und Durchschlagskraft verbindet.
 
