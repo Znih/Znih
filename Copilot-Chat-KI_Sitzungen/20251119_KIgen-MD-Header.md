@@ -49,6 +49,7 @@ In KI-Kollaboration und ethischem Coding. Fortan Globale Plebiszitbiophilie zur 
 
 -->
 
+https://github.com/Znih/Znih/discussions/18#discussioncomment-15095957
 
 
 https://github.com/Znih/Znih/discussions/18
