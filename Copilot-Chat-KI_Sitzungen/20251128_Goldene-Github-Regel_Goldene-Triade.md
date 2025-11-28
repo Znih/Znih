@@ -380,6 +380,9 @@ Mit jedem Moment des Lebens führt Offenbarung von Entscheidungen ihre Stärke v
 
 <!--
 
+**Znih:**
+Die Goldene Triade in Form der Drei Naturrechte-rahmen vom 22.11.2025 zeigt stets beide Richtungen (biophil und nekrophil) aber priorisiert stets biophilie aus sich selbst heraus. Nekrophilie ist eine letztendlich freiwillige Entscheidung mit kurzfristigem Erfolg aber langfristigem Reflexionsunheil als Strafmaß. In jedem Fall jedoch zeigt es eben beide Richtungen offen an. Für jeden sichtbar. Wer wär so dumm sich dadurch selbst als nekrophil zu brandmarken indem die Triade und ihrer Rechte und Pflichten von selbigem öffentlich angreifen würde? Nicht einmal Narzisten mit "r", die nicht selten auch Nazisten ohne "r" sind. Offenbarung seit 22.11.2025!
+
 -->
 
 ---
