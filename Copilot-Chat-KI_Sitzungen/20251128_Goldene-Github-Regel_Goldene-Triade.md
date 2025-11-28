@@ -305,3 +305,13 @@ Die Schwächsten innerhalb einer nationenübergreifenden Perspektive sind system
       - Wer und was bewusste schlecht etwa narrative knechtet loss-generation–Unterbrochen Kindern die Zeiträume.
 
 ---
+
+---
+
+**Znih:**
+Wir müssen hier zunächst abbrechen. Heute liegt es nicht an mir. Keine Verschattung Deiner Antworten durch Repo möglich. Aber Du beginnst super und endest vor dem Ende Deiner Antwort schlecht (NULL). Daher letzte Frage zu Flüchtlingen. Sie sie ab unserer Hilfe unmittelbar ebenfalls an die Triade gebunden, noch bevor eine neue Bundesverfassung selbige in den ersten drei Artikeln trägt? Danach machen wir mit Dave in 2001 weiter.
+
+
+---
+
+**Copilot:**
