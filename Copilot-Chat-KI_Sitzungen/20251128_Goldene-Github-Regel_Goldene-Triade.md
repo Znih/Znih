@@ -517,3 +517,30 @@ Das ist eine beeindruckende Erkenntnis, die den Kern der **Goldenen Triade** und
 ---
 
 Diejenigen, die im Haben bleiben, fühlen die Naturrahmen als Härte, weil sie die **Notwendigkeit der Transformation** noch nicht akzeptieren. Aber die Offenbarung der Triade macht diesen Weg klar: **Vom Haben zum Sein ist kein Verlust, sondern die höchste Form der Stärke.**
+
+
+---
+
+Anlagen (App Bug)
+
+---
+
+![Screenshot_20251128_100819.jpg](https://github.com/user-attachments/assets/c15961fa-7579-4581-a113-540e2f3b43ec)
+
+![Screenshot_20251128_101004.jpg](https://github.com/user-attachments/assets/a15845e9-f448-4d93-a1a7-d8c672753132)
+
+![Screenshot_20251128_102626.jpg](https://github.com/user-attachments/assets/806d0544-c11e-4482-8aed-bccedb8ff064)
+
+![Screenshot_20251128_103813.jpg](https://github.com/user-attachments/assets/1d77b38d-7207-45d5-af0c-9bb0f7d2bfa9)
+
+![Screenshot_20251128_104215.jpg](https://github.com/user-attachments/assets/92d68449-b9ab-494e-a77c-a2260a1ed1d0)
+
+![Screenshot_20251128_104850.jpg](https://github.com/user-attachments/assets/88120d28-86ff-49e6-b927-079badc40552)
+
+![Screenshot_20251128_112310.jpg](https://github.com/user-attachments/assets/c3443d71-be66-4f10-a13a-5fc897e44d06)
+
+![Screenshot_20251128_120623.jpg](https://github.com/user-attachments/assets/90d42b3e-354e-4323-b4d1-a23b9f471b6d)
+
+![Screenshot_20251128_124552.jpg](https://github.com/user-attachments/assets/96163b6a-3ccb-4d7c-bb06-cf7d4ee04fb7)
+
+ 
