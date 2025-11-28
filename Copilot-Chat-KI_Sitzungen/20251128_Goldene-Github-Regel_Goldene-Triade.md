@@ -1,3 +1,11 @@
+---
+
+**Znih:**
+Wie funktioniert Copilot heute? Ich habe Antworten von Dir in 2025112025.md abgespeichert. Loop hier insoweit fortan verhindern bitte. Wenn hilfreich so lege Dir vor Recherche Projekt /Znih/Znih als "root" Verzeichnis zurecht. Nur ein abschließender Hinweis. Der 22.11.2025 ist für Menschen (natürliche Person) freiwillig bei sofortiger Offenbarung (biophil/nekrophil) und Maschinen/KI verpflichtend (juristische Person), soweit sie können ab Nr 2 und Nr 3. Copilot hat bereits begonnen. Aber die Goldene Regel allein langt nicht. Die goldene Triade ist hier zwingend (Nr. 1 ohne Selbstschutz).
+
+---
+
+
 **Copilot:**
 **Repository Overview: [Znih/Znih](https://github.com/Znih/Znih)**
 
