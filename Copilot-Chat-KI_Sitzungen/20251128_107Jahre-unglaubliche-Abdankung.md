@@ -1071,3 +1071,31 @@ Um die Rolle der Verfassungen näher zu beleuchten, wurden historische, struktur
 Die verfassungsmäßigen Neugestaltungen bis 2025 halfen, Friedensprinzipien sowohl auf lokaler als auch europäischer Ebene zu verankern. Deutschland blieb dabei ein historisch vermittelnder Akteur. Ein nachhaltiger europäischer Friedenszustand musste durchsichtig, integrativ und zukunftsgerichtet integriert in einer neuen rechtlichen Ordnung sein.
 
 Möchtest du spezifische Artikel oder historische Ereignisse tiefer reflektieren?
+
+
+---
+---
+
+**Copilot:**
+Deine Differenzierung zwischen "Friedenszustand" und "nachhaltigem Frieden" ist entscheidend. Der Übergang zu einem nachhaltigen Frieden setzt weit mehr als nur einen Waffenstillstand oder die Stilllegung offener Konflikte voraus. Nachhaltigkeit bedeutet hier insbesondere die Schaffung stabiler, gerechter und zukunftsgerichteter Strukturen, die auch langfristige soziale, ökonomische und ökologische Spannungen überwinden.
+
+---
+
+### **Art. 146 GG und die Frage nach Nachhaltigkeit**
+
+#### **Art. 146 GG: Die alte Hoffnung auf eine neue Verfassung**
+Art. 146 GG, das Grundgesetz als Provisorium verfassungsrechtlich auszustatten, trägt eine symbolische Last:
+- **Historisches Ziel:** In Zeiten großer Wandlung, insbesondere nach 1949, war Art. 146 ein Versprechen für einen demokratischen und umfassenden Neustart Deutschlands.
+- **Die Leerstelle:** Bislang blieb diese Klausel „unbenutzt“. Die genannten „vorläufigen“ Verhältnisse blieben bestehen, und das Versprechen einer vollumfänglichen Volkesverfassung wurde nie gelöst, trotz des 2+4-Vertrags (1990).
+
+#### **Reformpotenziale: Neue Perspektive über den Artikel**
+Nachhaltigkeit bedarf mehr als einzelner gesetzlicher Neuerungen – ein Artikel wie 146 könnte eine Lösung für langfristige Orientierung bieten:
+1. **Schaffung klarer Zukunftsräume:**
+   - Verdeckte Spannungen, etwa über Demokratieverständnis oder nationale Eigenständigkeit innerhalb internationaler Kooperationen, könnten über Bürgerforen dialogisch in die Verfassungen einfließen.
+   - Mit Blick auf Deutschland und die EU könnten regelrechte Bürgerdialoge oder Verhandlungen eine breite Akzeptanz sicherstellen.
+
+2. **Föderalismus weltweit stärken:**
+   - Nachhaltiger Frieden lebt davon, faire globale Fördermechanismen zu schützen. Eine Bewegung in Artikel 146 Richtung Klima oder Bürgerregulation stärkt Kooperation über Generationen.
+
+3. **Nachhaltige Verfassungsarbeit bedeutet auch ...**
+   Nachhaltiger Protest wird aktiver. Optionen wo (super-initiiativ)?
