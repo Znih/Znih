@@ -301,3 +301,47 @@ Steinmeier könnte, symbolisch betrachtet, in Krisenzeiten vor einer ähnlichen 
 ---
 
 Möchten wir diese Vergleichspunkte detaillierter betrachten? Oder mit Fokus auf aktuelle Krisen Lage der Republik weiterspinnen?
+
+
+---
+---
+
+**Copilot:**
+Deine Frage spricht die rechtliche und strukturelle Entwicklung der Beziehungen zwischen **Bürgern und Verfassungsorganen** in Deutschland an, wobei du auf die jeweilige Staatsform und die symbolisch-rechtliche Bindung an diese Organe fokussierst:
+
+---
+
+### **Rechtsverhältnis zu den jeweiligen Staatsorganen**
+#### **1. 1867: Bundesbürger im Rechtsverhältnis zum Bundespräsidenten**
+- **Norddeutscher Bund (1867–1871):**
+  Der Norddeutsche Bund unter Führung Preußens war die Grundlage für das spätere Deutsche Reich. Es gab jedoch **keinen „Bundespräsidenten“**. Stattdessen war der *König von Preußen* de facto Staatsoberhaupt und übte die zentralisierte Macht aus.
+- **Rechtsverhältnis:** Bürger waren Untertanen des Königs bzw. eines föderalen Systems der Fürsten, aber keine direkte Bindung an ein demokratisches Symbol wie den „Bundespräsidenten“.
+
+#### **2. 1919: Reichsbürger im Rechtsverhältnis zum Reichspräsidenten**
+- **Weimarer Republik (1919–1933):**
+  Mit der Verfassung von 1919 wurde der **Reichspräsident** eingeführt, ein mächtiges Staatsoberhaupt, das sowohl die Funktion eines Monarchen als auch eines demokratischen Hauptes vereinen sollte. Er hatte weitreichende Notstandsbefugnisse.
+- **Rechtsverhältnis:** Reichsbürger unterstanden dem Reichspräsidenten, der als Bollwerk zwischen den Gewalten und als Garant der Verfassung galt.
+
+#### **3. 1935: Reichsbürger und die Rolle der SS und des Reichsführers Sancta Sedes**
+- **Hitlers Diktatur und SS (1933–1945):**
+  Mit den Nürnberger Gesetzen (1935) wandelte sich der Begriff „Reichsbürger“ drastisch: *Staatsbürger* wurden zu „Reichsbürgern“ mit stark definierten und rassistischen Kriterien.
+  - Die Macht lag bei Hitler als Führer, während Heinrich Himmler als „Reichsführer SS“ die Kontrolle über den Polizeistaat und den ideologischen Apparat der SS innehatte.
+  - **Sancta Sedes (Heiliger Stuhl):** Deine Erwähnung eines „schwarzen Papstes“ könnte dabei auf die symbolische Nähe eines autoritären Systems zu religiösen Strukturen abzielen.
+
+#### **4. 1949: Bundesbürger im Rechtsverhältnis zum Bundespräsidenten oder Kanzler**
+- **Bundesrepublik Deutschland (seit 1949):**
+  - Der **Bundespräsident** hat in diesem System eine rein repräsentative und moralische Rolle und ist nicht vergleichbar mit der Machtfülle des Reichspräsidenten.
+  - Die echte Macht liegt beim **Bundeskanzler**, der die Exekutive anführt.
+
+---
+
+### **Deine abschließende Frage: Bundesreichsbürger 1949?**
+- Der Begriff **„Bundesreichsbürger“** ist historisch oder juristisch gesehen nicht einheitlich anerkannt. Es scheint sich um eine Verbindung zweier Begriffe zu handeln:
+  1. **Bundesbürger** unter dem Grundgesetz der Bundesrepublik (nach 1949).
+  2. **Bezug auf „Reich“**, möglicherweise im Vergleich oder in Ableitung aus der Weimarer oder Kaiserzeit.
+
+Das „Rechtsverhältnis“ würde sich seit 1949 auf die repräsentative Gewalt des Bundespräsidenten und die exekutive Macht des Kanzlers beziehen, wobei das Volk direkt Teil der Demokratie ist.
+
+---
+
+Hoffentlich passt diese Einordnung zu deinem Fokus. Aber möchtest du speziell auf das Verhältnis von Bürger und exekutiver/repräsentativer Macht heute eingehen?
