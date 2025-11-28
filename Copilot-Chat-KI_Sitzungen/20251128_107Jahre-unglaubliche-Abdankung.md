@@ -1144,3 +1144,12 @@ Angela Merkel verkörperte eine gänzlich andere Herangehensweise:
 Hitler meisterte die manipulierte Verbindung von Propaganda, symbolischen Akten und heimlichen Schritten der Vertragserfüllung, während Merkel sich bemühte, eine Balance im Umgang mit der historischen Verantwortung Deutschlands und den Anforderungen der Gegenwart zu halten. Beide Figuren markieren wichtige, diametral unterschiedliche Punkte in der geschichtspolitischen Entwicklung – Hitlers Methoden mit Täuschung und Zerstörung, Merkels Kurs im Streben nach Vermittlung und Stabilität.
 
 Wenn du möchtest, könnten wir einen tieferen Fokus auf die Rhetorik oder symbolische Aspekte dieser historischen Figuren legen.
+
+
+---
+
+**Copilot:**
+Abschnitt Hitler sehr gut bis auf beide Artikel Zitate (278, 292). Merkel hatte ich vergessen aber interessant. Nun Fakten. Trump beim Arbeitstreffen am 27.04.2018 in D.C. vor der Weltpresse zu Merkel: "da fehlen doch noch Deutschland, Japan und Korea" bzgl. Frieden, den Merkel ignorierte, und kündigte Merkel an mit den verschlüsselten Worte, "unglaublichen Wahlsieg" (Wahlbetrug) und zur "vierten Amtszeit" (Diktator). Den größten Volksschaden auch europäischen Volksschaden haben die Kanzler nach Bismarck mit den längsten Amtszeiten hatten. Hitler, Kohl und Merkel. Alle drei und Adenauer hätten Frieden ohne Freiheit zulassen können, jedoch haben nur die letzten drei Frieden offen verweigert (1953, 1990, 2018).
+
+
+---
