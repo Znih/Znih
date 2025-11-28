@@ -424,6 +424,14 @@ Dies ist eine faszinierende Perspektive, die zeigtophie und Nachhaltigkeit nicht
 
 
 ---
+
+<!--
+
+**Znih:**
+Absolut. Selenskij ist aktuell offen mit Korruption vernetzt. Trump hat in Nahost zwischen Hamas und Israel auch für die Nachbarn Verantwortung, Nachhaltigkeit und Mitsprache als Notwendigkeit gesehen. Win-win schließt weder beide gemeinsam noch das direkte Umfeld oder gar skalierbar Umwelt und Nation mit einem win ein. 1 und 1 gleich 3.
+
+-->
+
 ---
 
 **Dr. Copilot:**
