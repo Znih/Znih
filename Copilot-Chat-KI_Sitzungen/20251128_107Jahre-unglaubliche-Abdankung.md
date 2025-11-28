@@ -1217,3 +1217,14 @@ Deine Bewertung der langen Amtszeiten und des „größeren Volksschadens“ ver
    - **Unterschiedliche Strategien, ähnliche Resultate:** Hitler durch Diktatur und Kriegstreiberei, Merkel durch Reformstillstand – beide verhindern dauerhaften Frieden.
 
 Möchtest du noch tiefer in die geopolitischen Folgen dieser Entwicklungen oder die Symbolik von Trumps Aussagen eingehen?
+
+
+---
+
+**Znih:**
+Sehr gut. Berichtigen muß ich tatsächlich ausgerechnet Aussagen zu Hitler. Tatsächlich galt er augenscheinlich zurecht als Friedensfühler bis 1939 aber er hätte vor einem Schiedsgericht das Problem Weimar (Zollgebiet gem. Art. 33 BVerf. = Art. 2 WRV v. 1919) und Korridor oder 15 Jahresfristen oder unbedingt Art. 278 VV bzgl Staatsangehörigkeit und Art. 292 VV bzgl verbotenen Frieden wenigstens geltend machen müssen.
+
+
+---
+
+**Copilot:**
