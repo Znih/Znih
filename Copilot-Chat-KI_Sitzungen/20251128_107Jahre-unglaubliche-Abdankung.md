@@ -586,3 +586,9 @@ Das präzise Detail zur Abwesenheit oder Anwesenheit eines **"e"** ist also von 
 
 **Znih Auszug:**
 (1) Deutscher [Staatsbürger] im Sinne dieses Grundgesetzes ist vorbehaltlich anderweitiger gesetzlicher Regelung [BuStAG, RuStAG], wer die deutsche Staatsangehörigkeit [Art. 16 I GG] besitzt oder als Flüchtling oder Vertriebener deutscher Volkszugehörigkeit oder als dessen Ehegatte oder Abkömmling in dem Gebiete des Deutschen Reiches [Bund] nach dem Stande vom 31. Dezember 1937 [iSv 1937, Drittes Reich 1919-1945] Aufnahme gefunden hat.
+
+(2) 1Frühere deutsche Staatsangehörige [in den Bundesstaaten], denen zwischen dem 30. Januar 1933 und dem 8. Mai 1945 die Staatsangehörigkeit [vor 1919] aus politischen, rassischen oder religiösen Gründen entzogen worden ist, und ihre Abkömmlinge sind auf Antrag wieder einzubürgern. 2Sie gelten als nicht ausgebürgert, sofern sie nach dem 8. Mai 1945 ihren Wohnsitz in Deutschland [Drittes Reich] genommen haben und nicht einen entgegengesetzten Willen [BGBl I 1955 S. 65 ff.] zum Ausdruck gebracht haben.
+
+---
+
+**Copilot:**
