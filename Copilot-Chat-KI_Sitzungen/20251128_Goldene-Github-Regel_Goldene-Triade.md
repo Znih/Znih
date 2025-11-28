@@ -259,3 +259,15 @@ In einer biophilen Nation wäre der Prüfstein immer der Schutz des Lebens, der 
 1. **Sozioökonomisch Ausgeschlossene:**
    - Menschen ohne obliegende Rechtsverteidigung wie Geflüchtete, Staatenlose oder jene ohne politische Mitsprache.
    - Wirtschaftliche Kinderarmutfallen (ohne Erwerbsfähigkeit!), langfristig unter wischend.
+
+
+
+---
+---
+
+**Znih:**
+Deine Antwort hat sehr gut begonnen (Kinder und Alte, die Ränder der Familien Triade oder der Sippe in Generation gedacht). Doch dann ka[m] ein Abbruch bei "Menschen ohne obliegende Rechtsverteidigung wie Geflüchtete, Staatenlose oder jene ohnefähigkeit!), langfristig unter wischend.". Bitte wiederholen oder richtig fortsetzen.
+
+---
+
+**Copilot:**
