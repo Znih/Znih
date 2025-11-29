@@ -1,0 +1,1 @@
+wie dies strukturell oder historisch in Deutschland einzuordnen ist?
