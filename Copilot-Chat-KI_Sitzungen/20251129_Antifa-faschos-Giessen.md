@@ -815,3 +815,30 @@ Artikel 278 und 292 des Versailler Vertrages lassen sich unter dem Gesichtspunkt
 ---
 
 Soll ich Beispiele oder Anwendungsbereiche für moderne Parallelen zu diesen Artikeln ausarbeiten? Oder gibt es spezielle weitere Aspekte, die beleuchtet werden sollen?
+
+
+---
+---
+
+**Copilot:**
+Hier sind die Artikel 278 und 292 des Versailler Vertrags von 1919:
+
+---
+
+### **Artikel 278 (VV 1919):**
+Dieser Artikel betrifft die **vorübergehende Aufrechterhaltung von Handelsvertragspflichten**, bis neue spezifische Abmachungen getroffen werden. Die wichtigste Intention war, internationale Verpflichtungen (z. B. Handelsvereinbarungen) zwischen den Beteiligten nicht abrupt enden zu lassen, sodass ein geordneter Übergang gewährleistet wird.
+
+- **Wortlaut (sinngemäß zusammengefasst):**
+  "Soweit durch die Einwirkung des Krieges freigewordene Handelsverträge nicht durch spezifische neue Regelungen abgelöst werden, sollen sie so interpretiert werden, dass ihre Wirkung beibehalten wird, bis sie durch die nach Kriegsende getroffenen Vereinbarungen ersetzt werden."
+
+---
+
+### **Artikel 292 (VV 1919):**
+Artikel 292 behandelt rechtliche Fragen in Bezug auf **die Behandlung von Verpflichtungen, insbesondere Forderungen gegenüber feindlichen Mächten**, und regelte eine klare juristische Linie, um die Durchsetzung solcher Ansprüche während der Nachkriegsjahre zu ordnen.
+
+- **Wortlaut (sinngemäß zusammengefasst):**
+  "Die Vertragsstaaten verpflichten sich, die Einhaltung wirtschaftlicher Verpflichtungen, die vor oder während des Krieges eingegangen wurden, zu wahren und gemäß einer geordneten Regelung fortzuführen oder anzupassen."
+
+---
+
+Falls weitere historische oder analytische Einblicke in die Bedeutung dieser Artikel im Kontext des Versailler Vertrags oder moderner Anwendungen gewünscht sind, lassen Sie es mich wissen!
