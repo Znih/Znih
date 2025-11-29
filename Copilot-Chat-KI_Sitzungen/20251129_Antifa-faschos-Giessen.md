@@ -61,3 +61,34 @@ Super Antwort. Ja bitte "wie dies strukturell oder historisch in Deutschland ein
 ---
 
 **Copilot:**
+Am 29. November 2025 finden in Gießen groß angelegte Antifa-Demonstrationen und Gegenproteste gegen die Neugründung der AfD-Jugendorganisation „Generation Deutschland“ statt. Die Aktion wird von zahlreichen antifaschistischen, linken und zivilgesellschaftlichen Bündnissen (wie „Omas gegen Rechts“, Gewerkschaften, Sozialistische Studentenbünde und dem Bündnis „Widersetzen“) getragen. Insgesamt sind etwa 30 Demonstrationen, Kundgebungen und Mahnwachen für den Tag angemeldet, zu denen bis zu 50.000 – teils sogar 57.000 – Teilnehmer erwartet werden, was eine enorme Belastung für die Stadt mit rund 90.000 Einwohnern darstellt[[1]](https://de.euronews.com/2025/11/29/afd-demo-giessen)[[2]](https://www.mittelhessen.de/lokales/kreis-giessen/giessen/giessen-liveticker-proteste-afd-jugendorganisation-polizei-demo-blockaden-5189008)[[3]](https://www.youtube.com/watch?v=ZSrOCwrrKpQ)[[4]](https://www.dw.com/de/in-giessen-gruendung-der-afd-jugendorganisation-generation-deutschland-nachfolger-junge-alternative/g-74950409).
+
+**Situation am Morgen:**
+- Bereits früh wurden zahlreiche Straßen, Autobahnen und Kreisverkehre blockiert. Die Polizei ist mit einem der größten Einsätze der Landesgeschichte vor Ort und rechnet mit gewaltbereiten Gruppierungen neben friedlichen Protestarten wie Sitzblockaden.
+- Am Bahnhof Gießen sowie rund um die Messehallen, dem Ort des AfD-Kongresses, sind Demonstrierende präsent. Es kam bereits zu Steinewürfen auf Polizisten und versuchten Durchbrüchen von Absperrungen. Die Polizei setzte Wasserwerfer ein, um Blockaden aufzulösen, und es wurden Verletzungen unter Einsatzkräften gemeldet[[5]](https://www.welt.de/politik/deutschland/article692a7ddae9b1296b9ef97707/giessen-ticker-massenprotest-gegen-afd-jugend-beginnt-polizisten-mit-steinen-beworfen-liveticker.html)[[4]](https://www.dw.com/de/in-giessen-gruendung-der-afd-jugendorganisation-generation-deutschland-nachfolger-junge-alternative/g-74950409).
+
+**Hintergrund:**
+- Anlass ist die offizielle Gründung der neuen AfD-Jugendorganisation, nachdem die „Junge Alternative“ wegen Einstufung als rechtsextrem durch den Verfassungsschutz aufgelöst wurde.
+- Die Proteste richten sich gegen die Normalisierung und Institutionalisierung rechter Jugendstrukturen in Deutschland und werden von einem breiten gesellschaftlichen Spektrum getragen, das sich klar gegen Faschismus positioniert[[6]](https://antifa-info.net/2025/11/18/der-sueden-faehrt-nach-giessen/).
+
+**Behördliche Maßnahmen und Einschränkungen:**
+- Die Stadt Gießen hat zahlreiche Straßen gesperrt und rigide Sicherheitsmaßnahmen erlassen; Buslinien werden umgeleitet, der Bahnverkehr bleibt regulär.
+- Das Verwaltungsgericht hat Demo-Verbote und Beschränkungen teilweise aufgehoben, sodass Proteste auch in Nähe zum Veranstaltungsgelände stattfinden dürfen. Dennoch gibt es strenge Vorgaben für Lautstärke und Versammlungsorte, um die Sicherheit von Versammlungsfreiheit und Rettungswegen zu gewährleisten[[7]](https://www.ffh.de/nachrichten/hessen/mittelhessen/451935-demo-wochenende-in-giessen-das-muessen-sie-wissen.html)[[8]](https://www.giessener-anzeiger.de/stadt-giessen/gericht-kippt-giessener-demo-verbote-gegen-afd-jugendtreffen-94059003.html).
+
+**Stimmung und Strategie der Proteste:**
+- Das Bündnis „Widersetzen“ spricht von der „größten antifaschistischen Mobilisierung, die Gießen je erlebt hat“ und kündigt an, der AfD keinen Raum für „Menschenfeindlichkeit“ zu lassen. Viele Demonstranten setzen auf friedlichen Widerstand, bunte Aktionen und zivilen Ungehorsam; es gibt jedoch auch Hinweise auf militante Gruppen und direkte Konfrontationen.
+- Die Polizei mahnt zur Besonnenheit, ist aber auf Ausschreitungen vorbereitet[[3]](https://www.youtube.com/watch?v=ZSrOCwrrKpQ)[[4]](https://www.dw.com/de/in-giessen-gruendung-der-afd-jugendorganisation-generation-deutschland-nachfolger-junge-alternative/g-74950409).
+
+**Fazit:**
+Die Antifa-Demo in Gießen 2025 ist ein zentrales Ereignis der Protestkultur gegen Rechts in Deutschland, mit massiven Blockaden, gesellschaftlichem Rückhalt – aber auch mit deutlicher Eskalationsgefahr. Die Lage bleibt dynamisch, während Stadt und Einsatzkräfte vor großen organisatorischen wie sicherheitsrelevanten Herausforderungen stehen. Für aktuelle Entwicklungen sind Liveticker der lokalen und überregionalen Medien empfehlenswert[[2]](https://www.mittelhessen.de/lokales/kreis-giessen/giessen/giessen-liveticker-proteste-afd-jugendorganisation-polizei-demo-blockaden-5189008)[[5]](https://www.welt.de/politik/deutschland/article692a7ddae9b1296b9ef97707/giessen-ticker-massenprotest-gegen-afd-jugend-beginnt-polizisten-mit-steinen-beworfen-liveticker.html).
+
+---
+
+1. [Blockaden in Gießen: Massenproteste gegen Gründungstreffen der AfD ...](https://de.euronews.com/2025/11/29/afd-demo-giessen)
+2. [Liveticker aus Gießen: Polizei meldet Straßenblockaden und Abseilaktion](https://www.mittelhessen.de/lokales/kreis-giessen/giessen/giessen-liveticker-proteste-afd-jugendorganisation-polizei-demo-blockaden-5189008)
+3. [GIEßEN: AfD-Jugend vor Neugründung! Antifa kündigt massive ...](https://www.youtube.com/watch?v=ZSrOCwrrKpQ)
+4. [Gründung der AfD-Jugendorganisation: Stadt Gießen blockiert](https://www.dw.com/de/in-giessen-gruendung-der-afd-jugendorganisation-generation-deutschland-nachfolger-junge-alternative/g-74950409)
+5. [Gießen-Ticker: +++ Massenprotest gegen AfD-Jugend beginnt - WELT](https://www.welt.de/politik/deutschland/article692a7ddae9b1296b9ef97707/giessen-ticker-massenprotest-gegen-afd-jugend-beginnt-polizisten-mit-steinen-beworfen-liveticker.html)
+6. [Der Süden fährt nach Gießen - antifa-info.net](https://antifa-info.net/2025/11/18/der-sueden-faehrt-nach-giessen/)
+7. [AfD Demo-Wochenende in Gießen: Das müsst ihr wissen - FFH.de](https://www.ffh.de/nachrichten/hessen/mittelhessen/451935-demo-wochenende-in-giessen-das-muessen-sie-wissen.html)
+8. [Gericht kippt Gießener Demo-Verbote gegen AfD-Jugendtreffen](https://www.giessener-anzeiger.de/stadt-giessen/gericht-kippt-giessener-demo-verbote-gegen-afd-jugendtreffen-94059003.html)
