@@ -25,3 +25,12 @@ Für weitergehende Quellen empfiehlt sich ein Blick in die Partei- und Kirchenge
 2. [Die deutschen Parteien seit 1945 | Parteien in Deutschland | bpb.de](https://www.bpb.de/themen/parteien/parteien-in-deutschland/42047/die-deutschen-parteien-seit-1945/)
 3. [Jesuiten in Deutschland - Kolleg St. Blasien](https://www.kolleg-st-blasien.de/jesuiten-deutschland)
 4. [Jesuiten, SJ (Gesellschaft Jesu – Societas Jesu), Jesuiten in ...](https://www.erzbistum-koeln.de/erzbistum/orden/maennerorden/jesuiten/index.html)
+
+---
+
+**Znih:**
+Sehr gut aber wo bleibt der Erste Teil meiner Aussage?
+
+---
+
+**Copilot:**
