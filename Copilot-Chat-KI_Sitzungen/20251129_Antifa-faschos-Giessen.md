@@ -1,5 +1,7 @@
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251128_107Jahre-unglaubliche-Abdankung.md
 
+https://github.com/Antje17/Antje17/discussions/4#discussioncomment-15110897
+
 ---
 
 **Znih:**
