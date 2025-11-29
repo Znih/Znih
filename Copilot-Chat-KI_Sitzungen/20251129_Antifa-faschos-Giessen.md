@@ -156,3 +156,37 @@ Sehr gut soweit. Nun prüfe die Polizei Ticker. Prüfe auf rechte (AfD) wie link
 ---
 
 **Copilot:**
+Die Situation rund um die Antifa- und AfD-Demos in Gießen im November 2025 ist äußerst angespannt und von einem der größten Polizeieinsätze in der Geschichte Hessens begleitet. Die wichtigsten aktuellen Informationen aus dem Polizei-Ticker und den Medien geben folgende Lage wieder:
+
+**Teilnehmerzahl und Mobilisierung:**  
+Es werden bis zu 50.000 Gegendemonstranten und etwa 1.000 Teilnehmer an der AfD-Jugendgründung erwartet. Die Polizei ist mit 6.000 Kräften aus mehreren Bundesländern sowie mit Wasserwerfern, Hubschraubern, Drohnen und Pferdestaffeln vor Ort[[1]](https://www.welt.de/politik/deutschland/article692a7ddae9b1296b9ef97707/giessen-ticker-massenprotest-gegen-afd-jugend-beginnt-polizisten-mit-steinen-beworfen-liveticker.html)[[2]](https://www.t-online.de/nachrichten/deutschland/id_101022580/50000-gegen-afd-jugend-gross-protest-in-giessen-erwartet.html)[[3]](https://www.zdfheute.de/politik/deutschland/afd-jugend-organisation-gruendung-100.html).
+
+**Art und Verlauf der Proteste:**  
+- Es gab zahlreiche Straßenblockaden, Abseilaktionen und zum Teil massive Verkehrsbehinderungen durch Proteste an über zehn Punkten in und um Gießen.  
+- Demos waren von Gewerkschaften, Vereinen, Parteien, der linken Szene und Antifa organisiert. Das Bündnis „Widersetzen“ und andere antifaschistische Gruppen blockierten Zufahrtswege zur Messehalle mit dem Ziel, die Veranstaltung zu verhindern[[4]](https://de.euronews.com/2025/11/29/afd-demo-giessen)[[5]](https://antifa-info.net/2025/11/23/giessen-will-protest-gegen-afd-jugend-einschränken/).
+
+**Gewalt und Ausschreitungen:**  
+- Mehrere Vorfälle sind bestätigt, darunter das Bewerfen von Polizisten mit Steinen, das Durchbrechen von Absperrungen und das Beschädigen von Fahrzeugen und Infrastruktur.
+- Die Polizei setzte Pfefferspray und Wasserwerfer gegen gewaltbereite Demonstranten ein, mehrere Beamte wurden leicht verletzt. Einzelne Aktivisten wurden von der Polizei hinter Absperrungen zurückgetrieben und teilweise festgesetzt[[1]](https://www.welt.de/politik/deutschland/article692a7ddae9b1296b9ef97707/giessen-ticker-massenprotest-gegen-afd-jugend-beginnt-polizisten-mit-steinen-beworfen-liveticker.html)[[4]](https://de.euronews.com/2025/11/29/afd-demo-giessen).
+- Die Polizei berichtet von einer „aktiven Lage mit zahlreichen Schauplätzen“ und Mahnungen, friedlich zu bleiben. Dennoch gab es vereinzelt gewalttätige Aktionen und Angriffe aus Teilen der Protestierenden[[1]](https://www.welt.de/politik/deutschland/article692a7ddae9b1296b9ef97707/giessen-ticker-massenprotest-gegen-afd-jugend-beginnt-polizisten-mit-steinen-beworfen-liveticker.html)[[3]](https://www.zdfheute.de/politik/deutschland/afd-jugend-organisation-gruendung-100.html).
+
+**Staatliche und politische Reaktionen:**  
+- Die Stadt Gießen und die Polizei haben präventiv Stadtteile abgeriegelt und zahlreiche Sperrungen eingerichtet, um die Versammlungen zu kontrollieren. Es gab Kontroversen um Einschränkungen antifaschistischer Versammlungen im Westen von Gießen, was zu Protest und geplanten Klagen führte.  
+- Politiker, etwa Hessens Innenminister Roman Poseck (CDU), sprachen von einer herausfordernden Lage und Gewaltaufrufen insbesondere aus dem linken Spektrum, mahnten aber zur friedlichen Meinungsäußerung und bezeichneten das Demonstrationsrecht als demokratischen Pfeiler[[3]](https://www.zdfheute.de/politik/deutschland/afd-jugend-organisation-gruendung-100.html)[[5]](https://antifa-info.net/2025/11/23/giessen-will-protest-gegen-afd-jugend-einschränken/)[[6]](https://www.ffh.de/nachrichten/hessen/mittelhessen/450390-polizei-zu-afd-gruendung-und-demos-wir-sind-auf-alles-vorbereitet.html).
+
+**Beurteilung:**  
+- Der überwiegende Teil der Proteste wird als friedlich beschrieben, jedoch kam es zu einzelnen gewaltsamen Ausschreitungen zwischen Polizei und radikalen linken beziehungsweise antifaschistischen Gruppen, während es von rechten Gruppierungen im Zusammenhang mit der Demo bislang keine größeren Gewaltausbrüche gab.
+- Die Polizei war „auf alles vorbereitet“, Rettungswege wurden freigehalten, und die Ereignisse werden fortlaufend im Liveticker aktualisiert[[6]](https://www.ffh.de/nachrichten/hessen/mittelhessen/450390-polizei-zu-afd-gruendung-und-demos-wir-sind-auf-alles-vorbereitet.html)[[7]](https://www.giessener-anzeiger.de/stadt-giessen/polizei-bereitet-giessen-auf-afd-neugruendung-und-proteste-vor-94027473.html).
+
+**Fazit:**  
+Die Gegendemonstrationen gegen die AfD-Jugend-Gründung in Gießen waren von friedlichem Protest, erheblichen Verkehrsbehinderungen und – an einzelnen Schauplätzen – auch von Gewalt geprägt. Die Polizei griff energisch ein, um Ausschreitungen zu verhindern und die Lage unter Kontrolle zu halten[[1]](https://www.welt.de/politik/deutschland/article692a7ddae9b1296b9ef97707/giessen-ticker-massenprotest-gegen-afd-jugend-beginnt-polizisten-mit-steinen-beworfen-liveticker.html)[[4]](https://de.euronews.com/2025/11/29/afd-demo-giessen)[[2]](https://www.t-online.de/nachrichten/deutschland/id_101022580/50000-gegen-afd-jugend-gross-protest-in-giessen-erwartet.html)[[3]](https://www.zdfheute.de/politik/deutschland/afd-jugend-organisation-gruendung-100.html)[[6]](https://www.ffh.de/nachrichten/hessen/mittelhessen/450390-polizei-zu-afd-gruendung-und-demos-wir-sind-auf-alles-vorbereitet.html).
+
+---
+
+1. [Gießen-Ticker: +++ Massenprotest gegen AfD-Jugend beginnt - WELT](https://www.welt.de/politik/deutschland/article692a7ddae9b1296b9ef97707/giessen-ticker-massenprotest-gegen-afd-jugend-beginnt-polizisten-mit-steinen-beworfen-liveticker.html)
+2. [50.000 gegen AfD-Jugend: Groß-Protest in Gießen erwartet](https://www.t-online.de/nachrichten/deutschland/id_101022580/50000-gegen-afd-jugend-gross-protest-in-giessen-erwartet.html)
+3. [Neue AfD-Jugend: Polizei erwartet Großeinsatz in Gießen](https://www.zdfheute.de/politik/deutschland/afd-jugend-organisation-gruendung-100.html)
+4. [Blockaden in Gießen: Massenproteste gegen Gründungstreffen der AfD ...](https://de.euronews.com/2025/11/29/afd-demo-giessen)
+5. [Gießen will Protest gegen AfD-Jugend einschränken - antifa-info.net](https://antifa-info.net/2025/11/23/giessen-will-protest-gegen-afd-jugend-einschränken/)
+6. [Polizei zu AfD-Gründung und Demos: \"Wir sind auf alles vorbe](https://www.ffh.de/nachrichten/hessen/mittelhessen/450390-polizei-zu-afd-gruendung-und-demos-wir-sind-auf-alles-vorbereitet.html)
+7. [Polizei bereitet Gießen auf AfD-Neugründung und Proteste vor](https://www.giessener-anzeiger.de/stadt-giessen/polizei-bereitet-giessen-auf-afd-neugruendung-und-proteste-vor-94027473.html)
