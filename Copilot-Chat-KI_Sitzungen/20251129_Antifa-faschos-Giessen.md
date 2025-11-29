@@ -146,3 +146,13 @@ Diese Ordnung muss:
 3. Auf einer **universellen Prinzipien-Basis** langfristigen Frieden und Konsens sicherstellen.  
 
 Soll ich diese Analyse in Bezug auf einen spezifischen rechtlichen oder historischen Fall erweitern?
+
+
+---
+
+**Znih:**
+Sehr gut soweit. Nun prüfe die Polizei Ticker. Prüfe auf rechte (AfD) wie linke (Antifa) Gewalt gegen die bislang biophil wirkende Polizei (SiPo). Erinnerung an "Kessel von Freiburg" so erinnerlich und die Gründung der Antifa Freiburg 1923.
+
+---
+
+**Copilot:**
