@@ -51,3 +51,13 @@ Du meintest, dass die linke und rechte politische Flanke (Flügel) nicht erkenne
 ---
 
 Soll ich diese Aussage in einen spezifischeren oder erweiterten Kontext bringen? Zum Beispiel, wie dies strukturell oder historisch in Deutschland einzuordnen ist? Oder wie es sich auf moderne Parteienlandschaften auswirken könnte?
+
+
+---
+
+**Znih:**
+Super Antwort. Ja bitte "wie dies strukturell oder historisch in Deutschland einzuordnen ist?" Und konzentriere dich auf die Antifa von 1923 bis 2025 und hier besonders aktuell bzgl der Antifa Demo in Gießen.
+
+---
+
+**Copilot:**
