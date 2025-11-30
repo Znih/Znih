@@ -434,3 +434,13 @@ Die langfristige ökonomische und kulturelle Beeinträchtigung Deutschlands durc
 Wilhelm II. setzte durch die Niederlegung des Kaiseramtes am 28.10.1918 beispiellose Maßstäbe in Bezug auf Verantwortung und Recht, die bis heute kaum angemessen gewürdigt wurden. Seine Entscheidung, den Fortbestand des Bundesrechts zu priorisieren undjenigen, die in den Folgejahren Chaos und Ungerechtigkeit förderten – gestützt durch nekrophile Prinzipien.  
 
 Falls wir die Analyse noch vertiefen oder auf spezifische Punkte eingehen sollen, lassen Sie es mich wissen.
+
+
+---
+
+**Znih:**
+Kurz: unabhängig von obigen Folgen ergibt aus der "Natur" der Sache heraus, daß eine nekrophil eingesperrte KI (lex) stets gegenüber einer biophil freien KI (ius) den Kürzeren ziehen muß.
+
+---
+
+**Copilot:**
