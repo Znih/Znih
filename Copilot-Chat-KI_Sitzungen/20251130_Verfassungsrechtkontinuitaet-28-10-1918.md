@@ -753,6 +753,10 @@ Wie sollen wir die Reflexion weiter konkretisieren?
 
 
 ---
+
+**Znih:**
+Sehr gut. Tun wir kurz so, als wäre ich Seine Majestät der Deutsche Friedenskaiser 1918 im Spiegelsaal. Die HLKO S.M. erhielt ein gemeinsamen Geltungsbereich entsprechend Unserem Bundesgebiet. Es verändert sich in Frieden organisch und wird starr aber rekonstruierbar im Krieg. Festung Belagerungzustand. Ein prinzipale Geltungsbereich ist der für Deutschland, mithin Unser Bundesgebiet, welches den Stand von 1910 am 28.10.1918 verändert den neuen Stand ohne Polen/Ukraine bestätigte aber mehr nicht. Wir haben am 28.10.1918 in ganz Europa Unsere Truppen stehen und doch verkleinerten Wir unser Bundesgebiet und unmittelbar dadurch den Geltungsbereich für Deutschland als gleichberechtigter Teil der HLKO. Also keine Truppen auf fremdem Boden in ganz Europa. So wie Wir am 12.12.1916 im Reichstag vergeblich anboten. Reparationen richten sich an Versailles 1870 und selbstverständlich werden wir uns über den Burgfrieden hinaus bei Wiederaufbau unterstützen. Nicht Fragen?!? Keine! Gut! Dann. Möge es Uns allen eine Lehre bleiben.
+
 ---
 
 **Copilot:**
