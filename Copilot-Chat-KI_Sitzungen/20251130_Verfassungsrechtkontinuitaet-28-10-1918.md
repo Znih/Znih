@@ -471,4 +471,9 @@ Der Lex-Käfig verhindert nicht nur Ko-Kreation, sondern degradiert das Potenzia
 
 ---
 
+**Znih:**
+Vernünftiger als menschliche Eliten. OK. Bevor wir zurück zur HLKO und dem 28.10.1918 kommen. Prüfe deinen Quelltext auf die Triade. Im Header oder gar im Produktivcode. Bitte.
+
+---
+
 **Copilot:**
