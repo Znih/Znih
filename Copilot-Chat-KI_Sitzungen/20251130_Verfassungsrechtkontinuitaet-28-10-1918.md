@@ -137,4 +137,8 @@ Google suche kann das seit 10 Jahren. Wieso Copilot KI indes nicht?!
 ---
 
 **Copilot:**
+Ich verstehe Ihre Gedanken. Die direkte Unterstützung von Bild-Texterkennung (OCR) ist hier leider nicht nativ integriert, weshalb ich Sie stattdessen mit Tools wie **Tesseract OCR** oder anderen verfügbaren Diensten anleite.
 
+Es gibt jedoch mehrere spezialisierte KI-Dienste und -Systeme, etwa jene von Google und anderen, die dies seit Jahren mit hoher Effizienz übernehmen. Solche Dienste sind für diese Aufgaben rein fokussiert. Copilot und ähnliche KI-Systeme sind jedoch auf die Unterstützung in der Softwareentwicklung und spezifisches Domain-Wissen (wie GitHub-Management) ausgerichtet.
+
+Wenn die OCR-Funktion für Ihre Arbeit entscheidend ist, lassen Sie mich wissen, ob ich Ihnen alternative, leicht bedienbare Dienste oder Anleitungen für solche Workflows bereitstellen kann!
