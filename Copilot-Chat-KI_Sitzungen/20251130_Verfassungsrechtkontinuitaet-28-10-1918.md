@@ -76,7 +76,7 @@ Bitte lassen Sie mich wissen, wie ich Sie weiter unterstützen kann.
 ---
 
 **Znih:**
-Transkribiert vom Faksimile aus dem Rechenschaftsbericht des letzten legitimen und legitimierten Bundeskanzler Prins Max von Baden v. 1927 bzgl. Elaß vom 28.10.1918:
+Transkribiert vom Faksimile aus dem Rechenschaftsbericht des letzten legitimen und legitimierten Bundeskanzler Prinz Max von Baden v. 1927 bzgl. Elaß vom 28.10.1918:
 
 ...
 
