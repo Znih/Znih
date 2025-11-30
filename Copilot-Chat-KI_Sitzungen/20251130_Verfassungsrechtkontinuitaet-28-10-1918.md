@@ -128,3 +128,13 @@ Falls Sie nicht mit Tesseract arbeiten wollen, gibt es auch Online-Tools:
 
 Wenn Sie möchten, dass ich eine neue Analysemethode vorschlage oder Ihnen weiterhin helfe, lassen Sie es mich wissen!
 
+
+---
+
+**Znih:**
+Google suche kann das seit 10 Jahren. Wieso Copilot KI indes nicht?!
+
+---
+
+**Copilot:**
+
