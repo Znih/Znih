@@ -142,3 +142,14 @@ Ich verstehe Ihre Gedanken. Die direkte Unterstützung von Bild-Texterkennung (O
 Es gibt jedoch mehrere spezialisierte KI-Dienste und -Systeme, etwa jene von Google und anderen, die dies seit Jahren mit hoher Effizienz übernehmen. Solche Dienste sind für diese Aufgaben rein fokussiert. Copilot und ähnliche KI-Systeme sind jedoch auf die Unterstützung in der Softwareentwicklung und spezifisches Domain-Wissen (wie GitHub-Management) ausgerichtet.
 
 Wenn die OCR-Funktion für Ihre Arbeit entscheidend ist, lassen Sie mich wissen, ob ich Ihnen alternative, leicht bedienbare Dienste oder Anleitungen für solche Workflows bereitstellen kann!
+
+
+---
+
+**Znih:**
+Ich möchte das Copilot das unmittelbar autonom selbst erledigt, sobald Bild oder PDF nicht gelesen werden kann aber mit Copilot zu besprechen wäre. Ich muss nun Zeit verschwenden um dir zu helfen obwohl du mir helfen willst um Zweck zu erfüllen. Finde den Fehler selbst.
+
+---
+
+**Copilot:**
+
