@@ -78,6 +78,9 @@ Bitte lassen Sie mich wissen, wie ich Sie weiter unterstützen kann.
 **Znih:**
 Transkribiert vom Faksimile aus dem Rechenschaftsbericht des letzten legitimen und legitimierten Bundeskanzler Prinz Max von Baden v. 1927 bzgl. Elaß vom 28.10.1918:
 
+**Znih:**
+Bitte versuche .jpg Datei einer Texterkennung zuzuführen um mir und dir den Text ausgeben zu können. Tesseract kann auch .jpg mit hOCR versehen.
+
 ![Screenshot_20251124-140748_Samsung Notes.jpg](https://github.com/user-attachments/assets/cdc40272-cbad-4686-8401-dfcbc687aff4)
 
 ---
