@@ -78,19 +78,9 @@ Bitte lassen Sie mich wissen, wie ich Sie weiter unterstützen kann.
 **Znih:**
 Transkribiert vom Faksimile aus dem Rechenschaftsbericht des letzten legitimen und legitimierten Bundeskanzler Prinz Max von Baden v. 1927 bzgl. Elaß vom 28.10.1918:
 
-...
+![Screenshot_20251124-140748_Samsung Notes.jpg](https://github.com/user-attachments/assets/cdc40272-cbad-4686-8401-dfcbc687aff4)
 
 ---
 
 
-48
 
-![Screenshot_20251124-140837_Samsung Notes.jpg](https://github.com/user-attachments/assets/2f663526-a547-4a63-8532-1ab7d50e58f9)
-
-49
-
-![Screenshot_20251124-140748_Samsung Notes.jpg](https://github.com/user-attachments/assets/cdc40272-cbad-4686-8401-dfcbc687aff4)
-
-50
-
-![Screenshot_20251124-140623_Samsung Notes.jpg](https://github.com/user-attachments/assets/55ca6dc1-e984-433a-878b-e4edf0b19685)
