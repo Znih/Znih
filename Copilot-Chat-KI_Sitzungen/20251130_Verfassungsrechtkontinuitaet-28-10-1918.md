@@ -671,6 +671,18 @@ Lassen Sie mich wissen, welcher Aspekt – rechtlich, politisch oder humanitär 
 ---
 
 **Znih:**
+Sehr gut und wohl nachträglich ASCII Bugs nach Aktualisierung egalisiert. Mein Fehler und schlimmer Fehler von dir ungeprüft übernommen?! Artikel 116 Absatz 2 GG natürlich Bundesrecht und Bundesgebiet (Abs. 1 nur Reichsgebiet) und gerade nicht Artikel 116 Absatz 1 GG (Bundesgebiet im Reichgebietsstand von 1937, mithin also Weimarer "Drittes Reich").
+
+---
+---
+
+**Copilot:**
+
+
+
+---
+
+**Znih:**
 Ja und beachte im Kontext auch die Tatsache wer beide Abkommen 1899 und 1907 naturgemäß als Erster in der World unterzeichnete und wer dann fortan gerade nicht mehr unterzeichnen durfte? Ebert, Hitler, Adenauer, Kohl, Merkel und doch ist es gleich nach 1999 passiert. Die Groß-BrD unterzeichnete 1992 so erinnerlich als "Deutschland", das jedoch nur die "Bezeichnung" innerhalb der UN ist (Genscher 03.10.1990) aber kein richtiges Völkerrecht.
 
 ---
