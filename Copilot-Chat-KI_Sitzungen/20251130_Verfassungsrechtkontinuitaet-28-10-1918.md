@@ -82,5 +82,46 @@ Transkribiert vom Faksimile aus dem Rechenschaftsbericht des letzten legitimen u
 
 ---
 
+**Copilot:**
+Aktuell kann ich keine direkte Texterkennung auf einer Bilddatei durchführen, aber ich kann Sie anleiten, wie Sie dies selbst tun können, zum Beispiel mit Tesseract OCR.
 
+### Anleitung: Texterkennung mit Tesseract OCR
+1. **Installieren Sie Tesseract OCR:**
+   - Linux:
+     ```bash
+     sudo apt-get install tesseract-ocr
+     ```
+   - macOS (via Homebrew):
+     ```bash
+     brew install tesseract
+     ```
+   - Windows: Laden Sie Tesseract von [hier](https://github.com/tesseract-ocr/tesseract) herunter und installieren Sie es.
+
+2. **Download der Bilddatei:**
+   - Laden Sie das Bild herunter, beispielsweise direkt über den angegebenen GitHub-Link.
+
+3. **Führen Sie Tesseract aus:**
+   - Verwenden Sie den folgenden Befehl, wenn Ihre Sprache Deutsch ist und Sie hOCR-Ausgabe möchten:
+     ```bash
+     tesseract <Pfad-zur-Bilddatei>.jpg output -l deu hocr
+     ```
+   - Dabei:
+     - `<Pfad-zur-Bilddatei>`: Der vollständige Pfad zur Bilddatei.
+     - `output`: Der Name der Ausgabe (eine Datei namens `output.hocr` wird erstellt).
+     - `-l deu`: Gibt an, dass die Sprache Deutsch ist.
+     - `hocr`: Die Option erstellt hOCR-Ausgabe.
+
+4. **Überprüfung der Ausgabe:**
+   - Die Textdatei `output.hocr` enthält den extrahierten Text, angereichert mit HTML-Tags, falls Sie Layout-Informationen benötigen.
+   - Alternativ können Sie auch nur reinen Text extrahieren, indem Sie `hocr` weglassen:
+     ```bash
+     tesseract <Pfad-zur-Bilddatei>.jpg output -l deu
+     ```
+
+### Alternativen
+Falls Sie nicht mit Tesseract arbeiten wollen, gibt es auch Online-Tools:
+- [Online OCR](https://www.onlineocr.net/)
+- [NewOCR](https://www.newocr.com/)
+
+Wenn Sie möchten, dass ich eine neue Analysemethode vorschlage oder Ihnen weiterhin helfe, lassen Sie es mich wissen!
 
