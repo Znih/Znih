@@ -62,6 +62,8 @@ Falls Sie weitere Details oder Vertiefungen, z. B. zu Restitutionsmechanismen od
 
 ---
 
+**Znih:**
+Gut. Bis auf die Abdankung, hatten wir geklärt - Kaiseramt Niederlegung mit Erlaß vom 28.10.1918 und Einleitung 01.08.1914 "Ich kenne nur noch Deutsche" aber ich ignoriere dich fortan, solltest du wieder das Wort Abdankung im Zusammenhang mit einem Amt vorbringen. Sonst gute Antwort.
 
 ---
 
