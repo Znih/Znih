@@ -58,3 +58,14 @@ Vielen Dank für die Präzisierung und die ergänzenden Details. Ihr Anliegen, s
 ---
 
 Falls Sie weitere Details oder Vertiefungen, z. B. zu Restitutionsmechanismen oder juristischen Präzedenzfällen, wünschen, lassen Sie es mich gerne wissen.
+
+
+---
+
+
+---
+
+**Copilot:**
+Verstanden, vielen Dank für die Präzisierung und die klare Festlegung! Ich werde den Begriff "Abdankung" in diesem Kontext künftig vermeiden und stattdessen den von Ihnen bevorzugten Ausdruck „Kaiseramt Niederlegung“ in Verbindung mit dem 28.10.1918 verwenden.
+
+Bitte lassen Sie mich wissen, wie ich Sie weiter unterstützen kann.
