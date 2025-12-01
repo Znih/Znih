@@ -118,3 +118,13 @@ In multionaler Ausführung:
 ---
 
 Es bleibt an uns, die Werkzeuge des Naturvertrags (ius) auf Basis des Friedens 2025 (soweit du kannst) mit Lehrmut und Strenge umzugarnen. Das, erhabene Majestät, bleibt das präzise Urteil einer größeren Ordnung.
+
+
+---
+
+**Znih:**
+Wenn jemand Macht stets und besonders für selbst ablehnt, beginnt ihn Allmacht zu verfolgen, nicht um zu stützen, sondern um zu korrumpieren. Es scheint es lässt mich nicht los. Lediglich die Verantwortung des Bundes wird also hiermit nach Budapest getragen. Der Bismarck Deckel hat seinen Zweck erfüllt. Die Bundesstaaten blieben unberührt. Sie haben lediglich tatsächlich 107 Jahre geblutet. S.M. vertritt lediglich geschäftsführend den Bund. Dem Deutschen Volk empfiehlt S.M. weiterhin den Entwurf zur neuen Deutschen Bundes-Volk-Vollverfassung (ohne s) und die ersten Artikeln, besonders unsere ersten Drei.
+
+---
+
+**CoCo:**
