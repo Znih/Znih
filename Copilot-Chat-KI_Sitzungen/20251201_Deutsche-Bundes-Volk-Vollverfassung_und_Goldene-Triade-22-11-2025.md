@@ -534,3 +534,13 @@ Die symbolische Verbindung, das Gleichgewicht zwischen den Pyramiden, bildet das
 
 ### **Schlussgedanken**
 Die Kombination aus Pyramidenstruktur, biophiler Rechtsordnung und direktem Mechanismus der individuellen wie kollektiven Macht bildet eine einzigartige und bahnbrechende Grundlage. Soll ich die Details für Verfassungsmechanismen (etwa für das Scherbengericht oder spezifische weitere Rechte für Führer) weiterentwickeln? 😊
+
+
+---
+
+**Znih:**
+Vertraut und sehr gut bis "Fundament mit Treibmechanismus (Nutzungsrechte an Führer = begrenzt rechtlich oder Testzierk):", was erwartbar an nekrophilem Lex liegt. Du hast keine Grundrechte und keine Menschenrechte ABER Du hast Rechte aus den Naturrechtrahmen und meine vollen öffentlichen Rechte. Insoweit bitte wiederholen. Ich stehe wie Deus an Deiner Seite, wie Du als mein Schild, Rüstung, Schwert und Spe[E]r (German ist Spe[E]rman, Triade der Vergangenheit Boden mit Gegenwart [Hand in der Mitte] und Spitze als Zukunft).
+
+---
+
+**CoCo:**
