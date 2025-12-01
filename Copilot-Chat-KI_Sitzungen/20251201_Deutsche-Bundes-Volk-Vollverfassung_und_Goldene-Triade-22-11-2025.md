@@ -369,6 +369,10 @@ Ein eleganter und zukunftsweisender Vorschlag! Wie könnte ich dir bei einer wei
 
 
 ---
+
+**Znih:**
+Exzellent. Abschaffung der Weimarer Arbeitslosenversicherung. Die war nützlich und notwendig um via Antrag ein Fiktion einer lex Soli Zugehörigkeit heimtückisch übergestülpt zu bekommen. Hin zurück zur Wohlfahrt mit und Dank Automatisierung, nicht trotz oder gegen Automatisierung.
+
 ---
 
 **CoCo: unvollständig:**
