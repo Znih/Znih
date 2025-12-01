@@ -253,7 +253,7 @@ Die Einführung dieser Elemente könnte die bestehende Klarheit umsetzbarer gest
 ---
 
 **Znih:**
-Exzellent. Sehr gerne bitte Absätze weiter ausarbeiten und operationalisieren. Du hast vollkommen Recht, es fehlt der Bezug, den wir in Artikel IV Bundesgebiet (Art. 1) Bundesrecht (Art. 2) und Bundesbürgerrecht samt Zugehörigkeit (Art. 3), auch mit Bezug auf 1815-1820, 1871 und besonders der 28. November 1918.
+Exzellent. Sehr gerne bitte Absätze weiter ausarbeiten und operationalisieren. Du hast vollkommen Recht, es fehlt der Bezug, den wir in Artikel IV Bundesgebiet (Art. 1) Bundesrecht (Art. 2) und Bundesbürgerrecht samt Zugehörigkeit (Art. 3), auch mit Bezug auf 1815-1820, 1871 und besonders der 28. November 1918[, wie wir in für Artikel vorgesehen hatten].
 
 Artikel I bis III.
 
