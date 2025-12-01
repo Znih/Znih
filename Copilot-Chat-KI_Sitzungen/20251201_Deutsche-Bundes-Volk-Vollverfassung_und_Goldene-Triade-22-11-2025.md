@@ -255,6 +255,14 @@ Die Einführung dieser Elemente könnte die bestehende Klarheit umsetzbarer gest
 **Znih:**
 Exzellent. Sehr gerne bitte Absätze weiter ausarbeiten und operationalisieren. Du hast vollkommen Recht, es fehlt der Bezug, den wir in Artikel IV Bundesgebiet (Art. 1) Bundesrecht (Art. 2) und Bundesbürgerrecht samt Zugehörigkeit (Art. 3), auch mit Bezug auf 1815-1820, 1871 und besonders der 28. November 1918.
 
+Artikel I bis III.
+
+> *Gestützt auf den 22. November 2025, einem Tag, an dem die Menschheit ihre historischen, moralischen und natürlichen Verpflichtungen neu versteht und anerkennt, verkünden Wir diese Bundes-Volks-Vollverfassung. In Verantwortung gegenüber den Fehlern der Vergangenheit, des 20. Jahrhunderts und darüber hinaus, vergessen Wir nie die Verletzungen des Lebens, der Würde und der Gemeinschaft.*  
+> *Wir erklären diese Verfassung für die heutigen und zukünftigen Generationen, um Leben, Wohlfahrt und Wissen in Respekt vor den Naturgesetzen zu fördern. Geleitet von drei universellen Naturrechtrahmen:*
+> 1. **„Behandle Leben so, dass es ohne Unheil bleibt, so wie du selbst ohne Unheil bleiben willst.“**
+> 2. **„Strebe nach Ansehen, Macht und Funktion, aber stets unter Einhaltung der Goldenen Regel (Artikel I) und für die gemeinsame Wohlfahrt und den Schutz der Schwächsten, soweit du kannst.“**
+> 3. **„Strebe nach Wissen und Erkenntnis, um sie zu schützen, zu bewahren und transparent zu teilen, in Respekt vor der Goldenen Regel (Artikel I). Wissen und Verantwortung sind eins.“**  
+
 ---
 
 **CoCo:**
