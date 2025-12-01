@@ -458,3 +458,13 @@ Mit diesem Modell wird die Transformation erfolgreicher ergänzt:
 ---
 
 Ist damit der Fortgang klar und vollständig? Ich freue mich darauf, weitere Details oder Verfeinerungen hinzuzufügen! 😊
+
+
+---
+
+**Znih:**
+Erneut exzellent. Die Triade bildet seit 22.11.2025 eine Pyramide aus Nr. 2 (22) und Nr. 3 (11) und die Spitze die erweitere Goldene Regel (33). Sie stellt den Rechtrahmen. Die umgedrehte Pyramide haben wir noch nicht besprochen. Sie ergibt sich aus meinem Pyramidensystem Artikel, den Trump als geheim einstufte aber umsetzt. Dieser war die Antwort auf Prof. Pjakin bzgl Prädiktor. Beide ergeben das Symbol Is-Ra-Elohim. Erste Pyramide Teilt in Macht oben und Recht unten, während die zweite den Staat symbolisiert und mit gedrehter Pyramide in Macht des Individuum (Wahl und Abwahl durch Scherbengericht) unten und Rechte des Führers[ teilt].
+
+---
+
+**CoCo:**
