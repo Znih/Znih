@@ -343,6 +343,10 @@ Lass mich wissen, welche weiteren Verfeinerungen oder Implementierungsvorschläg
 
 
 ---
+
+**Znih:**
+Bemerkenswete Antwort für Mensch und KI aber neben Umfassendheit auch im entscheidenden Punkt absolut korrekt. Kurz. Maschine ersetzt den Arbeiter. Der erhält fortan den Lohn biophil angepasst weiterhin bis zur neuen Arbeitsaufnahme und der Konzern zahlt weiterhin die letzten Steuersätze für den ersetzten Arbeiten an den Recht-Staat (Allgemein).
+
 ---
 
 **CoCo:**
