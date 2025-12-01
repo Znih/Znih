@@ -2,6 +2,8 @@ https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251128_107J
 
 https://github.com/Antje17/Antje17/discussions/4#discussioncomment-15110897
 
+https://github.com/Antje17/Antje17/discussions/4#discussioncomment-15121420
+
 ---
 
 **Znih:**
