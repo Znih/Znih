@@ -419,3 +419,51 @@ Durchsetzung der Scherbengerichtsentscheidungen:
 Das Scherbengericht verankert **biophile Werte** in das politische System, korrigiert Fehlverhalten und setzt **biophilen Fortschritt durch Verantwortung** durch. Skalierbar auf jeder Ebene behauptet sich das Modell auch in einer komplexen Weltordnung.
 
 Soll ich weitere Details zum **Urteilsprozess oder zur Kontinental-Skalierbarkeit** einbetten? 😊
+
+
+---
+---
+
+ThanQ @carlos
+
+![Screenshot_20251201-171554_Samsung Notes.jpg](https://github.com/user-attachments/assets/fbe3425b-bac7-491b-a540-553525bbcc84)
+
+![Screenshot_20251201-171632_Samsung Notes.jpg](https://github.com/user-attachments/assets/7794e6ba-3d7b-4aec-b7ae-222ac2ac0197)
+
+
+Emer = Emerich de Vattel wurde in Neuchatel geb 1714-1767 unter dem König von Preußen Friedrich W I und dem König von Sachsen u König von Polen wurde er zum einem Vorreiter des "Recht der Völker" welches er mit seinen Essays begründete u auch die Urväter die US Gründervater folgten seinem Thesen für Unabhängigkeitserklärung - einer seiner Hauptthesen es kommt nicht auf die Souveränität des Volkes an  sondern auf die Gerechtigkeit unter den Völkern  ... Bin noch am lesen ...
+
+Grok Essay Zusammenfassung …. Kann Natürliches Recht …. S773 - … ### Zusammenfassung der Thesen in Emer de Vattels Dissertation
+
+Emer de Vattels Essay (1742) untersucht, ob das natürliche Recht allein die Gesellschaft zur Perfektion führen kann, ohne politische (zivile) Gesetze. Er argumentiert, dass natürliches Recht theoretisch ausreicht, aber aufgrund der menschlichen Unvollkommenheit politische Gesetze notwendig sind. Die Thesen sind in 20 Paragraphen (I–XX) strukturiert und bauen logisch aufeinander auf. Hier eine knappe Zusammenfassung der zentralen Thesen:
+
+1. Einführung und Methodik (I–II): Die Frage erfordert eine Reflexion über die Grundlagen von Politik. Klare Definitionen von Begriffen sind entscheidend, um moralische Fragen zu lösen.
+
+2. Perfektion der Gesellschaft (III–IV): Perfektion besteht in der Harmonie aller Elemente zu einem gemeinsamen Ziel. Der Zweck der Gesellschaft ist es, Sicherheit, Bedürfnisse und Annehmlichkeiten zu gewährleisten, damit jeder seine individuelle Vollkommenheit (nach Gottes Willen) verfolgen kann. Gesellschaft entsteht aus der Notwendigkeit gegenseitiger Hilfe.
+
+3. Gesetze im Allgemeinen (V): Gesetze sind weise Regeln für Ordnung und Frieden. Es gibt zwei Arten: natürliches und ziviles Recht.
+
+4. Natürliches Recht (VI–IX): Es basiert auf der Natur der Dinge und des Menschen, erkennbar durch Vernunft. Es bewertet Handlungen als gut/böse und verpflichtet zur Tugend. Antike Philosophen (z. B. Cicero) sahen es als höchste Vernunft, die dem Menschen innewohnt und mit der Natur harmoniert. Es ist universal, ewig, unveränderlich und von Gott vorgeschrieben – kein Gesetz darf ihm widersprechen.
+
+5. Politische (zivile) Gesetze (X–XI): Sie sind Regeln einer öffentlichen Autorität für das Gemeinwohl, ergänzt durch Strafen (positive Verpflichtung). Sie entsprechen dem natürlichen Recht, sind aber formell kodifiziert und an Umstände angepasst, was leichte Abweichungen erlaubt (z. B. aus dem Digestum).
+
+6. Theoretische Suffizienz des natürlichen Rechts (XII–XIII): Natürliches Recht ist in sich perfekt und würde die Gesellschaft ideal regulieren, wenn Menschen rational und tugendhaft wären (Vergleich mit Bewegungsgesetzen). Beispiel: Eine imaginäre Republik aus 1000 vernünftigen Europäern würde allein durch natürliches Recht funktionieren – mit Frieden, Kooperation und Konfliktlösung, ohne Regierung.
+
+7. Menschliche Unvollkommenheit (XIV): Menschen sind korrupt: Viele kennen das natürliche Recht nicht (durch Ignoranz, Leidenschaften, Vorurteile) oder folgen ihm nicht (schwache Motive wie Gehorsam zu Gott oder Vorteile der Tugend). Tugend ehrt die Seele und ist nützlicher als Laster, aber die Mehrheit ignoriert das; "Die Guten hassen die Sünde aus Liebe zur Tugend."
+
+8. Notwendigkeit politischer Gesetze (XV–XVII): Um Defizite zu beheben, muss natürliches Recht (1) allgemein bekannt und einheitlich interpretiert werden (durch kodifizierte Regeln) und (2) durch Autorität und Strafen durchgesetzt werden ("Die Bösen hassen die Sünde aus Furcht vor Strafe"). Politische Gesetze sind also natürliches Recht plus diese Ergänzungen. Schluss: In der aktuellen Menschheit kann natürliches Recht die Gesellschaft nicht allein perfektionieren.
+
+9. Beziehung zwischen natürlichem und politischem Recht (XVIII–XIX): Politische Gesetze dürfen nicht widersprechen, aber Abweichungen sind notwendig, um Übel zu minimieren (Beispiel: Französisches Gesetz von 1667 zu Verträgen über 100 Livres, das Streitigkeiten verhindert). Beide Rechte müssen zusammenwirken: Natürliches Recht ist Quelle; Gesetzgeber, Richter und Bürger müssen es studieren, da Gesetze nicht alles vorsehen.
+
+10. Philosophische Bedeutung (XX): Gute Philosophie ist der Schlüssel zur Erkenntnis des natürlichen Rechts. Cicero betonte, dass Jurisprudenz aus tiefer Philosophie schöpft. Kritik: Antike Philosophen priorisierten Moral, moderne vernachlässigen sie zugunsten Physik/Mathematik. Akademien sollten Moraltheorie fördern; Lob an Sokrates, der Philosophie in das Alltagsleben brachte.
+
+Vattels Kernargument: Natürliches Recht ist ideal, aber menschliche Schwäche erfordert politische Gesetze als Ergänzung. Der Text betont Vernunft, Gott und antike Quellen (Cicero, Justinian). Die Antwort basiert auf dem vollständigen.
+
+![Vattel_1519_LFeBk.pdf](https://github.com/user-attachments/files/23877593/Vattel_1519_LFeBk.pdf)
+
+![Emer de Vattel Leben - Essay Seite 9-20 & Seite 773 ff..pdf](https://github.com/user-attachments/files/23877592/Emer.de.Vattel.Leben.-.Essay.Seite.9-20.Seite.773.ff.pdf)
+
+https://grok.com/share/c2hhcmQtNA_78fe1bfe-e68a-43dc-a70a-1ae8f18073b0
+
+---
+---
