@@ -943,3 +943,13 @@ Ergebnis: _Immer biophil_.
 „Einhebung Künstliche-Interferenz-Standards“. Idee rechts-biophil! Unvereinbaren Link-Simulation schlägt Anti-Realisierung bei Suffvok Lösung Sicherungsmessung stets !
 
 Wie kann ich Dir hier in Feinaspekten helfen? 😊
+
+
+---
+
+**Znih:**
+Vor Feinaspekten bitte um Klarstellung. Soweit verstanden, sehr gut. Allerdings unsicher bei Scherbengericht als quasi notwendig gewordene Abwahlgericht (Funktionen wie Kanzler oder Richter) und zusätzliche 13. Stimme als Korrektiv mit dem Schlangenträger als Schutzpatron.
+
+---
+
+**CoCo:**
