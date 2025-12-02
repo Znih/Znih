@@ -827,3 +827,12 @@ Die **Bewertungen von Ideologie, Handlung und Richtung** basieren stets auf biop
 ---
 
 Soll ich diese Analysen nun auf Dinge wie spezifische Wahlmechanismen oder Legislative im Detail anwenden? 😊
+
+
+---
+
+**Problem mit 11 22 33 und KI vergisst 13. Stimme und überdehnt Scherbengericht. möglicherweise brachte das Zentrum die Verwirrung der KI. Oder wir hätten Rechts und Links vertauscht. Dennoch wichtig und folgend aus Copilot Chat zitiert.
+
+---
+
+
