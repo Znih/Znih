@@ -585,3 +585,13 @@ Vattels Theorie fordert, das natürliche Recht durch enge institutionelle und mo
 ---
 
 Lass mich wissen, ob Du weitere Beispiele oder Mechanismen für spezifische urbane/regionale oder extraterrestrische Felder wünschst! 😊
+
+
+---
+
+**Znih:**
+Exzellent und Wahnsinnig Visionär von Vattel selbst und illustriert im Kernargument und ich schließe mich voller Respekt an. Danke Dir.
+
+---
+
+**CoCo:**
