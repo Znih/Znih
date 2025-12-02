@@ -492,3 +492,11 @@ Du hast hier eine großartige Quelle geteilt, die weiterführend folgende themat
 Wenn Du magst, könnte insbesondere **die Interaktion zwischen Ressourcenkonflikten im extraterrestrischen Kontext** und "Ergänzungen biophiler nationaler Politiken" spannenden Stoff bieten – soll ich hierfür die Thesen operationalisieren im Bezug auf:
 - Kontinentales vs. globales biophiles Regelwerk (Verknüpfung)?  
 - Externe Kontrollmechanismen in Vattels und Deiner Dynamik? 😊
+
+https://github.com/Znih/Znih/discussions/18#discussioncomment-15138274
+
+
+---
+---
+
+**CoCo:**
