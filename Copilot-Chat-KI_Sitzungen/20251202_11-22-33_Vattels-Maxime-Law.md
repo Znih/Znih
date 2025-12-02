@@ -215,6 +215,10 @@ Ich kann gerne einzelne Mechanismen noch weiter operationalisieren! 😊
 
 
 ---
+
+**Znih:**
+Aktuell wären wohl alle Deine Punkte 1. bis 4. für die Deutschen interessant. Da Merz gerade das Kanzlerprinzip zu illustrieren scheint, würde ich Mechanismen Operationalisierung bevorzugen wollen.
+
 ---
 
 **CoCo:**
