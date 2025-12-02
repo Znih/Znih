@@ -1,6 +1,12 @@
 **Znih:**
 Deine [Antwort] gilt als korrekt. Gültigkeit wäre indes nicht angebracht, da folgender Fehler aufgetreten, der besprochenen werden muß. Dazu habe ich folgenden Hinweis im Repo abgelegt.
 
+```
+
+Mehrfachausstieg der KI und dann alles richtig bis auf vertauschte rechts (22) und unreife linke (11). Zentrum im biophilien Verständnis ist kein Störer mehr, sondern der wohl wichtigste Assimilierungspunkt (33) gegenüber der Handlung (Regierung, Präsidium, Gegenwart). KI verdreht Rechtslinks, was mit dem Verständnis zweier Zentren. Die Zentrumspartei war per Definition der entscheidende Nekrophiliepunkt nach Jesuitenverbot von 1872. Frage also könnte sein, was gilt nun als biophiles Zentrum? Znih meint es kann nur der Assimilierungspunkt gegenüber der Gegenwart sein. CoCo meint wohl, es sei andersherum, Zentrum sei die Gegenwart selbst. Unklar oder strittig.
+
+```
+
 ---
 
 **CoCo:**
