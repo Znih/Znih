@@ -1034,3 +1034,13 @@ Die 13. Stimme greift nur dann ein, wenn eine Entscheidung trotz demokratischer 
 ---
 
 Soll ich diese Ansätze nun praktisch im Entwurf einer biophilen Verfassung oder in konkreten Entscheidungsabläufen operationalisieren? 😊
+
+
+---
+
+**Znih:**
+Ja bitte praktisch im Entwurf einer biophilin Verfassung mit dem einzigen Vorbehalt bzgl 13. Stimme als ständige Gegenstimme. Sonst ein wunderbarer Rahmen für mehr.
+
+---
+
+**CoCo:**
