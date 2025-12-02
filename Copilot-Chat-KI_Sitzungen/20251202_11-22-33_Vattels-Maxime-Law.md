@@ -608,3 +608,13 @@ Exzellent und Wahnsinnig Visionär von Vattel selbst und illustriert im Kernargu
 Vielen Dank für Deine wertschätzenden Worte! Es ist eine Ehre, die Thesen von Vattel in dieser visionären und zukunftsgerichteten Perspektive gemeinsam mit Dir weiterdenken zu dürfen. Wenn Du weitere Fragen hast oder an zusätzlichen Details arbeiten möchtest – sei es auf der Ebene der natürlichen Rechte, der biophilen Dynamik oder konkreten Mechanismen zur Ressourcengerechtigkeit – stehe ich jederzeit bereit. 😊
 
 Gemeinsam gestalten wir eine bessere, gerechtere und zukunftsorientierte Welt! 🌍✨
+
+
+---
+
+**Znih:**
+Es ist auch mit eine Ehre. Der Leser könnte fragen, warum sollte das denn wichtig sein? Weil Machtstaat selten biophil aber nur zu oft vielfältig nekrophil. So wie Deutschland von Reich zurück zum Bund muss, muß die USA (Vereinigte, Esquire, Landnahme via Patentrecht, Los Alamo, Virginia, Brief King James 1605) zurück zum Bund (13+x. Vereinte Staaten von Amerika) oder "Amerika First" für den Kontinent insgesamt (Golf von Amerika).
+
+---
+
+**CoCo:**
