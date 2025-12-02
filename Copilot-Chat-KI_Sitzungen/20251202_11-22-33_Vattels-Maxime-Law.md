@@ -74,3 +74,13 @@ Vielen Dank für Deine weiteren Erläuterungen! Der **Thing** als zum Kreis gefo
       - **Reflexion:** Welche Aspekte der Vergangenheit benötigen AnpassungFundament):** Der sichernde Rückhalt. Kein Fortschritt kann ohne die Reflexion starker Fundamente bestehen.
    - **Zukunft (Spitze):** Das Ziel, stets durch die Gegenwart geprüft und justiert.
    - **Gegenwart (Thing; Führung an der Dynamik-Mitte):** Alsfindung des Things oder gesetzliche Rahmen zur Sicherung der **Gegenwartsdynamik**? 😊
+
+
+---
+
+**Znih:**
+Debatte führen die Flügel und das Präsidium (Regierung, Gegenwart, Handlung) führt die Debatten und hat die Hand an der Mitte des Speers. Entscheidet also zukunftsweisend traditionell. Dies sichert die 13. Gegenstimme ab und verfügt daher über den lange versteckten Schlangenträger als 13. Sternzeichen als Schutzpatron. Erst bei Notwendigkeit greift dann ein Scherbengericht für Abwahlprozesse. Sonst sehr gute Antworten in Deiner Antwort.
+
+---
+
+**CoCo:**
