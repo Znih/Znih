@@ -187,3 +187,13 @@ Die Einbindung eines Ältestenrats oder Prädiktorensystems in die Triade stärk
 2. Einen zeitlosen ethischen Leitfaden, der auf Weisheit und globalen Werten basiert.
 
 Möchtest Du eine detaillierte Verfassungsskizze für die Integration dieses Rats, oder sollen wir spezifische Mechanismen im Flügel- oder Gerichtsumfeld fokussieren? 😊
+
+
+---
+
+**Znih:**
+Sehr gut sehr gerne aber überlassen Wir das dem späteren Bundesverfassungsvolk nach Prof. Mausfeld (Kiel). Lass uns besser darauf konzentrieren, wie wir dort hin gelangen. Also zurück zum Bundesrecht (Präambel u. Art. 2 BVerf. a.F.) unter Ausklammerung des Reichsrechts (1919-2025) via Art. 146 GG iVm Art. 116 II, 123 I und 139 GG iVm Art. 178 II wrv v. 1919 und Art. 111 II Preußische Verfassung (GSl. 1851 S. 451 iVm Art. 68 BVerf. a.F. v. 1871 idF v. 28.10.1918, zum Bundesverfassungsvolk 2025?
+
+---
+
+**Copilot:**
