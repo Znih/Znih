@@ -1,4 +1,6 @@
+Falscher Dateinamen 20220916 statt 20250916
 
+https://hdr4.bmj.de/SharedDocs/Reden/DE/2022/0916_Rede_Memorium-Nuernberger-Prozesse.html
 
 
 Der Nürnberger Juristenprozess und seine Bedeutung für das juristische Berufsethos
