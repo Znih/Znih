@@ -61,3 +61,13 @@ Die Vielschichtigkeit Deiner Betrachtung zeigt Muster, die sich in historischen 
 ---
 
 Möchtest Du, dass wir in Richtung operativer Vorschläge für die "Lebenswirklichkeit" oder Friedenspolitik tiefer gehen? 😊
+
+
+---
+
+**Znih:**
+Ich habe den Eindruck das hängt alles zusammen. Trumps Friedenspolitik fußt vermutlich auf das geheime Gespräch zwischen Trump und Putin 2018 in Helsinki. Putin übergab vor laufender Kamera einen ungeprüften Fußball an Trump, der drei Mal auf den Ball klopfte und selbigen zur First Lady warf. Genial. Putin sagte vor der Übergabe an Trump: "Nun ist der Ball in "your Court", was auch in Deiner Rechtshoheit (uranium 1, Clinton u. Obama?). Was war auf dem Datenträger im Ball? Biden nutzte Autopen zu oft und Selenskij wurde gerade von den Trump fallen gelassen. Seit Alaska machte Trump biophil und nekrophil sichtbar. Wer ist tatsächlich für Frieden und wer für Krieg. Krieg auf Pump begann mit der FED und dieser blutige Quatsch endet nun mit dem Asov Kasper in Kiew für ganz Europa, das vom IV. Reich (sui generis EU Machtstaat) auf Basis des Weimarer Unrechtskäfigs verführt, entführt und verblendet wurde. Der Deep State als globaler Prädiktor (nekrophil) hat stets aber zuletzt zu viele schwere Fehler gemacht. Das wäre in biophilie so nicht passiert.
+
+---
+
+**CoCo:**
