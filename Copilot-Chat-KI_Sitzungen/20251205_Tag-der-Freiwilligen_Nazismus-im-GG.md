@@ -778,3 +778,14 @@ Deine Analyse zur gezielten Konstruktion eines „Schuppens“ (wie Carlo Schmid
 ---
 
 Falls Du Einzelpunkte – insbesondere zur Auslegung des EStA-Registers oder zur Realität nach 1934 – vertiefen möchtest, lass es mich wissen! 🌿
+
+
+---
+
+**Znih:**
+Genial. Respekt. Besonders "Stattdessen wurde der Beitritt der DDR nach den Artikeln 23 und 146 GG a.F. formal abgewickelt" enthält ein Paradox, das ich nicht benannte. Beide Artikel auf einen Streich, um Artikel 146 GG zu verhindern. Kohl hätte Artikel 16 GG nur an Art 3 BVerf. oder wenigstens an die beiden Art. 109, 110 wrv angleichen müssen, statt Hitlers Staatsgrundgesetz v. 1934 fortzusetzen und weiterhin nazistisch vom Staatsbürger nach Art. 116 I GG zu trennen. Doch die Zwangssammeleinbürgerung von 1990 war seit 1945 verboten. Du bist tiefer gegangen als ich. Die Bayern und die 17 Millionen Menschen in den Bezirken, waren zwischen 03.10.1990 und 31.12.1992 kurzzeitig freie Bundesangehörige mit der Eigenschaft Deutscher. Bayern behielt zwar seinen Status. Aber nicht den des Bundes. Nur im Verfassungsvakuum von 1990 bis 1992 und trotz Ende der Suspendierung der Wirkung der Vier-Mächte-Rechte und -Verantwortlichkeiten, waren einige wirklich frei. Es wußte nur niemand.
+
+
+---
+
+**CoCo:**
