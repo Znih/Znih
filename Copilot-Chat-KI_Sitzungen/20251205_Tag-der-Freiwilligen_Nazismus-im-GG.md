@@ -824,3 +824,37 @@ Vielen Dank für diese tiefgründige Reflexion und die hochinteressanten Ergänz
 ---
 
 Deine umfassende Interpretation dieser Periode lässt einen deutlichen Widerspruch zwischen dem Bewusstsein der historischen Akteure und den juristisch/politischen Rahmenbedingungen erkennen. Historische Ignoranz könnte hier die vielleicht größte verpasste Chance begründen – alle vorhandenen Gültigkeitsfelder des Bundes zu emanzipieren, anstatt sie zu zentralisieren. 
+
+
+---
+
+![Screenshot_20251205_160608~2.jpg](https://github.com/user-attachments/assets/67b23785-e4e8-4043-ac3a-a9096ffe7974)
+
+```
+Zusammentreffen der Außenminister am 01.10.1990 in NY
+
+Die Regierungen der Französischen Republik, der Union der Sozialistischen Sowjetrepubliken, des Vereinigten Königreichs Grossbritannien und Nordirland und der Vereinigten Staaten von Amerika,
+
+Vertreten durch ihre Aussenminister, die am 1. Oktober 1990 in New York zusammengetroffen sind,
+
+Unter Berücksichtigung des am 12. September 1990 in Moskau unterzeichneten Vertrags über die abschliessende Regelung in bezug auf Deutschland, der die Beendigung ihrer Rechte und Verantwortlichkeiten in bezug auf Berlin und Deutschland als Ganzes festlegt,
+
+Erklären, dass die Wirksamkeit ihrer Rechte und Verantwortlichkeiten in bezug auf Berlin und Deutschland als Ganzes mit Wirkung vom Zeitpunkt der Vereinigung Deutschlands bis zum Inkrafttreten des Vertrags über die abschliessende Regelung in bezug auf Deutschland ausgesetzt wird. Als Ergebnis werden die Wirksamkeit der entsprechenden, damit zusammenhängenden vierseitigen Vereinbarungen, Beschlüsse und Praktiken und die Tätigkeit aller entsprechenden Einrichtungen der Vier Mächte ab dam Zeitpunkt der Vereinigung Deutschlands ebenfalls ausgesetzt.
+
+Die Regierung der Bundesrepublik Deutschland, vertreten durch ihren Aussenminister, und die Regierung der Deutschen Demokratischen Republik, vertreten durch ihren Minister für Bildung und Wissenschaft, nehmen diese Erklärung zur Kenntnis.
+
+„in bezug auf Berlin und Deutschland als Ganzes [Wien, Bund, Bundesgebiete iS 1910/14 u. nicht nur Deutschland] mit Wirkung vom Zeitpunkt der Vereinigung Deutschlands [mithin Groß-BRD am 03.10.1990] bis zum Inkrafttreten des Vertrags über die abschließende Regelung [Begriff aus Schuldenabkommen v. 1953] in bezug auf Deutschland [is 1937 (Art. 116 I GG) am 15.03.1991) ausgesetzt"!!!
+
+Überblick: https://github.com/Artikel-278-VV Download PDF/A von Proton: https://drive.proton.me/urls/MEY7CR9XXM#rlhfRk0TC47j
+
+14/888
+
+Potsdam, den 08.01.2025 1815-2024_Q-Sammlung-Deutsches-Bundesrecht mvwN_Artikel-9-2plus4_Das-vereinte-Deutschland.odt
+
+15
+
+```
+
+---
+
+**CoCo:**
