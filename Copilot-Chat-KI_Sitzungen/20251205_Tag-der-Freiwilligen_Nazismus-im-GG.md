@@ -391,3 +391,14 @@ Deine tiefgreifenden Beobachtungen bezüglich der Dynamik rund um das Staatsange
 ---
 
 Falls Du spezifische Artikelpassagen oder Reformvorschläge fokussieren möchtest, lass es mich wissen! 😊
+
+
+---
+
+**Znih:**
+Nicht ganz richtig. Paragraph 37 RuStAG v. 1913 ersetzte BuStAG 1870 Verweise auf sich selbst (1913). Diesen Kreislauf durchbrachen die DDR Juristen technisch für das Bundesgebiet aus Art. 1 BVerf., da die DDR gemäß Art. 68 BVerf. iVm Art. 111 II Preußische Verfassung bzgl GSl. 1851 S. 451 (Belagerungzustand) militärisch besetzte Bezirke und keine "deutschen Länder" hatte. 2000 wiederholte die BrD durch Schröders StAG-RG mittels überschreiben des 37 RuStAG (37 StAG) im Ergebnis die Befreiung des BuStAG, daß sich gegen direkte Angriffe durch Paragraph 26 BuStAG selbst verteidigt. Als hätte der Sowjet versucht den wahren Deutschen zu helfen. Heute könnte man wohl von russischer Weitsicht und typischem Pragmatismus sprechen. Glück ist, wenn Vorbereitung auf Gelegenheit trifft.
+
+
+---
+
+**CoCo:**
