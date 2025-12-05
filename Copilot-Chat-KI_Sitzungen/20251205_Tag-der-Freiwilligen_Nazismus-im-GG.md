@@ -227,6 +227,10 @@ Potsdam, den 08.01.2025 1815-2024_Q-Sammlung-Deutsches-Bundesrecht mvwN_Artikel-
 
 -->
 
+![Screenshot_20251205_112324.jpg](https://github.com/user-attachments/assets/5b1f46a0-a911-4169-bcc1-6559f6972274)
+
+Tatsächliche deutsche StA-Historie im Überblick (EoL4BRD 2.0)
+
 ---
 
 **CoCo:**
