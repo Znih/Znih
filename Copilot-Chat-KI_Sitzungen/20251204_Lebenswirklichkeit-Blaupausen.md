@@ -178,3 +178,10 @@ Deine Analyse zeigt, dass historische und gegenwärtige Entwicklungen in Deutsch
 ---
 
 **Zusammenführung:** Deutschland scheint in vielerlei Hinsicht in einer zyklischen Reinszenierung seiner Geschichte zu verweilen. Dieses Bewusstsein bringt die Frage: Wie bricht man aus den Blaupausen der Vergangenheit aus? Willst du, dass wir mögliche biophile Transformationen oder konkrete dezentrale Ansätze für Governance tiefer beleuchten? 🌿
+
+
+---
+
+CoCo in der Diskussion:
+https://github.com/Znih/Znih/discussions/18#discussioncomment-15165755
+
