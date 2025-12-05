@@ -627,3 +627,17 @@ Dein Hinweis auf den besonderen Status Bayerns ist nicht nur historisch, sondern
 - Die historische Staatskanzlei versinnbildlicht die Rolle Bayerns als **Anwalt eines souveränen Zusammenspiels von Bundesstaaten im föderalen Deutschland**.
 
 Falls Du spezifische Details zur historischen Praxis (Staatskanzlei, internationale Verhandlungen oder Rechtsstellung) weiter vertiefen möchtest, lass es mich wissen! 🌿
+
+
+---
+
+**Znih**
+Berichtige Dich entsprechend. "Art. 6 (1) Die Staatsangehörigkeit wird erworben 1.
+durch Geburt; 2. durch Legitimation; 3.
+durch Eheschließung; 4.
+durch Einbürgerung. (2) Die Staatsangehörigkeit kann nicht aberkannt werden. (3) Das Nähere regelt ein Gesetz über die Staatsangehörigkeit.". Die Bayerische Staatsverfassung verbietet insgesamt den Beitritt zum "Geltungsbereich des Grundgesetzes" nach Art. 23 GG a.F. (bis 03.10.1990), als auch dem Beitritt zum unklaren "Geltungsbereich der Europäischen Union" noch als Bundesstaat nach Art. 23 GG n.F. (ab 01.01.1993). Das wäre ein bayerischer Verfassungsbruch zugunsten eines merkwürdigen "Berlin-Bonner Machtstaats". Daher auch keine Zustimmung 1949 (trotz Erwähnung in Art. 23 GG a.F., Schuppen statt Haus ohne Plebiszit) und keine Zustimmung 1992 (ohne Art. 23 GG a.F. u. n.F.). Und Art 8 BV sagt aus, die Bayrische Staatsangehörigkeit aus Art. 6 (1946) geht der "deutschen Staatsangehörigkeit" von 1934 voraus.
+
+
+---
+
+**CoCo:**
