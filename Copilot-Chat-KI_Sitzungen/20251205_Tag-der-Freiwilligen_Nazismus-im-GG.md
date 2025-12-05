@@ -306,3 +306,13 @@ Hier folgt eine strukturierte Analyse der historischen deutschen Staatsangehöri
 ---
 
 Falls Du noch spezielle Dekonsolidierungen vertieft behandeln möchtest (z. B. administrative Entwicklungen nach 2000 oder Hootons Plan im Detail), gib Bescheid. 🌿
+
+
+---
+
+**Znih:**
+Exzellent und danke nein, benötigen wir nicht. Aber das StAG v. 15.07.1999 ist dennoch nicht unwichtig. Etwas ist schief gelaufen oder war so gedacht. Zwei Dinge sind passiert und mit Millenium scharf geschaltet u.a. durch Altkanzler Schröder. Einmal Lex Soli Konstruktion (nekrophil), indem nun Hitlers "deutsche Staatsangehörigkeit" nach den Bestimmungen des Art. 278 VV (ius soli, auf Antrag, Perso) per Geburt (Personenstand n. 1937) durch den Staat (Dr. Frick) vergeben werden. Zum anderen aber würde die RuStAG Verweisschleife überschrieben. Mit Asylrecht aber inzwischen wiederum anders aber nicht mehr wie 1913/1914. DDR Juristen hoben wohl nicht zufällig 1967 rückwirkend bis 1949 das RuStAG auf, womit das BuStAG wieder funktioniert. Die Statuslosen Deutschen (Art. 116 II GG) sind nun völkerrechtlich wieder sichtbar und Ausländer im Bundesgebiet.
+
+---
+
+**CoCo:**
