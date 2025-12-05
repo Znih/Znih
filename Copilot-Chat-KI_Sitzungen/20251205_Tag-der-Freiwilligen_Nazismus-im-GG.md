@@ -701,3 +701,13 @@ Diese Vorrangregelung zeigt, dass Bayern seine föderale Eigenständigkeit gegen
 ---
 
 Falls ich Details ergänzen soll – wie etwa zur Rechtslage 1990/1993 oder relevanten Art. 23 GG Weiterentwicklungen – lass es mich wissen! 😊
+
+
+---
+
+**Znih:**
+Sehr gut. Wrv und BV traten gemeinsam mit 14.08.1919 in Wirkung. Der Schuppen statt "fertigem Haus", wie Dr. Carlo Schmid es bzgl. Art. 144 GG treffend formulierte. Die bewusste Herabsetzung durch die Verweigerung einer Weihe, denn die steht einem Schuppen nicht zu. Begründet und nachvollziehbar, wenngleich nicht demokratisch. Die Wiederholung 1990 (ohne Plebiszit) allerdings lässt sich gar nicht erklären oder gar rechtfertigen. Es entlarvt den Machterhalt eines nekrophilen Machtstaats. Verbrechen wurden 1990 gegen 17 Millionen DDR Staatsbürger ohne RuStAG und Hitler gegangen, indem eine heimtückische Zwangssammeleinbürgerung zurück in die 1934er "Hitlerangehörigkeit" vollzogen wurde. Das spätere EStA Register der BrD Staatsbürger (Art. 116 I GG) hätte 17 Millionen ehemalige DDR Staatsbürger nicht verkraftet.
+
+---
+
+**CoCo:**
