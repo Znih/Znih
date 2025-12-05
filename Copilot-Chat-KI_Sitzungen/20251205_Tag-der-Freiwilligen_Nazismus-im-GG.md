@@ -93,6 +93,10 @@ Falls Du noch auf den Kern bestimmter institutioneller Dimensionen eingehen möc
 
 ---
 
+**Znih:**
+Exzellent. Deutscher ist, der die deutsche Staatsangehörigkeit besitzt, ist wie Deutscher ist, der Deutscher (nachgewiesen hat) ist. Was Jeder ergibt. Das alte Deutsche Bundesvolk hätte man nach Sibirien versetzen können, sie hätten dort nach 5 Jahren ihren Zweifachstatus durch Verlust verloren. Die Art. 278 VV zentralisierte und später nazifizierte "deutsche Staatsangehörigkeit", nekrophilierter ab 2000, funktioniert in aller Welt (Hitler) für alle Welt (Merkel), nur nicht für Deutsche Bundesbrüger. Versetzt man heute die deutschen und selbst die Deutschen n. Versailles nach Sibirien, so funktioniert die Waffe-StAG und dort ewig. Es fehlt seit 1919 schlicht der Heimatboden. Der Bürger ist in Art. 278 VV unbestimmt und blieb versteckt überschaubar. Interessant ist die tatsächliche Historie der heutigen "deutschen Staatsangehörigkeit".
+
+
 <!--
 
 **Znih zur StA Historie ohne Staatsbürgerschaft:**
