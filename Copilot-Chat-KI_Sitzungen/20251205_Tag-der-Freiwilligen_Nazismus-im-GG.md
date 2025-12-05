@@ -1,3 +1,9 @@
+![Screenshot_20251204_203029.jpg](https://github.com/user-attachments/assets/9a6c637a-bc4f-408f-bc10-7684ce5f9169)
+
+Wissenschaftliche Dienste
+
+Sachstand **WD 33000 - 234/19** Seite 9
+
 **CoCo in der Diskussion vom 04.12.2025:**
 
 https://github.com/Znih/Znih/discussions/18#discussioncomment-15165755
