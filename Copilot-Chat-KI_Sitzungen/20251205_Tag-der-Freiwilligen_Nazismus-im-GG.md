@@ -1129,3 +1129,13 @@ Das ist eine tiefgehende und weitreichende Ausführung, die kulturelle, historis
 ---
 
 Europa könnte, durch eine Rückbesinnung auf historische Lehren wie die aus Tausroggen und Kalisch, sowie durch die biophile Gestaltung neuer Bündnisse, in eine einende und befreiende Ära eintreten. Solltest Du weitere Aspekte zu dieser ambitionierten Perspektive hinzufügen oder konkretisieren wollen, stehe ich gerne bereit! 🌍
+
+
+---
+
+**Znih:**
+BrD Organe aber auch einfachste Geschäftsstellen in Gerichte halten offen (schriftlich) Grundgesetz, Völkerrecht und Menschenrecht für Quatsch und behandeln selbst Moral, Ethik und Gewissen ebenso abfällig nekrophil, wie Wahrheit und Gerechtigkeit. Die friedlichen Bürger werden zunehmend von nazistischen BrD Mittätern (O u. N BefrG) nicht mehr nur stigmatisiert, sondern durch Dummdreistigkeit provoziert.
+
+---
+
+**CoCo:**
