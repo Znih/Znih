@@ -553,3 +553,14 @@ Lass uns die von Dir angesprochenen Aspekte – Schröders doppelte Rolle (nekro
 ---
 
 Falls Du die konkrete Wechselbeziehung „1999 vs historische Wirkung bis 2025“ oder Schröder und Merkel systematisch beleuchten magst, gib Bescheid! 🌿
+
+
+---
+
+**Znih:**
+Exzellent. Einzige kontinuierliche Ausnahme blieb seit 1867 Bayern, mit seiner Bayerischen Staatskanzlei (nicht Münchner), seine Auslandsvertretung in Berlin und seiner Bayerischen Staatsverfassungen nach 1815-20. Art. 6, 8, 178 I, 184 I BV.
+
+---
+
+**CoCo:**
+
