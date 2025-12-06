@@ -89,3 +89,64 @@ Anmeldung.: zudem Gleichheitsgrundsatz Art. 3 I GG Ri/RiAG etc. pp.
 ---
 
 **CoCo:**
+Dr. Marco Buschmanns Rede stellt sowohl juristisch als auch ethisch eine meisterhafte Argumentation dar, deren Konsequenzen im rechtlichen Kontext tiefgreifend sind. Sie verknüpft historische, juristische und ethische Dimensionen auf eine Weise, die den Bezug zu grundlegenden Naturrechtprinzipien und der Verantwortung des Richterstandes im Besonderen hervorhebt. Hier eine Analyse mit Bezug auf Ihre Ausführungen:
+
+---
+
+### **1. Bezug zur Goldenen Triade im Naturrecht**
+Die "Goldene Triade" des Naturrechts – bestehend aus Gerechtigkeit, Wahrheit und Freiheit – wird in der Rede thematisch angesprochen:
+
+1. **Gerechtigkeit:**
+   - Buschmann zitiert den zentralen Naturrechtsgrundsatz „Ius est ars boni et aequi“ und unterstreicht damit, dass das Recht seine Legitimität aus der Gerechtigkeit bezieht. Ohne diese Basis wird Recht zu einem Instrument der Unterdrückung.
+   - Diese Auslegung betont, wie zentral die Orientierung an Gerechtigkeit für das juristische Berufsethos ist, gerade in Zeiten des Umbruchs, in denen Staatsformen oder rechtliche Systeme erodieren.
+
+2. **Wahrheit:**
+   - Indem Buschmann die Auseinandersetzung mit historischen Unrechtsregimen (NS-Staat und SED-Diktatur) fordert, macht er deutlich, dass die Wahrheit, so unbequem sie auch sein mag, integraler Bestandteil eines funktionierenden Rechtsstaates ist.
+   - Der Hinweis auf nie veröffentlichte Videoaufnahmen des Juristenprozesses 1947 dient hier als Metapher und als Präzedenzfall: Die Wahrheit darf nicht verborgen bleiben, da sie essenziell für den juristischen und gesellschaftlichen Fortschritt ist.
+
+3. **Freiheit:**
+   - Die Bedeutung von Freiheit als ethisches Prinzip wird durch Buschmanns Warnung vor einem erodierenden Rechtsstaat unterstrichen. Ein Rechtsstaat, der die Freiheit der Menschen ignoriert oder einschränkt, verliert nicht nur seine moralische Integrität, sondern gerät in die Nähe eines Unrechtsstaates.
+   - Für Juristinnen und Juristen bedeutet dies, dass sie die Freiheit zur Kritik und zur Abweichung von herrschender Meinung mutig ergreifen müssen, wenn die Umstände dies erfordern.
+
+---
+
+### **2. Bedeutung von § 5a II Satz 3 DRiG**
+Dieser Paragraph, der den Fokus auf die „Auseinandersetzung mit“ NS-Unrecht und SED-Diktaturen legt, ist in der Rede gezielt an den Nürnberger Juristenprozess von 1947 geknüpft. Buschmanns Betonung auf die „Auseinandersetzung mit“ verweist nicht nur auf eine historische Pflicht, sondern auch auf die methodische Schulung des kritischen Geistes:
+
+1. **Für Richter auf Probe:**
+   - Buschmann macht klar, dass die ethischen und moralischen Grundlagen von Juristinnen und Juristen von Anfang an geschult werden müssen. Für Richter auf Probe (Referendar:innen) bedeutet das, dass nicht nur die technische Anwendung des Rechts, sondern auch die ethische Dimension Teil ihrer Ausbildung sein muss.
+   - Ein Mangel an dieser Reflexion könnte langfristig Richterpersönlichkeiten hervorbringen, die Unrechtssystemen Vorschub leisten.
+
+2. **Für niedergelassene Richter:**
+   - Niedergelassene Richter, die bereits am Gerichtsstandort tätig sind, entkommen dieser Verantwortung ebenfalls nicht. Buschmann argumentiert, dass die Berufungsvoraussetzungen und die ethische Relevanz des Richteramts in sämtlichen Karrierephasen erhalten bleiben müssen.
+   - Es ist erkennbar, dass ein Versäumnis oder eine bewusste Ignoranz gegenüber der Auseinandersetzung mit historischem Unrecht nicht nur moralische, sondern auch rechtliche Konsequenzen nach sich ziehen könnte.
+
+---
+
+### **3. Juristenprozess 1947 und die Videoaufnahmen**
+Die Verknüpfung mit dem Juristenprozess ist ein starker rhetorischer und rechtlicher Ansatz. Buschmann nutzt diesen historischen Kontext, um zu demonstrieren, dass die juristische Verantwortung immer über die bloße Technik hinausgeht:
+
+- **Nie veröffentlichte Aufnahmen:**
+   - Der Verweis auf Videomaterial, das vermutlich die Rolle der Juristen im NS-Unrecht detailliert belegt, macht klar, dass auch die technokratische Haltung der damaligen Juristen keine Entschuldigung für Unmoral bieten kann.
+   - Diese Referenz könnte auch implizieren, dass ähnliche Aufnahmen oder Zeugnisse heute größere Transparenz und eine breitere Diskussion über die juristische Verantwortung auslösen könnten.
+
+- **Präzedenz für das juristische Berufsethos:**
+   - Der Juristenprozess dient als historische Mahnung, so wie Buschmann es formuliert: „Für das Recht einzustehen, sich dem Unrecht entgegenzustellen, das war eben nicht Teil ihres Berufsethos.“
+   - Die Veröffentlichung der Aufnahmen könnte somit ein Symbol für den heutigen juristischen Nachwuchs sein, sich proaktiv gegen ideologische Verblendung und moralische Gleichgültigkeit zu engagieren.
+
+---
+
+### **4. Konsequenzen für die Rechtsprechung und den Berufsstand**
+Buschmanns Rede ist nicht nur eine philosophische oder historische Reflexion; sie setzt klare juristische und professionelle Maßstäbe:
+
+- **Bewahrung des Berufsethos:**
+   - Das Richteramt wird nicht nur auf technischer Kompetenz basieren können. Die ethische Dimension wird gerade für Richter:innen in Deutschland zu einer verpflichtenden Qualität.
+   - Niedergelassene Richter:innen, die diesen Anforderungen nicht genügen, könnten in Zukunft mit erhöhter Kritik oder Disziplinarmaßnahmen rechnen.
+
+- **Langfristige rechtliche Folgen:**
+   - Die Verknüpfung von § 5a DRiG mit dem Nürnberger Juristenprozess zeigt, dass Richter:innen und Jurist:innen sich bei Fehlverhalten oder mangelnder Achtung von Ethos auf ähnliche Konsequenzen einstellen müssten, wie sie nach 1947 symbolisch gezogen wurden.
+
+---
+
+### **Abschlussgedanken**
+Buschmanns Rede war prägnant, visionär und von großer juristischer Tragweite. Sie adressierte nicht nur die historische und ethische Verantwortung des Richterberufs, sondern setzte auch gezielt auf die Schulung eines „wachen Geistes,“ der sich Unrecht entgegenstellt und Gerechtigkeit zur obersten Maxime erhebt. Die Tiefe seiner Rückgriffe scheint präzise darauf abzuzielen, den Beruf des Richters mit der "goldenen Triade" des Naturrechts und den Lehren der Vergangenheit nachhaltig zu verbinden.
