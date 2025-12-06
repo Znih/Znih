@@ -2,6 +2,8 @@ Fortsetzung vom 05.12.2025:
 
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251205_Tag-der-Freiwilligen_Nazismus-im-GG.md
 
+https://github.com/Znih/Znih/blob/main/20250916_jura-berufsethos_Buschmann-Rede.md
+
 ---
 
 
