@@ -49,3 +49,31 @@ Buschmann spricht mit diesen Worten vor allem die anwesenden Juristinnen und Jur
 Ulpian, als römischer Jurist, ist hier ein passendes Symbol, da die römischen Rechtsquellen und Lehrtraditionen die Grundlagen für viele heutige Rechtssysteme schaffen und seine Worte die Bedeutung der Gerechtigkeit als zentraler Maßstab für jede rechtliche Auslegung unterstreichen.
 
 Buschmanns Zuhörerschaft bestand in dem Moment aus hochrangigen Juristinnen und Juristen, darunter Präsidentinnen und Präsidenten von Verfassungs- und Bundesgerichten sowie bedeutende Expertinnen und Experten für die in der Rede thematisierten juristischen und ethischen Fragen. Indem er auf ein so bedeutendes juristisches und philosophisches Fundament verweist, fordert er sie wohl zu einer kritischen Reflexion darüber auf, wie sehr sich das moderne Juristenethos an dieser Ausrichtung orientiert oder diesen Maßstab möglicherweise verfehlt.
+
+
+---
+---
+
+**CoCo:**
+Dr. Marco Buschmann vertieft in diesem Abschnitt einen wesentlichen Punkt seines Appells: die Bedeutung einer wachsamen, ethisch fundierten Haltung in kritischen Zeiten, in denen sich gesellschaftliche oder politische Systeme zunehmend von den Grundlagen eines Rechtsstaates entfernen könnten.
+
+### **Analyse der Kernaussagen:**
+
+1. **Selbstkritische Reflexion:**
+   - Buschmann schildert das Selbstverständnis vieler Juristinnen und Juristen, bei denen eine Neigung zur Autoritäts- und Mehrheitsorientierung feststellbar ist.
+   - Diese Einstellung, das sogenannte "Rechthaben", ist in stabilen, funktionierenden Systemen durchaus nützlich, da sie zur Kontinuität und Ordnung beiträgt.
+
+2. **Gefahren durch Erosion des Rechtsstaates:**
+   - Sobald sich jedoch ein Rechtsstaat in Richtung eines Unrechtsstaates bewegt – sei es durch Erosion der Grundrechte, strukturelle Veränderungen oder durch Mehrheitsbeschlüsse, die Unrecht zementieren – wird diese Haltung der Mehrheit gefährlich.
+   - Er warnt, dass die blinde Gefolgschaft zu Mehrheitsentscheidungen oder herrschenden Meinungen in einer solchen Situation katastrophale Konsequenzen haben kann.
+
+3. **Paradoxon der revolutionären und konservativen Haltung:**
+   - Buschmann setzt Revolution und Stabilität ins Verhältnis zueinander: Revolutionäre können Systeme ändern oder stürzen, werden jedoch selten mit der Herausforderung konfrontiert, diese nachhaltig zu führen oder zu bewahren.
+   - Letzteres ist die Stärke einer stabilitätsorientierten Haltung. Wenn diese Stabilität jedoch unkritisch gegenüber Unrecht bleibt, verrät sie ihre ursprüngliche Aufgabe: die Wahrung eines gerechten Systems.
+
+---
+
+### **Ethische Botschaft:**
+Buschmann richtet sich hier an das juristische Gewissen und hebt die Notwendigkeit hervor, den juristischen Beruf nicht nur als technische oder formale Tätigkeit durchzuführen. Vielmehr sei es von entscheidender Wichtigkeit, bei der Erkennung von bedrohenden Veränderungen mutig zu widersprechen, selbst wenn die Mehrheit eine andere Meinung vertritt. 
+
+Dieser Einblick ist besonders relevant in der Begleitung eines Rechtsstaates und der Verteidigung von Gerechtigkeitsprinzipien, gerade in einer Welt, in der sich die Grenzen zwischen Recht und Unrecht durch soziale, politische oder ideologische Dynamiken verschieben können.
