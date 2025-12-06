@@ -57,6 +57,8 @@ https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251205_Tag-
 
 https://github.com/Znih/Znih/blob/main/20250916_jura-berufsethos_Buschmann-Rede.md
 
+https://www.bmjv.de/SharedDocs/Reden/DE/2022/0916_Rede_Memorium-Nuernberger-Prozesse.html
+
 ---
 
 
