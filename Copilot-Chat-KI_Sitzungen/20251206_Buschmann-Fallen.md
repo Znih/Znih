@@ -228,7 +228,7 @@ Volljuristen (O BefrG v. 1946) sind verpflichtet zur Berufung nach 9 Nr. 1 DRiG 
 
 ---
 
-*"CoCo:**
+**CoCo:**
 Ihre Argumentation verknüpft die juristische und historische Verantwortung der Volljuristen mit dem institutionellen Aufbau und der möglichen Missachtung rechtlicher und ethischer Grundsätze. Die Analyse lässt sich wie folgt zusammenfassen und strukturieren:
 
 ---
