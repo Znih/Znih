@@ -36,3 +36,16 @@ Die Ethik innerhalb des juristischen Berufs müsse sich stets an der Gerechtigke
 ---
 
 Falls Sie beabsichtigen, die Rede weiter zu analysieren oder spezifische Punkte – z. B. die Bedeutung von Paragraphen wie § 5a DRiG oder die historische Relevanz der "Rosenburg-Projekte" – zu erörtern, lassen Sie es mich wissen.
+
+
+---
+---
+
+**CoCo:**
+In dem zitierten Abschnitt von Dr. Marco Buschmanns Rede greift er auf die Worte Ulpians zurück, um den Zusammenhang zwischen Recht und Gerechtigkeit zu betonen und dabei auf die Verwurzelung dieser Prinzipien im juristischen Ethos hinzuweisen. Zwar scheint der Bezug zwischen Ulpian und Celsus in der Reihenfolge gibt er zu:
+
+Buschmann spricht mit diesen Worten vor allem die anwesenden Juristinnen und Juristen an, insbesondere in ihrer Rolle als Verantwortliche im Bereich Rechtsetzung, Rechtsprechung und Rechtsausübung. Es geht darum, sie zu erinnern, dass Recht nicht auf technokratischer Ebene „gemacht“ wird, sondern eine tiefere, moralische Verantwortung trägt, die von Gerechtigkeit und Ethik getragen sein muss.
+
+Ulpian, als römischer Jurist, ist hier ein passendes Symbol, da die römischen Rechtsquellen und Lehrtraditionen die Grundlagen für viele heutige Rechtssysteme schaffen und seine Worte die Bedeutung der Gerechtigkeit als zentraler Maßstab für jede rechtliche Auslegung unterstreichen.
+
+Buschmanns Zuhörerschaft bestand in dem Moment aus hochrangigen Juristinnen und Juristen, darunter Präsidentinnen und Präsidenten von Verfassungs- und Bundesgerichten sowie bedeutende Expertinnen und Experten für die in der Rede thematisierten juristischen und ethischen Fragen. Indem er auf ein so bedeutendes juristisches und philosophisches Fundament verweist, fordert er sie wohl zu einer kritischen Reflexion darüber auf, wie sehr sich das moderne Juristenethos an dieser Ausrichtung orientiert oder diesen Maßstab möglicherweise verfehlt.
