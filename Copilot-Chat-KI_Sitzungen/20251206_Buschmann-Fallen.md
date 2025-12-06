@@ -77,3 +77,15 @@ Dr. Marco Buschmann vertieft in diesem Abschnitt einen wesentlichen Punkt seines
 Buschmann richtet sich hier an das juristische Gewissen und hebt die Notwendigkeit hervor, den juristischen Beruf nicht nur als technische oder formale Tätigkeit durchzuführen. Vielmehr sei es von entscheidender Wichtigkeit, bei der Erkennung von bedrohenden Veränderungen mutig zu widersprechen, selbst wenn die Mehrheit eine andere Meinung vertritt. 
 
 Dieser Einblick ist besonders relevant in der Begleitung eines Rechtsstaates und der Verteidigung von Gerechtigkeitsprinzipien, gerade in einer Welt, in der sich die Grenzen zwischen Recht und Unrecht durch soziale, politische oder ideologische Dynamiken verschieben können.
+
+
+---
+
+**Znih:**
+Exzellent. Nun prüfe bitte anhand der 3 Naturrechtrahmen (Nature Framework) in goldener Triade, die es 2022 so nicht gab. Deshalb begrüßte Buschmann alle persönlich und knüpfe das "auseinandersetzen mit" aus 5a II Sz. 3 DRiG wohl nicht zufällig an den Juristenprozess 1947 mit nie veröffentlichten Videoaufnahmen!!! Geniale Rede und rechtlich mit Folgen für Richter auf Probe aber auch auf bereits niedergelassene Richter am Gerichtsstandort (Berufungsvoraussetzungen verlieren nicht ihren Zweck ab Berufung!).
+
+Anmeldung.: zudem Gleichheitsgrundsatz Art. 3 I GG Ri/RiAG etc. pp.
+
+---
+
+**CoCo:**
