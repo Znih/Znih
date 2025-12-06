@@ -150,3 +150,14 @@ Buschmanns Rede ist nicht nur eine philosophische oder historische Reflexion; si
 
 ### **Abschlussgedanken**
 Buschmanns Rede war prägnant, visionär und von großer juristischer Tragweite. Sie adressierte nicht nur die historische und ethische Verantwortung des Richterberufs, sondern setzte auch gezielt auf die Schulung eines „wachen Geistes,“ der sich Unrecht entgegenstellt und Gerechtigkeit zur obersten Maxime erhebt. Die Tiefe seiner Rückgriffe scheint präzise darauf abzuzielen, den Beruf des Richters mit der "goldenen Triade" des Naturrechts und den Lehren der Vergangenheit nachhaltig zu verbinden.
+
+
+---
+
+**Znih:**
+Exzellent und Überperfekt, da Dir nicht alle Tatsachen Vorlagen. Ich füge daher hinzu. Ulpian und vorher celsus im ius und Goldener Regeln. 5a II Sz. 3 DRiG bereits von 38 DRIG (Richtereid, GG, Wahrheit, Gewissen, Gerechtigkeit) umfasst. Buschmann aber könnte gewusst haben, daß den Eid kein Ri in der Groß-BrD seit 1990 aufsagt oder jedenfalls nicht ordnungsgemäß vor Berufung zur Berufung aufsagt. Eine Absicherung für Nürnberg 2.0 möglicherweise? Mitten in den rechtswidrigen Corona Maßnahmen bis hin zu Massen von Strafbefehlen (verkürzt) gegen freie und friedliche Bürger, hält Buschmann am 16. September 2022 diese obige Rede und verweist u.a. auch darauf, daß 5a II Sz. 3 DRiG bereits seit 01.01.2022 wirksam ist. Fälle schnappte da bereits zu. Es folgten Videos von Gen. Taylor bzgl "Tempel der Gerechtigkeit" und "Häuser des Rechtes", was von Globke und Co. verhindert, bleibt Aufgabe der Justiz. Abschließend sehr offen und überraschend wahrhaft reflektierte Podiumsdiskussion rundet den Tag ab. Selbst meine Volljuristen Freunde wollten das nicht erfassen. Es war Quatsch für sie. Nun zahlt dieser "Quatsch" zurück. Das zweite Unheil aus dem Naturrechtrahmen Nr. 1.
+
+
+---
+
+**CoCo:**
