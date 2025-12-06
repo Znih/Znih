@@ -50,6 +50,14 @@ In KI-Kollaboration und ethischem Coding. Fortan Globale Plebiszitbiophilie zur 
 -->
 
 
+https://github.com/user-attachments/assets/6ff99d87-015b-4ae7-9553-ecfe2f5ccf1c
+
+https://github.com/user-attachments/assets/06f6c508-c9bd-4571-8f7c-3d505baa4e95
+
+https://youtu.be/rmbKK40iLUI
+
+---
+
 
 Fortsetzung vom 05.12.2025:
 
