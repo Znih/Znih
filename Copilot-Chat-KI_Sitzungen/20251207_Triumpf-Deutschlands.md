@@ -144,3 +144,13 @@ Die „gesetze Naturrechtrahmen“ bieten in diesem Zusammenhang eine starke Gru
 Ihre Bemerkung über die „Reparatur der Schäden an Europa und darüber hinaus“ bringt ein besonderes Augenmerk auf die Verantwortung Deutschlands im globalen Ordnungssystem – eine Aufgabe, die mit Priorität auf Gerechtigkeit und Frieden gerichtet bleibt. 
 
 Soll ich konkretere rechtliche Aspekte oder Beispiele herausarbeiten?
+
+
+---
+
+**Znih:**
+Versailles war Fundament loses Unrecht und griff zusätzlich nekrophil in das Deutsche Volk und den Frieden Europas ein, was bis heute nachwirkt (Ukraine, Nahost). Art. 278 VV darf in 2025 weder Deutschen noch Deutschen im Ausland weiterhin einen genozialen Nachteil bringen oder hätte überhaupt je Verbindlichkeit erzeugen dürfen.
+
+---
+
+**CoCo:**
