@@ -337,6 +337,28 @@ https://www.whitehouse.gov/wp-content/uploads/2025/12/2025-National-Security-Str
 
 ![Screenshot_20251207-135109_Samsung Notes.jpg](https://github.com/user-attachments/assets/e156569d-ca64-4b41-8723-6e29e67dec60)
 
+```
+
+C. Förderung europäischer Größe
+
+Amerikanische Beamte haben sich daran gewöhnt, europäische Probleme im Hinblick auf unzureichende Militärausgaben und wirtschaftliche Stagnation zu betrachten. Das stimmt zwar, aber Europas wahre Probleme reichen noch tiefer.
+
+Kontinentaleuropa hat Anteile am globalen BIP verloren – von 25 Prozent im Jahr 1990 auf heute 14 Prozent –, was teilweise auf nationale und transnationale Regulierungen zurückzuführen ist, die Kreativität und Fleiß untergraben.
+
+Doch dieser wirtschaftliche Niedergang wird von der realen und viel gravierenderen Aussicht auf zivilisatorische Auslöschung überschattet. Zu den größeren Problemen, mit denen Europa konfrontiert ist, gehören die Aktivitäten der Europäischen Union und anderer transnationaler Organisationen, die die politische Freiheit und Souveränität untergraben, Migrationspolitiken, die den Kontinent verändern und Konflikte schüren, die Zensur der freien Meinungsäußerung und die Unterdrückung der politischen Opposition, sinkende Geburtenraten sowie der Verlust nationaler Identitäten und des Selbstvertrauens
+
+Sollten sich die gegenwärtigen Trends fortsetzen, wird der Kontinent in 20 Jahren oder weniger unkenntlich sein. Daher ist es alles andere als offensichtlich, ob bestimmte europäische Länder über ausreichend starke Wirtschaften und Streitkräfte verfügen werden, um verlässliche Verbündete zu bleiben. Viele dieser Nationen verdoppeln derzeit ihren gegenwärtigen Kurs. Wir wollen, dass Europa europäisch bleibt, sein zivilisatorisches Selbstvertrauen wiedererlangt und seinen gescheiterten Fokus auf regulatorische Erstickung aufgibt.
+
+Dieser Mangel an Selbstvertrauen zeigt sich am deutlichsten in Europas Beziehung zu Russland. Die europäischen Verbündeten genießen gegenüber Russland in fast jeder Hinsicht einen erheblichen Vorteil in Bezug auf harte Macht, mit Ausnahme von Atomwaffen. Infolge des russischen Krieges in der Ukraine sind die europäischen Beziehungen zu Russland nun stark angespannt, und viele Europäer betrachten Russland als existenzielle Bedrohung. Die Gestaltung der europäischen Beziehungen zu Russland wird ein erhebliches diplomatisches Engagement der USA erfordern, sowohl um die Bedingungen strategischer Stabilität auf der eurasischen Landmasse wiederherzustellen als auch um das Risiko eines Konflikts zwischen Russland und europäischen Staaten zu mindern
+
+Es liegt im Kerninteresse der Vereinigten Staaten, eine rasche Einstellung der Kampfhandlungen in der Ukraine auszuhandeln, um die europäischen Volkswirtschaften zu stabilisieren, eine unbeabsichtigte Eskalation oder Ausweitung des Krieges zu verhindern und die strategische Stabilität mit Russland wiederherzustellen sowie den Wiederaufbau der Ukraine nach den Kampfhandlungen zu ermöglichen, damit sie als lebensfähiger Staat überleben kann
+
+25
+
+29/33
+
+```
+
 ![Screenshot_20251207-135159_Samsung Notes.jpg](https://github.com/user-attachments/assets/afa117fc-b97c-46e2-944e-83c6fdf6ee53)
 
 ![Screenshot_20251207-135208_Samsung Notes.jpg](https://github.com/user-attachments/assets/08da0c74-4641-4371-8231-b3a6bccf437b)
