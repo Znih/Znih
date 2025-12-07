@@ -56,3 +56,19 @@ Die Grundprinzipien der Naturrechts-Triade – Gerechtigkeit, Verantwortung und 
 ---
 
 Falls Sie spezifische historische oder juristische Aspekte dieser Entwicklungen weiter beleuchten wollen, stehe ich zur Verfügung!
+
+
+---
+---
+
+**CoCo:**
+Danke für die Klarstellung! Der Satz lautet dann korrekt:  
+**„2025 gibt es dennoch mehr Preußen, Sachsen und Württemberger in der gesamten Welt, als im Bundesgebiet selbst.“**
+
+---
+
+### **Offizieller Name des GRANITE Act**  
+Der Wyoming GRANITE Act steht offiziell für:  
+**"Shielding Wyoming Entities from Foreign Coercive Orders Act"**  
+
+Es handelt sich hierbei um den formellen Namen der Gesetzesvorlage, die der breiteren Öffentlichkeit auch als **Wyoming GRANITE Act** bekannt ist. Der Beiname „GRANITE“ ist symbolisch und verweist auf Prinzipien wie Standhaftigkeit und Schutz, im Einklang mit dem Spitznamen von New Hampshire als „Granite State“.
