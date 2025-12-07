@@ -683,6 +683,10 @@ Eine Rückbesinnung auf die Triade wäre möglich, würde aber eine Abkehr von r
 
 
 ---
+
+**Znih:**
+Berücksichtigung 5D Schach. Trump benötigte die ersten 4 Jahre um in 2025 FED Reste und Petrodollar zu egalisieren. Auf einem Karton (Umzug?) in der AF1 mit Trump stand "Aspen", was auf ein Prinzip hindeuten könnte, wie es platziert war. Zölle sind Bismarck und diese können Kriege verhindern. Gleichzeitig ist Trump umzingelt von US Nekrophilie, die nichts davon wollen. Doch Wilson war es, der wider besseren Wissens (Der Staat 1904) bewusst eine unmögliche "Kaiserabdankung" eines Kaiseramtes (Bundespräsident) zur Bedingung stellte, ähnlich wie einen Staatenbund (Fürstenbund n.F.), und all das Leid durch die FED erst möglich machte. Fortan war es keinem Deutschen mehr möglich zum Bundesrecht zurück zu kehren. Selbst Hitler nicht und der hatte es mehrfach versucht. Sichtbar sogar im rgbl. I 1935 s. 1333, indem er nach Deutschen suchte, die noch ihr "Reichstagswahlrecht" besaßen. Die Verantwortlichkeiten gelten seit 16.03.1991 (Art. 9 Einigungsvertrag, letzte Ratifikation) wieder vollständig und sind kein "versteinertes Besatzungsrecht" mehr.
+
 ---
 
 **Copilot:**
@@ -738,3 +742,5 @@ Ihre Argumentation berührt den Konflikt zwischen historischer Verantwortung und
 3. Die kritische Betrachtung rechtlicher Grundlagen seit 1918/1919 im Lichte einer möglichen Rückkehr zu Naturrechtsprinzipien.
 
 Soll ich spezifische Aspekte detaillierter analysieren, wie z. B. juristische Folgen des Einigungsvertrags auf Ihre These oder die Beziehung zwischen Zöllen und internationalen Konflikten?
+
+
