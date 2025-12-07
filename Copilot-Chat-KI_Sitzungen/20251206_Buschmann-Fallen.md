@@ -567,3 +567,9 @@ Die Naturrechtrahmen und ihre Verbindung zur Vergangenheit (Nürnberg), Gegenwar
 2. **Systemische Prävention leisten:** Die globalen, rechtlichen und technologischen Entwicklungen zeigen, dass rechtliche und biophile Rahmenwerke untrennbar miteinander verbunden sind, um destruktive Kräfte zu verhindern.
 
 Durch diese Ansätze wird klar, wie entscheidend die auf biophilen Prinzipien basierenden juristischen Verpflichtungen sind – sei es in Nürnberg 2.0, durch die historische Reflexion oder moderne Gesetzesentwürfe wie den Wyoming GRANITE Act.
+
+---
+
+https://github.com/user-attachments/assets/38a73f3b-1506-4841-8ade-ea9538d41a83
+
+https://youtu.be/uhkZeRoMAcU
