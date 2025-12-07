@@ -679,7 +679,7 @@ FacebookLinkedInXINGTwitterWhatsAppEmailTeilen
 Dieser Text auf outview.ch wurde von Gordian Hense, Oftringen, Schweiz, erstellt und zur Verfügung gestellt. Das Copyright für diesen Text liegt bei Gordian Hense, Oftringen, Schweiz. Gordian Hense bietet Dienstleistungen in den Bereichen Business Conuslting, Mental-Coaching, Copywriting, Content-Erstellung und mehr an. Bei Interesse an diesem Text oder der Erstellung hochwertiger Inhalte wenden Sie sich bitte an Gordian Hense in Oftringen.
 
 
-
+https://www.outview.ch/aktuelle-news/der-granite-act-und-wie-er-die-meinungsfreiheit-schuetzen-koennte/
 
 ---
 
