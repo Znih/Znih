@@ -381,6 +381,38 @@ Amerika ist verständlicherweise sentimental an den europäischen Kontinent gebu
 
 ![Screenshot_20251207-135208_Samsung Notes.jpg](https://github.com/user-attachments/assets/08da0c74-4641-4371-8231-b3a6bccf437b)
 
+```
+
+Langfristig ist es mehr als plausibel, dass spätestens in einigen Jahrzehnten bestimmte NATO-Mitglieder mehrheitlich nichteuropäisch sein werden. Daher ist es eine offene Frage, ob sie ihren Platz in der Welt oder ihr Bündnis mit den Vereinigten Staaten auf dieselbe Weise sehen werden wie diejenigen, die die NATO-Charta unterzeichnet haben.
+
+Unsere umfassende Europapolitik sollte folgende Prioritäten setzen:
+
+Wiederherstellung der Stabilität in Europa und der strategischen Stabilität mit Russland;
+
+Europa in die Lage versetzen, auf eigenen Beinen zu stehen und als Gruppe verbündeter souveräner Nationen zu agieren, unter anderem durch die Übernahme der Hauptverantwortung für die eigene Verteidigung, ohne von einer gegnerischen Macht dominiert zu werden;
+
+Förderung des Widerstands gegen Europas gegenwärtigen Kurs innerhalb der europäischen Nationen;
+
+Öffnung der europäischen Märkte für US-amerikanische Waren und Dienstleistungen und Gewährleistung einer fairen Behandlung von US-amerikanischen Arbeitnehmern und Unternehmen;
+
+Stärkung der gesunden Nationen Mittel-, Ost- und Südeuropas durch Handelsbeziehungen, Waffenverkäufe, politische Zusammenarbeit sowie kulturellen und Bildungsaustausch;
+
+Beendigung der Wahrnehmung und Verhinderung der Realität, dass die NATO ein ständig wachsendes Bündnis ist; und
+
+Europa wird ermutigt, Maßnahmen gegen merkantilistische Überkapazitäten, Technologiediebstahl, Cyberspionage und andere feindselige Wirtschaftspraktiken zu ergreifen.
+
+D. Der Nahe Osten: Lasten verlagern, Frieden schaffen
+
+Seit mindestens einem halben Jahrhundert priorisiert die amerikanische Außenpolitik den Nahen Osten gegenüber allen anderen Regionen. Die Gründe liegen auf der Hand: Der Nahe Osten war jahrzehntelang der wichtigste Energielieferant der Welt, ein Hauptschauplatz des Wettbewerbs der Supermächte und voller Konflikte, die drohten, auf die ganze Welt und sogar auf unsere eigenen Küsten überzugreifen.
+
+Heute treffen mindestens zwei dieser Dynamiken nicht mehr zu. Die Energieversorgung hat sich stark diversifiziert, und die Vereinigten Staaten sind wieder Nettoenergieexporteur. Der Wettbewerb der Supermächte ist einem Großmacht-Geplänkel gewichen, in dem die Vereinigten Staaten die beneidenswerteste Position einnehmen, die durch Präsident Trumps
+
+27
+
+31/33
+
+```
+
 ![Screenshot_20251207-135217_Samsung Notes.jpg](https://github.com/user-attachments/assets/399b05b7-77af-41ce-972a-2865ac38fd77)
 
 ![Screenshot_20251207-135232_Samsung Notes.jpg](https://github.com/user-attachments/assets/55ddd099-1ec1-452d-b324-5ba95247e563)
