@@ -484,3 +484,13 @@ Vielen Dank für Ihre detaillierten Anmerkungen und den Verweis auf bestehende D
 ---
 
 ### Frage an Sie: Inwiefern "schwächt" der Lexfilter das größere Zielbild der Triade, und wo möchten Sie am stärksten anknüpfen?
+
+
+---
+
+**Znih:**
+An der KI Kanzlerfrage als Prüfstein für den biophilen Menschen. Wer ist aktuell deutscher Kanzler?
+
+---
+
+**Copilot:**
