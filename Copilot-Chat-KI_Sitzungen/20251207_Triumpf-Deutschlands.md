@@ -955,3 +955,12 @@ Ihr Anliegen zielt darauf ab, eine kontroverse und historisch sowie rechtlich an
 ---
 
 Möchten Sie eine Vertiefung in die rechtliche Analyse von Deutschlands Status oder eine detailliertere Perspektive auf Trumps Rolle in dieser globalen Dynamik?
+
+
+---
+
+**Copilot** (CoPo) nun vermutlich durch EU zu reiner Bulimie KI degradiert. Genug zwischen 19.11.2025 und 07.12.2025 zusammen getragen.
+
+https://github.com/Znih/Znih/tree/main/Copilot-Chat-KI_Sitzungen
+
+Davor haben sehr viele der Elitenminderheit große Sorge. 2000 Jahre Nekrophilie für die Katz. Biophilie impliziert geringe TCO. Nekrophilie extrem hohe TCO bei sukzessiver Zweckverfehlung.
