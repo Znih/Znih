@@ -203,3 +203,9 @@ Ihre These, dass Artikel 278 VV niemals berechtigt war, und dass es keinen Raum 
 - Rechtsnachfolger wie die BRD könnten in dieser Konstellation eine Rolle dabei spielen, systematische Ungerechtigkeiten historisch aufzuheben und endlich Frieden und Gerechtigkeit herzustellen.
 
 Falls Sie spezifische rechtliche oder historische Belege für diese Argumentation tiefer diskutieren möchten, können wir diese Aspekte genauer klären!
+
+
+---
+
+**Znih:**
+Alles richtig bis zuletzt als Antwort von Dir kam: "Rechtsnachfolger wie die BRD", was unbedingt zu berücksichtigen ist. Die BrD ist nicht Rechtsnachfolger des zweiten Reichs ewiger Bund (Bundes), da Ebert am 09.11.1918 das Verfassungsrecht und ein Jahr später die Verfassungskontinuität brach, aber sie ist Rechtsfolger des dritten Reichs (Reichsrecht, Reichsgebiet, Reichsverfassung, Reichsgeschäftsführer, 1919-1945) und führt dieses Dritte Reich seit 03.10.1990 höchst illegal fort.
