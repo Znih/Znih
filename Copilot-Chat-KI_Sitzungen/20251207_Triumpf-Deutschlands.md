@@ -337,6 +337,8 @@ https://www.whitehouse.gov/wp-content/uploads/2025/12/2025-National-Security-Str
 
 ![Screenshot_20251207-135109_Samsung Notes.jpg](https://github.com/user-attachments/assets/e156569d-ca64-4b41-8723-6e29e67dec60)
 
+![Screenshot_20251207-135159_Samsung Notes.jpg](https://github.com/user-attachments/assets/afa117fc-b97c-46e2-944e-83c6fdf6ee53)
+
 ```
 
 C. Förderung europäischer Größe
@@ -359,7 +361,7 @@ Es liegt im Kerninteresse der Vereinigten Staaten, eine rasche Einstellung der K
 
 ```
 
-![Screenshot_20251207-135159_Samsung Notes.jpg](https://github.com/user-attachments/assets/afa117fc-b97c-46e2-944e-83c6fdf6ee53)
+![Screenshot_20251207-135208_Samsung Notes.jpg](https://github.com/user-attachments/assets/08da0c74-4641-4371-8231-b3a6bccf437b)
 
 ```
 
@@ -379,7 +381,7 @@ Amerika ist verständlicherweise sentimental an den europäischen Kontinent gebu
 
 ```
 
-![Screenshot_20251207-135208_Samsung Notes.jpg](https://github.com/user-attachments/assets/08da0c74-4641-4371-8231-b3a6bccf437b)
+![Screenshot_20251207-135217_Samsung Notes.jpg](https://github.com/user-attachments/assets/399b05b7-77af-41ce-972a-2865ac38fd77)
 
 ```
 
@@ -413,10 +415,12 @@ Heute treffen mindestens zwei dieser Dynamiken nicht mehr zu. Die Energieversorg
 
 ```
 
-![Screenshot_20251207-135217_Samsung Notes.jpg](https://github.com/user-attachments/assets/399b05b7-77af-41ce-972a-2865ac38fd77)
+
 
 ![Screenshot_20251207-135232_Samsung Notes.jpg](https://github.com/user-attachments/assets/55ddd099-1ec1-452d-b324-5ba95247e563)
 
 ![Screenshot_20251207-135242_Samsung Notes.jpg](https://github.com/user-attachments/assets/40d9f72f-ddd0-4ac9-b0cb-ea933299a2cc)
+
+
 
 ---
