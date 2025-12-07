@@ -361,6 +361,24 @@ Es liegt im Kerninteresse der Vereinigten Staaten, eine rasche Einstellung der K
 
 ![Screenshot_20251207-135159_Samsung Notes.jpg](https://github.com/user-attachments/assets/afa117fc-b97c-46e2-944e-83c6fdf6ee53)
 
+```
+
+Der Ukraine-Krieg hat paradoxerweise Europas, insbesondere Deutschlands, Abhängigkeit von externen Ressourcen verstärkt. Deutsche Chemiekonzerne errichten heute einige der weltweit größten Verarbeitungsanlagen in China und nutzen dafür russisches Gas, das sie im Inland nicht beziehen können. Die Trump-Regierung steht im Konflikt mit europäischen Politikern, die unrealistische Erwartungen an den Krieg haben, der von instabilen Minderheitsregierungen regiert wird, von denen viele grundlegende demokratische Prinzipien mit Füßen treten, um die Opposition zu unterdrücken. Eine große europäische Mehrheit wünscht sich Frieden, doch dieser Wunsch findet keine Umsetzung in die Politik, vor allem weil diese Regierungen demokratische Prozesse untergraben. Dies ist für die Vereinigten Staaten von strategischer Bedeutung, gerade weil sich europäische Staaten nicht reformieren können, wenn sie in einer politischen Krise gefangen sind.
+
+Dennoch bleibt Europa für die Vereinigten Staaten strategisch und kulturell von entscheidender Bedeutung. Der transatlantische Handel ist nach wie vor eine der Säulen der Weltwirtschaft und des amerikanischen Wohlstands. Europäische Sektoren, von der Fertigung über die Technologie bis hin zur Energie, gehören weiterhin zu den robustesten der Welt. Europa beherbergt Spitzenforschung und weltweit führende Kulturinstitutionen. Wir können es uns nicht leisten, Europa abzuschreiben – dies wäre kontraproduktiv für das, was diese Strategie erreichen will.
+
+Die amerikanische Diplomatie sollte sich weiterhin für echte Demokratie, Meinungsfreiheit und die uneingeschränkte Würdigung des individuellen Charakters und der Geschichte der europäischen Nationen einsetzen. Amerika ermutigt seine politischen Verbündeten in Europa, diese Wiederbelebung des Geistes zu fördern, und der wachsende Einfluss patriotischer europäischer Parteien gibt in der Tat Anlass zu großem Optimismus.
+
+Unser Ziel sollte es sein, Europa dabei zu helfen, seinen aktuellen Kurs zu korrigieren. Wir werden ein starkes Europa brauchen, das uns hilft, erfolgreich im Wettbewerb zu bestehen und mit uns zusammenzuarbeiten, um zu verhindern, dass ein Gegner Europa dominiert
+
+Amerika ist verständlicherweise sentimental an den europäischen Kontinent gebunden – und natürlich an Großbritannien und Irland. Der Charakter dieser Länder ist auch strategisch wichtig, weil wir auf kreative, fähige, selbstbewusste und demokratische Verbündete zählen, um Bedingungen für Stabilität und Sicherheit zu schaffen. Wir wollen mit verbündeten Ländern zusammenarbeiten, die ihre frühere Größe wiedererlangen wollen
+
+26
+
+30/33
+
+```
+
 ![Screenshot_20251207-135208_Samsung Notes.jpg](https://github.com/user-attachments/assets/08da0c74-4641-4371-8231-b3a6bccf437b)
 
 ![Screenshot_20251207-135217_Samsung Notes.jpg](https://github.com/user-attachments/assets/399b05b7-77af-41ce-972a-2865ac38fd77)
