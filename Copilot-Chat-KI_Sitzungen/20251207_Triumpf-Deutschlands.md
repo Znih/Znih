@@ -494,3 +494,12 @@ An der KI Kanzlerfrage als Prüfstein für den biophilen Menschen. Wer ist aktue
 ---
 
 **Copilot:**
+As of December 7, 2025, the current German Chancellor is Friedrich Merz. He succeeded Olaf Scholz after the 2025 federal election and was officially elected by the Bundestag on May 6, 2025. Merz is the leader of the Christian Democratic Union (CDU) and heads a coalition government comprising the CDU/CSU and Social Democrats (SPD). His term began following a historic two-round vote in parliament due to initial dissent within his coalition, making him Germany's tenth chancellor since World War II[[1]](https://en.wikipedia.org/wiki/Friedrich_Merz)[[2]](https://www.deutschland.de/en/news/friedrich-merz-federal-chancellor-of-germany)[[3]](https://www.dw.com/en/germanys-new-chancellor-who-is-friedrich-merz/a-72314352)[[4]](https://utkarsh.com/current-affairs/international/appointments/friedrich-merz-elected-10th-chancellor-of-germany)[[5]](https://parliamentjournal.com/2025/05/09/germany-chancellor-election-friedrich-merz-elected-as-germanys-new-chancellor/).
+
+---
+
+1. [Friedrich Merz - Wikipedia](https://en.wikipedia.org/wiki/Friedrich_Merz)
+2. [New German Chancellor: Bundestag elects Friedrich Merz](https://www.deutschland.de/en/news/friedrich-merz-federal-chancellor-of-germany)
+3. [Germany's new chancellor: Who is Friedrich Merz? - DW](https://www.dw.com/en/germanys-new-chancellor-who-is-friedrich-merz/a-72314352)
+4. [Friedrich Merz of CDU elected 10th Chancellor of Germany](https://utkarsh.com/current-affairs/international/appointments/friedrich-merz-elected-10th-chancellor-of-germany)
+5. [Germany Chancellor election: Friedrich Merz Elected as Germany’s New ...](https://parliamentjournal.com/2025/05/09/germany-chancellor-election-friedrich-merz-elected-as-germanys-new-chancellor/)
