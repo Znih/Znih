@@ -76,3 +76,7 @@ Ein Szenario von 10 Tagen ohne Energieversorgung—oft als "10 Tage Dunkelheit" 
 - Manche Projekte wurden auf Technologien wie Proof-of-Stake umleiten.
 
 Die grundlegende Schlussfolgerung könnte sein: dezentrale Systeme benötigen robustere Backup-Technologien oder off-Grid-fähige Operationen, um ihre Kernfunktionen bei einem globalen EMP oder Stromausfall nachhaltig zu gewährleisten.
+
+---
+
+https://youtu.be/QFpiUZz84DU
