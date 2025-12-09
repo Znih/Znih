@@ -2,7 +2,7 @@
 
 gegen
 
-alle BrD Organe und Nutznießer oder Handlanger in Justiz und Staatsanwaltschaft (BefrG v. 1946 iVm Art. 139 GG (§ 38 DRiG) aber besonders der beherrschenden EStG Steuereinzugsmacht nach der NS-Logik in nazistischen Logiken bzgl. Staatsangehörigkeit (Reichsbürgerschaft n. Art. 116 I GG vs. Art. 16 I GG)
+alle BrD Organe und Nutznießer oder Handlanger in Justiz und Staatsanwaltschaft (BefrG v. 1946 iVm Art. 139 GG, vgl. § 38 DRiG) aber besonders der beherrschenden EStG Steuereinzugsmacht nach der NS-Logik in nazistischen Logiken bzgl. Staatsangehörigkeit (Reichsbürgerschaft n. Art. 116 I GG vs. Art. 16 I GG)
 
 wegen
 
