@@ -24,3 +24,6 @@ gemäß Art. 3 BVerf. iVm Art. 20 IV, 123 I, 116 II, 139, 146 GG und nicht "deut
 Wer nicht hören will, wird fortan fühlen müssen.
 
 Volljuristen unbedingt Nachrichten konsumieren und auf Nürnberg 2.0 vorbereiten.
+
+Buschmann Volljuristenfalle für Deutsche Staatsbürger n. Art. 116 I GG:
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251206_Buschmann-Fallen.md
