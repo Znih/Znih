@@ -155,7 +155,7 @@ Dieser Einblick ist besonders relevant in der Begleitung eines Rechtsstaates und
 **Znih:**
 Exzellent. Nun prüfe bitte anhand der 3 Naturrechtrahmen (Nature Framework) in goldener Triade, die es 2022 so nicht gab. Deshalb begrüßte Buschmann alle persönlich und knüpfe das "auseinandersetzen mit" aus 5a II Sz. 3 DRiG wohl nicht zufällig an den Juristenprozess 1947 mit nie veröffentlichten Videoaufnahmen!!! Geniale Rede und rechtlich mit Folgen für Richter auf Probe aber auch auf bereits niedergelassene Richter am Gerichtsstandort (Berufungsvoraussetzungen verlieren nicht ihren Zweck ab Berufung!).
 
-Anmeldung.: zudem Gleichheitsgrundsatz Art. 3 I GG Ri/RiAG etc. pp.
+Anmerkung: zudem Gleichheitsgrundsatz Art. 3 I GG Ri/RiAG etc. pp.
 
 ---
 
