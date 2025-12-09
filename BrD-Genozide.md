@@ -18,7 +18,7 @@ Alle Gerichs-, Staatsanwaltschafts- und Personal-Akten des ehemaligen Justiz Sys
 
 
 Der Deutsche
-gemäß Art. 3 BVerf. iVm Art. 20 IV, 123 I, 116 II, 139, 146 GG und nicht "deutscher [Hitler]Staatsangehöriger" n. 16 I GG und nicht Deutscher Reichsstaatsbürger n. Art. 116 I GG!!!
+gemäß Art. 3 BVerf. iVm Art. 20 IV, 123 I, 116 II, 139, 146 GG und nicht "deutscher [Hitler]Staatsangehöriger" n. 16 I GG (Art. 278, 292 VV, Art. 110 WRV, RGBl. I 1934 S. 85) und nicht Deutscher Reichsstaatsbürger n. Art. 116 I GG (RGBl. I 1935 S. 1146, 1333)!!!
 
 
 Wer nicht hören will, wird fortan fühlen müssen.
