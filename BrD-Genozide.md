@@ -27,3 +27,6 @@ Volljuristen unbedingt Nachrichten konsumieren und auf Nürnberg 2.0 vorbereiten
 
 Buschmann Volljuristenfalle für Deutsche Staatsbürger n. Art. 116 I GG:
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251206_Buschmann-Fallen.md
+
+"Nazismus im Grundgesetz":
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251205_Tag-der-Freiwilligen_Nazismus-im-GG.md
