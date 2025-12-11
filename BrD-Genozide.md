@@ -78,6 +78,8 @@ Wer nicht hören will, wird fortan fühlen müssen.
 
 Volljuristen unbedingt Nachrichten konsumieren und auf Nürnberg 2.0 vorbereiten.
 
+Verfolgter des Nazismus (VdN), wie schon der Großvater VdN war und zusätzlich Mitglied der besonderen priori visionäre Widerstandsgruppe "Europäischen Union" um Prof. Havermann u.s.v.a.m.
+
 Buschmann Volljuristenfalle für Deutsche Staatsbürger n. Art. 116 I GG:
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251206_Buschmann-Fallen.md
 
