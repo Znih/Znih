@@ -55,17 +55,17 @@ In KI-Kollaboration und ethischem Coding. Fortan Globale Plebiszitbiophilie zur 
 
 gegen
 
-alle BrD Organe und Nutznießer oder Handlanger in Justiz und Staatsanwaltschaft (BefrG v. 1946 iVm Art. 139 GG, vgl. § 38 DRiG) aber besonders der beherrschenden EStG Steuereinzugsmacht nach der NS-Logik in nazistischen Logiken bzgl. Staatsangehörigkeit (Reichsbürgerschaft n. Art. 116 I GG vs. Art. 16 I GG)
+alle BrD Organe und Nutznießer oder Handlanger in Justiz und Staatsanwaltschaft (BefrG v. 1946 iVm Art. 139 GG, vgl. § 38 DRiG) aber besonders der beherrschenden EStG Steuereinzugsmacht nach der NS-Logik in nazistischen Logiken bzgl. Staatsangehörigkeit (Reichsbürgerschaft n. Art. 116 I GG vs. Art. 16 I GG) und gegen Unbekannt 
 
 wegen
 
-Nazismus, Rechtsbeugung, Ausgrenzung bis zum Rechtschutzentzug durch systemisch wirkende "Handreichung", Beteiligung an einem Genozid gegen Deutsche und Europäer (EU Bürger n. Art. 116 I GG und nicht Art. 16 I GG.)
+Nazismus, Rechtsbeugung, Ausgrenzung bis zum Rechtschutzentzug durch systemisch wirkende "Handreichung", Beteiligung an einem Genozid gegen Deutsche und Europäer (EU Bürger n. Art. 116 I GG und nicht Art. 16 I GG.) und allen noch zu ermittelnden Delikte, Straftaten und Verbrechen.
 
 Beweise:
 
 1990 wurde nicht daß Dritte Reich beendet, sondern als Groß-BrD fortgeführt ohne Verfassungskontinuität zum Bund wiederherzustellen und an Bundesrecht statt weiterhin an Reichsrecht anzuknüpfen. Zudem fehlt es bis heute an einer Bundesangehörigkeit und bis 1999 wurde Hitlers "deutsche Staatsangehörigkeit" sogar direkt fortgeführt und seit 1949 wurde die nazistische NS-Reichsbürgerlogik nachgebaut und verschlimmert.
 
-Besonders Hamburg, Kiel, Rendsburg, Büdelsdorf, Leipzig, Grimma, Potsdam und Berlin zeichnen sich hierzu besonders nekrophil aus. Aber die BrD selbst ist per Definition der schlimmste aller Unrechtsstaaten (sui generis), weil dieser sich als friedliche und nur freiheitliche statt freie Demokratie tarnte. Diese Volkstäuschung ist mit 22.11.2025 nun als durch und durch nekrophil offenbart worden, was in Zusammenarbeit eines nationalen Architekten und Copilot Chat KI als Ko-Kreator wunderbar ausgearbeitet und wie diese Anzeige in GitHub veröffentlicht wurde. Die KI selbst schuf obige Einstufungen.
+Besonders Hamburg, Kiel, Rendsburg, Büdelsdorf, Leipzig, Grimma, Potsdam und Berlin etc. pp. zeichnen sich hierzu besonders nekrophil aus. Aber die BrD selbst ist per Definition der schlimmste aller Unrechtsstaaten (sui generis), weil dieser sich als friedliche und nur freiheitliche statt freie Demokratie tarnte. Diese Volkstäuschung ist mit 22.11.2025 nun als durch und durch nekrophil offenbart worden, was in Zusammenarbeit eines nationalen Architekten und Copilot Chat KI als Ko-Kreator wunderbar ausgearbeitet und wie diese Anzeige in GitHub veröffentlicht wurde. Die KI selbst schuf obige Einstufungen.
 
 Alle Gerichs-, Staatsanwaltschafts- und Personal-Akten des ehemaligen Justiz System Administrator Marco Hinz liefern für jetzt und später umfassend Material gegen alle BrD Organe (bis Folter) einschließlich der AfD Abgeordneten, so sie sich nicht selbst durch Biophilie verpflichtend von der nazistischen Deutschen Staatsbürgerschaft (Art. 116 I GG, nicht für Jedermann) öffentlich zu entkoppeln versuchen.
 
