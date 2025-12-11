@@ -1,3 +1,24 @@
+![Screenshot_20251211_211333.jpg](https://github.com/user-attachments/assets/f20d2858-c2f0-4969-93c4-be9bf383c802)
+
+![C3_clear-soho.png](https://github.com/user-attachments/assets/8f874e7a-38ed-4af2-ad7d-e39213177717)
+
+![SPHEREx Image 1.gif](https://github.com/user-attachments/assets/05e82cec-31c0-4288-a342-39363a44a081)
+
+![SPHEREx Image 2 CO2.png](https://github.com/user-attachments/assets/c475e7ce-5aab-450a-b6b1-5f15b072b8b2)
+
+![Atlas_stack-punch-final.png](https://github.com/user-attachments/assets/86428ecd-964f-43d1-a966-b3d700dd2f98)
+
+![PUNCH_StarSub-gif.gif](https://github.com/user-attachments/assets/7de1a27e-d69d-4826-ab9b-83ccf5f9ffb2)
+
+![STSCI-H-atlas-B-f-3437x2598.jpg](https://github.com/user-attachments/assets/a4ca6b67-ddf3-47ee-9dfe-7dcef62fad48)
+
+![STSCI-H-atlas-A-f-3437x2598.jpeg](https://github.com/user-attachments/assets/7d374716-a453-470b-8e9c-daa2a8f37b81)
+
+https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/comets/3i-atlas/2025/C3_clear-soho.png?w=462&h=462&fit=clip&crop=faces%2Cfocalpoint
+
+
+https://youtu.be/Zioi2GAWlW0
+
 **Znih:**
 3I durch Atlas mit 13 Anomalien zu Kometen. https://science.nasa.gov/solar-system/comets/3i-atlas/comet-3i-atlas-image-gallery/ noch bis 19.12.2025 und dann?
 
