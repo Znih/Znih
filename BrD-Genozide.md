@@ -2866,7 +2866,10 @@ richtigte-Fassung.odt
 
 ---
 
->Stimmt. Vom 6., 7. und 9. November 2024, die jeweils die letzte Seite verfeinerten. >Der obigen fehlt es daher an der richtigen Seite 287 im Stand v. 07.09.2024, resp. v. 09.09.2024, was insoweit nachzuholen wäre.
+>Stimmt. Vom 6., 7. und 9. November 2024, die jeweils die letzte Seite verfeinerten. Der obigen [Version] fehlt es daher an der richtigen Seite 287 im Stand v. 07.09.2024, resp. v. 09.09.2024, was insoweit nachzuholen wäre.
+
+Friede 1870/71 anbei:
+https://github.com/Znih/Znih/blob/main/1871-Friede-1871.md
 
 ![Screenshot_20251213_141059~2.jpg](https://github.com/user-attachments/assets/a243bfa1-ffba-4fba-96bb-86572c5e6253)
 
@@ -2876,3 +2879,4 @@ richtigte-Fassung.odt
 
 
 Anlagen...
+
