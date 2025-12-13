@@ -2363,28 +2363,29 @@ Präsidenten des Staatsministeriums.*“273
 
 „*Berlin, 14. Juli. Die Mehrheit des Reichstages, die sich zusammensetzt aus den Fraktionen desZentrums, der Fortschrittlichen Volkspartei, der Sozialdemokraten, der Elsaß-Lothringer, eines Teilesder Deutschen Fraktion und einzelner Mitglieder anderer Fraktionen, hat sich auf folgendes Friedensprogramm geeinigt, das sie dem Reichstag zur Beschlußfassung vorgelegt wird:
 Wie am 4. August 1914 gilt für das deutsche Volk auch an der Schwelle des vierten Kriegsjahresdas Wort der Thronrede: ‚Uns treibt nicht Eroberungssucht.‘ Zur Verteidigung seiner Freiheit undSelbstständigkeit, für die Unversehrtheit seines territorialen Besitzstandes [Art. 1 RVerf. –
-Bundesgebiet] hat Deutschland die Waffen ergriffen.
+Bundesgebiet] hat Deutschland die Waffen ergriffen.*
 
 D e r R e i c h s t a g e r s t r e b t e i n e n F r i e d e n d e r V e r s t ä n d i g u n g
 u n d d e r d a u e r n d e n V e r s ö h n u n g d e r V ö l k e r.
 M i t e i n e m s o l c h e n F r i e d e n s i n d e r z w u n g e n e G e b i e t se r w e r b u n g e n u n d p o l i t i s c h e, w i r t s c h a f t l i c h e   o d e r
 f i n a n z i e l l e V e r g e w a l t i g u n g e n u n v e r e i n b a r.
 
-Der Reichstag weist auch alle Pläne ab, die auf eine wirtschaftliche Absperrung und Verfeindungder Völker nach dem Kriege ausgehen. Die Freiheit der Meere muß sichergestellt werden. Nur der
-Wirtschaftsfriede wird einem freundschaftlichen Zusammenleben der Völker den Boden bereiten.
+*Der Reichstag weist auch alle Pläne ab, die auf eine wirtschaftliche Absperrung und Verfeindungder Völker nach dem Kriege ausgehen. Die Freiheit der Meere muß sichergestellt werden. Nur der
+Wirtschaftsfriede wird einem freundschaftlichen Zusammenleben der Völker den Boden bereiten.*
 
-Der Reichstag wird die Schaffung internationaler Rechtsorganisationen tatkräftig fördern.
+*Der Reichstag wird die Schaffung internationaler Rechtsorganisationen tatkräftig fördern.*
 
-Solange jedoch die feindseligen Regierungen auf einen solchen Frieden nicht eingehen, solange sie
+*Solange jedoch die feindseligen Regierungen auf einen solchen Frieden nicht eingehen, solange sie
 Deutschland und seine Verbündeten mit Eroberung und Vergewaltigung bedrohen, wird das deutscheVolk wie ein Mann zusammenstehen, unerschütterlich ausharren und kämpfen, bis sein und seiner
-Verbündeten Recht auf Leben und Entwicklung gesichert ist.
+Verbündeten Recht auf Leben und Entwicklung gesichert ist.*
 
-In seiner Einigkeit ist das deutsche Volk unüberwindlich. Der Reichstag weiß sich darin eins mitden Männern, die in heldenhaftem Kampfe das Vaterland schützen. Der unvergängliche Dank des
+*In seiner Einigkeit ist das deutsche Volk unüberwindlich. Der Reichstag weiß sich darin eins mitden Männern, die in heldenhaftem Kampfe das Vaterland schützen. Der unvergängliche Dank des
 ganzen Volkes ist ihnen sicher.*“275
 
 **19.07.1917 Reichskanzler Michaelis über Reichstags-Friedensresolution**
 
-„*(Mitteilung über Durchstoßung der russischen Front bei Zloczow. – Die Friedensresolution desReichstags. – Die Parlamentarisierung.)
+„*(Mitteilung über Durchstoßung der russischen Front bei Zloczow. – Die Friedensresolution desReichstags. – Die Parlamentarisierung.)*
+
 Berlin, 19. Juli. In der heutigen Sitzung des Reichstags hielt Reichskanzler Dr. Michaelis eine Rede,in der er u. a. sagte: Ich stelle fest, daß der U-Boot-Krieg in der Vernichtung feindlichen Frachtraums dasleistet, was er sollte. Seine Wirkung auf die Entschlüsse unserer Feinde können wir in Ruhe abwarten. DieZeit läuft für uns.
 Die Berichte über die militärische Lage von Seiten der Obersten Heeresleitung sind sehr gut. ImWesten sind die großen Frühjahrsoffensiven der Engländer und der Franzosen gescheitert. Im Osten ist
 infolge der inneren russischen Wirren der Angriff der feindlichen Millionenheere nicht zur Ausführunggekommen. Erst nachdem falsche Nachrichten und Hetzreden der russischen Verbündeten die Soldaten
