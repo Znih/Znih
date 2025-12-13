@@ -2700,7 +2700,7 @@ https://drive.proton.me/urls/CVVMDDE9YW#ZE7PDaXtEnlZ
 
 ---
 
->Stimmt. Vom 6., 7. und 9. November 2024, die jeweils die letzte Seite verfeinerten. Der obigen [Version] fehlt es daher an der richtigen Seite 287 im Stand v. 07.09.2024, resp. v. 09.09.2024, was insoweit nachzuholen wäre.
+>Stimmt. Vom 6., 7. und 9. [September] 2024, die jeweils die letzte Seite verfeinerten. Der obigen [Version] fehlt es daher an der richtigen Seite 287 im Stand v. 07.09.2024, resp. v. 09.09.2024, was insoweit nachzuholen wäre.
 
 Friede 1870/71 anbei:
 https://github.com/Znih/Znih/blob/main/1871-Friede-1871.md
