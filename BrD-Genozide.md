@@ -2682,6 +2682,59 @@ Vertreter. Sie alle müssen dazu Ausweise von mindestens einem Korpskommando bzw
 
 ![Screenshot_20251212_200647~2.jpg](https://github.com/user-attachments/assets/9151d820-c0c7-424e-ae25-855e8b4e9641) 136
 
+*Hierzu sind im Einvernehmen der sich gegenüberstehenden Divisionen Verkehrsstellen in der neutralen Zone
+zwischen den Demarkationslinien einzurichten und durch weiße Flaggen zu bezeichnen. Der Verkehr ist nur bei Tage von Sonnenaufgang bis Sonnenuntergang zulässig.*
+
+*An den Verkehrsstellen dürfen sich gleichzeitig höchstens 25 Angehörige jeder Partei ohne Waffen aufhalten. Der
+Austausch von Nachrichten und Zeitungen ist gestattet. Offene Briefe Können zur Beförderung übergebenwerden. Der Verkauf und Austausch von Waren des täglichen Gebrauchs an den Verkehrsstellen ist erlaubt.*
+
+*Für den Seekrieg wird folgendes festgelegt: Der Waffenstillstand erstreckt sich auf das ganze Schwarze Meer
+und auf die Ostsee östlich des 15. Längengrades Ost von Greenwich, und zwar auf alle dort befindlichen See- und
+Luftstreitkräfte der vertragschließenden Parteien. Für die Frage des Waffenstillstandes im weißen Meer und in denrussischen Küstengewässern des nördlichen Eismeeres wird von der deutschen und russischen Seekriegsleitung ingegenseitigem Einvernehmen eine besondere Vereinbarung getroffen werden. Gegenseitige Angriffe auf Handelsund Kriegsschiffe in den genannten Gewässern sollen nach Möglichkeit schon jetzt unterbleiben.*
+
+*In jene besondere Vereinbarung sollen auch Bestimmungen aufgenommen werden, um nach Möglichkeit zuverhindern, daß Streitkräfte der vertragsschließende Parteien sich auf anderen Meeren bekämpfen.*
+
+*Angriffe von See aus und aus der Luft auf Häfen und Küsten der anderen vertragsschließenden Partei werden
+auf allen Meeren beiderseits unterbleiben. Auch ist das Anlaufen der von der einen Partei besetzten Häfen undKüsten durch die Streitkräfte der anderen Partei verboten. [deshalb in ganz Ostdeutschland keine Revolution?]*
+
+*Das Ueberfliegen der Häfen und Küsten der anderen vertragsschließenden Partei sowie der Demarkationslinien ist auf allen Meeren untersagt. [keine Flugblattaktionen der Entente über Ostdeutschland mehr]*320
+
+*Die Demarkationslinien verlaufen: 1. im schwarzen Meer: von Olinka – Leuchtturm (St. Georgsmünden) – Kap
+Jeros (Trapezunt); 2. in der Ostsee: von Rogekuel-Westküste – Worms – Bogskaer – Swenska – Hoegarne.*
+
+*Die nähere Festsetzung der Linien zwischen Worms und Bogskaer wird der Waffenstillstandskommission der
+Ostsee übertragen mit der Maßgabe, daß den russischen Streitkräften bei allen Wetter- und Eisverhältnissen einefreie Fahrt nach der Aalandssee gewährleistet ist. Die russischen Seestreitkräfte werden die Demarkationslinienicht nach Süden, die Seestreitkräfte der vier verbündeten Mächte nicht nach Norden überschreiten.
+Die russische Regierung übernimmt die Gewähr dafür, daß Seestreitkräfte der Entente, die sich bei Beginndes Waffenstillstandes nördlich der Demarkationslinie befinden oder später dorthin gelangen, sich ebenso
+verhalten wie die russischen Seestreitkräfte.*
+
+*Die Festlegung aller Bestimmungen für den Handel sowie die Bekanntgabe der gefahrlosen Wege für die
+Handelsschiffe wird den Waffenstillstandskommissionen des schwarzen Meeres und der Ostsee übertragen.*
+
+*Die vertragsschließenden Parteien verpflichten sich, während des Waffenstillstandes im Schwarzen Meer und
+in der Ostsee keine Vorbereitungen zu Angriffsoperationen zur See gegeneinander vorzunehmen.*
+
+*Um Unruhe und Zwischenfälle an der Front zu vermeiden, dürfen Übungen mit Infanteriewirkung nichtnäher als 5 km, mit Artilleriewirkung nicht näher als 15 km hinter den Fronten vorgenommen werden.
+Der Landminenkrieg wird vollständig eingestellt.*
+
+*Luftstreitkräfte und Fesselballone müssen sich außerhalb einer 10 km breiten Luftzone hinter der eigenen
+Demarkationslinie halten.*
+
+*Arbeiten an den Stellungen hinter den vordersten Drahthindernissen sind erlaubt, jedoch nicht solche, die der
+Vorbereitung von Angriffen dienen können.
+Mit Beginn des Waffenstillstandes treten die nachstehenden Waffenstillstandskommissionen (Vertreter jedes andem betreffenden Frontstück beteiligten Staates) zusammen, denen alle militärischen Fragen für die Ausführung derWaffenstillstandsbestimmungen in den betreffenden Bereichen zuzuführen sind.
+Die vertragsschließenden Parteien werden im unmittelbaren Anschluß an die Unterzeichnung dieses Waffenstillstandsvertrages in Friedensverhandlungen eintreten.
+Ausgehend von dem Grundsatz der Freiheit, Unabhängigkeit und territorialen Unversehrtheit des neutralenPersischen Reiches, sind die türkische und die russische Oberste Heeresleitung bereit, ihre Truppen aus Persienzurückzuziehen. Sie werden alsbald mit der persischen Regierung in Verbindung treten, um die Einzelheiten derRäumung und die zur Sicherstellung jenes Grundsatzes sonst noch erforderlichen Maßnahmen zu regeln.*“321
+
+„*Zusatz zum Waffenstillstandsvertrag: Um die Friedensverhandlungen zu fördern und die derZivilisation durch den Krieg geschlagenen Wunden so schnell wie möglich zu heilen, sollenMaßnahmen zur Wiederherstellung der kulturellen und wirtschaftlichen Beziehungen zwischen den
+vertragsschließenden Parteien getroffen werden. Diesem Zweck soll unter anderem dienen: die Wieder-*
+
+320 „*Erinnerungen und Dokumente*“ v. 1927 als Rechenschaftsbericht des letzten königlichen Reichskanzler Prinz Max von Baden – Anlagefaltblatt
+Berlin und Dresden markierten den Unterschied zwischen Farbrevolution und Frieden im Krieg, mit Jarotschin als einzigen östlichsten Ausreißer!
+
+321 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2544-2545 Waffenstillstandsvertrag Rußland
+
+---
+
 ![Screenshot_20251212_200652~2.jpg](https://github.com/user-attachments/assets/c904d3bf-2966-44c1-8894-b92319d3e98f) 137
 
 ![Screenshot_20251212_200656~2.jpg](https://github.com/user-attachments/assets/aa12ba2d-826e-40f1-adec-3677004d1cd9) 138
