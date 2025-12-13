@@ -2643,7 +2643,42 @@ Brest-Litowsk – wie es der Verfasser merkwürdigerweise in der DDR zehn Jahre 
 
 ![Screenshot_20251212_200636~2.jpg](https://github.com/user-attachments/assets/5358f5dc-286e-4017-90b0-8bf63f7b1c4b) 134
 
+---
+
 ![Screenshot_20251212_200641~2.jpg](https://github.com/user-attachments/assets/a26633b0-1939-422e-9d41-3e23c33dbd73) 135
+
+**17.12.1917 Waffenstillstandsvertrag mit Rußland**
+
+„*Berlin, 17. Dezember. Der amtliche Wortlaut des Waffenstillstandsvertrages mit Rußland besagt u. a.:
+Der Waffenstillstand beginnt am 17. Dezember 1917, 12 Uhr mittags (4. Dezember 1917, 14 Uhr russ. Zeit)und dauert bis 14. Januar 1918, 12 Uhr mittags (1. Januar 1918, 14 Uhr russ. Zeit). Die vertragsschließendenParteien sind berechtigt, den Waffenstillstand am 21. Tage mit siebentägiger Frist zu kündigen; erfolgt dies nicht, sodauert der Waffenstillstand automatisch weiter, bis eine der Parteien [gleich] ihn mit siebentägiger Frist kündigt.*
+
+*Der Waffenstillstand erstreckt sich auf alle Land- und Luftstreitkräfte der genannten Mächte auf der Landfront zwischen dem schwarzen Meer und der Ostsee [Ukraine, Herzland]. Auf den russisch-türkischen Kriegsschauplätzen in Asien tritt der Waffenstillstand gleichzeitig ein.*
+
+*Die Vertragsschließenden verpflichten sich, während des Waffenstillstandes die Anzahl der an den genanntenFronten und auf den Inseln des Moonsundes befindlichen Truppenverbände – auch hinsichtlich ihrer Gliederungund ihres Etats – nicht zu verstärken und an diesen Fronten keine Untergruppierung zur Vorbereitung einer
+Offensive vorzunehmen.*
+
+*Ferner verpflichten sich die Vertragsschließenden, bis zum 14. Januar 1918 (1. Januar 1918 russ. Zeit) an
+der Front zwischen dem schwarzen Meer und der Ostsee keine operativen Truppenverschiebungendurchzuführen, es sei denn, daß die Verschiebung im Augenblick der Unterzeichnung des Waffenstillstandesschon eingeleitet sind.*
+
+*Endlich verpflichten sich die Vertragsschließenden, in den Häfen der Ostsee östlich des 15. Längengrades Ost
+von Greenwich und in den Häfen des schwarzen Meeres während der Dauer des Waffenstillstandes keine Truppen
+zusammenzuziehen.*
+
+*Als Demarkationslinien an der europäischen Front gelten die beiderseitigen vordersten Hindernisse der eigenenStellungen.*
+
+*Dort, wo keine geschlossenen Stellungen bestehen, gilt anderseits als Demarkationslinie die Gerade zwischen
+den vordersten besetzten Punkten. Der Zwischenraum zwischen den beiden Linien gilt als neutral. Ebenso sindschiffbare Flüsse, die die beiderseitigen Stellungen trennen, neutral und unbefahrbar, es sei denn, daß es sichum vereinbarte Handelsschiffahrt handelt. In den Abschnitten, wo die Stellungen weit auseinanderliegen, sinddeshalb durch die Waffenstillstandskommission Demarkationslinien festzulegen und kenntlich zu machen.*
+
+*Auf den russisch-türkischen Kriegsschauplätzen in Asien sind die Demarkationslinien sowie der Verkehr über
+dieselben nach Vereinbarung der beiderseitigen Höchstkommandierenden zu bestimmen.*
+
+*Zur Entwicklung und Befestigung der freundschaftlichen Beziehungen zwischen den Völkern der vertragsschließenden Parteien wird ein organisierter Verkehr der Truppen unter gewissen Bedingungen gestattet:
+Der Verkehr ist erlaubt für Parlamentäre, für die Mitglieder der Waffenstillstandskommissionen und deren
+Vertreter. Sie alle müssen dazu Ausweise von mindestens einem Korpskommando bzw. Korpskomitee besitzen.*
+
+*In den Abschnitt einer russischen Division kann etwa zwei bis drei Stellen organisierter Verkehr stattfinden.*
+
+---
 
 ![Screenshot_20251212_200647~2.jpg](https://github.com/user-attachments/assets/9151d820-c0c7-424e-ae25-855e8b4e9641) 136
 
