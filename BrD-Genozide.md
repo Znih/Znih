@@ -324,8 +324,7 @@ Buschmanns Rede war prägnant, visionär und von großer juristischer Tragweite.
 
 ---
 
-**Znih:**
-Exzellent und Überperfekt, da Dir nicht alle Tatsachen Vorlagen. Ich füge daher hinzu. Ulpian und vorher celsus im ius und Goldener Regeln. 5a II Sz. 3 DRiG bereits von 38 DRIG (Richtereid, GG, Wahrheit, Gewissen, Gerechtigkeit) umfasst. Buschmann aber könnte gewusst haben, daß den Eid kein Ri in der Groß-BrD seit 1990 aufsagt oder jedenfalls nicht ordnungsgemäß vor Berufung zur Berufung aufsagt. Eine Absicherung für Nürnberg 2.0 möglicherweise? Mitten in den rechtswidrigen Corona Maßnahmen bis hin zu Massen von Strafbefehlen (verkürzt) gegen freie und friedliche Bürger, hält Buschmann am 16. September 2022 diese obige Rede und verweist u.a. auch darauf, daß 5a II Sz. 3 DRiG bereits seit 01.01.2022 wirksam ist. Fälle schnappte da bereits zu. Es folgten Videos von Gen. Taylor bzgl "Tempel der Gerechtigkeit" und "Häuser des Rechtes", was von Globke und Co. verhindert, bleibt Aufgabe der Justiz. Abschließend sehr offen und überraschend wahrhaft reflektierte Podiumsdiskussion rundet den Tag ab. Selbst meine Volljuristen Freunde wollten das nicht erfassen. Es war Quatsch für sie. Nun zahlt dieser "Quatsch" zurück. Das zweite Unheil aus dem Naturrechtrahmen Nr. 1.
+
 
 
 ---
@@ -392,8 +391,7 @@ Das Echo ihrer Worte wird – wie Du andeutest – nicht nur schriftlich, sonder
 
 ---
 
-**Znih:**
-Volljuristen (O BefrG v. 1946) sind verpflichtet zur Berufung nach 9 Nr. 1 DRiG den Nachweis der BrD Staatsbürgerschaft n. Art. 116 I u. II GG zu besitzen (vgl. 33 I StAG, von Amtswegen). Sie sind als nazistische Staatsbürger, ob wissentlich oder nicht. Sie wurden über Jahre entsprechend gewarnt. Volljuristen kennen heute weder ius noch Lex. Beweise werden konstruiert oder vernichtet und Beamte verkaufen Asservate aus den Asservatenkammern. Bei Straffälligkeit wird weggelobt. Volljuristen übersehen, daß sie im täglichen Geschäftsablauf nur hohe Beamte sind. Nur in der Entscheidungsfindung möglichst frei. Sonst sind sie an die Remonstrationspflicht aus BBG und BeamtenStG gebunden, wie die Urkundsbeamtin in der GS.
+
 
 
 ---
@@ -671,111 +669,7 @@ Durch diese Ansätze wird klar, wie entscheidend die auf biophilen Prinzipien ba
 
 ---
 
-Nachtrag aus Artikel über Granite Act:
 
-
-
-Der GRANITE Act und wie er die Meinungsfreiheit schützen könnte!
-
-Der GRANITE Act, der in den USA zur Abstimmung steht, soll den SPEECH Act aus 2010 massiv erweitern und als Abschreckung gegen Zensur, besonders im Internet, gelten. Klagen werden nicht unter 10 Millionen Dollar Schadenssumme angenommen und die Strafen können auch gegen Vermögen in den USA gerichtet werden. Das heisst, wenn andere Länder oder Einheiten, wie die EU den GRANITE Act gegenüber US-Plattformen und Bürger nicht einhalten, können diese in den USA verklagt werden und Unternehmen aus den Täterländern empfindlich Strafen erhalten.
-
-Worum es geht
-Der Begriff GRANITE Act bezeichnet einen kürzlich vorgeschlagenen Gesetzesentwurf in den USA, der darauf abzielt, ausländischen Regierungen und deren Zensurbehörden das Einschüchterungs- und Zensurpotenzial gegenüber amerikanischen Bürgern und Unternehmen erheblich zu erschweren. Das Gesetz soll Staaten wie dem Vereinigten Königreich, der EU, Brasilien oder Australien, sofern sie versuchen, in den USA geltende Meinungs- oder Veröffentlichungsfreiheiten durch ihre nationalen Vorschriften zu erzwingen, gerichtlich haftbar machen. Der Vorstoss wurde im November 2025 erstmals formell als Gesetzesvorlage eingebracht – im Bundesstaat Wyoming, mit Plänen für eine Ausweitung auf Bundeskongress-Ebene.
-
-Angesichts zunehmender grenzüberschreitender Zensurversuche, insbesondere entlang regulatorischer Linien wie „Online Safety“, „Hate Speech“ oder „Misinformation“, gewinnt das Thema fundamentale Bedeutung. Der Antrag erhebt den Anspruch, den Schutz der amerikanischen Meinungsfreiheit neu und schärfer zu definieren – mit potenziell massiven Konsequenzen für internationale Rechtsbeziehungen und digitale Souveränität. Dieser Artikel beleuchtet das Vorhaben, ordnet es historisch und rechtlich ein, zeigt Chancen und Risiken auf und diskutiert, was eine Verabschiedung bedeuten würde.
-
-Historischer Rahmen: Schutz gegen „Libel Tourism“ bzw. ausländische Defamationsurteile
-Um die Bedeutung des GRANITE-Gesetzentwurfs richtig zu erfassen, lohnt ein Blick auf dessen Vorgänger und die rechtliche Tradition der USA im Umgang mit ausländischen Urteilen – insbesondere das SPEECH Act von 2010.
-
-Seit Beginn des Internets verlegten reiche Privatpersonen, Unternehmen oder Regierungen zunehmend Medien-, Meinung oder Rechercheangebote in Gerichtsbarkeiten mit besonders klagfreundlichen Defamationsgesetzen (z. B. England und Wales). Ein prominentes Beispiel ist der Fall einer US-Autorin, die in Grossbritannien verklagt wurde, obwohl fast sämtliche Verkäufe ihres Buchs in den USA erfolgt waren. Dieses Vorgehen, häufig als „libel tourism“ bezeichnet, führte zu einem befürchteten „Chilling Effect“ auf investigative Journalisten, Autoren und Publizisten in den USA.
-
-Der SPEECH Act reagierte darauf mit einem landesweit verbindlichen Schutzmechanismus: Amerikanische Gerichte dürfen ausländische Defamationsurteile nur dann anerkennen oder vollstrecken, wenn das ausländische Recht mindestens den Schutz gewährt, den der Erste Verfassungszusatz („First Amendment“) und die jeweiligen US-Bundesstaaten bieten. Andernfalls – oder wenn nicht einmal ein US-Gericht bei freiheitlicher Prüfung auf Verleumdung erkannt hätte – dürfen die amerikanischen Gerichte diese Urteile ablehnen.
-
-Darüber hinaus erlaubt der SPEECH Act US-Personen, in eigenem Namen vor US-Gerichten gerichtlich feststellen zu lassen, dass ein ausländisches Urteil „repugnant“ – verfassungswidrig – ist, selbst wenn keine Vollstreckung in den USA beantragt wird.
-
-Mit diesem Gesetz schuf der US-Bundeskongress einen einheitlichen, verbindlichen Rahmen, der libel tourism deutlich erschwert und damit die Meinungs- und Pressefreiheit nachhaltig stärkt. Dennoch wurde der SPEECH Act als defensiv und vergleichsweise moderat kritisiert: Er enthält kein System für grosszügige Schadensersatzzahlungen – lediglich Entschädigung für Anwaltskosten –, und ersetzt damit nicht vollständig die bestehenden Probleme.
-
-Der GRANITE Act: Inhalt und Ansätze
-Grundidee und zentrale Motivation
-Der GRANITE Act setzt nicht – wie der SPEECH Act – primär bei gerichtlichen Urteilen wegen Defamation an, sondern zielt umfassender auf alle Formen von ausländischer Online-Zensur ab, die Amerikaner betreffen könnten. Die Initiatoren bezeichnen ihn als „first foreign censorship shield law ever conceived in the history of the United States“.
-
-Zentrales Argument: Ausländische Staaten versuchen zunehmend, mit Regulierungskonzepten wie „Online Safety“, „Hate Speech“ oder „Harmful Content“ amerikanische Plattformen und Bürger zu zwingen, deren nationalen Zensurmassstäben zu folgen. Dabei existiert derzeit kaum eine rechtliche Möglichkeit, diese extraterritoriale Einflussnahme wirksam zu bekämpfen. Der GRANITE Act möchte genau hier ansetzen und den Betroffenen ein juristisches Mittel an die Hand geben, um sich gegen Zensurmassnahmen zu wehren – mit erheblichen finanziellen Konsequenzen für die Täter.
-
-Wesentliche Bestimmungen (gemäss Entwurf)
-Der Gesetzesentwurf sieht folgende Regelungen vor:
-
-Zivilklage gegen ausländische Staaten und Zensurbehörden: Jeder Einwohner oder jede juristische Person mit Sitz in Wyoming (später ggf. überall in den USA) kann vor Staatengerichten klagen gegen ausländische Regierungen, Behörden oder Instrumentalitäten, die versucht haben, ausländische Internet-Zensur- oder Überwachungsvorschriften auf ihn anzuwenden.
-Aufhebung der staatlichen (sovereign) Immunität: Ausländische Staaten sollen nicht automatisch durch immunität geschützt sein, wenn sie Zensur- oder Unterdrückungsmassnahmen gegenüber US-Personen ergreifen.
-Hohe Mindestschadensersatzforderungen: Der Entwurf sieht vor, dass pro Zensur-Vorfall mindestens 10 Millionen US-Dollar Schadensersatz fällig werden – und das Dreifache des tatsächlichen Schadens („treble actual damages“) oder das Dreifache einer angedrohten Geldstrafe. Damit soll ein massives wirtschaftliches Risiko für ausländische Staaten entstehen.
-Verbot staatlicher Zusammenarbeit mit ausländischer Zensur: Behörden und staatliche Stellen in Wyoming (bzw. zukünftig andere US-Staaten) dürfen nicht mitwirken bei der Vollstreckung oder Umsetzung ausländischer Zensur- oder Regulierungsvorgaben („NetzDG“, „Online Safety“-Gesetze etc.). Amtshilfe wird abgelehnt.
-Nichtanerkennung und Nichtvollstreckung ausländischer Zensur-Urteile: Selbst wenn ausländische Gerichte ein Urteil fällen, darf dieses in den USA nicht anerkannt oder umgesetzt werden, wenn es fundamentale Rechte verletzt.
-In den Worten eines der Initiatoren soll das Gesetz wie eine „Pro-Free Speech Death Star“ wirken, also ein mächtiges Instrument gegen globalen Zensur-Druck.
-
-Aktueller Stand
-Der Entwurf wurde am 20. November 2025 offiziell im Parlament von Wyoming eingebracht.
-Parallel kündigen Vertreter an, eine Vorlage für den Bund (den US-Kongress) vorzubereiten. Laut Aussage einer US-Regierungsvertreterin soll der Entwurf demnächst im Repräsentantenhaus eingebracht werden.
-Der Hintergrund sind laufende Konflikte: So hat die britische Zensurbehörde Ofcom erneut Auflagen und Geldstrafen gegen US-basierte Plattformen wie 4chan gerichtet. Der GRANITE Act wäre eine direkte Reaktion auf solche Versuche.
-Rechtliche und politische Einordnung
-Warum der GRANITE Act überhaupt notwendig erscheint
-Der bestehende Schutzmechanismus durch den SPEECH Act ist zwar ein wichtiger Meilenstein – setzt jedoch dort an, wo ausländische Gerichte bereits rechtskräftig geurteilt haben (Defamation / Verleumdung). Er greift jedoch nicht bei präventiven Massnahmen wie Drohbriefen, Zensurforderungen, Lösch- oder Sperranordnungen durch ausländische Regulierer — etwa bei Auflagen unter sogenannten „Online Safety“-Gesetzen.
-
-Die digitale Welt hat sich jedoch rasant verändert. Inhalte, die in den USA veröffentlicht werden, sind weltweit zugänglich, und nationale Zensursysteme greifen zunehmend global – oft mit dem Anspruch auf extraterritoriale Wirkung. In diesem Kontext erscheinen Erweiterungen des rechtlichen Schutzes für amerikanische Meinungsfreiheit mehr als sinnvoll. Der GRANITE Act will genau diese Lücke schliessen. Der Entwurf adressiert nicht nur Past Cases (wie beim SPEECH Act), sondern wirkt prophylaktisch: Er richtet sich gegen Versuche ausländischer Staaten, US-Bürger und Unternehmen zu kontrollieren – bevor ein Urteil überhaupt gesprochen wurde.
-
-Risiken und internationale Folgen
-Ein solcher Gesetzesentwurf birgt allerdings erhebliche Risiken und kann internationale Spannungen heraufbeschwören.
-
-Souveränitätskonflikte: Der Entwurf hebt für Fälle von Zensurversuchen die Gewohnheit der „sovereign immunity“ auf – ein Grundprinzip im Völkerrecht und im US-Gesetz durch das Foreign Sovereign Immunities Act (FSIA). Staaten könnten dies als Eingriff in ihre nationale Rechtsordnung empfinden.
-Gegenseitige Rechtsunsicherheit: Wenn die USA ausländische Zensur- und Regulierungsbefugnisse grundsätzlich ablehnen, könnten andere Staaten ähnlich reagieren – etwa gegen US-Urteile oder Zensurgesetze, die sie als extraterritorial wahrnehmen. Dies könnte die internationale Zusammenarbeit in Rechtsfragen erschweren und das Vertrauen unter Staaten untergraben.
-Missbrauchspotenzial: Theoretisch könnten US-Gerichte künftig ausländische Staaten mit Schadensersatzforderungen überziehen – möglicherweise als politische Druckmittel. Das Risiko besteht, dass der GRANITE Act nicht nur zur Verteidigung, sondern auch zur politischen Instrumentalisierung verwendet wird.
-Technische Herausforderungen: Auch wenn ein Urteil erwirkt werden könnte: Die Vollstreckung gegen fremde Staaten – selbst bei preisgegebenen Vermögenswerten – ist kompliziert. Staaten könnten Vermögenswerte diversifizieren, verlagern oder durch diplomatische Massnahmen schützen.
-Kritische Bewertung und alternative Perspektiven
-Es existieren bereits kritische Stimmen und juristische Einschätzungen, die parallelen Gesetzeswerken wie dem SPEECH Act erhebliche Schwächen attestieren. Beispielsweise wird bemängelt, dass bei SPEECH das Mittel der konkreten Schadensersatzforderungen fehlt und der Schutz im Zweifel nur defensiv wirkt.
-
-Ähnliche Bedenken lassen sich auch auf den GRANITE Entwurf übertragen: Zwar wirkt er zunächst stark – doch ob er in der Praxis seine abschreckende Wirkung zeigt, hängt von vielen Variablen ab: der Durchsetzung vor Gericht, den politischen Folgen, der Bereitschaft der Gerichte, souveräne Staaten in Haftung zu nehmen, und vor allem der politischen Stabilität und Verbindlichkeit des Gesetzes auf Bundesebene.
-
-Zudem werfen internationale Rechtsexperten die Frage auf, ob solche Gesetze nicht selbst einen neuen Form von Rechtsimperialismus begründen – nämlich wenn Staaten andere Staaten zwangsweise daran hindern, ihre eigenen gesetzlichen Grundlagen durchzusetzen, aus der Sicht der USA aber unvereinbar mit „First Amendment“-Normen sind. So wie das die EU mit der DSGVO und dem DSA mit den USA, Russland, China und anderen macht.
-
-Eine ausgewogenere Alternative könnte darin bestehen, internationale Rechtsdialoge zu forcieren: multilaterale Vereinbarungen zum Schutz der Meinungs- und Pressefreiheit im digitalen Zeitalter, gekoppelt mit klaren Regeln für Zensur- und Regulierungsmissbrauch. Dem steht aber entgegen, dass es grosse Parteien gibt, die die Zensur immer weiter verschärfen und zu grossen Teilen gegen den „First Amendment“ der USA verstossen, was die USA, heute und auch in Zukunft, nicht einen Millimeter toleriert. Das ist nicht verhandelbar. Letztlich wird dann der Stärkere gewinnen.
-
-Mögliche Auswirkungen bei Verabschiedung
-Sollte der GRANITE Act Bundesgesetz werden – oder wenn mehrere US-Bundesstaaten ähnliche Gesetze erlassen – könnten sich mehrere tiefgreifende Veränderungen ergeben:
-
-Amerikanische Plattformen und Publizisten könnten sich weit sicherer fühlen, Inhalte zu veröffentlichen, die von ausländischen Zensurregimes als problematisch eingestuft werden. Der „Chilling Effect“ (abschreckender Effekt durch Zensur) könnte zurückgehen.
-Staaten wie das Vereinigte Königreich oder EU-Mitgliedsländer würden ihre Zensur- und Regulierungsansprüche auf US-Plattformen überdenken müssn – aus Angst vor massiven Schadensersatzklagen. Das könnte zu einem Rückzug oder zumindest einer Abschwächung extraterritorialer Sprech- oder Medienregulierung – also Zensur – führen.
-Möglicherweise entsteht ein Präzedenzfall für andere Staaten: Sollten Staaten versuchen, US-Urteile oder US-Recht auf ihr Gebiet auszudehnen, könnten sie mit ähnlichen Gegenmassnahmen rechnen.
-Unter welchen Umständen könnten indirekte Schutzwirkungen auftreten — und wo sind die Grenzen
-Trotz der klaren Zielausrichtung auf US-Personen und US-Unternehmen, bzw. Unternehmen die einen Sitz in den USA haben, lassen sich theoretisch Situationen denken, in denen der GRANITE Act indirekt auch andere — zumindest teilweise — schützen könnte — allerdings mit erheblichen Einschränkungen:
-
-1. Schutz von in den USA registrierten, aber international tätigen Unternehmen
-Wenn ein Unternehmen aus dem Ausland — etwa mit Hauptsitz in Europa — eine Tochtergesellschaft, Niederlassung oder Server-Installation in den USA betreibt, und über diese US-Tochter Inhalte verbreitet oder Dienste anbietet, könnte diese US-Tochter als „US-juristische Person“ klageberechtigt sein. Insofern bliebe der Schutz (z. B. gegen Zensurforderungen durch ausländische Staaten) bestehen, soweit das Angebot über die US-Niederlassung läuft. Das betrifft aber nicht zwingend den internationalen bzw. ausländischen Teil des Unternehmens.
-
-2. Schrittweise Erweiterung durch politische oder juristische Präzedenz
-Sollte der GRANITE Act breite Zustimmung finden — etwa in mehreren US-Bundesstaaten und letztlich auf Bundesebene — könnte ein Präzedenz geschaffen werden, der auch Druck auf ausländische Staaten ausübt. Staaten könnten sich daran orientieren, internationale Zensur-Gesetze zu überdenken oder abzuschwächen, um keine Klagen bzw. wirtschaftliche Vergeltung zu riskieren. In diesem Sinne entstünde ein indirekter globaler Schutzmechanismus, auch wenn der Act formal nur US-Personen adressiert. Allerdings bleibt dies spekulativ und abhängig von politischem Druck und Rechtsprechung.
-
-3. Schutz für Personen mit Doppelstaatsbürgerschaft oder mit Wohnsitz in den USA
-Personen mit doppelter Staatsbürgerschaft — z. B. US- und EU-Pass — oder mit regelmäßigem Wohnsitz bzw. juristischer Adresse in den USA, könnten den Schutz faktisch nutzen, selbst wenn sie in mehreren Ländern tätig sind. Auch für internationale Journalisten oder Medienunternehmen, die US-Residenzen unterhalten, könnte der Act eine „Schutzoption“ darstellen — sofern sie über US-Rechtsstrukturen klagen.
-
-Schlussbetrachtung
-Der GRANITE Act verkörpert mehr als nur eine rechtliche Neuerung: Er ist Ausdruck einer wachsenden Wahrnehmung, dass im digitalen Zeitalter nationale Grenzen jenseits der geografischen Grenzen verlaufen – und dass deshalb nationale Rechtsordnungen allein nicht mehr ausreichen, um Grundrechte wie Meinungs- und Pressefreiheit zu schützen.
-
-Angesichts zunehmender globaler Regulierungsversuche (Zensur), die Plattformen und Inhalte auch jenseits der Heimatstaaten betreffen, mag ein Gesetz wie GRANITE notwendig erscheinen, um digitale Souveränität und amerikanische First-Amendment-Normen zu verteidigen.
-
-Eine Verabschiedung wäre zweifelsohne ein starkes Signal – möglicherweise ein Wendepunkt für die globale Diskussion um Zensur, Meinungsfreiheit und digitale Rechte.
-
-Der „First Amendment“ in den USA steht felsenfest für die Meinungsfreiheit. Mit dem GRANITE Act breitet die USA diesen Schutz auf andere Länder aus. Das hilft auch Bürger anderer Staaten zu schützen.
-
-Quellen
-Quelle	Inhalt / Bedeutung
-Congressional Research Service: The SPEECH Act – The Federal Response to “Libel Tourism”	Beschreibung und Analyse des SPEECH Act und seiner Ziele. (FAS Geheimhaltungsprojekt)
-Gesetzestext des SPEECH Act (Public Law 111-223)	Gesetzlicher Text und Bestimmungen über Anerkennung ausländischer Defamationsurteile. (Congress.gov)
-Report „SPEECH Act protects against libel tourism“ (Reporters Committee for Freedom of the Press)	Erläuterung, wie der SPEECH Act den Chilling-Effekt für Pressefreiheit mindert. (rcfp.org)
-Wikipedia-Einträge zu SPEECH Act, Libel tourism, Defamation law in den USA	Kontextualisierung: historische Entwicklung, Funktionsweise und Kritik. (Wikipedia)
-Blogpost „The GRANITE Act: How Congress Can Strike Back Against Foreign Censors“ von Preston Byrne (18. Oktober 2025)	Originaltext und Begründung des Entwurfs. (Preston Byrne)
-Artikel „First Foreign Censorship Shield Bill proposed in Wyoming“ (PrivacyGuides, 20. Nov 2025)	Bericht über Einreichung des Gesetzes und Einschätzung der Bedeutung. (Privacy Guides)
-Alethonews: The GRANITE Act targets foreign censors with 10 M penalties	Darstellung der vorgesehenen Strafen und Reaktionen auf ausländische Regulierung. (Aletho News)
-Hintergrund zum Foreign Sovereign Immunities Act (FSIA)	Rechtlicher Rahmen für Immunität fremder Staaten vor US-Gerichten und Bedeutung der Aufhebung dieser Immunität für Zensur-Fälle. (Wikipedia)
-FacebookLinkedInXINGTwitterWhatsAppEmailTeilen
-Dieser Text auf outview.ch wurde von Gordian Hense, Oftringen, Schweiz, erstellt und zur Verfügung gestellt. Das Copyright für diesen Text liegt bei Gordian Hense, Oftringen, Schweiz. Gordian Hense bietet Dienstleistungen in den Bereichen Business Conuslting, Mental-Coaching, Copywriting, Content-Erstellung und mehr an. Bei Interesse an diesem Text oder der Erstellung hochwertiger Inhalte wenden Sie sich bitte an Gordian Hense in Oftringen.
 
 
 https://www.outview.ch/aktuelle-news/der-granite-act-und-wie-er-die-meinungsfreiheit-schuetzen-koennte/
@@ -2366,8 +2260,7 @@ Fußnoten:
 Telegram (alt)
 https://t.me/BuStAG/8929
 https://t.me/BuStAG/8930
-https://drive.proton.me/urls/
-CVVMDDE9YW#ZE7PDaXtEnlZ
+https://drive.proton.me/urls/CVVMDDE9YW#ZE7PDaXtEnlZ
 
 97 / 287
 20240801_Aufsatz_deutscheStaatsangehoerigkeit_DeutscheBuergerschaft_Waffe-StAG_berichtigte-Fassung.odt
@@ -2379,58 +2272,58 @@ CVVMDDE9YW#ZE7PDaXtEnlZ
 
 ![Screenshot_20251212_190000~2.jpg](https://github.com/user-attachments/assets/0c5bee3b-73d4-4773-9e0d-1af3166356d4) 98
 
-![Screenshot_20251212_190005~2.jpg](https://github.com/user-attachments/assets/d9b6a112-520d-4500-b64a-bbdc7d69c26e)
+![Screenshot_20251212_190005~2.jpg](https://github.com/user-attachments/assets/d9b6a112-520d-4500-b64a-bbdc7d69c26e) 99
 
-![Screenshot_20251212_190009~2.jpg](https://github.com/user-attachments/assets/613a2bf1-ef1d-4b88-89ca-e1122e42a3c2)
+![Screenshot_20251212_190009~2.jpg](https://github.com/user-attachments/assets/613a2bf1-ef1d-4b88-89ca-e1122e42a3c2) 100
 
-![Screenshot_20251212_190014~2.jpg](https://github.com/user-attachments/assets/a74696ea-5f30-43eb-bad7-a07a3ace1e60)
-
-
-
-
-
-
-![Screenshot_20251212_190019~2.jpg](https://github.com/user-attachments/assets/32dada96-f627-4679-9c8c-01dc199b23db)
-
-![Screenshot_20251212_190023~2.jpg](https://github.com/user-attachments/assets/b180aa4f-e973-40f2-b11f-2b3c544ec2dc)
-
-![Screenshot_20251212_190028~2.jpg](https://github.com/user-attachments/assets/b608c433-3458-4d7b-9bd3-748f25b8e0e9)
-
-![Screenshot_20251212_190032~2.jpg](https://github.com/user-attachments/assets/69ce063e-b517-462b-bdc9-8be31055ec79)
-
-![Screenshot_20251212_190036~2.jpg](https://github.com/user-attachments/assets/7a1b6de9-5ca7-4600-a904-7b722b87d60d)
-
-![Screenshot_20251212_190040~2.jpg](https://github.com/user-attachments/assets/db2a80b7-2e1d-4bf1-a986-ebb75f2845bf)
-
-![Screenshot_20251212_190045~2.jpg](https://github.com/user-attachments/assets/66928706-0bc9-4360-8f05-bcd41633d6a9)
-
-![Screenshot_20251212_190049~2.jpg](https://github.com/user-attachments/assets/212776ed-e6a7-4322-ba62-940f1b5eb045)
-
-![Screenshot_20251212_190054~2.jpg](https://github.com/user-attachments/assets/29b594b1-f4ca-4605-93d1-a6636621bf64)
-
-![Screenshot_20251212_190058~2.jpg](https://github.com/user-attachments/assets/4d0dd028-6689-4022-b703-53bc74402452)
-
-![Screenshot_20251212_190104~2.jpg](https://github.com/user-attachments/assets/98950815-0949-41be-8eb9-9258a2eba287)
+![Screenshot_20251212_190014~2.jpg](https://github.com/user-attachments/assets/a74696ea-5f30-43eb-bad7-a07a3ace1e60) 101
 
 
 
 
 
-![Screenshot_20251212_190108~2.jpg](https://github.com/user-attachments/assets/9bab9602-5d6d-440d-b15c-da636a1ca1fd)
 
-![Screenshot_20251212_190113~2.jpg](https://github.com/user-attachments/assets/18004444-60b1-4d97-8dec-e7e210c5f12b)
+![Screenshot_20251212_190019~2.jpg](https://github.com/user-attachments/assets/32dada96-f627-4679-9c8c-01dc199b23db) 102
 
-![Screenshot_20251212_190117~2.jpg](https://github.com/user-attachments/assets/9f03c03a-8e1c-4cb4-88c9-8adbf8a42f87)
+![Screenshot_20251212_190023~2.jpg](https://github.com/user-attachments/assets/b180aa4f-e973-40f2-b11f-2b3c544ec2dc) 103
 
-![Screenshot_20251212_190122~2.jpg](https://github.com/user-attachments/assets/bf27f0b2-290c-49d8-9e8a-2b4e34442406)
+![Screenshot_20251212_190028~2.jpg](https://github.com/user-attachments/assets/b608c433-3458-4d7b-9bd3-748f25b8e0e9) 104
 
-![Screenshot_20251212_190127~2.jpg](https://github.com/user-attachments/assets/b08eef32-55c8-4917-a1d0-50a235bbd9cb)
+![Screenshot_20251212_190032~2.jpg](https://github.com/user-attachments/assets/69ce063e-b517-462b-bdc9-8be31055ec79) 105
 
-![Screenshot_20251212_190137~2.jpg](https://github.com/user-attachments/assets/8695c4bf-3062-4469-a81b-6b74d9814653)
+![Screenshot_20251212_190036~2.jpg](https://github.com/user-attachments/assets/7a1b6de9-5ca7-4600-a904-7b722b87d60d) 106
 
-![Screenshot_20251212_190141~2.jpg](https://github.com/user-attachments/assets/7df9445f-6843-4023-a0dd-f1d6bd6a8e2e)
+![Screenshot_20251212_190040~2.jpg](https://github.com/user-attachments/assets/db2a80b7-2e1d-4bf1-a986-ebb75f2845bf) 107
 
-![Screenshot_20251212_190145~2.jpg](https://github.com/user-attachments/assets/901b3bb5-1459-40c0-a01c-187cba2130f8)
+![Screenshot_20251212_190045~2.jpg](https://github.com/user-attachments/assets/66928706-0bc9-4360-8f05-bcd41633d6a9) 108
+
+![Screenshot_20251212_190049~2.jpg](https://github.com/user-attachments/assets/212776ed-e6a7-4322-ba62-940f1b5eb045) 109
+
+![Screenshot_20251212_190054~2.jpg](https://github.com/user-attachments/assets/29b594b1-f4ca-4605-93d1-a6636621bf64) 110
+
+![Screenshot_20251212_190058~2.jpg](https://github.com/user-attachments/assets/4d0dd028-6689-4022-b703-53bc74402452) 111
+
+![Screenshot_20251212_190104~2.jpg](https://github.com/user-attachments/assets/98950815-0949-41be-8eb9-9258a2eba287) 112
+
+
+
+
+
+![Screenshot_20251212_190108~2.jpg](https://github.com/user-attachments/assets/9bab9602-5d6d-440d-b15c-da636a1ca1fd) 113
+
+![Screenshot_20251212_190113~2.jpg](https://github.com/user-attachments/assets/18004444-60b1-4d97-8dec-e7e210c5f12b) 114
+
+![Screenshot_20251212_190117~2.jpg](https://github.com/user-attachments/assets/9f03c03a-8e1c-4cb4-88c9-8adbf8a42f87) 115
+
+![Screenshot_20251212_190122~2.jpg](https://github.com/user-attachments/assets/bf27f0b2-290c-49d8-9e8a-2b4e34442406) 116
+
+![Screenshot_20251212_190127~2.jpg](https://github.com/user-attachments/assets/b08eef32-55c8-4917-a1d0-50a235bbd9cb) 117
+
+![Screenshot_20251212_190137~2.jpg](https://github.com/user-attachments/assets/8695c4bf-3062-4469-a81b-6b74d9814653) 118
+
+![Screenshot_20251212_190141~2.jpg](https://github.com/user-attachments/assets/7df9445f-6843-4023-a0dd-f1d6bd6a8e2e) 119
+
+![Screenshot_20251212_190145~2.jpg](https://github.com/user-attachments/assets/901b3bb5-1459-40c0-a01c-187cba2130f8) 120
 
 ![Screenshot_20251212_190154~2.jpg](https://github.com/user-attachments/assets/5aa201d2-b715-4b1f-a2b5-4a9f0165869e)
 
