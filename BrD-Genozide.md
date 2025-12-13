@@ -2529,9 +2529,54 @@ gez. Wilhelm I. R.*“282
 281 „Amtliche Kriegs-Depeschen“ – „Nach Berichten des“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2366 Angeblicher Kronrat v. 05.07.1914
 
 282 „Amtliche Kriegs-Depeschen“ – „Nach Berichten des“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2366-2367 Kaiser
+
 ---
 
 ![Screenshot_20251212_200555~2.jpg](https://github.com/user-attachments/assets/dcdef98c-e1af-4141-8bf2-07e70997046d) 126
+
+
+*An das deutsche Heer, die Marine und die Schutztruppen.*
+
+*Das dritte Kriegsjahr ist zu Ende. Die Zahl unserer Gegner ist gestiegen, nicht aber ihre Aussicht aufden Enderfolg. Rumänien habt ihr im Vorjahre niedergeworfen. Das russische Reich erbebt jetzt vonneuem unter Euren Schlägen. Beide Staaten haben ihre Haut für fremde Interessen zu Marktegetragen und sind am Verbluten. In Mazedonien habt Ihr den feindlichen Anstürmen machtvollgetrotzt. In gewaltigen Schlachten im Westen seid Ihr die Herren der Lage geblieben. Fest stehen EureLinien, die die treue Heimat vor den Schrecken und Verwüstungen des Krieges zu bewahren.*
+
+*Auch meine Marine hat große Erfolge errungen; sie hat den Feinden die Herrschaft zur Seestreitig gemacht bedroht ihren Lebensnerv.*
+
+*Fern der Heimat hält eine kleine deutsche Truppe deutsches Kolonialland gegen vielfacheUebermacht.*
+
+*Auf Eurer und unserer treuen Bundesgenossen Seite werden auch im nächsten Kriegsjahr die Erfolge
+sein. Unser wird der Endsieg bleiben. [Endsieg legt der Friedensvertrag fest; Versailles ein Strafdiktat]
+Bewegten Herzens danke Ich Euch in Meinem und des Vaterlandes Namen für das, was Ihr auch indem letzten Kriegsjahr geleistet habt. In Ehrfurcht gedenken wir dabei der tapferen Gefallenen undVerstorbenen, die für des Vaterlandes Größe und Sicherheit dahingegangen sind.*
+
+*Der Krieg geht weiter, er bleibt uns aufgezwungen. Wir kämpfen für unser Dasein und unsereZukunft mit stahlharter Entschlossenheit und nie wankendem Mut. Mit wachsender Aufgabe wächstunsere Kraft. Wir sind nicht zu besiegen; wir wollen siegen! [Wir wollen Frieden! Wir sind noch immernicht besiegt!] Gott der Herr wird uns sein.
+Im Felde, den 1. August 1917.
+Wilhelm.*“283
+
+„*Der Kaiser an die Helden von Deutsch-Ostafrika.*
+
+Seine Majestät der Kaiser hat an den Kommandeur der Schutztruppe für Deutsch-Ostafrika, Oberst v. Lettow-Vorbeck, nachstehende Order gerichtet:
+Den Eintritt in ein neues Kriegsjahr will Ich nicht vorübergehen lassen, ohne Ihnen, Mein lieber Oberst, und
+Ihren braven Truppen erneut meinen Dank und Meine uneingeschränkte Anerkennung für Ihr heldenmütigesVerhalten auszusprechen. Gestärkt durch den Geist der Pflichtreue haben Sie unerschrocken und zuversichtlichenMutes den ungleichen Kampf aufgenommen und drei Jahre lang mit nie [Indigene statt Bundestruppen] ermattenderTatkraft Ostafrika verteidigt. Die vielen siegreichen Schlachten und Gefechte haben Mir bewiesen, daß in schicksalsschwerer Stunde der richtige Mann an richtiger Stelle stand.
+In treuer Gemeinschaft mit meinem Gouverneur und der gesamten Bevölkerung des Schutzgebietes konnten Sie den
+gewaltigen Anforderungen der bitteren Notwehr trotz schwerer Entbehrungen gerecht werden und drei schwere Jahre
+eines aufgedrungenen Kampfes unter Afrikas heißer Sonne durchhalten. Nie und nimmermehr erwartete die Welt, was
+Ihre eiserne Willenskraft ermöglicht hat.
+In Treue und mit stolzer Bewunderung gedenkt heute an der Schwelle des neuen Kriegsjahres mit Mir das dankbare
+Vaterland seiner fernen Helden und ihres sieggewohnten Führers, deren stille Pflichterfüllung stets ein leuchtendes
+Beispiel in der Geschichte des Krieges bilden wird. Gott möge Ihre Waffen weiter segnen!
+Großes Hauptquartier, den 31. Juli. 1917
+gez. Wilhelm.
+An den Obersten v. Lettow-Vorbeck,
+Kommandeur der Schutztruppe für Deutsch-Ostafrika.“284
+
+11.08.1917 Fliegerangriff auf Lazarett in Frankfurt a.M.
+
+„Frankfurt a. M., 11. August. Ein feindlicher Flieger erschien heute früh über Frankfurt und warf eine Bombe ab, die im Stadtinnern unmittelbar vor dem großen Militärlazarett niederfiel. Glücklicherweisesind keine Menschenleben zu beklagen; einige Insassen des Lazaretts und ein Türhüter wurden leicht verletzt. Der angerichtete Sachschaden ist gering.
+
+283 „Amtliche Kriegs-Depeschen“ – „Nach Berichten des“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2367-2368 Kaiser
+
+284 „Amtliche Kriegs-Depeschen“ – „Nach Berichten des“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2367-2368 Kaiser
+
+---
 
 ![Screenshot_20251212_200602~2.jpg](https://github.com/user-attachments/assets/f7b59cf6-90e0-402a-995c-5be502f286c6) 127
 
