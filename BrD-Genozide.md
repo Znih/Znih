@@ -71,6 +71,11 @@ Volljuristen unbedingt Nachrichten konsumieren und auf Nürnberg 2.0 vorbereiten
 
 Verfolgter des Nazismus (VdN), wie schon der Großvater VdN und zusätzlich Mitglied der besonderen priori visionären Widerstandsgruppe "Europäischen Union" um Prof. Havermann u.s.v.a.m.
 
+
+---
+
+**Anlagen/Nachweis/Fakten und KI Antworten:**
+
 Buschmann Volljuristenfalle für Deutsche Staatsbürger n. Art. 116 I GG:
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251206_Buschmann-Fallen.md
 
@@ -2787,6 +2792,42 @@ nicht leisten! Die FED wurde auch zum Zwecke der Kriegsverlängerungsfinanzierun
 ---
 
 ![Screenshot_20251212_200656~2.jpg](https://github.com/user-attachments/assets/aa12ba2d-826e-40f1-adec-3677004d1cd9) 138
+
+*Aber wir lehnten das Selbstbestimmungsrecht der Nationalitäten innerhalb der großen Staatenverbände ab: ‚Die staatliche Zugehörigkeit nationaler Gruppen, die keine staatliche Selbstständigkeitbesitzen, können nicht, zwischenstaatlich geregelt werden [Henne-Ei-Problem], sondern sei von jedem
+Staat mit seinen Völkern selbstständig auf verfassungsmäßigem Wege zu lösen.‘
+Der Forderung nach der Selbstbestimmung unserer Kolonien widersprachen wir mit dem Hinweis:
+Die Not und Tod bewährte Treue der eingeborenen Bevölkerung gegen Deutschland sei ein Zeugnis,das an Ernst und Gewicht jede Willenskundgebung durch Abstimmung übertrifft. […] Trotz Meinungsverschiedenheiten über Einzelheiten erkenne sie [die russische Delegation] die enorme Bedeutungdieses Schrittes auf dem Wege zum allgemeinen Frieden an. [i.d.T.] Sie sehe die Grundlage gegeben,um mit allen kriegführenden Mächten sofort zu Verhandlungen zu schreiten.*“328
+
+**23.12.1917 Beginn Friedensverhandlungen**
+
+„*Wien, 23. Dezember. Amtlich wird verlautbart:
+Oestlicher Kriegsschauplatz. Waffenstillstand.
+Die Friedensverhandlungen wurden am 22. d. M., 4 Uhr nachmittags in Brest-Litowsk eröffnet.*“329
+
+**24.12.1917 Kaiserlicher Dankerlaß**
+
+„*Berlin, 24. Dezember. Die gewaltigen Angriffe unserer Feinde an der Westfront sind gescheitert!
+Unterstützt durch die gesamten Industrien Englands, Frankreichs, und Amerikas, trotz monatelangerVorbereitungen umfassender Art, trotz allergrößter Munitionsaufwandes waren alle Bemühungenunserer Gegner umsonst. Das zähe Durchhalten und die unerschütterliche Tapferkeit unserer todesmutigen Truppen an der Front konnte dies aber neben der Unterstützung durch die Marine nur leistendurch die rastlose Arbeit und die reiche Unterstützung der Heimat [Heer u. Heimat] mit [Verpflegung,]Waffen, Munition und allem sonstigen Kriegsgerät. Dafür sage ich dem Kriegsministerium und seinen
+untergeordneten Behörden Meinen und des Heeres Dank. Zielbewußte Leistung, strengste Pflichterfüllungjedes einzelnen, enges Zusammenarbeiten mit den anderen Behörden, insbesondere der Kriegsministerienden Bundesstaaten, und mit einer schaffensfreudigen, erfinderischen Industrie – auf dieser Grundlagehaben sich Erfolge aufgebaut. Glänzendes ist auch in der rechtzeitigen Bereitstellung eines kriegsmäßig
+vorgebildeten Ersatzes, der Fürsorge für unsere Verwundeten und in der Verteilung und Verwendung derheimischen Arbeitskräfte geleistet. So vertraue ich darauf, daß Mein Kriegsministerium auch weiter invorbildlicher Pflichttreue zum Nutzen von Heer und Vaterland arbeiten und so für sein Teil zum Endsiege
+beitragen wird.
+Großes Hauptquartier, 24. Dezember 1917
+An den Kriegsminister.*“330
+
+**25.12.1917 Brest-Litowsker-Friedens-Beschlüsse**
+
+„*Brest-Litowsk, 25. Dezember. In der Sitzung vom 22. d. M. hatte die russische Delegationvorgeschlagen, den Friedensverhandlungen folgende sechs Punkte zugrunde zu legen:
+1. Es wird keine gewaltsame Vereinigung von Gebieten gestattet, die während des Krieges in Besitzgenommen sind. Die Truppen, die diese Gebiete besetzt halten, werden in kürzester Frist zurückgezogen.
+2. Es wird in vollem Umfange die politische Selbstständigkeit der Völker wiederhergestellt, die ihre
+Selbstständigkeit in diesem Kriege verloren haben [mit dieser Formulierung auch für die Westfront, der Gleichheitsgrundsatz].*
+
+328 „*Erinnerungen und Dokumente*“ v. 1927 als Rechenschaftsbericht des letzten königlichen Reichskanzler Prinz Max von Baden S. 186-187
+
+329 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2550
+
+330 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2552
+
+---
 
 ![Screenshot_20251212_200701~2.jpg](https://github.com/user-attachments/assets/9888211f-b758-428e-8ac6-766a74eef3b0) 139
 
