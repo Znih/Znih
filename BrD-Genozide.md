@@ -2090,9 +2090,7 @@ https://t.me/BuStAG/8930
 
 1/287
 
-20240801_Aufsatz_deutsche-Staatsangehoerigkeit_Deutsche-Buergerschaft_Waffe-StAG_be-
-
-richtigte-Fassung.odt
+20240801_Aufsatz_deutsche-Staatsangehoerigkeit_Deutsche-Buergerschaft_Waffe-StAG_berichtigte-Fassung.odt
 
 76765 78211 81765 70
 
@@ -2263,7 +2261,7 @@ richtigte-Fassung.odt
 
 ![Screenshot_20251212_185733~2.jpg](https://github.com/user-attachments/assets/6d368c6b-07b4-4e19-bf6d-15340ea6d119) 70
 
-![Screenshot_20251212_185740~2.jpg](https://github.com/user-attachments/assets/b42f5eb7-0318-45ea-9250-562cec01011e) 72
+![Screenshot_20251212_185740~2.jpg](https://github.com/user-attachments/assets/b42f5eb7-0318-45ea-9250-562cec01011e) 71
 
 ![Screenshot_20251212_185745~2.jpg](https://github.com/user-attachments/assets/b61326ba-bd87-4f38-bce6-fd5b158f93ea) 72
 
@@ -2326,8 +2324,6 @@ richtigte-Fassung.odt
 
 ![Screenshot_20251212_185942~2.jpg](https://github.com/user-attachments/assets/b8dc4ff2-c0d4-4c36-b3d0-295f93ea2c0a) 96
 
-![Screenshot_20251212_185947~2.jpg](https://github.com/user-attachments/assets/228c8a4b-965c-4166-9dfb-d8d4e3393d91) 97
-
 ---
 
 12.12.1916 Status Quo Friedensangebot Deutschlands
@@ -2383,14 +2379,17 @@ CVVMDDE9YW#ZE7PDaXtEnlZ
 76765 78211 81765 70
 9
 
+
+![Screenshot_20251212_185947~2.jpg](https://github.com/user-attachments/assets/228c8a4b-965c-4166-9dfb-d8d4e3393d91) 97
+
 ---
 
 
-![Screenshot_20251212_185951~2.jpg](https://github.com/user-attachments/assets/648e8f57-e66c-48a9-92bc-c81074226dcc)
+![Screenshot_20251212_185951~2.jpg](https://github.com/user-attachments/assets/648e8f57-e66c-48a9-92bc-c81074226dcc) 98
 
-![Screenshot_20251212_185956~2.jpg](https://github.com/user-attachments/assets/3cdc62c6-f00e-43f3-909b-4c92061f6e48)
+![Screenshot_20251212_185956~2.jpg](https://github.com/user-attachments/assets/3cdc62c6-f00e-43f3-909b-4c92061f6e48) 99
 
-![Screenshot_20251212_190000~2.jpg](https://github.com/user-attachments/assets/0c5bee3b-73d4-4773-9e0d-1af3166356d4)
+![Screenshot_20251212_190000~2.jpg](https://github.com/user-attachments/assets/0c5bee3b-73d4-4773-9e0d-1af3166356d4) 100
 
 ![Screenshot_20251212_190005~2.jpg](https://github.com/user-attachments/assets/d9b6a112-520d-4500-b64a-bbdc7d69c26e)
 
