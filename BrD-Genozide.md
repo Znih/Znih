@@ -2334,8 +2334,9 @@ https://drive.proton.me/urls/CVVMDDE9YW#ZE7PDaXtEnlZ
 **11.07.1917 Wahlrechtsbotschaft König von Preußen**
 
 „*Berlin, 11. Juli. Seine Majestät der König hat an den Präsidenten des Staatsministeriums folgenden
-Erlaß gerichtet:
-Auf den Mir in Verfolgung Meines Erlasses vom 7. April d. J. gehaltenen Vortrag MeinesStaatsministeriums bestimme Ich hierdurch in Ergänzung des selben, daß der dem Landtage derMonarchie zur Beschlußfassung vorzulegene Gesetzentwurf wegen **Abänderung des Wahlrechts** zum
+Erlaß gerichtet:*
+
+*Auf den Mir in Verfolgung Meines Erlasses vom 7. April d. J. gehaltenen Vortrag MeinesStaatsministeriums bestimme Ich hierdurch in Ergänzung des selben, daß der dem Landtage derMonarchie zur Beschlußfassung vorzulegene Gesetzentwurf wegen **Abänderung des Wahlrechts** zum
 Abgeordnetenhause auf der Grundlage des **gleichen Wahlrechts** aufzustellen **ist**. Die Vorlage ist jedenfalls so frühzeitig anzubringen, daß die nächsten Wahlen nach dem neuen Wahlrecht stattfinden können.
 Ich beauftrage Sie, das hiernach Erforderliche zu veranlassen.
 Großes Hauptquartier, den **11. Juli 1917**.
@@ -2365,10 +2366,9 @@ Präsidenten des Staatsministeriums.*“273
 Wie am 4. August 1914 gilt für das deutsche Volk auch an der Schwelle des vierten Kriegsjahresdas Wort der Thronrede: ‚Uns treibt nicht Eroberungssucht.‘ Zur Verteidigung seiner Freiheit undSelbstständigkeit, für die Unversehrtheit seines territorialen Besitzstandes [Art. 1 RVerf. –
 Bundesgebiet] hat Deutschland die Waffen ergriffen.*
 
-D e r R e i c h s t a g e r s t r e b t e i n e n F r i e d e n d e r V e r s t ä n d i g u n g
-u n d d e r d a u e r n d e n V e r s ö h n u n g d e r V ö l k e r.
-M i t e i n e m s o l c h e n F r i e d e n s i n d e r z w u n g e n e G e b i e t se r w e r b u n g e n u n d p o l i t i s c h e, w i r t s c h a f t l i c h e   o d e r
-f i n a n z i e l l e V e r g e w a l t i g u n g e n u n v e r e i n b a r.
+*D e r  R e i c h s t a g  e r s t r e b t. e i n e n  F r i e d e n  d e r  V e r s t ä n d i g u n g  u n d  d e r  d a u e r n d e n  V e r s ö h n u n g  d e r  V ö l k e r.*
+
+*M i t  e i n e m  s o l c h e n  F r i e d e n  s i n d  e r z w u n g e n e  G e b i e t e e r w e r b u n g e n  u n d  p o l i t i s c h e, w i r t s c h a f t l i c h e   o d e r f i n a n z i e l l e  V e r g e w a l t i g u n g e n  u n v e r e i n b a r.*
 
 *Der Reichstag weist auch alle Pläne ab, die auf eine wirtschaftliche Absperrung und Verfeindungder Völker nach dem Kriege ausgehen. Die Freiheit der Meere muß sichergestellt werden. Nur der
 Wirtschaftsfriede wird einem freundschaftlichen Zusammenleben der Völker den Boden bereiten.*
@@ -2386,7 +2386,7 @@ ganzen Volkes ist ihnen sicher.*“275
 
 „*(Mitteilung über Durchstoßung der russischen Front bei Zloczow. – Die Friedensresolution desReichstags. – Die Parlamentarisierung.)*
 
-Berlin, 19. Juli. In der heutigen Sitzung des Reichstags hielt Reichskanzler Dr. Michaelis eine Rede,in der er u. a. sagte: Ich stelle fest, daß der U-Boot-Krieg in der Vernichtung feindlichen Frachtraums dasleistet, was er sollte. Seine Wirkung auf die Entschlüsse unserer Feinde können wir in Ruhe abwarten. DieZeit läuft für uns.
+*Berlin, 19. Juli. In der heutigen Sitzung des Reichstags hielt Reichskanzler Dr. Michaelis eine Rede,in der er u. a. sagte: Ich stelle fest, daß der U-Boot-Krieg in der Vernichtung feindlichen Frachtraums dasleistet, was er sollte. Seine Wirkung auf die Entschlüsse unserer Feinde können wir in Ruhe abwarten. DieZeit läuft für uns.
 Die Berichte über die militärische Lage von Seiten der Obersten Heeresleitung sind sehr gut. ImWesten sind die großen Frühjahrsoffensiven der Engländer und der Franzosen gescheitert. Im Osten ist
 infolge der inneren russischen Wirren der Angriff der feindlichen Millionenheere nicht zur Ausführunggekommen. Erst nachdem falsche Nachrichten und Hetzreden der russischen Verbündeten die Soldaten
 in Rußland von neuem aufgestachelt hatten, kam es zu der jetzigen Offensive. Ihr Ziel war Lemberg unddie Oelgruben von Drohobycz, um unseren U-Boot-Krieg zu schädigen. Brussilow hat in seiner Rücksichtslosigkeit unter ungeheuren Opfern nur geringe Vorteile erzielt. Vor einer halben Stunde habe ichein Telegramm des Feldmarschalls erhalten, das folgendermaßen lautet:*
@@ -2399,6 +2399,80 @@ in Rußland von neuem aufgestachelt hatten, kam es zu der jetzigen Offensive. Ih
 
 
 ![Screenshot_20251212_200540~2.jpg](https://github.com/user-attachments/assets/4fb3922a-6bc9-40c2-ba8a-f47489935e19) 124
+
+
+>*'An den Reichskanzler des Deutschen Reiches, Reichstag. Durch die russische Offensive inGalizien herausgefordert, hat dort heute ein durch starken Regen bisher hinausgeschobenerdeutscher Angriff östlich Zloczow eingesetzt. Unter persönlicher Leitung des Feldmarschalls
+Prinz Leopold von Bayern (Bravo! im Zentrum) haben deutsche Divisionen, unterstützt durch österreichisch-ungarische Artillerie, in altbewährtem Schneid und fester Zuversicht dierussischen Stellungen durchstoßen.‘*
+
+(Lebhafter Beifall. Zurufe bei den U. S. erregte Gegenrufe bei den übrigen Parteien.)
+
+*Die in den letztenBerichten erwähnter Vorteile von Bussilow sind danach wieder ausgeglichen.*
+
+(Lebhafter Beifall.)
+
+*Wenn wir Frieden machen, dann müssen wir in erster Linie erreichen, daß die Grenzen desDeutschen Reiches für alle Zeit sichergestellt sind. (Lebhaftes Bravo! Rechts.) Wir müssen im Wege der
+Verständigung (Bravo! im Zentrum, links und bei den Soz.) und des Ausgleichs (erneutes Bravo im Zentrum, links und bei den Soz.) die Lebensbedingungen des Deutschen Reiches auf dem Kontinent und
+über See garantieren.*
+
+(Lebhaftes Bravo!)
+
+*Der Friede muß die Grundlage für eine dauernde Versöhnungder Völker bieten.*
+
+(Lebhaftes Bravo! im Zentrum, links und bei den Soz.)
+
+*Er muß, wie dies in IhrerResolution ausgesprochen ist, der weiteren Verfeindung der Völker durch wirtschaftliche Absperrungvorbeugen.*
+
+(Sehr gut!) 
+
+*Er muß davor sichern, daß sich der Waffenbund unserer Feinde zu einem
+wirtschaftlichen Trutzbund gegen uns auswächst.*
+
+(Sehr gut! in Zentrum, links und bei den Soz.)
+
+*Diese Ziele lassen sich im Rahmen Ihrer Resolution, wie ich sie auffasse, erreichen.*
+
+(Bravo! undSehr gut! im Zentrum, links und bei den Soz.)
+
+*Wir können den Frieden nicht nochmals anbieten.*
+
+(Sehrrichtig! rechts.)
+
+*Die ehrlich ausgestreckte Hand hat einmal ins Leere gegriffen.*
+
+(Sehr richtig! Rechts.[12.12.1916])
+
+*Aber mit dem gesamten Volk und der deutschen Armee und ihren Führern, die mit dieserErklärung einverstanden sind*
+
+(Hört, hört! Bravo! Im Zentrum, links und bei den Soz.)
+
+*, ist die Regierungsich dessen bewußt. Wenn die Feinde ihrerseits von ihren Eroberungsgelüsten, ihren Niederwerfungszielen ablassen und [endlich] in Verhandlungen einzutreten wünschen, werden wir ehrlich und
+friedensbereit hören, was sie uns zu sagen haben. (Bravo! Links.) Bis dahin müssen wir ruhig undgeduldig und mutig ausharren.*“276
+
+**19.07.1917 Annahme Friedensresolution im Reichstage**
+
+„*Berlin, 19 Juli. Der Reichstag hat die gemeinsame Entschließung des Zentrums, der Sozialdemokraten und der Fortschrittlichen Partei mit 214 gegen 116 Stimmen bei 17 Stimmenthaltungen angenommen.*
+
+(Lebhafter Beifall links und im Zentrum.)“277
+
+**20.07.1917 Neuer 15 Milliarden-Kredit vom Reichstag bewilligt**
+
+„*Berlin, 20. Juli. Der Reichstag hat ohne Erörterung in dritter Lesung den Kriegskredit von 15Milliarden Mark gegen die Stimmen der Unabhängigen Sozialdemokraten endgültig bewilligt.*“278
+
+**22.07.1917 Kriegserklärung Siams**
+
+„*Bankok, 22. Juli. (Reuter-Meldung.) Siam hat erklärt, daß der Kriegszustand mit Deutschland undOeserreich-Ungarn besteht. Alle Deutschen und Oesterreicher sind verhaftet und die Handelshäuser
+geschlossen worden. Neun Dampfer mit einem Tonnengehalt von 18965 Brutto-Registertonnen [BRT]
+sind beschlagnahmt worden.*“279
+
+276 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2338-2339 Michaelis zur Friedensresolution
+
+277 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2339 Annahme Friedensresolution
+
+278 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2342
+
+279 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2348 Siam
+
+---
 
 ![Screenshot_20251212_200548~2.jpg](https://github.com/user-attachments/assets/e03e30a2-6e65-4b1b-b6e0-e002333bc05b) 125
 
