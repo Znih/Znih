@@ -2524,11 +2524,11 @@ Ehrgeizes wird deutsches Blut und deutscher Fleiß eingesetzt, nicht für Pläne
 Im Felde, den 1. August 1917.
 gez. Wilhelm I. R.*“282
 
-280 „Amtliche Kriegs-Depeschen“ – „Nach Berichten des“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2363
+280 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2363
 
-281 „Amtliche Kriegs-Depeschen“ – „Nach Berichten des“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2366 Angeblicher Kronrat v. 05.07.1914
+281 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2366 Angeblicher Kronrat v. 05.07.1914
 
-282 „Amtliche Kriegs-Depeschen“ – „Nach Berichten des“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2366-2367 Kaiser
+282 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2366-2367 Kaiser
 
 ---
 
@@ -2553,28 +2553,29 @@ Wilhelm.*“283
 
 „*Der Kaiser an die Helden von Deutsch-Ostafrika.*
 
-Seine Majestät der Kaiser hat an den Kommandeur der Schutztruppe für Deutsch-Ostafrika, Oberst v. Lettow-Vorbeck, nachstehende Order gerichtet:
-Den Eintritt in ein neues Kriegsjahr will Ich nicht vorübergehen lassen, ohne Ihnen, Mein lieber Oberst, und
-Ihren braven Truppen erneut meinen Dank und Meine uneingeschränkte Anerkennung für Ihr heldenmütigesVerhalten auszusprechen. Gestärkt durch den Geist der Pflichtreue haben Sie unerschrocken und zuversichtlichenMutes den ungleichen Kampf aufgenommen und drei Jahre lang mit nie [Indigene statt Bundestruppen] ermattenderTatkraft Ostafrika verteidigt. Die vielen siegreichen Schlachten und Gefechte haben Mir bewiesen, daß in schicksalsschwerer Stunde der richtige Mann an richtiger Stelle stand.
-In treuer Gemeinschaft mit meinem Gouverneur und der gesamten Bevölkerung des Schutzgebietes konnten Sie den
+*Seine Majestät der Kaiser hat an den Kommandeur der Schutztruppe für Deutsch-Ostafrika, Oberst v. Lettow-Vorbeck, nachstehende Order gerichtet:
+Den Eintritt in ein neues Kriegsjahr will Ich nicht vorübergehen lassen, ohne Ihnen, Mein lieber Oberst, undIhren braven Truppen erneut meinen Dank und Meine uneingeschränkte Anerkennung für Ihr heldenmütigesVerhalten auszusprechen. Gestärkt durch den Geist der Pflichtreue haben Sie unerschrocken und zuversichtlichenMutes den ungleichen Kampf aufgenommen und drei Jahre lang mit nie [Indigene statt Bundestruppen] ermattenderTatkraft Ostafrika verteidigt. Die vielen siegreichen Schlachten und Gefechte haben Mir bewiesen, daß in schicksalsschwerer Stunde der richtige Mann an richtiger Stelle stand.*
+
+*In treuer Gemeinschaft mit meinem Gouverneur und der gesamten Bevölkerung des Schutzgebietes konnten Sie den
 gewaltigen Anforderungen der bitteren Notwehr trotz schwerer Entbehrungen gerecht werden und drei schwere Jahre
 eines aufgedrungenen Kampfes unter Afrikas heißer Sonne durchhalten. Nie und nimmermehr erwartete die Welt, was
-Ihre eiserne Willenskraft ermöglicht hat.
-In Treue und mit stolzer Bewunderung gedenkt heute an der Schwelle des neuen Kriegsjahres mit Mir das dankbare
+Ihre eiserne Willenskraft ermöglicht hat.*
+
+*In Treue und mit stolzer Bewunderung gedenkt heute an der Schwelle des neuen Kriegsjahres mit Mir das dankbare
 Vaterland seiner fernen Helden und ihres sieggewohnten Führers, deren stille Pflichterfüllung stets ein leuchtendes
 Beispiel in der Geschichte des Krieges bilden wird. Gott möge Ihre Waffen weiter segnen!
 Großes Hauptquartier, den 31. Juli. 1917
 gez. Wilhelm.
 An den Obersten v. Lettow-Vorbeck,
-Kommandeur der Schutztruppe für Deutsch-Ostafrika.“284
+Kommandeur der Schutztruppe für Deutsch-Ostafrika.*“284
 
-11.08.1917 Fliegerangriff auf Lazarett in Frankfurt a.M.
+**11.08.1917 Fliegerangriff auf Lazarett in Frankfurt a.M.**
 
-„Frankfurt a. M., 11. August. Ein feindlicher Flieger erschien heute früh über Frankfurt und warf eine Bombe ab, die im Stadtinnern unmittelbar vor dem großen Militärlazarett niederfiel. Glücklicherweisesind keine Menschenleben zu beklagen; einige Insassen des Lazaretts und ein Türhüter wurden leicht verletzt. Der angerichtete Sachschaden ist gering.
+„*Frankfurt a. M., 11. August. Ein feindlicher Flieger erschien heute früh über Frankfurt und warf eine Bombe ab, die im Stadtinnern unmittelbar vor dem großen Militärlazarett niederfiel. Glücklicherweisesind keine Menschenleben zu beklagen; einige Insassen des Lazaretts und ein Türhüter wurden leicht verletzt. Der angerichtete Sachschaden ist gering.*
 
-283 „Amtliche Kriegs-Depeschen“ – „Nach Berichten des“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2367-2368 Kaiser
+283 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2367-2368 Kaiser
 
-284 „Amtliche Kriegs-Depeschen“ – „Nach Berichten des“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2367-2368 Kaiser
+284 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2367-2368 Kaiser
 
 ---
 
@@ -2584,11 +2585,55 @@ Kommandeur der Schutztruppe für Deutsch-Ostafrika.“284
 
 ![Screenshot_20251212_200613~2.jpg](https://github.com/user-attachments/assets/f1cc3ffe-da28-4e70-83f1-e5ba70f28f70) 129
 
+---
+
 ![Screenshot_20251212_200619~2.jpg](https://github.com/user-attachments/assets/6c1873a0-1a41-4d5d-a0c6-24c4e0f8b9b5) 130
 
+"*Die Regierung schlägt den Regierungen aller kriegführenden Länder [Inseln, angel-sächsischeProtektorate, Kolonien, Hilfsstaaten, Proxies] vor, sogleich einen Waffenstillstand zu schließen.*“298
 
+**21.11.1917 Waffenstillstandsangebot Rußlands**
 
+„*London, 21. November. (Reuter.) Ein russisches drahtloses Telegramm meldet, daß die Bolschewikiregierung den Oberbefehlshaber angewiesen habe, sich den feindlichen Befehlshabern mit dem
+Angebot eines Waffenstillstandes zwecks Eröffnung von Friedensverhandlungen zu näher.*“299
 
+**26.11.1917 Demokratisierung des preußischen Wahlrechts**
+
+„*Berlin, 26. November. Dem preußischen Abgeordnetenhauses sind heute drei wichtige Verfassungsvorlagen zugegangen. Die erste ist ein Gesetzentwurf über die Wahlen zum Abgeordnetenhause, der für
+diese Wahlen künftig das gleiche, geheime und unmittelbare Wahlrecht vorsieht. Die zweite Vorlage betriffteine veränderte Zusammensetzung des Herrenhauses in modernem Sinne, die dritte eine neue Neuregelung der budgetrechtlichen Zuständigkeiten der beiden Kammern des Landtags.*“300
+
+**29.11.1917 Deutschland zu russischem Frieden bereit**
+
+„*Berlin, 29. November. Der Reichskanzler Graf Hertling hielt heute im Reichstage seine Antrittsrede, inderen Verlauf er folgende Mitteilung machte: Die russische Regierung hat gestern von Zarskoje-Selo
+[Zarendorf] aus ein von dem Volkskommissar für auswärtige Angelegenheiten, Herrn Trozki, und demVorsitzenden des Rats der Volks[kom]missare, Herrn Lenin, unterzeichnetes Funktelegramm an die
+Regierungen und die Völker der kriegführenden Länder gerichtet, worin sie vorschlägt, zu einem nahenTermin in Verhandlungen über einen Waffenstillstand und einen allgemeinen Frieden einzutreten. Ichstehe nicht an zu erklären, daß in den bisher bekannten Vorschlägen der russischen Regierung diskutable
+Grundlagen für die Annahme von Verhandlungen erblickt werden können, und daß ich bereit bin,in solche einzutreten, sobald die russische Regierung hierzu bevollmächtigte Vertreter entsendet.*
+
+*Ich hoffe und wünsche, daß diese Bestrebungen bald feste Gestalt annehmen und uns den Friedenbringen werden.“301 [– was mit Brest-Litowsk u.a. unter Beweis gestellt worden ist!]*
+
+**29.11.1917 Veröffentlichung Geheimarchive**
+
+„*Die Veröffentlichungen der russischen Regierung den Geheimarchiven der Ententemächte stellen esaußer Zweifel, daß Deutschland an diesem Kriege nicht nur völlig schuldlos ist, daß es sich aufs
+äußerste bem[ü]ht hat, den Frieden aufrechtzuerhalten, daß unser Kaiser sogar persönliche Schritteunternommen hat, um ihn [Nicky] von einer Mobilmachung abzuhalten, und daß er lediglich die
+Niedertracht der bestochenen russischen Generäle [Sasonow] gewesen ist, die zu einer Mobilmachungund damit zum Kriege geführt hat.*“302
+
+**01.12.1917 Kriegskredit bewilligt**
+
+„*Berlin, 1. Dezember. Der Reichstag hat heute den dritten Nachtrag zum Reichshaushaltsetat betreffend
+den 15-Milliarden-Kredit gegen die Stimmen der unabhängigen Sozialisten endgültig angenommen.*“303
+
+298 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2501 Bauernvorschlag zum Frieden
+
+299 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2501 Bauernvorschlag zum Frieden
+
+300 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2521 preuß. Wahlrecht
+
+301 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2523; führte zum „*Gewaltfrieden*“ mitten im Kriege in
+Brest-Litowsk – wie es der Verfasser merkwürdigerweise in der DDR zehn Jahre so geschult bekam –, was tatsächlich aber ein allgemeiner Frieden ist!!!
+
+302 Sten.Ber. XIII.Leg. II. Sess. Bd. 311 „*127. Sitzung. Donnerstag den 20. November 1917*“ S. 3957 (C)
+303 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2526
+
+---
 
 ![Screenshot_20251212_200623~2.jpg](https://github.com/user-attachments/assets/ac106ddd-7561-4c83-ba37-a4662d3a26fb) 131
 
