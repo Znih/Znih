@@ -2862,3 +2862,17 @@ richtigte-Fassung.odt
 ![Screenshot_20251212_221604~2.jpg](https://github.com/user-attachments/assets/acc8be33-3623-4bb5-a27a-3064b64b5bfe)
 
 ![Screenshot_20251212_221609~2.jpg](https://github.com/user-attachments/assets/f53cff7a-a885-4468-84e4-01cfa557d49a)
+
+
+---
+
+>Stimmt. Vom 6., 7. und 9. November 2024, die jeweils die letzte Seite verfeinerten. >Der obigen fehlt es daher an der richtigen Seite 287 im Stand v. 07.09.2024, resp. v. 09.09.2024, was insoweit nachzuholen wäre.
+
+![Screenshot_20251213_141059~2.jpg](https://github.com/user-attachments/assets/a243bfa1-ffba-4fba-96bb-86572c5e6253)
+
+![Screenshot_20251213_141051~2.jpg](https://github.com/user-attachments/assets/5829e6ba-34a8-499e-9eae-c4c640a6748e)
+
+![Screenshot_20251213_141037~2.jpg](https://github.com/user-attachments/assets/dd90340a-a483-4efc-9485-feb24450badc)
+
+
+Anlagen...
