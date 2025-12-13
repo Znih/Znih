@@ -2737,6 +2737,55 @@ Berlin und Dresden markierten den Unterschied zwischen Farbrevolution und Friede
 
 ![Screenshot_20251212_200652~2.jpg](https://github.com/user-attachments/assets/c904d3bf-2966-44c1-8894-b92319d3e98f) 137
 
+*aufnahme der Post- und Handelsverkehrs, der Versand von Büchern und Zeitungen und dergleicheninnerhalb der durch den Waffenstillstand gezogenen Grenzen.*“322
+
+„*Jede vertragsschließende Partei erhält eine Ausfertigung dieser Vereinbarung in deutscher und russischerSprache, die von den bevollmächtigten Vertretern unterzeichnet ist.*“323
+
+**22.12.1917 Eröffnung Friedensverhandlungen Brest-Litowsk**
+
+„*Brest-Litowsk, 22. Dezember. Heute um 4 Uhr nachtmittags sind in Brest-Litowsk die Friedensverhandlungen in feierlicher Sitzung eröffnet worden.*
+
+*Seine Königliche Hoheit Prinz Leopold von Bayern begrüßte die Vertreter der Mächte desVierbundes und Rußlands mit dem Wunsche, daß auch die nun begonnenen Verhandlungen möglichstbald zu einem die Völker beglückenden Frieden führen möchten.*
+
+*Staatssekretär v. Kühlmann übernahm auf Vorschlag des Alterspräsidenten Hakki Pascha den Vorsitzund hielt eine Ansprache, in der er u. a. Sagte: ‚Nach der Lage der Verhältnisse kann nicht die Rededavon sein, ein bis in die kleinsten Einzelheiten ausgearbeitetes Friedensinstrument bei den jetzt
+begonnenen Beratungen herzustellen. Was mir vorschwebt, ist die Festsetzung der wichtigsten Grundsätze und Bedingungen.‘ Auf Einladung des Vorsitzenden entwickelte hierauf der erste russische
+Vertreter in längerer Rede die Grundlagen des russischen Friedensprogramms.*“324
+
+**Zeitzeuge Max zu den Verhandlungen in Brest-Litowsk**
+
+„*Im Rücken der russischen Unterhändler breitete sich ein blutiges und schmutziges Chaos aus.*
+
+*[gewollte Destabilisierung von außen]. Unsere Macht war nie größer gewesen. […] Trotzki, der nichtselbst erschienen war, wollte keine geheimen Verhandlungen. Welche H e r a u s f o r d e r u n g !*
+
+*Dieser Mann hatte Menschenqualen ohne Ende aufgehäuft: Er war mit den Flüchen von Millionenbeladen. […] Die Verhandlungen begannen mit ausgesuchter Höflichkeit. Die Mahlzeiten wurden
+gemeinsam eingenommen. Mein [Max] Vetter Fürst Ernst Hohenlohe kam bei Tisch neben MadameByzenko zu sitzen, die sich durch einen Ministermord qualifiziert hatte.*“325
+
+„*Die Russen proklamierten ihre Grundsätze, im wesentlichen Kerenskis Programm,326 das seinerzeitdie Demokratien aller Länder aufgeregt hatte:
+Keine Annexionen und keine Kriegsentschädigungen. Das Selbstbestimmungsrecht wurden allen
+Nationen zugesprochen, und zwar nicht nur den Völkerschaften, die in diesem Kriege ihreSelbstständigkeit verloren hatten, sondern auch den verschiedenen Nationalitäten, die vor dem Kriege
+innerhalb der großen Staatenverbände keine Selbstständigkeit besaßen. [z.B. Polen, Tschecho-Slowaken,Ungarn, Großserbien-Jugoslawien] Die Russen gingen so weit, die Anwendung dieses Grundsatzes auchfür die Kolonien zu verlangen.*“ – das wäre ein Friede im Sinne Ulpian und Celsus gewesen.
+
+„*In unserer Antwort erklärten wir unsere grundsätzliche327 Zustimmung zu dem Programm: keineAnnexionen und keine Entschädigungen. Wir bekunden unsere Absicht, die politische Selbstständigkeit
+der Völker wiederherzustellen, die sie im Kriege eingebüßt hatten [z.B. Belgien].*
+
+322 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2546 Zusatz z. Waffenstillstandsvertrag Rußland
+
+323 http://www.forost.ungarisches-institut.de/pdf/19171216-1.pdf
+
+324 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2549
+
+325 „*Erinnerungen und Dokumente*“ v. 1927 als Rechenschaftsbericht des letzten königlichen Reichskanzler Prinz Max von Baden S. 186;S. 186 Fn. 2, Vgl. General Max Hoffmann, Der Krieg der versäumten Gelegenheiten, München 1923, S. 190.
+
+326 Provisorische Regierung (Russland): https://de.wikipedia.org/wiki/Provisorische_Regierung_(Russland)
+
+327 Trotzdem wurde vereinbart: „*Die verbündeten Mächte hätten mehrfach die Möglichkeit eines wechselseitigen Verzichtes auf Erlaß sowohl von
+Kriegskosten als auch von Kriegsschäden betont. Hiernach würden von jeder kriegführenden Macht nur die Aufwendungen für ihre in Kriegsgefangenschaft
+geratenen Angehörigen sowie die im eigenen Gebiet durch völkerrechtswidrige Gewaltakte den Zivilangehörigen des Gegners zugefügten Schäden zu ersetzen
+sein.*“ (Helfferich, a. a. D., S. 265 f.) – diese Art Status Quo Friede konnten sich die „*Vereinigten Staaten*“ und die eigentlich Kriegführende Entente schlicht
+nicht leisten! Die FED wurde auch zum Zwecke der Kriegsverlängerungsfinanzierung 1913 erreichtet.
+
+---
+
 ![Screenshot_20251212_200656~2.jpg](https://github.com/user-attachments/assets/aa12ba2d-826e-40f1-adec-3677004d1cd9) 138
 
 ![Screenshot_20251212_200701~2.jpg](https://github.com/user-attachments/assets/9888211f-b758-428e-8ac6-766a74eef3b0) 139
