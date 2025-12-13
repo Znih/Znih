@@ -2402,7 +2402,11 @@ in Rußland von neuem aufgestachelt hatten, kam es zu der jetzigen Offensive. Ih
 
 
 >*'An den Reichskanzler des Deutschen Reiches, Reichstag. Durch die russische Offensive inGalizien herausgefordert, hat dort heute ein durch starken Regen bisher hinausgeschobenerdeutscher Angriff östlich Zloczow eingesetzt. Unter persönlicher Leitung des Feldmarschalls
-Prinz Leopold von Bayern (Bravo! im Zentrum) haben deutsche Divisionen, unterstützt durch österreichisch-ungarische Artillerie, in altbewährtem Schneid und fester Zuversicht dierussischen Stellungen durchstoßen.‘*
+Prinz Leopold von Bayern*
+
+(Bravo! im Zentrum)
+
+*haben deutsche Divisionen, unterstützt durch österreichisch-ungarische Artillerie, in altbewährtem Schneid und fester Zuversicht dierussischen Stellungen durchstoßen.‘*
 
 (Lebhafter Beifall. Zurufe bei den U. S. erregte Gegenrufe bei den übrigen Parteien.)
 
@@ -2410,9 +2414,19 @@ Prinz Leopold von Bayern (Bravo! im Zentrum) haben deutsche Divisionen, unterst�
 
 (Lebhafter Beifall.)
 
-*Wenn wir Frieden machen, dann müssen wir in erster Linie erreichen, daß die Grenzen desDeutschen Reiches für alle Zeit sichergestellt sind. (Lebhaftes Bravo! Rechts.) Wir müssen im Wege der
-Verständigung (Bravo! im Zentrum, links und bei den Soz.) und des Ausgleichs (erneutes Bravo im Zentrum, links und bei den Soz.) die Lebensbedingungen des Deutschen Reiches auf dem Kontinent und
-über See garantieren.*
+*Wenn wir Frieden machen, dann müssen wir in erster Linie erreichen, daß die Grenzen desDeutschen Reiches für alle Zeit sichergestellt sind.*
+
+(Lebhaftes Bravo! Rechts.)
+
+*Wir müssen im Wege derVerständigung*
+
+(Bravo! im Zentrum, links und bei den Soz.)
+
+*und des Ausgleichs*
+
+(erneutes Bravo im Zentrum, links und bei den Soz.)
+
+*die Lebensbedingungen des Deutschen Reiches auf dem Kontinent undüber See garantieren.*
 
 (Lebhaftes Bravo!)
 
@@ -2460,8 +2474,7 @@ friedensbereit hören, was sie uns zu sagen haben. (Bravo! Links.) Bis dahin mü
 
 **22.07.1917 Kriegserklärung Siams**
 
-„*Bankok, 22. Juli. (Reuter-Meldung.) Siam hat erklärt, daß der Kriegszustand mit Deutschland undOeserreich-Ungarn besteht. Alle Deutschen und Oesterreicher sind verhaftet und die Handelshäuser
-geschlossen worden. Neun Dampfer mit einem Tonnengehalt von 18965 Brutto-Registertonnen [BRT]
+„*Bankok, 22. Juli. (Reuter-Meldung.) Siam hat erklärt, daß der Kriegszustand mit Deutschland undOeserreich-Ungarn besteht. Alle Deutschen und Oesterreicher sind verhaftet und die Handelshäusergeschlossen worden. Neun Dampfer mit einem Tonnengehalt von 18965 Brutto-Registertonnen [BRT]
 sind beschlagnahmt worden.*“279
 
 276 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2338-2339 Michaelis zur Friedensresolution
@@ -2475,6 +2488,48 @@ sind beschlagnahmt worden.*“279
 ---
 
 ![Screenshot_20251212_200548~2.jpg](https://github.com/user-attachments/assets/e03e30a2-6e65-4b1b-b6e0-e002333bc05b) 125
+
+
+**30.07.1917 Kaiser in Riga**
+
+„*Berlin, 30. Juli. Der Kaiser fuhr heute von Mitau aus im Motorboot auf dem Aafluß zur Front undbegrüßte die Truppen vor Riga. Das Wetter war sehr heiß.*“280
+
+**31.07.1917 Angeblicher Potsdamer Kronrat am 5. Juli 1914**
+
+„*Berlin, 31. Juli. Die ‚Times‘ und ihr folgend die feindlichen Korrespondenzbureaus verbreiten
+Mitteilungen über einen Kronrat, der in Potsdam am 5. Juli 1914 bei dem Kaiser unter Teilnahme derführenden politischen und militärischen Persönlichkeiten Deutschlands und Oesterreich-Ungarns stattgefunden hätte und wo der Plan zur Entfesselung des Weltkrieges entworfen worden wäre [Pikes 1. Welle WWI“]. Wir sind zu der Feststellung ermächtigt, daß die Mitteilungen der ‚Times‘ mit allen
+Einzelheiten frei erfunden sind. Es hat weder an dem genannten noch an einem anderen Tage des Juli eine solche gemeinsame Beratung weder mit noch ohne Teilnahme des Kaisers stattgefunden. Wir
+stellen weiter gegenüber den Behauptungen der ‚Times‘ erneut fest, daß die deutsche Regierung sichjeder Einwirkung auf die Fassung des österreichischen Ultimatums an Serbien enthalten hat, und daß
+der Inhalt des Ultimatums vor seinem Abgange der deutschen Regierung völlig unbekannt geblieben ist.*
+
+*Die ‚Times‘ wollen ihre falschen Behauptungen auch auf Angaben stützen, die der Abg. Cohn imHauptausschuß des Reichstages gemacht hätte. Die Angaben des genannten Abgeordneten sind imAnschluß von seiten der Regierung sofort als unrichtig zurückgewiesen worden.*“281
+
+**31.07.1917 Kundgebung des Kaisers zum 4. Kriegsjahr**
+
+„*Berlin, 31. Juli.*
+
+*An das deutsche Volk.*
+
+*Drei Jahre harten Kampfes liegen hinter uns. Mit Leid gedenken wir unseren Toten, mit Stolzunserer Kämpfer, mit Freude aller Schaffenden, schweren Herzens derer, die in Gefangenschaftschmachten. Ueber allen Gedanken aber steht der feste Wille, daß dieser Kampf gerechter Verteidigung
+zu gutem Ende geführt wird. Unsere Feinde stecken die Hand nach deutschem [Bundes]Lande aus. Siewerden es niemals erlangen [aber ertricksen]. Sie treiben immer neue Völker in den Krieg gegen uns.*
+
+*Das schreckt uns nicht. Wir kennen unsere Kraft und sind entschlossen, sie zu gebrauchen. Sie wollen unsschwach und machtlos zu ihren Füßen sehen, aber sie zwingen uns nicht. Unseren Friedensworten sindsie mit Hohn begegnet [oder haben sie ignoriert]. So haben sie wieder erfahren, wie Deutschland zuschlagen und zu siegen weiß. Sie verleumden überall in der Welt den deutschen Namen [„Made inGermany“]. Aber sie können den Ruhm der deutschen Taten nicht vertilgen.*
+
+*So stehen wir unerschütterlich, sieghaft und furchtlos am Ausgang dieses Jahres. Schwere Prüfungenkönnen uns noch beschieden sein. Mit Ernst und Zuversicht gehen wir ihnen entgegen. In drei Jahren
+gewaltigen Vollbringens [was hätte diese Kraft ohne Krieg hervorbringen können? vgl. Duala], ist das deutsche Volkfest geworden gegen alles, was Feindesmacht ersinnen kann. Wollen die Feinde das Leiden des Kriegesverlängern, so werden sie auf ihren schwerer liegen als auf uns.*
+
+*Was draußen die Front vollbringt, die Heimat dankt dafür durch unermüdliche Arbeit. Noch gilt es,weiter zu kämpfen und Waffen zu schmieden. Aber unser Volk sei gewiß: Nicht für den Schatten hohlen
+Ehrgeizes wird deutsches Blut und deutscher Fleiß eingesetzt, nicht für Pläne der Eroberung undKnechtung, sondern für ein starkes und freies Reich, in dem unsere Kinder sicher wohnen sollen
+[Friede 1871, wie „bestmögliches Gedeihen“ 1871-1914]. Diesem Kampfe sei all unser Handeln undSinnen geweiht! Das sei das Gelöbnis dieses Tages!
+Im Felde, den 1. August 1917.
+gez. Wilhelm I. R.*“282
+
+280 „Amtliche Kriegs-Depeschen“ – „Nach Berichten des“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2363
+
+281 „Amtliche Kriegs-Depeschen“ – „Nach Berichten des“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2366 Angeblicher Kronrat v. 05.07.1914
+
+282 „Amtliche Kriegs-Depeschen“ – „Nach Berichten des“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2366-2367 Kaiser
+---
 
 ![Screenshot_20251212_200555~2.jpg](https://github.com/user-attachments/assets/dcdef98c-e1af-4141-8bf2-07e70997046d) 126
 
