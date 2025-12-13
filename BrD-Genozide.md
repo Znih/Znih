@@ -908,111 +908,7 @@ Exzellent. Deutscher ist, der die deutsche Staatsangehörigkeit besitzt, ist wie
 
 Tatsächliche deutsche StA-Historie im Überblick (EoL4BRD 2.0)
 
-GBl. Königreich Bayern 1818; GBl. Königreich Preußen 1841; Art. 3 Verf. NdB, NdBGBl. 1867 Nr. 1 (Nr. 1);
-
-NdBGBl. 1867 Nr. 5, (Nr. 8); NdBGBl. 1867 (Nr. 16) S. 55; NdBGBl. 1867 Nr. 8 (Nr. 18), Person vs. Sache;
-
-NdBGBl. 1869 Nr. 17 (Nr. 297), Wahlgesetz ab 1871 RGBl. (ab 1888 selbst Eingeborene a. d. Kolonien
-
-Reichstagswähler); § 1 NdBGBl. 1870 Nr. 20 (Nr. 510), BuStAG i. K. 01.01.1871; Art. 3 Verf. NdB, NdBGBI.
-
-1870 Nr. 51 (Nr. 597); Verf. DB, RGBl. 1871 Nr. 16 (Nr. 628); RuStAG mit UND-Funktion und Zweifachstatus
-
-f.d.S., Reichsgesetz RGBl. 1871 S. 87; 1884 Erw. Kolonien, RV i. d. Kolonien nicht gültig; Reichstag 1886 AktBdl.
-
-Nr. 72 S. 389-393; VO v. 13.09.1886 (Nr. 1686); RGBl. 1887 (Nr. 1736); RGBl. 1888 Nr. 11, (Nr. 1776),
-
-„Errichtung" uR fürs Reich,,, 13 Staaten Vereinigte von Amerika" (Bismark) vs.,, Vereinigte Staaten von Amerika"
-
-(Weimar); RGBl. 1899 Nr. 29, (Nr. 2596); RGBl. 1891 Nr. 1, VO (Nr. 1229); RGBl. 1900 Nr. 40 (Nr. 2711), ab
-
-RGBl. 1900 S. 813 Schutzgebietsgesetz (§ 9 II RGBl. 1900 S. 815, uR verfassungswidrig verlinkt mit Art. 1, 3 d.
-
-RVerf. v. 1871, vgl. 1888); RGBl. 1900 Nr. 52, VO (Nr. 2729); § 1 AVO v. 24.10.1903, AA Deutsch-Ostafrika Jg. VI
-
-No. 3 S. 1 (unmittelbare Landeszugehörigkeit i. d. Kolonien), vgl. alle Bd. z. Koloniegesetzgebung, da das Reich
-
-selbst „blind" ist; Reichstag 1912 Bd. 283 น. 284; RGBl. 1913 (Nr. 4266), zum 01.08.1914 i. Kraft; RGBl. 1913 Nr.
-
-46, (Nr. 4263), RuStAG, RoStAG, (D=StA-ODER-UR) = (D=§§ 3-32-ODER-§§ 33-35) mit Eigenschaft-
-
-Missmatch,Deutscher ist", i. K. am 01.01.1914, kastriert m. Inkrafttreten u. stetig „wachsend" bis 1999; RGBl.
-
-1914 VO (Nr. 4418), Passpflicht; RGBl. 1914 Nr. 52, VO (Nr. 4432); Reichstag 1914 Bd. 306 S. 1 u. 2, Thronrede u.
-
-Eröffnungsrede v. 04.08.1914; RGBl. 1916 AVS (Nr. 5291) S. 601, Bekanntmachung, Personal statt Person und
-
-Personalausweis als Passersatz; Art. 278 VV, Art. 110 WRV, RGBI. I 1924 S. 659, RGBl. 1933 II S. 480; RGBI.
-
-1933 I S. 538; RGBl. 1933 I S. 625, Durchführung Reichskonkrodat; RGBl. 1933 II Nr. 38 S. 679, Konkordat
-
-zwischen dem Heiligen Stuhl und dem Deutschen Reich; RGBl. 1934 I S. 75, Neuaufbau d. Reichs =
-
-Gleichschaltung; RGBl. 1934 I Nr. 14 S. 85 (heute in Art. 16 I GG), Kolonieschaltung; RGBl. 1935 I Nr. 50 S.
-
-593, Kolonieverriegelung; RGBl. 1935 I Nr. 77 S. 1015; RGBl. 1935 I Nr. 77 S. 1146, Reichsbürgergesetz (vgl.
-
-„Gelber Schein", heute in Art. 116 I GG nachgebildet, Antrag/Register §§ 30, 33 I StAG, Dienst- und
-
-Treuehändler; Vernichtung des wahren Staatsbürgers); 1. VO RGBl. 1935 I Nr. 125 S. 1333; 2. VO RGBI. 1935 I
-
-Nr. 145 S. 1524; RGBI. 1938 I Nr. 21 S. 237, Wiedervereinigung Österreich-Deutsches Reich; RGBl. 1938 I S.
-
-262, VO; RGBl. 1938 I Nr. 104 S. 790, VO; RGBl. 1938 I Nr. 197 S. 1641, Wiedervereinigung sudetendeutsche
-
-Gebiete; RGBl. 1938 II Nr. 52 S. 895, Deutsch-Tschecheslowakischer Vertrag; RGBl. 1939 I Nr. 47 S. 485,
-
-Protektorat Böhmen und Mähren, Erlass; RGBl. 1939 I Nr. 77 S. 815; RGBl. 1939 I S. 1072, VO; RGBl. 1939 I Nr.
-
-125 S. 1235, Ostmark; RGBl. 1939 I Nr. 204 S. 2042, Ostgebiete, Erlass; RGBl. 1939 II Nr. 43 S. 999, Deutsch-
-
-Italienischer Vertrag, Memelländer, s. a. Internationales Abkommen über Leichenbeförderung; RGBI. 1941 I S. 40;
-
-RGBl. 1941 I Nr. 25 S. 118, Deutsche Volksliste; RGBl. 1941 I Nr. 60 S. 297, EVO Nürnberger Rassegesetze,
-
-Ostgebiete; RGBl. 1941 I S. 308; RGBl. 1941 I Nr. 120 S. 648; RGBl. 1942 I S. 40; RGBl. 1942 I Nr. 9 S. 51, Nr. 1
-
-Reichsführer SanctaSedes Himmler (beachte,... Juden ... und Zigeuner können nicht Schutzangehörige sein.",
-
-Ostgebiete, VO; RGBl. 1943 I Nr. 54 S. 321, Deutsche Liste - Ukraine; SGBl. 1945 1. Stück S. 1; SGBI. 1945 2.
-
-Stück S. 7; SGBl. 1945 50. Stück S. 311; SGBl. 1945 60. Stück S. 423; (BGBl. 1952 I Nr. 1, S. 1); BGBl. 1952 I S.
-
-290; BGBI. 1953 II Nr. 19 S. 559; § 1 BGBI. 1955 I Nr. 6, S. 65, NS-StA-Überleitungsgesetz v. 22.02.1955
-
-(,, identisch", vgl. 2 BvF 1/73); BGBl. 1956 Nr. 23 I S. 431; BGBl. 1957 Nr. 48 I S. 1251; BGBl. 1958 Nr. 22 I S.
-
-437, Sammlung des Bundesrechts (BGBI. III u. DDR-Sonderdruck, Neuveröffentlichung u. Bereinigung), BGBl.
-
-1959 Nr. 56 I S. 829, Gründung BVA Köln, Vorbild aus den Reichstagsdebatten zum RuStAG 1912; BGBl. 1963 I S.
-
-982; Art. 1 VI BGBl. 1968 Nr. 33 I S. 506, EGOWIG - Drehergesetz zur Unterwanderung der EntnaZifizierung in
-
-Justiz, Politik u. Verwaltung (NSDAP Mitgliederliste b.z.Std. lediglich als Auszugskopie und nach zähem Ringen
-
-im BArch, Orig. Mikrofilm in DC); BGBl. 1969 I Nr. 93 S. 1581; BGBl. 1969 II Nr. 46 S. 1293; § 1 BGBl. 1970 I
-
-Nr. 58, S. 805; Federal Law Gazette 1974 I Nr. 143, S. 3714; Federal Law Gazette 1975 I Nr. 28, S. 685; Federal Law Gazette 1976 I Nr. 78, S. 1749; Federal Law Gazette 1976
-
-II Nr. 22 S. 473; BGBl. 1977 II Nr. 28 S. 597; BGBl. 1977 I Nr. 40 S. 1101; (Art. 6 § 5) BGBl. 1986 I Nr. 37 S. 1153,
-
-Neuregelung Internationales Privatrecht; BGBl. 1993 I Nr. 33 S. 1062; Art. 2 BGBl. 1997 I Nr. 40 S. 1433; Art. 5
-
-§ 1 BGBl. 1997 I Nr. 81 S. 2849; Art. 2 BGBl. 1997 I Nr. 84 S. 2950; BGBl. 1999 I Nr. 38 S. 1618; § 1 BGBl. 2001 I
-
-Nr. 9 S. 271; Art. 18 u. 20 BGBl. 2001 I Nr. 64 S. 3308 น. 3309; Art. 5 BGBl. 2002 I Nr. 34 S. 1987; Art. 5 BGBl.
-
-2002 I Nr. 60 S. 3329; Art. 5 BGBl. 2004 I Nr. 41 S. 1996; BGBl. 2004 II Nr. 15 S. 578; Art. 6 IX BGBl. 2005 I Nr.
-
-16 S. 727, neue Glaubhaftmachung Merkel o. Schröder?; BGBl. 2006 II Nr. 32 S. 1351; Art. 2 I BGBl. 2007 I Nr.
-
-5 S. 138; Art. 5 BGBl. 2007 I Nr. 42 S. 2003; Art. 3 BGBl. 2008 I Nr. 61 S. 2692; BGBl. 2009 I Nr. 7 S. 158; BGBI.
-
-2010 I Nr. 63 S. 1864; Art. 2 BGBl. 2011 I Nr. 59 S. 2266; Art. 2 BGBl. 2012 I Nr. 24 S. 1228; Art. 1 BGBl. 2013 I
-
-Nr. 53 S. 3458; BGBl. 2014 I Nr. 52 S. 1714; Art. 5 BGBl. 2015 I Nr. 32 S. 1398; Art. 3 BGBl. 2015 I Nr. 42 S.
-
-1806; Art. 3 BGB 2016 I Nr. 48 S. 2220; BGB 2019 I Nr. 29 S. 1124 ... 2024!!!
+GBl. Königreich Bayern 1818; GBl. Königreich Preußen 1841; Art. 3 Verf. NdB, NdBGBl. 1867 Nr. 1 (Nr. 1); NdBGBl. 1867 Nr. 5, (Nr. 8); NdBGBl. 1867 (Nr. 16) S. 55; NdBGBl. 1867 Nr. 8 (Nr. 18), Person vs. Sache; NdBGBl. 1869 Nr. 17 (Nr. 297), Wahlgesetz ab 1871 RGBl. (ab 1888 selbst Eingeborene a. d. Kolonien, Reichstagswähler); § 1 NdBGBl. 1870 Nr. 20 (Nr. 510), BuStAG i. K. 01.01.1871; Art. 3 Verf. NdB, NdBGBI. 1870 Nr. 51 (Nr. 597); Verf. DB, RGBl. 1871 Nr. 16 (Nr. 628); RuStAG mit UND-Funktion und Zweifachstatus f.d.S., Reichsgesetz RGBl. 1871 S. 87; 1884 Erw. Kolonien, RV i. d. Kolonien nicht gültig; Reichstag 1886 AktBdl. Nr. 72 S. 389-393; VO v. 13.09.1886 (Nr. 1686); RGBl. 1887 (Nr. 1736); RGBl. 1888 Nr. 11, (Nr. 1776), „Errichtung" uR fürs Reich,,, 13 Staaten Vereinigte von Amerika" (Bismark) vs. "Vereinigte Staaten von Amerika" (Weimar); RGBl. 1899 Nr. 29, (Nr. 2596); RGBl. 1891 Nr. 1, VO (Nr. 1229); RGBl. 1900 Nr. 40 (Nr. 2711), ab RGBl. 1900 S. 813 Schutzgebietsgesetz (§ 9 II RGBl. 1900 S. 815, uR verfassungswidrig verlinkt mit Art. 1, 3 d. RVerf. v. 1871, vgl. 1888); RGBl. 1900 Nr. 52, VO (Nr. 2729); § 1 AVO v. 24.10.1903, AA Deutsch-Ostafrika Jg. VI No. 3 S. 1 (unmittelbare Landeszugehörigkeit i. d. Kolonien), vgl. alle Bd. z. Koloniegesetzgebung, da das Reich selbst „blind" ist; Reichstag 1912 Bd. 283 น. 284; RGBl. 1913 (Nr. 4266), zum 01.08.1914 i. Kraft; RGBl. 1913 Nr. 46, (Nr. 4263), RuStAG, RoStAG, (D=StA-ODER-UR) = (D=§§ 3-32-ODER-§§ 33-35) mit Eigenschaft-Missmatch, Deutscher ist", i. K. am 01.01.1914, kastriert m. Inkrafttreten u. stetig „wachsend" bis 1999; RGBl. 1914 VO (Nr. 4418), Passpflicht; RGBl. 1914 Nr. 52, VO (Nr. 4432); Reichstag 1914 Bd. 306 S. 1 u. 2, Thronrede u. Eröffnungsrede v. 04.08.1914; RGBl. 1916 AVS (Nr. 5291) S. 601, Bekanntmachung, Personal statt Person und Personalausweis als Passersatz; Art. 278 VV, Art. 110 WRV, RGBI. I 1924 S. 659, RGBl. 1933 II S. 480; RGBI. 1933 I S. 538; RGBl. 1933 I S. 625, Durchführung Reichskonkrodat; RGBl. 1933 II Nr. 38 S. 679, Konkordat zwischen dem Heiligen Stuhl und dem Deutschen Reich; RGBl. 1934 I S. 75, Neuaufbau d. Reichs = Gleichschaltung; RGBl. 1934 I Nr. 14 S. 85 (heute in Art. 16 I GG), Kolonieschaltung; RGBl. 1935 I Nr. 50 S. 593, Kolonieverriegelung; RGBl. 1935 I Nr. 77 S. 1015; RGBl. 1935 I Nr. 77 S. 1146, Reichsbürgergesetz (vgl. „Gelber Schein", heute in Art. 116 I GG nachgebildet, Antrag/Register §§ 30, 33 I StAG, Dienst- und Treuehändler; Vernichtung des wahren Staatsbürgers); 1. VO RGBl. 1935 I Nr. 125 S. 1333; 2. VO RGBI. 1935 I Nr. 145 S. 1524; RGBI. 1938 I Nr. 21 S. 237, Wiedervereinigung Österreich-Deutsches Reich; RGBl. 1938 I S. 262, VO; RGBl. 1938 I Nr. 104 S. 790, VO; RGBl. 1938 I Nr. 197 S. 1641, Wiedervereinigung sudetendeutsche Gebiete; RGBl. 1938 II Nr. 52 S. 895, Deutsch-Tschecheslowakischer Vertrag; RGBl. 1939 I Nr. 47 S. 485, Protektorat Böhmen und Mähren, Erlass; RGBl. 1939 I Nr. 77 S. 815; RGBl. 1939 I S. 1072, VO; RGBl. 1939 I Nr. 125 S. 1235, Ostmark; RGBl. 1939 I Nr. 204 S. 2042, Ostgebiete, Erlass; RGBl. 1939 II Nr. 43 S. 999, Deutsch-Italienischer Vertrag, Memelländer, s. a. Internationales Abkommen über Leichenbeförderung; RGBI. 1941 I S. 40; RGBl. 1941 I Nr. 25 S. 118, Deutsche Volksliste; RGBl. 1941 I Nr. 60 S. 297, EVO Nürnberger Rassegesetze, **Ostgebiete**; RGBl. 1941 I S. 308; RGBl. 1941 I Nr. 120 S. 648; RGBl. 1942 I S. 40; RGBl. 1942 I Nr. 9 S. 51, Nr. 1 Reichsführer SanctaSedes Himmler (beachte, "... Juden ... und Zigeuner können nicht Schutzangehörige sein.", **Ostgebiete**, VO; RGBl. 1943 I Nr. 54 S. 321, Deutsche Liste - Ukraine; SGBl. 1945 1. Stück S. 1; SGBI. 1945 2. Stück S. 7; SGBl. 1945 50. Stück S. 311; SGBl. 1945 60. Stück S. 423; (BGBl. 1952 I Nr. 1, S. 1); BGBl. 1952 I S. 290; BGBI. 1953 II Nr. 19 S. 559; § 1 BGBI. 1955 I Nr. 6, S. 65, **NS-StA-Überleitungsgesetz** v. 22.02.1955 ("identisch", vgl. 2 BvF 1/73); BGBl. 1956 Nr. 23 I S. 431; BGBl. 1957 Nr. 48 I S. 1251; BGBl. 1958 Nr. 22 I S. 437, **Sammlung des** Bundesrechts (BGBI. **III** u. DDR-Sonderdruck, Neuveröffentlichung u. Bereinigung), BGBl. 1959 Nr. 56 I S. 829, Gründung BVA Köln, Vorbild aus den Reichstagsdebatten zum RuStAG 1912; BGBl. 1963 I S. 982; Art. 1 VI BGBl. 1968 Nr. 33 I S. 506, EGOWIG - Drehergesetz zur Unterwanderung der EntnaZifizierung in Justiz, Politik u. Verwaltung (NSDAP Mitgliederliste b.z.Std. lediglich als Auszugskopie und nach zähem Ringen im BArch, Orig. Mikrofilm in DC); BGBl. 1969 I Nr. 93 S. 1581; BGBl. 1969 II Nr. 46 S. 1293; § 1 BGBl. 1970 I Nr. 58, S. 805; Federal Law Gazette 1974 I Nr. 143, S. 3714; Federal Law Gazette 1975 I Nr. 28, S. 685; Federal Law Gazette 1976 I Nr. 78, S. 1749; Federal Law Gazette 1976 II Nr. 22 S. 473; BGBl. 1977 II Nr. 28 S. 597; BGBl. 1977 I Nr. 40 S. 1101; (Art. 6 § 5) BGBl. 1986 I Nr. 37 S. 1153, Neuregelung Internationales Privatrecht; BGBl. 1993 I Nr. 33 S. 1062; Art. 2 BGBl. 1997 I Nr. 40 S. 1433; Art. 5 § 1 BGBl. 1997 I Nr. 81 S. 2849; Art. 2 BGBl. 1997 I Nr. 84 S. 2950; BGBl. 1999 I Nr. 38 S. 1618; § 1 BGBl. 2001 I Nr. 9 S. 271; Art. 18 u. 20 BGBl. 2001 I Nr. 64 S. 3308 น. 3309; Art. 5 BGBl. 2002 I Nr. 34 S. 1987; Art. 5 BGBl. 2002 I Nr. 60 S. 3329; Art. 5 BGBl. 2004 I Nr. 41 S. 1996; BGBl. 2004 II Nr. 15 S. 578; Art. 6 IX BGBl. 2005 I Nr. 16 S. 727, neue Glaubhaftmachung Merkel o. Schröder?; BGBl. 2006 II Nr. 32 S. 1351; Art. 2 I BGBl. 2007 I Nr. 5 S. 138; Art. 5 BGBl. 2007 I Nr. 42 S. 2003; Art. 3 BGBl. 2008 I Nr. 61 S. 2692; BGBl. 2009 I Nr. 7 S. 158; BGBI. 2010 I Nr. 63 S. 1864; Art. 2 BGBl. 2011 I Nr. 59 S. 2266; Art. 2 BGBl. 2012 I Nr. 24 S. 1228; Art. 1 BGBl. 2013 I Nr. 53 S. 3458; BGBl. 2014 I Nr. 52 S. 1714; Art. 5 BGBl. 2015 I Nr. 32 S. 1398; Art. 3 BGBl. 2015 I Nr. 42 S. 1806; Art. 3 BGB 2016 I Nr. 48 S. 2220; BGB 2019 I Nr. 29 S. 1124 ... 2024!!!
 
 Der inhärente circulus vitiosus sollte den höchsten Staatsanwälten resp. Richtern bewusst sein.
 
@@ -2207,230 +2103,288 @@ richtigte-Fassung.odt
 
 
 
-![Screenshot_20251212_170729~2.jpg](https://github.com/user-attachments/assets/cad3a3dc-d890-47e1-bf21-ea5d270f37db)
+![Screenshot_20251212_170729~2.jpg](https://github.com/user-attachments/assets/cad3a3dc-d890-47e1-bf21-ea5d270f37db) 2
 
-![Screenshot_20251212_170735~2.jpg](https://github.com/user-attachments/assets/d2014350-40c9-4420-990a-d9e19a670083)
+![Screenshot_20251212_170735~2.jpg](https://github.com/user-attachments/assets/d2014350-40c9-4420-990a-d9e19a670083) 3
 
-![Screenshot_20251212_170741~2.jpg](https://github.com/user-attachments/assets/1755307c-9759-4a4a-a03b-95e834246f51)
+![Screenshot_20251212_170741~2.jpg](https://github.com/user-attachments/assets/1755307c-9759-4a4a-a03b-95e834246f51) 4
 
-![Screenshot_20251212_170747~2.jpg](https://github.com/user-attachments/assets/09ae0ee2-a282-4c42-a7e8-297e951db0f1)
+![Screenshot_20251212_170747~2.jpg](https://github.com/user-attachments/assets/09ae0ee2-a282-4c42-a7e8-297e951db0f1) 5
 
-![Screenshot_20251212_170752~2.jpg](https://github.com/user-attachments/assets/277dcf13-2c8f-4254-9d15-660f40b6eb71)
+![Screenshot_20251212_170752~2.jpg](https://github.com/user-attachments/assets/277dcf13-2c8f-4254-9d15-660f40b6eb71) 6
 
-![Screenshot_20251212_170758~2.jpg](https://github.com/user-attachments/assets/ade97803-6841-4937-8297-f25b0200767f)
+![Screenshot_20251212_170758~2.jpg](https://github.com/user-attachments/assets/ade97803-6841-4937-8297-f25b0200767f) 7
 
-![Screenshot_20251212_170803~2.jpg](https://github.com/user-attachments/assets/26056d0d-405f-49d7-9b69-2711445fe96c)
+![Screenshot_20251212_170803~2.jpg](https://github.com/user-attachments/assets/26056d0d-405f-49d7-9b69-2711445fe96c) 8
 
-![Screenshot_20251212_170811~2.jpg](https://github.com/user-attachments/assets/6f54bea7-a28d-439b-a326-09bf468dacab)
+![Screenshot_20251212_170811~2.jpg](https://github.com/user-attachments/assets/6f54bea7-a28d-439b-a326-09bf468dacab) 9
 
-![Screenshot_20251212_170820~2.jpg](https://github.com/user-attachments/assets/cc87b59c-22c4-447c-b6a4-392e74f4faf5)
+![Screenshot_20251212_170820~2.jpg](https://github.com/user-attachments/assets/cc87b59c-22c4-447c-b6a4-392e74f4faf5) 10
 
-![Screenshot_20251212_170828~2.jpg](https://github.com/user-attachments/assets/a0af0b48-20f3-4685-8123-1022cba32d66)
+![Screenshot_20251212_170828~2.jpg](https://github.com/user-attachments/assets/a0af0b48-20f3-4685-8123-1022cba32d66) 11
 
-![Screenshot_20251212_170835~2.jpg](https://github.com/user-attachments/assets/ed5b98df-dd20-42e9-a10e-0f5b82e9d4f3)
+![Screenshot_20251212_170835~2.jpg](https://github.com/user-attachments/assets/ed5b98df-dd20-42e9-a10e-0f5b82e9d4f3) 12
 
-![Screenshot_20251212_170842~2.jpg](https://github.com/user-attachments/assets/c7042537-20cb-4ba9-abab-b8cbf3e574d1)
+![Screenshot_20251212_170842~2.jpg](https://github.com/user-attachments/assets/c7042537-20cb-4ba9-abab-b8cbf3e574d1) 13
 
-![Screenshot_20251212_170848~2.jpg](https://github.com/user-attachments/assets/fdae8aec-4008-43ac-b433-81906cebc7aa)
+![Screenshot_20251212_170848~2.jpg](https://github.com/user-attachments/assets/fdae8aec-4008-43ac-b433-81906cebc7aa) 14
 
-![Screenshot_20251212_170854~2.jpg](https://github.com/user-attachments/assets/fae82b27-b648-4bd0-9338-32b5165944a9)
+![Screenshot_20251212_170854~2.jpg](https://github.com/user-attachments/assets/fae82b27-b648-4bd0-9338-32b5165944a9) 15
 
-![Screenshot_20251212_170900~2.jpg](https://github.com/user-attachments/assets/5f77c8e8-1503-4365-bb90-570c64cebf11)
+![Screenshot_20251212_170900~2.jpg](https://github.com/user-attachments/assets/5f77c8e8-1503-4365-bb90-570c64cebf11) 16
 
-![Screenshot_20251212_170905~2.jpg](https://github.com/user-attachments/assets/8bc3c466-b430-4ff1-a130-a2c3af0c8171)
+![Screenshot_20251212_170905~2.jpg](https://github.com/user-attachments/assets/8bc3c466-b430-4ff1-a130-a2c3af0c8171) 17
 
-![Screenshot_20251212_170911~2.jpg](https://github.com/user-attachments/assets/e19e26b4-dd3a-44d2-a8a6-c12cc23713ee)
+![Screenshot_20251212_170911~2.jpg](https://github.com/user-attachments/assets/e19e26b4-dd3a-44d2-a8a6-c12cc23713ee) 18
 
-![Screenshot_20251212_170916~2.jpg](https://github.com/user-attachments/assets/1d6ab2de-41d6-4df1-b448-e3a02f1eb80e)
+![Screenshot_20251212_170916~2.jpg](https://github.com/user-attachments/assets/1d6ab2de-41d6-4df1-b448-e3a02f1eb80e) 19
 
-![Screenshot_20251212_170922~2.jpg](https://github.com/user-attachments/assets/3fa38049-6925-478a-9a57-27add381c048)
+![Screenshot_20251212_170922~2.jpg](https://github.com/user-attachments/assets/3fa38049-6925-478a-9a57-27add381c048) 20
 
-![Screenshot_20251212_170928~2.jpg](https://github.com/user-attachments/assets/019289a8-e8ac-43e0-aa2b-c2e1ff88caa3)
+![Screenshot_20251212_170928~2.jpg](https://github.com/user-attachments/assets/019289a8-e8ac-43e0-aa2b-c2e1ff88caa3) 21
 
-![Screenshot_20251212_170933~2.jpg](https://github.com/user-attachments/assets/9d65b1d1-8a8e-4598-a032-49c1c5aa7a06)
+![Screenshot_20251212_170933~2.jpg](https://github.com/user-attachments/assets/9d65b1d1-8a8e-4598-a032-49c1c5aa7a06) 22
 
-![Screenshot_20251212_170938~2.jpg](https://github.com/user-attachments/assets/9acaa30a-2c23-4fc1-b273-f94146d69870)
+![Screenshot_20251212_170938~2.jpg](https://github.com/user-attachments/assets/9acaa30a-2c23-4fc1-b273-f94146d69870) 23
 
 
 
 
-![Screenshot_20251212_170944~2.jpg](https://github.com/user-attachments/assets/18116d11-1522-4891-a286-09b9decc30a3)
+![Screenshot_20251212_170944~2.jpg](https://github.com/user-attachments/assets/18116d11-1522-4891-a286-09b9decc30a3) 24
 
-![Screenshot_20251212_170949~2.jpg](https://github.com/user-attachments/assets/0e205081-9480-40f1-96d8-bccce7289df7)
+![Screenshot_20251212_170949~2.jpg](https://github.com/user-attachments/assets/0e205081-9480-40f1-96d8-bccce7289df7) 25
 
-![Screenshot_20251212_170954~2.jpg](https://github.com/user-attachments/assets/23173555-9541-4384-9f97-5da95c58cf0d)
+![Screenshot_20251212_170954~2.jpg](https://github.com/user-attachments/assets/23173555-9541-4384-9f97-5da95c58cf0d) 26
 
-![Screenshot_20251212_171001~2.jpg](https://github.com/user-attachments/assets/dd9adb47-26fa-4e03-965b-2b733ab8b5d5)
+![Screenshot_20251212_171001~2.jpg](https://github.com/user-attachments/assets/dd9adb47-26fa-4e03-965b-2b733ab8b5d5) 27
 
-![Screenshot_20251212_171007~2.jpg](https://github.com/user-attachments/assets/628a6aff-5027-4d51-a81e-8265eaca65dd)
+![Screenshot_20251212_171007~2.jpg](https://github.com/user-attachments/assets/628a6aff-5027-4d51-a81e-8265eaca65dd) 28
 
-![Screenshot_20251212_171013~2.jpg](https://github.com/user-attachments/assets/0ceb7266-c862-41bb-815d-8242c24243e1)
+![Screenshot_20251212_171013~2.jpg](https://github.com/user-attachments/assets/0ceb7266-c862-41bb-815d-8242c24243e1) 29
 
-![Screenshot_20251212_171018~2.jpg](https://github.com/user-attachments/assets/40f7ba69-8e5a-4a48-a86a-a1cf36a98b21)
+![Screenshot_20251212_171018~2.jpg](https://github.com/user-attachments/assets/40f7ba69-8e5a-4a48-a86a-a1cf36a98b21) 30
 
-![Screenshot_20251212_171023~2.jpg](https://github.com/user-attachments/assets/ee2b1cb7-2c6f-4546-93b6-644ef52604d5)
+![Screenshot_20251212_171023~2.jpg](https://github.com/user-attachments/assets/ee2b1cb7-2c6f-4546-93b6-644ef52604d5) 31
 
 
 
 
-![Screenshot_20251212_171029~2.jpg](https://github.com/user-attachments/assets/2c30d0a7-0421-4a52-8ad9-794bc71697bf)
+![Screenshot_20251212_171029~2.jpg](https://github.com/user-attachments/assets/2c30d0a7-0421-4a52-8ad9-794bc71697bf) 32
 
-![Screenshot_20251212_171034~2.jpg](https://github.com/user-attachments/assets/8800f133-8df6-425e-82ac-60c96904d1b5)
+![Screenshot_20251212_171034~2.jpg](https://github.com/user-attachments/assets/8800f133-8df6-425e-82ac-60c96904d1b5) 33
 
-![Screenshot_20251212_171039~2.jpg](https://github.com/user-attachments/assets/92d8a163-c9df-47be-aae5-123b3317c2ce)
+![Screenshot_20251212_171039~2.jpg](https://github.com/user-attachments/assets/92d8a163-c9df-47be-aae5-123b3317c2ce) 34
 
-![Screenshot_20251212_171045~2.jpg](https://github.com/user-attachments/assets/ed9207b5-ba5c-497c-9954-fb07718e197e)
+![Screenshot_20251212_171045~2.jpg](https://github.com/user-attachments/assets/ed9207b5-ba5c-497c-9954-fb07718e197e) 35
 
-![Screenshot_20251212_171050~2.jpg](https://github.com/user-attachments/assets/79f9db09-452e-439f-a0d1-9c42ae1068e5)
+![Screenshot_20251212_171050~2.jpg](https://github.com/user-attachments/assets/79f9db09-452e-439f-a0d1-9c42ae1068e5) 36
 
-![Screenshot_20251212_171055~2.jpg](https://github.com/user-attachments/assets/59162bf4-4d7a-47f5-ab17-d1ec869917d4)
+![Screenshot_20251212_171055~2.jpg](https://github.com/user-attachments/assets/59162bf4-4d7a-47f5-ab17-d1ec869917d4) 37
 
-![Screenshot_20251212_171100~2.jpg](https://github.com/user-attachments/assets/08201677-111b-489d-83a7-7706e3d4b685)
+![Screenshot_20251212_171100~2.jpg](https://github.com/user-attachments/assets/08201677-111b-489d-83a7-7706e3d4b685) 38
 
-![Screenshot_20251212_171105~2.jpg](https://github.com/user-attachments/assets/dfb1cd22-06ac-4165-a48d-f24763f68a2f)
+![Screenshot_20251212_171105~2.jpg](https://github.com/user-attachments/assets/dfb1cd22-06ac-4165-a48d-f24763f68a2f) 39
 
 
 
 
-![Screenshot_20251212_171110~2.jpg](https://github.com/user-attachments/assets/d4eb01eb-c56e-4c4e-9fdd-44f43d573210)
+![Screenshot_20251212_171110~2.jpg](https://github.com/user-attachments/assets/d4eb01eb-c56e-4c4e-9fdd-44f43d573210) 40
 
-![Screenshot_20251212_171117~2.jpg](https://github.com/user-attachments/assets/f48c91ab-3dda-4306-851a-7fa52aa3a89b)
+![Screenshot_20251212_171117~2.jpg](https://github.com/user-attachments/assets/f48c91ab-3dda-4306-851a-7fa52aa3a89b) 41
 
-![Screenshot_20251212_171122~2.jpg](https://github.com/user-attachments/assets/fe88f3e3-aecc-4058-8cab-a6f273e63ff3)
+![Screenshot_20251212_171122~2.jpg](https://github.com/user-attachments/assets/fe88f3e3-aecc-4058-8cab-a6f273e63ff3) 42
 
-![Screenshot_20251212_171126~2.jpg](https://github.com/user-attachments/assets/f101fbd9-6cc3-49a4-a906-993370d46eb3)
+![Screenshot_20251212_171126~2.jpg](https://github.com/user-attachments/assets/f101fbd9-6cc3-49a4-a906-993370d46eb3) 43
 
-![Screenshot_20251212_171132~2.jpg](https://github.com/user-attachments/assets/c571d2b3-6eb3-4902-8b65-2f1939a0ce3a)
+![Screenshot_20251212_171132~2.jpg](https://github.com/user-attachments/assets/c571d2b3-6eb3-4902-8b65-2f1939a0ce3a) 44
 
-![Screenshot_20251212_171137~2.jpg](https://github.com/user-attachments/assets/655d0026-e405-40b3-baba-cbf123379d29)
+![Screenshot_20251212_171137~2.jpg](https://github.com/user-attachments/assets/655d0026-e405-40b3-baba-cbf123379d29) 45
 
-![Screenshot_20251212_171141~2.jpg](https://github.com/user-attachments/assets/4ca49900-8aed-4cd7-8b32-56001d944c37)
+![Screenshot_20251212_171141~2.jpg](https://github.com/user-attachments/assets/4ca49900-8aed-4cd7-8b32-56001d944c37) 46
 
-![Screenshot_20251212_171146~2.jpg](https://github.com/user-attachments/assets/adc92e5f-755d-4aea-824b-54fc1f50992f)
+![Screenshot_20251212_171146~2.jpg](https://github.com/user-attachments/assets/adc92e5f-755d-4aea-824b-54fc1f50992f) 47
 
 
 
 
 
 
-![Screenshot_20251212_171150~2.jpg](https://github.com/user-attachments/assets/1a085aa1-2a87-47c4-9090-f4fb6fbe9161)
+![Screenshot_20251212_171150~2.jpg](https://github.com/user-attachments/assets/1a085aa1-2a87-47c4-9090-f4fb6fbe9161) 48
 
-![Screenshot_20251212_171154~2.jpg](https://github.com/user-attachments/assets/2e3feca1-b39c-4105-a628-2ca08fea83d0)
+![Screenshot_20251212_171154~2.jpg](https://github.com/user-attachments/assets/2e3feca1-b39c-4105-a628-2ca08fea83d0) 49
 
-![Screenshot_20251212_171159~2.jpg](https://github.com/user-attachments/assets/80d99dec-8685-484f-be03-5e23546952d6)
+![Screenshot_20251212_171159~2.jpg](https://github.com/user-attachments/assets/80d99dec-8685-484f-be03-5e23546952d6) 50
 
-![Screenshot_20251212_171203~2.jpg](https://github.com/user-attachments/assets/dec565b0-d1d8-4fbc-a6ea-aa4802a3a6a2)
+![Screenshot_20251212_171203~2.jpg](https://github.com/user-attachments/assets/dec565b0-d1d8-4fbc-a6ea-aa4802a3a6a2) 51
 
-![Screenshot_20251212_171207~2.jpg](https://github.com/user-attachments/assets/4d90df2e-f25b-412c-8eeb-a32037d5ad39)
+![Screenshot_20251212_171207~2.jpg](https://github.com/user-attachments/assets/4d90df2e-f25b-412c-8eeb-a32037d5ad39) 52
 
-![Screenshot_20251212_171211~2.jpg](https://github.com/user-attachments/assets/10712672-a30f-43c9-a669-d761648c060b)
+![Screenshot_20251212_171211~2.jpg](https://github.com/user-attachments/assets/10712672-a30f-43c9-a669-d761648c060b) 53
 
-![Screenshot_20251212_171216~2.jpg](https://github.com/user-attachments/assets/1d1f30c2-8ef2-424c-8dae-14d4132c9e58)
+![Screenshot_20251212_171216~2.jpg](https://github.com/user-attachments/assets/1d1f30c2-8ef2-424c-8dae-14d4132c9e58) 54
 
-![Screenshot_20251212_171221~2.jpg](https://github.com/user-attachments/assets/33acaf8a-685b-4f05-ba7d-cdee93188510)
+![Screenshot_20251212_171221~2.jpg](https://github.com/user-attachments/assets/33acaf8a-685b-4f05-ba7d-cdee93188510) 55
 
 
 
 
 
-![Screenshot_20251212_171226~2.jpg](https://github.com/user-attachments/assets/a5336bf3-ae9e-4117-949d-bac6c386b501)
+![Screenshot_20251212_171226~2.jpg](https://github.com/user-attachments/assets/a5336bf3-ae9e-4117-949d-bac6c386b501) 56
 
-![Screenshot_20251212_171231~2.jpg](https://github.com/user-attachments/assets/cb407793-ce5d-46c5-9eee-050060bdf0e4)
+![Screenshot_20251212_171231~2.jpg](https://github.com/user-attachments/assets/cb407793-ce5d-46c5-9eee-050060bdf0e4) 57
 
-![Screenshot_20251212_171236~2.jpg](https://github.com/user-attachments/assets/03730c30-ae70-4d87-80c6-ee4864278202)
+![Screenshot_20251212_171236~2.jpg](https://github.com/user-attachments/assets/03730c30-ae70-4d87-80c6-ee4864278202) 58
 
-![Screenshot_20251212_171241~2.jpg](https://github.com/user-attachments/assets/729af714-d1da-4b92-9a34-fb774f7ab9b0)
+![Screenshot_20251212_171241~2.jpg](https://github.com/user-attachments/assets/729af714-d1da-4b92-9a34-fb774f7ab9b0) 59
 
-![Screenshot_20251212_171245~2.jpg](https://github.com/user-attachments/assets/bfbd714b-990e-4087-8cd2-3817b97ac332)
+![Screenshot_20251212_171245~2.jpg](https://github.com/user-attachments/assets/bfbd714b-990e-4087-8cd2-3817b97ac332) 60
 
-![Screenshot_20251212_171250~2.jpg](https://github.com/user-attachments/assets/d5c3ae5c-cf7f-4749-b022-174d457ce4ea)
+![Screenshot_20251212_171250~2.jpg](https://github.com/user-attachments/assets/d5c3ae5c-cf7f-4749-b022-174d457ce4ea) 61
 
-![Screenshot_20251212_171255~2.jpg](https://github.com/user-attachments/assets/88ef51ab-2ca5-4f12-b9d6-7307bf61df55)
+![Screenshot_20251212_171255~2.jpg](https://github.com/user-attachments/assets/88ef51ab-2ca5-4f12-b9d6-7307bf61df55) 62
 
-![Screenshot_20251212_171250~2.jpg](https://github.com/user-attachments/assets/04f2d896-1c15-4d66-92e5-0651d46c691e)
+![Screenshot_20251212_171250~2.jpg](https://github.com/user-attachments/assets/04f2d896-1c15-4d66-92e5-0651d46c691e) 63
 
-![Screenshot_20251212_171255~2.jpg](https://github.com/user-attachments/assets/6a3a5b86-b6fc-47bf-9406-ebaff6b869d9)
+![Screenshot_20251212_171255~2.jpg](https://github.com/user-attachments/assets/6a3a5b86-b6fc-47bf-9406-ebaff6b869d9) 64
 
-![Screenshot_20251212_171300~2.jpg](https://github.com/user-attachments/assets/fd82073c-b413-442b-84ec-8df9c207172f)
+![Screenshot_20251212_171300~2.jpg](https://github.com/user-attachments/assets/fd82073c-b413-442b-84ec-8df9c207172f) 65
 
-![Screenshot_20251212_171304~2.jpg](https://github.com/user-attachments/assets/e80adaf4-21b2-41e8-a7c3-7826c9274929)
+![Screenshot_20251212_171304~2.jpg](https://github.com/user-attachments/assets/e80adaf4-21b2-41e8-a7c3-7826c9274929) 66
 
-![Screenshot_20251212_171311~2.jpg](https://github.com/user-attachments/assets/9c7ba3fe-af55-403d-92c9-241453325f4a)
+![Screenshot_20251212_171311~2.jpg](https://github.com/user-attachments/assets/9c7ba3fe-af55-403d-92c9-241453325f4a) 67
 
 
 
 
-![Screenshot_20251212_185720~2.jpg](https://github.com/user-attachments/assets/f411ef4f-addf-4ce4-9624-8ff30c1dbd68)
+![Screenshot_20251212_185720~2.jpg](https://github.com/user-attachments/assets/f411ef4f-addf-4ce4-9624-8ff30c1dbd68) 68
 
 
-![Screenshot_20251212_185727~2.jpg](https://github.com/user-attachments/assets/ffb65a90-81e1-43fa-a6ca-8cbe16664f42)
+![Screenshot_20251212_185727~2.jpg](https://github.com/user-attachments/assets/ffb65a90-81e1-43fa-a6ca-8cbe16664f42) 69
 
-![Screenshot_20251212_185733~2.jpg](https://github.com/user-attachments/assets/6d368c6b-07b4-4e19-bf6d-15340ea6d119)
+![Screenshot_20251212_185733~2.jpg](https://github.com/user-attachments/assets/6d368c6b-07b4-4e19-bf6d-15340ea6d119) 70
 
-![Screenshot_20251212_185740~2.jpg](https://github.com/user-attachments/assets/b42f5eb7-0318-45ea-9250-562cec01011e)
+![Screenshot_20251212_185740~2.jpg](https://github.com/user-attachments/assets/b42f5eb7-0318-45ea-9250-562cec01011e) 72
 
-![Screenshot_20251212_185745~2.jpg](https://github.com/user-attachments/assets/b61326ba-bd87-4f38-bce6-fd5b158f93ea)
+![Screenshot_20251212_185745~2.jpg](https://github.com/user-attachments/assets/b61326ba-bd87-4f38-bce6-fd5b158f93ea) 72
 
-![Screenshot_20251212_185750~2.jpg](https://github.com/user-attachments/assets/d265dea9-acee-4b21-8790-bfd2f63cad10)
+![Screenshot_20251212_185750~2.jpg](https://github.com/user-attachments/assets/d265dea9-acee-4b21-8790-bfd2f63cad10) 73
 
 
 
 
 
-![Screenshot_20251212_185755~2.jpg](https://github.com/user-attachments/assets/f0e340cc-3bc7-4c4a-ab31-7a8e83ff14bf)
+![Screenshot_20251212_185755~2.jpg](https://github.com/user-attachments/assets/f0e340cc-3bc7-4c4a-ab31-7a8e83ff14bf) 74
 
-![Screenshot_20251212_185800~2.jpg](https://github.com/user-attachments/assets/f61c3b28-5817-4683-91e0-e3c4c0f31754)
+![Screenshot_20251212_185800~2.jpg](https://github.com/user-attachments/assets/f61c3b28-5817-4683-91e0-e3c4c0f31754) 75
 
-![Screenshot_20251212_185805~2.jpg](https://github.com/user-attachments/assets/079ea498-2960-4b94-ae8e-fc2890d979fb)
+![Screenshot_20251212_185805~2.jpg](https://github.com/user-attachments/assets/079ea498-2960-4b94-ae8e-fc2890d979fb) 76
 
-![Screenshot_20251212_185810~2.jpg](https://github.com/user-attachments/assets/6f931a23-c553-405b-b95c-dbfc0a382ee3)
+![Screenshot_20251212_185810~2.jpg](https://github.com/user-attachments/assets/6f931a23-c553-405b-b95c-dbfc0a382ee3) 77
 
-![Screenshot_20251212_185814~2.jpg](https://github.com/user-attachments/assets/f26b16bd-9bc5-401e-99b4-e381d01b9049)
+![Screenshot_20251212_185814~2.jpg](https://github.com/user-attachments/assets/f26b16bd-9bc5-401e-99b4-e381d01b9049) 78
 
-![Screenshot_20251212_185819~2.jpg](https://github.com/user-attachments/assets/7276ecfa-a55b-4004-954e-1506294ef53f)
+![Screenshot_20251212_185819~2.jpg](https://github.com/user-attachments/assets/7276ecfa-a55b-4004-954e-1506294ef53f) 79
 
-![Screenshot_20251212_185824~2.jpg](https://github.com/user-attachments/assets/e935c535-da1b-46ea-95c5-5f6dd5df5099)
+![Screenshot_20251212_185824~2.jpg](https://github.com/user-attachments/assets/e935c535-da1b-46ea-95c5-5f6dd5df5099) 80
 
-![Screenshot_20251212_185829~2.jpg](https://github.com/user-attachments/assets/5add52c4-0806-42e3-a3bb-aca1eb321f5f)
+![Screenshot_20251212_185829~2.jpg](https://github.com/user-attachments/assets/5add52c4-0806-42e3-a3bb-aca1eb321f5f) 81
 
-![Screenshot_20251212_185834~2.jpg](https://github.com/user-attachments/assets/c92e4065-1b2c-4e95-a25e-03f2ba60a885)
+![Screenshot_20251212_185834~2.jpg](https://github.com/user-attachments/assets/c92e4065-1b2c-4e95-a25e-03f2ba60a885) 82
 
-![Screenshot_20251212_185839~2.jpg](https://github.com/user-attachments/assets/d81c4c27-f535-4471-8f1f-0eac9807c905)
+![Screenshot_20251212_185839~2.jpg](https://github.com/user-attachments/assets/d81c4c27-f535-4471-8f1f-0eac9807c905) 83
 
 
 
 
 
-![Screenshot_20251212_185844~2.jpg](https://github.com/user-attachments/assets/dd30a7a5-c56a-4ff3-8788-811d9cf30579)
+![Screenshot_20251212_185844~2.jpg](https://github.com/user-attachments/assets/dd30a7a5-c56a-4ff3-8788-811d9cf30579) 84
 
-![Screenshot_20251212_185850~2.jpg](https://github.com/user-attachments/assets/af354f64-39ac-4198-93a6-1fdcdda4f30b)
+![Screenshot_20251212_185850~2.jpg](https://github.com/user-attachments/assets/af354f64-39ac-4198-93a6-1fdcdda4f30b) 85
 
-![Screenshot_20251212_185856~2.jpg](https://github.com/user-attachments/assets/1fcf2d09-30bf-44cd-9d91-f9c8b0e1c12a)
+![Screenshot_20251212_185856~2.jpg](https://github.com/user-attachments/assets/1fcf2d09-30bf-44cd-9d91-f9c8b0e1c12a) 86
 
-![Screenshot_20251212_185900~2.jpg](https://github.com/user-attachments/assets/fbe09313-dc40-440d-a9be-8198bf4a021e)
+![Screenshot_20251212_185900~2.jpg](https://github.com/user-attachments/assets/fbe09313-dc40-440d-a9be-8198bf4a021e) 87
 
-![Screenshot_20251212_185905~2.jpg](https://github.com/user-attachments/assets/04c39328-938c-4bff-b6af-bd23b40fb606)
+![Screenshot_20251212_185905~2.jpg](https://github.com/user-attachments/assets/04c39328-938c-4bff-b6af-bd23b40fb606) 88
 
-![Screenshot_20251212_185910~2.jpg](https://github.com/user-attachments/assets/abc94b19-a5cc-4856-9e29-3ff86861e282)
+![Screenshot_20251212_185910~2.jpg](https://github.com/user-attachments/assets/abc94b19-a5cc-4856-9e29-3ff86861e282) 89
 
-![Screenshot_20251212_185914~2.jpg](https://github.com/user-attachments/assets/235cfae3-34ad-42a4-8b6c-b94da66469c1)
+![Screenshot_20251212_185914~2.jpg](https://github.com/user-attachments/assets/235cfae3-34ad-42a4-8b6c-b94da66469c1) 90
 
-![Screenshot_20251212_185920~2.jpg](https://github.com/user-attachments/assets/e6d7dd6d-76c3-4283-bd84-6499c8ef7759)
+![Screenshot_20251212_185920~2.jpg](https://github.com/user-attachments/assets/e6d7dd6d-76c3-4283-bd84-6499c8ef7759) 91
 
-![Screenshot_20251212_185925~2.jpg](https://github.com/user-attachments/assets/22e89d4b-4f8a-4dce-9570-0fc88c634020)
+![Screenshot_20251212_185925~2.jpg](https://github.com/user-attachments/assets/22e89d4b-4f8a-4dce-9570-0fc88c634020) 92
 
-![Screenshot_20251212_185929~2.jpg](https://github.com/user-attachments/assets/94350514-c4a9-48f2-bc1b-dd3a31f5afd9)
+![Screenshot_20251212_185929~2.jpg](https://github.com/user-attachments/assets/94350514-c4a9-48f2-bc1b-dd3a31f5afd9) 93
 
 
 
 
-![Screenshot_20251212_185934~2.jpg](https://github.com/user-attachments/assets/c94de404-ecb7-45aa-8a7c-743bd97f3597)
+![Screenshot_20251212_185934~2.jpg](https://github.com/user-attachments/assets/c94de404-ecb7-45aa-8a7c-743bd97f3597) 94
 
-![Screenshot_20251212_185938~2.jpg](https://github.com/user-attachments/assets/8172654c-371b-423d-a0ce-63011662e4cf)
+![Screenshot_20251212_185938~2.jpg](https://github.com/user-attachments/assets/8172654c-371b-423d-a0ce-63011662e4cf) 95
 
-![Screenshot_20251212_185942~2.jpg](https://github.com/user-attachments/assets/b8dc4ff2-c0d4-4c36-b3d0-295f93ea2c0a)
+![Screenshot_20251212_185942~2.jpg](https://github.com/user-attachments/assets/b8dc4ff2-c0d4-4c36-b3d0-295f93ea2c0a) 96
 
-![Screenshot_20251212_185947~2.jpg](https://github.com/user-attachments/assets/228c8a4b-965c-4166-9dfb-d8d4e3393d91)
+![Screenshot_20251212_185947~2.jpg](https://github.com/user-attachments/assets/228c8a4b-965c-4166-9dfb-d8d4e3393d91) 97
+
+---
+
+12.12.1916 Status Quo Friedensangebot Deutschlands
+
+Die Friedensnote Bethmann Hollwegs vom 12.12.1916 auf dem Höhepunkt der Deutschen Macht (Sieg) hatte
+auf sich warten lassen, denn erste Interpellationen213 dazu wurden bereits 1915 im Reichstag eingebracht, und hatte
+sodann jedoch folgenden Wortlaut:
+„ Der furchtbarste Krieg, den die Geschichte je gesehen hat, wütet seit bald zwei und einem halben Jahr in
+einem großen Teil der Welt. Diese [UR-]Katastrophe, die das Band einer gemeinsamen tausendjährigen Zivilisation nicht hat aufhalten können, trifft die Menschheit in ihren wertvollsten Errungenschaften [kaiserliche HLKO].
+Sie droht den geistigen und materiellen Fortschritt, der den Stolz Europas (B) zu Beginn des zwanzigsten Jahrhunderts bildete, in Trümmer zu legen. Deutschland und seine Verbündeten, Österreich-Ungarn, Bulgarienund die Türkei, haben in diesem Kampf unüberwindliche Kraft erwiesen. Sie haben über ihre an Zahl und
+Kriegsmaterial überlegenen Gegner gewaltige Erfolge errungen. Unerschütterlich halten ihre Linien den
+immer wiederholten Angriffen der Heere ihrer Feinde stand. Der jüngste Ansturm im Balkan ist schnell undsiegreich niedergeworfen worden. Die letzten Ereignisse beweisen, daß auch eine weitere Fortdauer des Kriegesihre Widerstandskraft nicht zu brechen vermag, daß vielmehr die gesamte Lage zu der Erwartung weiterer Erfolgeberechtigt. Zur Verteidigung ihres Daseins und ihrer nationalen Entwicklungsfreiheit wurden die vierverbündeten Mächte [Mittelmächte] gezwungen, zu den Waffen zu greifen. Auch die Ruhmestaten ihrerHeere haben daran nichts geändert. Stets haben sie an der Überzeugung festgehalten, daß ihre eigenen Rechteund begründeten Ansprüche in keinem Widerspruch zu den Rechten der anderen Nationen stehen. Sie gehennicht darauf aus, ihre Gegner zu zerschmettern oder zu vernichten. Getragen von dem Bewußtsein ihrermilitärischen und wirtschaftlichen Kraft und bereit, den ihnen aufgezwungenen Kampf nötigenfalls bis zumäußersten fortzusetzen,
+(Bravo! Rechts)zugleich aber von dem Wunsche beseelt, weiteres Blutvergießen zu verhüten
+(Bravo! Links)
+und den Greueln des Krieges ein Ende zu machen, schlagen die vier verbündeten Mächte vor, (C) alsbald in
+Friedensverhandlungen einzutreten.
+(Erneutes Bravo.)
+Die Vorschläge, die sie zu diesen Verhandlungen mitbringen werden, und die darauf gerichtet sind, Dasein, Ehre und Entwicklungsfreiheit ihrer Völker zu sichern, bilden nach ihrer Überzeugung eine geeignete Grundlage für
+die Herstellung eines dauerhaften Friedens. Wenn trotz dieses Anbietens zu Frieden und Versöhnung der
+Kampf fortdauern sollte, so sind die vier verbündeten Mächte entschlossen, ihn bis zum siegreichen Ende zu
+führen. Sie lehnen aber feierlich jede Verantwortung dafür vor der Menschheit und der Geschichte ab.
+(Wiederholter stürmischer Beifall. Händeklatschen auf den Tribünen. – Glocke des Präsidenten.)
+Meine Herren, im August 1914 rollten unsere Gegner die Machtfrage des Weltkrieges auf. Heute stellen wir
+die Menschheitsfrage des Friedens.
+(Bravo! links und in der Mitte.)
+Wie die Antwort unserer Feinde lauten wird, warten wir mit der Ruhe ab, die uns unsere innere und äußere Kraft
+und unser reines Gewissen verleiht.
+(Bravo!)
+Lehnen die Feinde ab, wollen sie die Weltenlast von allem Schrecklichen, was danach noch folgen wird, auf sich
+nehmen, dann wird bis in die letzte Hütte hinein jedes deutsche Herz aufs neue in heiligem Zorn aufflammen
+gegen Feinde, die um ihrer Vernichtungs- und Eroberungsabsichten [US-Hegemon, Prädiktor] willen dem
+Menschenmorden keinen Einhalt tun wollen.
+(Bravo! links und in der Mitte)
+In Schicksalsschwerer Stunde haben wir einen schicksalsschweren Entschluß gefaßt. Er ist durchtränkt von
+dem Blute von Hunderttausenden unserer Söhne und Brüder, (D) die ihr Leben gelassen haben für der Heimat
+Sicherheit. Menschenwitz und Menschenhand können in diesem Völkerringen, das alle Schrecknisse irdischen
+Lebens, aber auch alle Größe menschlichen Mutes und menschlichen Willens in nie gesehener Weise enthüllt
+hat, nicht bis an das letzte hinreichen. Gott wird richten. Wir wollen furchtlos und aufrecht unserer Straße
+ziehen, zum Kampf entschlossen und zum Friede bereit.
+(Wiederholter stürmischer Bravo links und in der Mitte. Händeklatschen auf den Tribünen und im Hause.
+– Glocke des Präsidenten.)“
+214
+213 Sten.Ber. „22. Sitzung. Donnerstag den 9. Dezember 1915“ S. 425-446 ab 426 (B) ff. Dr. v. Bethmann Hollweg u.a. „Interpellationen“
+214 Sten.Ber. „80. Sitzung, Sonnabend den 12. Dezember 1916“ S. 2332 (B) bis (D) und (A) bzgl. „offizielle Friedensaktion“, Dr. v. Bethmann Hollweg
+Telegram (alt)
+https://t.me/BuStAG/8929
+https://t.me/BuStAG/8930
+https://drive.proton.me/urls/
+CVVMDDE9YW#ZE7PDaXtEnlZ
+
+97 / 287
+20240801_Aufsatz_deutscheStaatsangehoerigkeit_DeutscheBuergerschaft_Waffe-StAG_berichtigte-Fassung.odt
+76765 78211 81765 70
+9
+
+---
+
 
 ![Screenshot_20251212_185951~2.jpg](https://github.com/user-attachments/assets/648e8f57-e66c-48a9-92bc-c81074226dcc)
 
