@@ -2327,7 +2327,34 @@ https://drive.proton.me/urls/CVVMDDE9YW#ZE7PDaXtEnlZ
 
 ![Screenshot_20251212_190154~2.jpg](https://github.com/user-attachments/assets/5aa201d2-b715-4b1f-a2b5-4a9f0165869e) 121
 
+---
+
 ![Screenshot_20251212_190200~2.jpg](https://github.com/user-attachments/assets/1463b255-c62c-4179-bc20-41ddb70d8116) 122
+
+**11.07.1917 Wahlrechtsbotschaft König von Preußen**
+
+„*Berlin, 11. Juli. Seine Majestät der König hat an den Präsidenten des Staatsministeriums folgenden
+Erlaß gerichtet:
+Auf den Mir in Verfolgung Meines Erlasses vom 7. April d. J. gehaltenen Vortrag MeinesStaatsministeriums bestimme Ich hierdurch in Ergänzung des selben, daß der dem Landtage derMonarchie zur Beschlußfassung vorzulegene Gesetzentwurf wegen **Abänderung des Wahlrechts** zum
+Abgeordnetenhause auf der Grundlage des **gleichen Wahlrechts** aufzustellen **ist**. Die Vorlage ist jedenfalls so frühzeitig anzubringen, daß die nächsten Wahlen nach dem neuen Wahlrecht stattfinden können.
+Ich beauftrage Sie, das hiernach Erforderliche zu veranlassen.
+Großes Hauptquartier, den **11. Juli 1917**.
+An den
+gez. Wilhelm R. [nur Rex als König]
+Gegengez. Bethmann Hollweg.
+Präsidenten des Staatsministeriums.*“273
+
+269 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2301 Griechenland
+
+270 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2303 Griechenland
+
+271 Bündelung, Einigung, statt „*Politik-Arena"“ wieder ein Ring oder Loge, Faszie, Einheit, Gleichschaltung, Faschismus?
+
+272 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2308 Griechenland
+
+273 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 6 01.02.1917-31.07.18, S. 2325 Wahlrechtsbotschaft
+
+---
 
 ![Screenshot_20251212_190208~2.jpg](https://github.com/user-attachments/assets/00db7862-b6b0-4075-9e27-9fbe724b1582) 123
 
