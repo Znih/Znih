@@ -2872,8 +2872,31 @@ werden kann. Ebenso entspricht die russische Forderung der alsbaldigen Räumung 
 
 ![Screenshot_20251212_200706~2.jpg](https://github.com/user-attachments/assets/96869cb4-659d-4ba5-84a7-0afad68f4297) 140
 
+*Selbstbestimmungsrechts in den von der russischen Delegation vorgeschlagenen Formen zurzeit nichtdurchführbar.*
 
+*Die von der russischen Delegation im Anschlusse an die eben erörterten sechs Punktevorgeschlagenen Grundsätze für den wirtschaftlichen Verkehr finden die uneingeschränkteZustimmung der Delegation der verbündeten Mächte.*
 
+*In Erwiderung hierauf erklärte der Führer der russischen Delegation nach längerer Debatte, dieDelegation sei trotz noch bestehender Meinungsverschiedenheiten der Ansicht, daß die in der Antwortder Mächte des Vierbundes enthaltene offene Erklärung, keine aggressiven Absichten zu hegen, diefaktische Möglichkeit biete, sofort zu Verhandlungen über einen allgemeinen Frieden unter allenkriegführenden Staaten zu schreiten. Mit Rücksicht hierauf schlägt die russische Delegation einezehntägige Unterbrechung der Verhandlungen vor, beginnend heute abend und endigend am4. Januar 1918, damit die Völker, deren Regierungen sich den hier geführten Verhandlungen über
+einen allgemeinen Frieden noch nicht angeschlossen haben, die Möglichkeit geboten wird, sich mit denjetzt aufgestellten Prinzipien eines solchen Friedens bekanntzumachen. Nach Ablauf dieser Fristmüssen die Verhandlungen unter allen Umständen fortgesetzt werden.
+Der Führer der russischen Delegation sprach seine Bereitwilligkeit aus, sogleich in dieBesprechungen jener Einzelheiten einzutreten, die auch für den Fall allgemeiner Friedensverhandlungen den Gegenstand spezieller Erörterungen zwischen Rußland und den vier Verbündeten
+zu bilden hätten.*
+
+*Auf Antrag des Staatssekretärs v. Kühlmann wurde einstimmig beschlossen, zur Vermeidungjegliches Zeitverlustes und Würdigung der Wichtigkeit der zu erfüllenden Aufgabe, dieseVerhandlungen schon morgen vormittag beginnen.*“332
+
+**28.12.1917 Vorläufig Einigung mit Rußland**
+
+„*Brest-Litowsk, 28. Dezember. Im Laufe der heute nachmittag abgehaltenen Besprechungen zwischen denDelegationen der Verbündeten und Rußlands wurde in einer ganzen Reihe wichtiger Punkte die Basis füreine Einigung geschaffen. In der wichtigsten Frage der Behandlung beiderseits besetzten Gebietes wurde
+von russischer Seite folgender Vorschlag gemacht: In voller Uebereinstimmung mit der offenenErklärung der beiden vertragschließenden Teile, daß ihnen kriegerische Pläne fernliegen, und daß sieeinen Frieden ohne Annexionen schließen wollen, zieht Rußland seine Truppen aus den von ihnenokkupierten Teilen Oesterreich-Ungarns, der Türkei und Persiens zurück, und die Mächte des
+Vierbundes aus Polen, Litauen, Kurland und anderen Gebieten Rußlands. Entsprechend denGrundsätzen der russischen Regierung, die das Recht aller in Rußland lebender Völker ohne Ausnahme auf Selbstbestimmung bis zur Absonderung verkündet hat, wird der Bevölkerung dieser Gebietedie Möglichkeit gegeben werden, binnen kürzester, genau bestimmter Frist vollkommen frei über dieFrage ihrer Vereinigung mit dem einen oder dem anderen Reiche oder über die Bildung eines selbstständigen Staates zu entscheiden. Hierbei ist die Anwesenheit irgendwelcher Truppen in denabstimmenden Gebieten nicht zulässig, außer von nationalen oder örtlichen Milizen. Bis zurEntscheidung dieser Fragen aber liegt die Verwaltung dieser Gebiete in den Händen von in demokratischer Weise gewählten Vertreter der örtlichen Bevölkerung selbst. Die Frist der Räumung nebstden näheren Umständen und den Beginn und Verlauf der Demobilisation des Heeres wird durch eine
+besondere militärische Kommission bestimmt. Demgegenüber schlug Deutschland vor [keine striktenBedingungen, sondern gleichberechtigte Verhandlungen], den ersten beiden Artikeln des zu schaffenden
+Präliminarvertrages nachstehende Fassung zu geben:*“
+
+„*Artikel 1. Rußland und Deutschland erklären die Beendigung des Kriegszustandes. BeideNationen sind entschlossen, fortan in Frieden und Freundschaft zusammenzuleben. Deutschland würde(unter der Voraussetzung der zugestandenen vollen Gegenseitigkeit gegenüber seinen Bundesgenossen)bereit sein, sobald der Friede mit Rußland geschlossen und die Demobilisierung der russischen Streitkräfte durchgeführt ist, die jetzigen Stellungen und das besetzte russische Gebiet zu räumen, soweit sich
+nicht aus Artikel 2 ein anderes ergibt.*
+
+332 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2553-2555 Beschlüsse
+
+---
 
 
 
