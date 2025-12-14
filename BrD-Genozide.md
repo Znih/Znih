@@ -2465,7 +2465,11 @@ wirtschaftlichen Trutzbund gegen uns auswächst.*
 (Hört, hört! Bravo! Im Zentrum, links und bei den Soz.)
 
 *, ist die Regierungsich dessen bewußt. Wenn die Feinde ihrerseits von ihren Eroberungsgelüsten, ihren Niederwerfungszielen ablassen und [endlich] in Verhandlungen einzutreten wünschen, werden wir ehrlich und
-friedensbereit hören, was sie uns zu sagen haben. (Bravo! Links.) Bis dahin müssen wir ruhig undgeduldig und mutig ausharren.*“276
+friedensbereit hören, was sie uns zu sagen haben.
+
+(Bravo! Links.)
+
+Bis dahin müssen wir ruhig undgeduldig und mutig ausharren.*“276
 
 **19.07.1917 Annahme Friedensresolution im Reichstage**
 
@@ -2549,8 +2553,7 @@ gez. Wilhelm I. R.*“282
 *Fern der Heimat hält eine kleine deutsche Truppe deutsches Kolonialland gegen vielfacheUebermacht.*
 
 *Auf Eurer und unserer treuen Bundesgenossen Seite werden auch im nächsten Kriegsjahr die Erfolge
-sein. Unser wird der Endsieg bleiben. [Endsieg legt der Friedensvertrag fest; Versailles ein Strafdiktat]
-Bewegten Herzens danke Ich Euch in Meinem und des Vaterlandes Namen für das, was Ihr auch indem letzten Kriegsjahr geleistet habt. In Ehrfurcht gedenken wir dabei der tapferen Gefallenen undVerstorbenen, die für des Vaterlandes Größe und Sicherheit dahingegangen sind.*
+sein. Unser wird der Endsieg bleiben. [Endsieg legt der Friedensvertrag fest; Versailles ein Strafdiktat]Bewegten Herzens danke Ich Euch in Meinem und des Vaterlandes Namen für das, was Ihr auch indem letzten Kriegsjahr geleistet habt. In Ehrfurcht gedenken wir dabei der tapferen Gefallenen undVerstorbenen, die für des Vaterlandes Größe und Sicherheit dahingegangen sind.*
 
 *Der Krieg geht weiter, er bleibt uns aufgezwungen. Wir kämpfen für unser Dasein und unsereZukunft mit stahlharter Entschlossenheit und nie wankendem Mut. Mit wachsender Aufgabe wächstunsere Kraft. Wir sind nicht zu besiegen; wir wollen siegen! [Wir wollen Frieden! Wir sind noch immernicht besiegt!] Gott der Herr wird uns sein.
 Im Felde, den 1. August 1917.
@@ -2613,7 +2616,7 @@ diese Wahlen künftig das gleiche, geheime und unmittelbare Wahlrecht vorsieht. 
 Regierungen und die Völker der kriegführenden Länder gerichtet, worin sie vorschlägt, zu einem nahenTermin in Verhandlungen über einen Waffenstillstand und einen allgemeinen Frieden einzutreten. Ichstehe nicht an zu erklären, daß in den bisher bekannten Vorschlägen der russischen Regierung diskutable
 Grundlagen für die Annahme von Verhandlungen erblickt werden können, und daß ich bereit bin,in solche einzutreten, sobald die russische Regierung hierzu bevollmächtigte Vertreter entsendet.*
 
-*Ich hoffe und wünsche, daß diese Bestrebungen bald feste Gestalt annehmen und uns den Friedenbringen werden.“301 [– was mit Brest-Litowsk u.a. unter Beweis gestellt worden ist!]*
+*Ich hoffe und wünsche, daß diese Bestrebungen bald feste Gestalt annehmen und uns den Friedenbringen werden.*“301
 
 **29.11.1917 Veröffentlichung Geheimarchive**
 
@@ -2700,12 +2703,11 @@ Luftstreitkräfte der vertragschließenden Parteien. Für die Frage des Waffenst
 *In jene besondere Vereinbarung sollen auch Bestimmungen aufgenommen werden, um nach Möglichkeit zuverhindern, daß Streitkräfte der vertragsschließende Parteien sich auf anderen Meeren bekämpfen.*
 
 *Angriffe von See aus und aus der Luft auf Häfen und Küsten der anderen vertragsschließenden Partei werden
-auf allen Meeren beiderseits unterbleiben. Auch ist das Anlaufen der von der einen Partei besetzten Häfen undKüsten durch die Streitkräfte der anderen Partei verboten. [deshalb in ganz Ostdeutschland keine Revolution?]*
+auf allen Meeren beiderseits unterbleiben. Auch ist das Anlaufen der von der einen Partei besetzten Häfen undKüsten durch die Streitkräfte der anderen Partei verboten.*
 
-*Das Ueberfliegen der Häfen und Küsten der anderen vertragsschließenden Partei sowie der Demarkationslinien ist auf allen Meeren untersagt. [keine Flugblattaktionen der Entente über Ostdeutschland mehr]*320
+*Das Ueberfliegen der Häfen und Küsten der anderen vertragsschließenden Partei sowie der Demarkationslinien ist auf allen Meeren untersagt.*320
 
-*Die Demarkationslinien verlaufen: 1. im schwarzen Meer: von Olinka – Leuchtturm (St. Georgsmünden) – Kap
-Jeros (Trapezunt); 2. in der Ostsee: von Rogekuel-Westküste – Worms – Bogskaer – Swenska – Hoegarne.*
+*Die Demarkationslinien verlaufen: 1. im schwarzen Meer: von Olinka – Leuchtturm (St. Georgsmünden) – KapJeros (Trapezunt); 2. in der Ostsee: von Rogekuel-Westküste – Worms – Bogskaer – Swenska – Hoegarne.*
 
 *Die nähere Festsetzung der Linien zwischen Worms und Bogskaer wird der Waffenstillstandskommission der
 Ostsee übertragen mit der Maßgabe, daß den russischen Streitkräften bei allen Wetter- und Eisverhältnissen einefreie Fahrt nach der Aalandssee gewährleistet ist. Die russischen Seestreitkräfte werden die Demarkationslinienicht nach Süden, die Seestreitkräfte der vier verbündeten Mächte nicht nach Norden überschreiten.
@@ -2756,16 +2758,14 @@ Berlin und Dresden markierten den Unterschied zwischen Farbrevolution und Friede
 
 **Zeitzeuge Max zu den Verhandlungen in Brest-Litowsk**
 
-„*Im Rücken der russischen Unterhändler breitete sich ein blutiges und schmutziges Chaos aus.*
-
-*[gewollte Destabilisierung von außen]. Unsere Macht war nie größer gewesen. […] Trotzki, der nichtselbst erschienen war, wollte keine geheimen Verhandlungen. Welche H e r a u s f o r d e r u n g !*
+„*Im Rücken der russischen Unterhändler breitete sich ein blutiges und schmutziges Chaos aus. Unsere Macht war nie größer gewesen. […] Trotzki, der nichtselbst erschienen war, wollte keine geheimen Verhandlungen. Welche H e r a u s f o r d e r u n g !*
 
 *Dieser Mann hatte Menschenqualen ohne Ende aufgehäuft: Er war mit den Flüchen von Millionenbeladen. […] Die Verhandlungen begannen mit ausgesuchter Höflichkeit. Die Mahlzeiten wurden
 gemeinsam eingenommen. Mein [Max] Vetter Fürst Ernst Hohenlohe kam bei Tisch neben MadameByzenko zu sitzen, die sich durch einen Ministermord qualifiziert hatte.*“325
 
 „*Die Russen proklamierten ihre Grundsätze, im wesentlichen Kerenskis Programm,326 das seinerzeitdie Demokratien aller Länder aufgeregt hatte:
 Keine Annexionen und keine Kriegsentschädigungen. Das Selbstbestimmungsrecht wurden allen
-Nationen zugesprochen, und zwar nicht nur den Völkerschaften, die in diesem Kriege ihreSelbstständigkeit verloren hatten, sondern auch den verschiedenen Nationalitäten, die vor dem Kriegeinnerhalb der großen Staatenverbände keine Selbstständigkeit besaßen. [z.B. Polen, Tschecho-Slowaken,Ungarn, Großserbien-Jugoslawien] Die Russen gingen so weit, die Anwendung dieses Grundsatzes auchfür die Kolonien zu verlangen.*“ – das wäre ein Friede im Sinne Ulpian und Celsus gewesen. **Artikel 292 VV verbot ab 1919 diese Friedensmöglichkeit.**
+Nationen zugesprochen, und zwar nicht nur den Völkerschaften, die in diesem Kriege ihreSelbstständigkeit verloren hatten, sondern auch den verschiedenen Nationalitäten, die vor dem Kriegeinnerhalb der großen Staatenverbände keine Selbstständigkeit besaßen. [z.B. Polen, Tschecho-Slowaken,Ungarn, Großserbien-Jugoslawien] Die Russen gingen so weit, die Anwendung dieses Grundsatzes auchfür die Kolonien zu verlangen.*“ [Anmeldung.: das wäre ein Friede im Sinne Ulpian und Celsus gewesen. **Artikel 292 VV verbot ab 1919 diese Friedensmöglichkeit.**]
 
 „*In unserer Antwort erklärten wir unsere grundsätzliche327 Zustimmung zu dem Programm: keineAnnexionen und keine Entschädigungen. Wir bekunden unsere Absicht, die politische Selbstständigkeit
 der Völker wiederherzustellen, die sie im Kriege eingebüßt hatten [z.B. Belgien].*
@@ -2783,14 +2783,15 @@ der Völker wiederherzustellen, die sie im Kriege eingebüßt hatten [z.B. Belgi
 327 Trotzdem wurde vereinbart: „*Die verbündeten Mächte hätten mehrfach die Möglichkeit eines wechselseitigen Verzichtes auf Erlaß sowohl von
 Kriegskosten als auch von Kriegsschäden betont. Hiernach würden von jeder kriegführenden Macht nur die Aufwendungen für ihre in Kriegsgefangenschaft
 geratenen Angehörigen sowie die im eigenen Gebiet durch völkerrechtswidrige Gewaltakte den Zivilangehörigen des Gegners zugefügten Schäden zu ersetzen
-sein.*“ (Helfferich, a. a. D., S. 265 f.) – diese Art Status Quo Friede konnten sich die „*Vereinigten Staaten*“ und die eigentlich Kriegführende Entente schlicht
-nicht leisten! Die FED wurde auch zum Zwecke der Kriegsverlängerungsfinanzierung 1913 erreichtet.
+sein.*“ (Helfferich, a. a. D., S. 265 f.) [Anm.: diese Art Status Quo Friede konnten sich die „*Vereinigten Staaten*“ und die eigentlich Kriegführende Entente (Vier-Mächte, "*Hohe Hand*") schlicht
+nicht leisten! Die FED wurde auch zum Zwecke der Kriegsverlängerungsfinanzierung 1913 errichtet.]
 
 ---
 
 ![Screenshot_20251212_200656~2.jpg](https://github.com/user-attachments/assets/aa12ba2d-826e-40f1-adec-3677004d1cd9) 138
 
-*Aber wir lehnten das Selbstbestimmungsrecht der Nationalitäten innerhalb der großen Staatenverbände ab: ‚Die staatliche Zugehörigkeit nationaler Gruppen, die keine staatliche Selbstständigkeitbesitzen, können nicht, zwischenstaatlich geregelt werden [Henne-Ei-Problem], sondern sei von jedem
+*Aber wir lehnten das Selbstbestimmungsrecht der Nationalitäten innerhalb der großen Staatenverbände ab:*
+>* ‚Die staatliche Zugehörigkeit nationaler Gruppen, die keine staatliche Selbstständigkeitbesitzen, können nicht, zwischenstaatlich geregelt werden [Henne-Ei-Problem], sondern sei von jedem
 Staat mit seinen Völkern selbstständig auf verfassungsmäßigem Wege zu lösen.‘*
 
 *Der Forderung nach der Selbstbestimmung unserer Kolonien widersprachen wir mit dem Hinweis:*
@@ -3000,8 +3001,8 @@ Berufung auf einen Beschluß der Regierung der Russischen Republik vorschlägt, 
 **05.01.1918 Rußlands Rückkehr nach Brest-Litowsk**
 
 „*Berlin, 5. Januar. Im Hauptausschuß des Reichstags erklärte der Unterstaatssekretär des Auswärtigen,
-Freiherr von dem Busche, daß aus Brest-Litowsk folgendes Telegramm eingelaufen sei:
-Am 4. Januar, 10 Uhr abends ist hier das in Uebersetzung folgende Hughes-Telegramm ausPetersburg eingetroffen:
+Freiherr von dem Busche, daß aus Brest-Litowsk folgendes Telegramm eingelaufen sei:*
+*Am 4. Januar, 10 Uhr abends ist hier das in Uebersetzung folgende Hughes-Telegramm ausPetersburg eingetroffen:
 An die Herren Vorsitzenden der vier verbündeten Mächte.*
 
 *Die Verlegung der Verhandlungen auf neutrales Gebiet entspricht dem erreichten Stand derVerhandlungen. In Anbetracht der Auskunft Ihrer Delegationen am früheren Orte der Verhandlungen wirdunsere Delegation zusammen mit dem Volkskommissar für auswärtige Angelegenheiten Trotzki morgennach Brest-Litwosk fahren in der Ueberzeugung, daß eine Verständigung über die Verlegung derVerhandlungen auf neutralen Boden keine Schwierigkeiten machen wird.
@@ -3009,7 +3010,7 @@ Die russische Delegation.*“341
 
 **05.01.1918 Lloyd George mit Lansdownes US-Kriegszielen**
 
-„*Nunmehr erfolgte eine Proklamation der [US-]Kriegsziele, die tatsächlich auf die von Lansdownegeforderte Revision der Januar-Note hinauslief. Zuerst kam in wiederholten Wendungen dieVersicherung:*342
+„*Nunmehr erfolgte eine Proklamation der [US-]Kriegsziele, die tatsächlich auf die von Lansdownegeforderte Revision der Januar-Note hinauslief. Zuerst kam in wiederholten Wendungen die Versicherung:*342
 
 *D e r  K a m p f  w e r d e  n i c h t  a l s  A n g r i f f s k r i e g  g e g e n  d a s d e u t s c h e  V o l k  g e f ü h r t, w e d e r  s e i n e r  V e r n i c h t u n g  n o c h s e i n e  Z e r s t ü c k e l u n g lägen im Plane Englands, auch Deutschlands große Weltstellungwünsche England nicht zu zerstören; nur der Plan einer militärischen Vorherrschaft sollte aufgegebenwerden. Auch die Auflösung Österreich-Ungarns werde nicht beabsichtigt; die zu seinem Verband
 gehörende Nationen sollten nur weitgehende Selbstregierung erhalten, dann würde Österreich-Ungarn einHort des Friedens werden. Die Deutsche Reichsverfassung sei zwar ein gefährlicher Anachronismus,
@@ -3018,8 +3019,8 @@ seine [unbelegt gebliebenen, vlg. Putin] Weltherrschaftspläne aufgegeben habe, 
 
 **06.01.1918 Fristablauf für Entente**
 
-„*Brest-Litowsk, 6. Januar. Gestern abend ist folgender Funkspruch in deutschem Klartext abgesandt worden:
-An die russische Delegation zu Händen ihres Vorsitzenden Herrn Joffé, Petersburg.*
+„*Brest-Litowsk, 6. Januar. Gestern abend ist folgender Funkspruch in deutschem Klartext abgesandt worden:*
+*An die russische Delegation zu Händen ihres Vorsitzenden Herrn Joffé, Petersburg.*
 
 *In Ihrer Antwort auf die Vorschläge der russischen Delegation hatten die Delegationen desVierbundes am 25. Dezember 1917 in Brest-Litowsk gewisse Leitsätze für den Abschluß eines
 sofortigen allgemeinen Frieden aufgestellt. Zur Vermeidung einer einseitigen Festlegung hatten sie die
@@ -3071,7 +3072,7 @@ Unser Programm ist das Programm des Weltfriedens, und es stellt zugleich das ein
 Errichtung der Gleichheit der Handelsbeziehungen [TTIP] unter allen Nationen, die sich dem Frieden
 anschließen und sich zu seiner Aufrechterhaltung vereinigen.*
 
-*Die vierte Bedingung ist, daß entsprechende Garantien gegeben und angenommen werden, daß dieRüstung der Völker auf das niedrigste mit der inneren Sicherheit vereinbarende Maß herabgesetzt
+*Die **vierte Bedingung** ist, daß entsprechende Garantien gegeben und angenommen werden, daß dieRüstung der Völker auf das niedrigste mit der inneren Sicherheit vereinbarende Maß herabgesetzt
 werden.*
 
 343 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2565-2566
@@ -3136,19 +3137,19 @@ die sich gegen die verbündeten Kaiserreiche vereinigt haben, in enger Gemeinsch
 Machtstellung anbelangt, im Wege stehen. Wir wollen es auch nicht mit den Waffen oder durchfeindselige Handelsverträge bekämpfen, wenn es bereit ist, sich mit uns und den anderen friedliebenden
 Nationen der Welt zu Vertragsbedingungen von Recht und Rechtlichkeit sowie Billigkeit zu vereinigen.*
 
-*Wir wünschen nur, daß es einen Platz der Gleichheit unter den Völkern der Welt einnehme, anstatteinen solchen der [Friedens-]Herrschaft. [Влад-и-мир PUTIN]
-Ebenso nehmen wir uns nicht heraus, irgendeine Abänderung seiner staatlichen Einrichtungen zuverlangen. Aber es ist, wie wir offen bekennen müssen, notwendig, und zwar als Vorbedingung für einen
-Meinungsaustausch mit ihm, daß wir wissen, für wen seine Unterhändler sprechen, wenn sie zu unssprechen, nämlich ob für die Reichstagsmehrheit oder die Militärpartei bzw. für die Leute, derenGlaubensbekenntnis imperialistische Vorherrschaft ist. [Spiegel: US-Hegemonie] Wir haben nunfeierlich in Ausdrücken gesprochen, die zu bestimmt sind, um irgendeinen weiteren Zweifel oder
-weitere Frage zuzulassen. Ein deutlich erkennbarer Grundsatz zieht sich durch das ganze Programm, dasich [nur] umrissen habe. Es ist der Grundsatz der [UN-]Gerechtigkeit gegenüber allen Völkern undNationalitäten und ihr Recht, auf dem gleichen Fuß der Freiheit und Sicherheit miteinander zu leben[7Nations, Cree?!], ob sie nun mächtig oder schwach sind. Solange dieser Grundsatz nicht zur
-Grundlage gemacht wird, kann kein Teil des Gebäudes der internationalen Gerechtigkeit sicherstehen.*
+*Wir wünschen nur, daß es einen Platz der Gleichheit unter den Völkern der Welt einnehme, anstatteinen solchen der Herrschaft.*
 
-*Das Volk der Vereinigten Staaten [!WIR] kann keinen anderen Grundsatz zulassen, und zu seinerGeltendmachung ist es willens, sein Leben, seine Ehre und alles, was es besitzt, einzusetzen. Dersittliche Gipfelpunkt dieses größten und letzten Krieges für menschliche Freiheit ist erreicht worden,und das amerikanische Volk ist [belastet] bereit, seine ganze Stärke, sein höchstes Streben, seine
+*Ebenso nehmen wir uns nicht heraus, irgendeine Abänderung seiner staatlichen Einrichtungen zuverlangen. Aber es ist, wie wir offen bekennen müssen, notwendig, und zwar als Vorbedingung für einen
+Meinungsaustausch mit ihm, daß wir wissen, für wen seine Unterhändler sprechen, wenn sie zu unssprechen, nämlich ob für die Reichstagsmehrheit oder die Militärpartei bzw. für die Leute, derenGlaubensbekenntnis imperialistische Vorherrschaft ist. Wir haben nunfeierlich in Ausdrücken gesprochen, die zu bestimmt sind, um irgendeinen weiteren Zweifel oderweitere Frage zuzulassen. Ein deutlich erkennbarer Grundsatz zieht sich durch das ganze Programm, dasich umrissen habe. Es ist der Grundsatz der Gerechtigkeit gegenüber allen Völkern undNationalitäten und ihr Recht, auf dem gleichen Fuß der Freiheit und Sicherheit miteinander zu leben, ob sie nun mächtig oder schwach sind. Solange dieser Grundsatz nicht zurGrundlage gemacht wird, kann kein Teil des Gebäudes der internationalen Gerechtigkeit sicherstehen.*
+
+*Das Volk der Vereinigten Staaten kann keinen anderen Grundsatz zulassen, und zu seinerGeltendmachung ist es willens, sein Leben, seine Ehre und alles, was es besitzt, einzusetzen. Dersittliche Gipfelpunkt dieses größten und letzten Krieges für menschliche Freiheit ist erreicht worden,und das amerikanische Volk ist [belastet] bereit, seine ganze Stärke, sein höchstes Streben, seine
 Unversehrtheit und Hingebung einzusetzen.*“348
 
 **09.01.1918 Sonderfriedensverhandlung mit Rußland**
 
-„*Brest-Litowsk, 9. Januar. Heute vormittag um 11 Uhr fand eine Vollsitzung statt, an der sämtlichenDelegationen und die ukrainischen Vertreter teilnahmen. Der Großwesir Talaat Pascha eröffnete dieSitzung und übergab den Vorsitz an den Staatssekretär v. Kühlmann. Dieser warf einen Rückblick aufdie Vorgeschichte und den bisherigen Gang der Verhandlungen und schloß:
-Soweit sich aus den vor der Arbeitstaufe geführten Verhandlungen ein Urteil bilden läßt, halte ich dieSchwierigkeiten materieller Natur nicht für groß genug, um ein Scheitern des Friedenswerkes unddamit voraussichtlich die Wiederaufnahme des Krieges im Osten mit seinen unabsehbaren Folgen fürgerechtfertigt zu halten.*
+„*Brest-Litowsk, 9. Januar. Heute vormittag um 11 Uhr fand eine Vollsitzung statt, an der sämtlichenDelegationen und die ukrainischen Vertreter teilnahmen. Der Großwesir Talaat Pascha eröffnete dieSitzung und übergab den Vorsitz an den Staatssekretär v. Kühlmann. Dieser warf einen Rückblick aufdie Vorgeschichte und den bisherigen Gang der Verhandlungen und schloß:*
+
+*Soweit sich aus den vor der Arbeitstaufe geführten Verhandlungen ein Urteil bilden läßt, halte ich dieSchwierigkeiten materieller Natur nicht für groß genug, um ein Scheitern des Friedenswerkes unddamit voraussichtlich die Wiederaufnahme des Krieges im Osten mit seinen unabsehbaren Folgen fürgerechtfertigt zu halten.*
 
 *Hierauf führte der österreich-ungarische Minister des Aeßern, Graf Czernin u. a., zu den russischen Delegierten gewendet, aus: ‚Sie, meine Herren, haben seinerzeit an uns die Einladung fürallgemeine Friedensverhandlungen ergehen lassen. Wir haben dieselbe angenommen, und wir haben
 uns auf eine Basis für den allgemeinen Frieden geeinigt. Auf dieser Basis haben Sie Ihren Verbündetenein zehntägiges Ultimatum gestellt. Ihre Verbündeten haben Ihnen nicht geantwortet, und heute handeltes sich nicht mehr Verhandlungen zwecks eines allgemeinen Friedens, sondern eines Separatfriedenszwischen Rußland und dem Vierbunde. Wenn die Herren der russischen Delegation von den gleichenIntentionen beseelt sind, so werden wir zu einem alle befriedigenden Ergebnisse gelangen; wenn nicht,dann werden die Dinge ihren notwendigen Lauf nehmen, aber die Verantwortung für die Fortsetzung des
@@ -3261,7 +3262,7 @@ die Hände eines temporären Organes über, das durch Verständigung der politis
 
 *Ich möchte dann feststellten, daß die russische Delegation für die besetzten Gebiete die Anwendungeines Selbstbestimmungsrechtes der Völker in einer Weise und in einem Umfange fordert, wie es ihreRegierungen im eigenen Lande nicht anwendet.*
 
-*Ihre Regierung ist lediglich begründet auf Macht, und zwar auf Macht, die rücksichtslos mit Gewalt jeden Andersdenkenden unterdrückt. Jeder Andersdenkende wird einfach als Gegenrevolutionär[Reichsbürger] und Bourgeois vogelfrei erklärt. Ich will diese meine Ansicht nur an zwei Beispielenerklären.*
+*Ihre Regierung ist lediglich begründet auf Macht, und zwar auf Macht, die rücksichtslos mit Gewalt jeden Andersdenkenden unterdrückt. Jeder Andersdenkende wird einfach als Gegenrevolutionär und Bourgeois vogelfrei erklärt. Ich will diese meine Ansicht nur an zwei Beispielenerklären.*
 
 *In der Nacht vom 30. zum 31. Dezember wurde der erste weißrussische Kongreß in Minsk, der dasSelbstbestimmungsrecht des weißrussischen Volkes geltend machen wollte, von den Maximalisten durch
 Bajonette und Maschinengewehre auseinandergejagt.*
@@ -3304,10 +3305,14 @@ Nach längerer Geschäftsordnungsdebatte wurde die Sitzung aufgehoben.*
 
 „*New York, 4. Juli. (Reuter-Meldung.) Wilson sagte in seiner Rede am Grabe Washingtons in MountVernon am Donnerstag nachmittag u. a.: Vergangenheit und Gegenwart sind in einen Kampf auf Leben
 und Tod verwickelt; das Ergebnis muß endgültig sein. Wir würden keinen Vergleich, keine halbeEntscheidung dulden können, es würde auch keine halbe Entscheidung möglich sein. Die verbündetenVölker kämpfen für die folgenden Ziele, die verwirklicht sein müssen, ehe Friede werden kann:*
+
 *1. Vernichtung jeder Willkür und Macht, die für sich allein und heimlich den Frieden der Welt[world] stören kann und, wenn ihre Vernichtung jetzt nicht möglich ist, mindestens ihreHerabdrückung zu tatsächlicher Machtlosigkeit. [um im Vakuum irgendeinen Hitler zu erzeugen]*
+
 *2. Regelung aller Fragen sowohl der territorialen wie der Souveränitätsfragen, der wirtschaftlichen und politischen Fragen auf der Grundlage einer freien Annahme dieser Regelungendurch das Volk, das unmittelbar dabei betroffen ist, und nicht auf der Grundlage des materiellenInteresses oder Vorteils irgendeines anderen [US-]Volkes, das eine andere Regelung zurAusbreitung seines Einflusses oder seiner Herrschaft wünscht.*
+
 *3. Einwilligung aller Völker, in ihren Verhältnissen zueinander sich von denselben Grundsätzen derEhre und Achtung vor dem Gewohnheitsrechte358 der zivilisierten Gesellschaften359 leiten zu
 lassen, wie sie für die einzelnen Bürger moderner Staaten gelten, dergestalt, daß alleVersprechungen und Verträge gewissenhaft beobachtet, daß keine Sonderanschläge oderVerschwörungen angezettelt werden, und daß wechselseitiges Vertrauen geschaffen wird auf derBasis wechselseitiger Achtung vor dem Recht.*
+
 *4. Schaffung einer Friedensorganisation, die verbürgt, daß die gesamte Macht der freien Nationenjede Rechtsverletzung verhüten wird, und ein Schiedsgericht einrichtet, dem alle internationalen
 Gegensätze unterbreitet werden sollen. Diese großen Ziele können wir in einen Gedanken zu-*
 
@@ -3324,12 +3329,7 @@ Gegensätze unterbreitet werden sollen. Diese großen Ziele können wir in einen
 
 *sammenfassen: Wir streben nach der Herrschaft des Rechtes, gegründet auf die Zustimmungder Regierten und gestützt durch die organisierte Meinung der Menschheit.*“360
 
-*Was hat es mit dieser flagranten Note Wilsons und seiner Berater genau auf sich? Ausgerechnet vor demGrab Washingtons, der mit Baron von Steuben für die Freiheit Nordamerikas kämpfte und überhaupt
-diesen Sieg der Freiheit erst ermöglichte, bevor dieser sodann erneut gestohlen wurde, hält Wilson alsodennoch diese Rede. Wilson suggeriert hier, daß Deutschland nicht zu den zivilisierten Staaten zähltund erst noch lernen und versichern müsse in Zukunft sich wie gefordert zu verhalten. Wilson will
-Deutschland vernichten oder wenigstens herabdrücken. Wilson ermächtigt sich selbst und seineFreunde im Recht für die Menschheit durch Zustimmung der Regierten und gestützt auf eine zurechtorganisierte Meinung statt Fakten und Beweise. Ein wenig wie heute gegen Rußland. Als hätte man eserahnen können.*
-
-*Wilson kannte das Steuben-Denkmal hinter dem WH und insoweit sicher auch den Freundschaftsvertragzwischen Preußen und der 1776 Union – nicht 13. vereinten 1776 – aber in jedem Fall die beiden H a a g e r  Friedenskonferenzen 1899 und 1907, die wohl nicht zufällig jeweils damit endeten, daßals aller erstes Seine Majestät der Deutsche Kaiser und König von Preußen die Abkommen (HLKO)zeichnete. All das was Wilson hier als Bonbon an die Welt verkaufte, war das, was Preußen sukzessiveseit 1848 einzig einführte auf den Bund ausdehnte und zuletzt innerhalb des Bundesgebietes aberauch darüber hinaus, schützte. Wilson erklärte daher 1904 in seinem eigenen Buch „Der Staat“,361 daßDeutschland das beste System in Europa, also der Welt, hatte; eben dieses aber sollte 1918 plötzlich
-das Gegenteil sein, verdreht, gespiegelt, und aus einem „Friedenskaiser“ wurde über Nacht derblutigste Kriegsfürst, der dann jedoch nie zur Verantwortung gezogen worden ist. Nicht des Kaisers„Friedenswerk“ war gewünscht, das 43 Jahre Frieden und Wohlstand brachte, sondern bedingungslosdas „Wilsonsche“ UN-Friedenswerk, das fortan als Völkerbund Kriege sicherstellen sollte. Wenn eine Insel wie Haiti362 einem mörderischen Giganten wie Deutschland vollkommen grundlos, daunbeteiligt und ungeschädigt – dafür selbst genug Probleme –, den Krieg erklärt, weiß ein jedes Kind,das kann niemals nicht freiwillig geschehen sein.*
+[...]
 
 *Krieg entscheidet nicht darüber, wer im Recht ist, sondern lediglich wer überlebt.*
 
@@ -3348,6 +3348,38 @@ Friedensbereitschaft der deutschen Regierung seit langem bekannt. Es habe sich d
 
 
 ![Screenshot_20251212_203338~2.jpg](https://github.com/user-attachments/assets/c4ecdcf4-cf63-47e8-8922-f8e0d61b168e) 152
+
+
+Der Kanzler berührte dann noch im einzelnen die Zukunftsprobleme im Osten und Westen. Er besprach die Ermordung des Gesandten Mirbach in Moskau und sagte u. a.: ‚Alle Spuren deuten darauf
+hin, daß die fluchwürdige Tat auf Anregung der Entente geschehen ist, um uns mit der jetzigenrussischen Regierung neuerdings in Krieg zu verwickeln, – ein Zustand, den wir auf das eifrigstevermeiden wollen; wir wollen keinen neuen Krieg mit Rußland. Die jetzige russische Regierung will den
+Frieden und braucht den Frieden, und in dieser friedensgeneigten Absicht unterstützen wir sie. Wirstehen so, daß wir loyal mit der jetzigen russischen Regierung verhandeln, daß wir nichts unternehmen,was die russische Regierung in ihrer Stellung schädigen könnte, daß wir aber unsere Ohren und unsere
+Augen offen halten, um uns nicht durch eine plötzliche Umwandlung der dortigen Verhältnisse insUnrecht setzen zu lassen, überraschen zu lassen. Ich kann nur an das Wort erinnern, das einmalGortschakow gesprochen hat:*
+
+*Wir sind stumm, aber wir sind nicht taub. Wir lassen uns mit gar keinen politischen Gegenströmungenein, aber wir horchen aufmerksam, wohin die Richtung in Rußland geht. Das ist der Standpunkt, den ich
+einnehme, das ist der Standpunkt, über den auch ich bei den Besprechungen am 2. Juli im GroßenHauptquartier die vollste Klarheit und das vollste Verständnis zwischen allen Beteiligten gefunden habe.
+Ich kann sagen, daß der Staatssekretär v. Kühlmann, der selbst bei diesen Gesprächen nicht anwesendwar, mit diesem Standpunkte vollkommen einverstanden gewesen ist, und daß die Oberste Heeresleitungdiesem Standpunkte ebenso vollkommen beigetreten ist. Über Einzelheiten kann im Einzelfalle da oderdort eine Meinungsverschiedenheit auftreten, aber die Grundlinie ist die, die ich eben gezeichnet habe.‘*
+
+*Im Anschluß daran sprach der Reichskanzler von den Gründen, die zu dem Rücktritt des Staatssekretärv. Kühlmann geführt haben. Er wies darauf hin, daß es keine sachlichen, sondern persönlichen Gründewaren, die Herrn v. Kühlmann veranlaßt haben, um Enthebung von seinem Amt zu bitten. Er habe sichvon ihm trennen müssen, da das notwendige Vertrauensverhältnis zwischen ihm und anderen Faktorennicht bestanden habe. Der Reichskanzler fuhr dann fort:*
+
+*Es versteht sich von selbst, daß ich meine Kontrasignisierung oder Unterschrift zu der Ernennung derHerrn v. Hintze nur dann gebe, wenn Herr v. Hintze meine Politik macht und nicht seine eigene. Dafür habe ich aber bereits in den Zusagen des Herrn von Hintze – die Ernennung ist noch nicht erfolgt –, meinerseits die feste Bürgschaft. Ich mache die Politik. Der Staatssekretär hat lediglich meine Politik zu führen.*“363
+
+**12.07.1918 Faustpfand Belgien**
+
+„*Berlin, 12. Juli. (amtlich.) Anknüpfend an seine gestrigen Darlegungen hat der Reichskanzler vor demHauptausschuß heute u. a. Folgendes ausgeführt:*
+
+*Was die Zukunft Belgiens betrifft, so bedeutet, wie ich gestern schon sagte, die Okkupation und derGegenwärtige Besitz Belgiens nur, daß wir ein Faustpfand für die künftigen Verhandlungen haben. Wir
+beabsichtigen nicht, Belgien in irgendeiner Form zu behalten. Wir wünschen genau so, wie ich schonam 23. Februar gesagt habe, daß das nach dem Kriege wiedererstandene Belgien als selbstständigesStaatswesen, keinem als Versall unterworfen, mit uns in guten, freundschaftlichen Verhältnisse lebe.
+Das ist der Standpunkt, den ich zu dem belgischen Problem von Anfang an eingenommen habe und auchheute noch einnehme. Diese Seite meiner Politik steht durchaus im Zusammenhang mit den allgemeinenRichtlinien, die ich ihnen gestern dargelegt habe. Wir führen diesen Krieg als Verteidigungskrieg. Weil
+wir ihn als Verteidigungskrieg führen, weil uns von Anfang an jede imperialistische, jede auf die Weltherrschaft gerichtete Tendenz ferngelegen hat, darum werden auch unsere Friedensziele dementsprechen. Was wir wollen, das ist die Unversehrtheit unseres Territoriums, das ist freie Luft für die
+Entwicklung unseres Volkes, insbesondere auf dem wirtschaftlichen Gebiete, das ist natürlich auch dienotwendige Sicherung für künftige schwierige Verhältnisse. Das trifft vollkommen auch für denStandpunkt zu, den ich Belgien gegenüber einnehme. Wie sich dieser Standpunkt aber im einzelnenfestlegen läßt, das hängt von den künftigen Verhandlungen ab. Darüber kann ich jetzt keine verbindende
+Erklärung abgeben.*“364
+
+363 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2795
+
+364 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2796
+
+---
+
 
 ![Screenshot_20251212_203343~2.jpg](https://github.com/user-attachments/assets/89f418a5-aa90-4afb-9fe1-f7a0fb60941a) 153
 
