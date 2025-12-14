@@ -3043,6 +3043,48 @@ gez. Popow für Bulgarien; gez. Essimy Bey für die Türkei.*“343
 
 ![Screenshot_20251212_200726~2.jpg](https://github.com/user-attachments/assets/8c5a476c-b5c7-4c72-9831-ed49d8dfaaf9) 144
 
+
+**06.01.1918 Anerkennung finnische Republik durch Deutschland**
+
+„*Berlin, 6. Januar. (Amtlich.) Nachdem die russische Regierung erklärt hat, daß sie zur sofortigenAnerkennung der Unabhängigkeit Finnlands bereit sei, sobald ein Antrag der Finnen vorliege, undnachdem die finnische Regierung einen entsprechenden Schritt in Petersburg getan hat, der entgegenkommend aufgenommen worden ist, hat Seine Majestät der Kaiser den Reichskanzler unter dem4. d. M. beauftragt, den hier anwesenden Bevollmächtigten der finnischen Regierung, Staatsrat Hielt,Professor Erich und Direktor Sario, namens des Deutschen Reiches die Anerkennung der finnischen
+Republik auszusprechen. Graf von Hertling hat in Anwesenheit des Unterstaatssekretärs, Freiherr von
+dem Busche die drei Bevollmächtigten heute empfangen und ihnen die Anerkennung seitens Deutschlands erklärt.*“344
+
+**07.01.1918 Rückkehr nach Brest-Litowsk**
+
+„*Brest-Litowsk, 7. Januar. Heute vormittag sind die russischen Friedensdelegierten einschließlichTrotzki eingetroffen.*“345
+
+**08.01.1918 Wiederaufnahme Friedensverhandlung Brest-Litowsk**
+
+„*Brest-Litowsk, 8. Januar. Heute nachmittag wurde eine Vorbesprechung zwischen den Vorsitzendender hier versammelten Abordnungen abgehalten, an der teilnahmen: Staatssekretär v. Kühlmann,Minister des Aeußeren Graf Czernin, Justizminister Popow, Volkskommissar für Auswärtige Angelegenheiten Trotzki, Großwesir Talaat Pascha und ukrainischer Staatssekretär für Handel und IndustrieWsewolod Holubowytsch. Nach Erörterung von Form- und Programmfragen wurde für morgen vormittag11 Uhr eine Vollsitzung anberaumt. Später fanden Besprechungen zwischen Vertretern der Vierbundmächte und ukrainischen Vertretern statt.*“346
+
+**08.01.1918 Wilsons 14 Punkte**
+
+„*Washington, 8. Januar. (Reuter-Meldung.) Wilson übermittelte heute dem Kongreß eine Botschaft,in der es u. a. heißt:
+Unser Programm ist das Programm des Weltfriedens, und es stellt zugleich das einzige möglicheProgramm dar.*
+
+*Der erste Punkt ist, daß alle Friedensverträge öffentlich sind und öffentlich zustandegekommensind, und daß danach keine geheimen internationalen Vereinbarungen irgendwelcher Art [was ich selbstgern tu] mehr getroffen werden dürfen, sondern die Diplomatie immer offen und vor aller Welt getriebenwerden soll.*
+
+*Der zweite Punkt ist vollkommene Freiheit der Schiffahrt auf dem Meere außerhalb derterritorialen Gewässer im Frieden sowohl wie im Krieg, mit Ausnahme jener Meere, die ganz oderteilweise durch internationale Handlungen zwecks Durchsetzung internationaler Verträge geschlossenwerden.*
+
+*Der dritte Punkt ist die Beseitigung, soweit sie möglich ist, aller wirtschaftlicher Schranken und die
+Errichtung der Gleichheit der Handelsbeziehungen [TTIP] unter allen Nationen, die sich dem Frieden
+anschließen und sich zu seiner Aufrechterhaltung vereinigen.*
+
+*Die vierte Bedingung ist, daß entsprechende Garantien gegeben und angenommen werden, daß dieRüstung der Völker auf das niedrigste mit der inneren Sicherheit vereinbarende Maß herabgesetzt
+werden.*
+
+343 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2565-2566
+
+344 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2566
+
+345 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2566
+
+346 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2567
+
+---
+
+
 ![Screenshot_20251212_200730~2.jpg](https://github.com/user-attachments/assets/c54df396-8b7a-4087-8cbd-b44770590697) 145
 
 ![Screenshot_20251212_200734~2.jpg](https://github.com/user-attachments/assets/e2aa0075-a257-47b0-a235-b5b45b491c0c) 146
