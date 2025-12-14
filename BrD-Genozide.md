@@ -3381,6 +3381,30 @@ Erklärung abgeben.*“364
 
 ![Screenshot_20251212_203343~2.jpg](https://github.com/user-attachments/assets/89f418a5-aa90-4afb-9fe1-f7a0fb60941a) 153
 
+**13.07.1918 Deutsche Kriegskredite**
+
+„*Berlin, 13. Juli. Der Reichstag hat die Kriegskredite von fünfzehn Milliarden gegen die Stimmen derUnabhängigen Sozialdemokraten, bei Stimmenthaltung der Polen, angenommen.*“365
+
+**14.07.1918 Kriegserklärung Haitis**
+
+„*New York, 14. Juli. Reuter meldet aus Port-au-Prince, der Staatsrat von Haiti habe einstimmig beschlossen, Deutschland den Krieg zu erklären. – Zusatz des W.T.B.: Eine Bestätigung dieser Meldung liegt hiernicht vor.*“366
+
+*Am 28.07.1915, besetzten die USA Haiti, mit dem offiziellen Ziel, die öffentliche Ordnung wiederherzustellen. Mit Haitian-American Convention vom 16.09.1915 wurde Haiti zum US-Protektorat mit
+Polizeirecht und Finanzkontrolle. Einfluss kleiner Gruppe deutscher Einwanderer (etwa 200) in derWirtschaft Haitis groß. Im Juli 1918, kurz vor Ende des Ersten Weltkriegs, wurde Haiti gezwungen,
+Deutschland den Krieg zu erklären, womit der Weg zur Enteignung der Deutschen frei war. Haiti solltesich davon nie wieder erholen. Nach dem Krieg wurde den Deutschen ihr Besitz zurückerstattet.*367
+
+„*Vorstellung der auf der Französchen Kolonie St: Domingo von denen schwartzen Sklaven eingebildeteFranzösischen demokratischen Freÿheit, welche selbige durch unerhörte Grausamkeit zu erwerben
+gedachten. Sie ruinierten viele Wolle und Zucker Plantagen und verbran[n]ten die Mühlen, sie metzelden auch ohne Unterschied alle Weis[ß]e die in ihre Hände fielen, dabeÿ ihnen ein weis[ß]es Kind zurFahne diente, schändeten Frauen und schlepten sie in elende Gefangenschaft, 1791. allein ihrVorhaben wurde zu nichte.*“
+
+365 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2796 Deutsche Kriegskredite
+
+366 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2798 Haiti
+
+367 Wikipedia Stand 17.05.2024 – https://de.wikipedia.org/wiki/Geschichte_Haitis#Intervention_der_USA_(1915_bis_1934)
+
+---
+
+
 ![Screenshot_20251212_203349~2.jpg](https://github.com/user-attachments/assets/30150cb8-5bde-4ad3-943b-b2c721aa6aae) 154
 
 ![Screenshot_20251212_203359~2.jpg](https://github.com/user-attachments/assets/2899de22-25f7-49f8-a1dc-ba4034a664ce) 155
