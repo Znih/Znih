@@ -3600,7 +3600,27 @@ mir mit, daß Drews einer der ersten Beamten gewesen ist, der von der Abdankung 
 
 ![Screenshot_20251212_214113~2.jpg](https://github.com/user-attachments/assets/c98658af-3455-4255-87fb-30f5125635f2) 173
 
+---
+
 ![Screenshot_20251212_214118~2.jpg](https://github.com/user-attachments/assets/f8c4b2bd-5bdb-4991-9815-909b56f12614) 174
+
+**31.10.1918 Kaiser verläßt Berlin**
+
+„*Der Kaiser verläßt Berlin*“. Nachdem der Kaiser „*sich mehrere Wochen in der Reichshauptstadtaufgehalten hatte*“, erfolgte nun am **31.10.1918** die Abreise vom Potsdamer Kaiserbahnhof „*in das
+Große Hauptquartier*“ in Spa.448
+
+444 „*Erinnerungen und Dokumente*“, Leipzig 1927, ursprünglich als Rechenschaftsbericht gedacht, S. 531-534 Verschwörungstheorie
+
+445 „*Erinnerungen und Dokumente*“, Leipzig 1927, ursprünglich als Rechenschaftsbericht gedacht, S. 534 Abdankungsfrage – Antwort!
+
+446 „*Erinnerungen und Dokumente*“, Leipzig 1927, ursprünglich als Rechenschaftsbericht gedacht, S. 542 Abdankungsfrage – Antwort!
+
+447 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2952 v. 31.10.1918, Waffenstillstand Türkei
+
+448 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2952 v. 31.10.1918, Kaiser auf nach Spa
+
+---
+
 
 ![Screenshot_20251212_214124~2.jpg](https://github.com/user-attachments/assets/656f6675-54e3-4df4-af24-ea3627b8a237) 175
 
