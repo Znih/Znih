@@ -2902,6 +2902,45 @@ nicht aus Artikel 2 ein anderes ergibt.*
 
 ![Screenshot_20251212_200711~2.jpg](https://github.com/user-attachments/assets/147358c8-759e-4367-9681-e6a3cb83b0e6) 141
 
+
+„*Artikel 2. Nachdem die russische Regierung, entsprechend ihren Grundsätzen, für alle imVerbande des russischen Reiches lebenden Völker333 ohne Ausnahme ein bis zu ihrer völligenAbsonderung334 gehendes Selbstbestimmungsrecht335 proklamiert hat, nimmt sie Kenntnis von denBeschlüssen, worin der Volkswille ausgedrückt ist, für Polen sowie für Litauen, Kurland und Teile von
+Estland und Livland die volle staatliche Selbstbestimmung in Anspruch zu nehmen und aus demrussischen Reichsverbande auszuscheiden.*
+
+*Die russische Regierung erkennt an, daß diese Kundgebungen unter den gegenwärtigenVerhältnissen als Ausdruck des Volkswillens anzusehen sind, und ist bereit, die hieraus sich ergebenden
+Folgerungen zu ziehen. – Da diejenigen Gebiete, auf welche die vorstehenden Bestimmungen Anwendungfinden, die Frage der Räumung nicht so liegt, daß diese gemäß den Bestimmungen des Artikel 1
+vorgenommen werden kann, so werden Zeitpunkt und Modalität der nach russischen Auffassung nötigen
+Bekräftigung der schon vorliegenden Lostrennungserklärung durch ein Volksvotum auf breiterGrundlage, bei der irgendein militärischer Druck in jeder Weise auszuschalten ist, der Beratung und
+Festsetzung durch eine besondere Kommission vorbehalten.*336
+
+*Eine im wesentlichen gleichlautende Formulierung wurde österreich-ungarischerseitsvorgeschlagen.*
+
+*Die russische Delegation nahm diese Erklärung zur Kenntnis und stellte ihre Auffassung daraufhin wie folgt fest: ‚Wir stehen auf dem Standpunkt, daß als tatsächlicher Ausdruck des Volkswillens nureine solche Willenserklärung betrachtet werden kann, die als Ergebnis einer bei gänzlicherAbwesenheit fremder Truppen in den betreffenden Gebieten vorgenommenen freien Abstimmungen
+erscheint. Daher schlagen wir vor und bestehen darauf, daß eine klarere und genauere Formulierungdieses Punktes erfolgt. Wir sind jedoch damit einverstanden, daß zur Prüfung der technischenBedingungen für die Verwirklichung eines derartigen Referendums, desgleichen zur Festlegung einerbestimmten Räumungsfrist eine Spezialkommission eingesetzt wird.‘
+Im allgemeinen kann nach dem Verlauf der bisherigen Verhandlungen mit Befriedigung festgestelltwerden, daß die Ansichten der vertretenden Mächte über die Regelung der wichtigsten Fragen sich invielen Punkten decken, in anderen sich derart genährt haben, daß die Hoffnung auf Erzielung einesEinvernehmens auch in diesen begründet ist.*“337
+
+**03.01.1918 Beteiligung Ukraine in Brest-Litowsk**
+
+„*Berlin, 3. Januar. Am 1. Januar 1918 ist in Brest-Litowsk die Friedensdelegation der ukrainischenVolksrepublik, zusammengesetzt aus folgenden vier Bevollmächtigten, eingetroffen: M. F. Lewitsky,N. M. Lobinsky, M. N. Polosow und A. A. Sewrjuk. Alle vier Vertreter sind Mitglieder der ukrainischen
+Zentralroda (des ukrainischen Parlaments) und der allrussischen konstituierenden Versammlung(in Petrograd). Die Delegierten der Ukraine habe alle Vollmachten von den Regierung der ukrainischenVolksrepublik zur Führung von Friedensverhandlungen.*“338
+
+**03.01.1918 Rußland fordert Verlegung nach Stockholm**
+
+„*Petersburg, 3. Januar. (Meldung der Petersburger Telegraphenagentur.) Der Vorsitzende der Friedensdelegation, Genosse Joffé, hat gestern an die Vorsitzenden der Vertretungen von Deutschland,Oesterreich-Ungarn, Bulgarien und Türkei folgendes Telegramm gesandt:
+Die Regierung der Russischen Republik sieht es als dringlich an, die weiteren Friedensverhandlungenauf neutralem Gebiet zu führen und schlägt ihre Verlegung nach Stockholm vor.* Die russische333 auch Tataren, erst durch Putin in 2023
+
+334 Abspaltung, „*als eigene Nation ins Leben treten*“
+
+335 Selbstbestimmungsrecht der Völker UND des Individuums n. Ludwig v. Mises 1924;
+https://www.mises.at/static/literatur/Buch/mises-theorie-des-geldes-und-der-umlaufsmittel-auflage2.pdf
+
+336 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2557 Artikel 1 u. 2
+
+337 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2558
+
+338 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2562
+
+---
+
 ![Screenshot_20251212_200716~2.jpg](https://github.com/user-attachments/assets/62f4e948-20c4-46ab-8d1c-32fdd910aa2f) 142
 
 ![Screenshot_20251212_200721~2.jpg](https://github.com/user-attachments/assets/307c9e9e-1674-4a3b-9f98-ee668bf45782) 143
