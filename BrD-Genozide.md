@@ -2943,6 +2943,50 @@ https://www.mises.at/static/literatur/Buch/mises-theorie-des-geldes-und-der-umla
 
 ![Screenshot_20251212_200716~2.jpg](https://github.com/user-attachments/assets/62f4e948-20c4-46ab-8d1c-32fdd910aa2f) 142
 
+
+*Delegation erwartet Antwort hierauf in Petersburg. Was den Vorschlag der deutschen und österreichungarischen Delegation vom 25. Dezember, wenigstens in der Fassung der ersten beiden Punkte,
+anbelangt, so sieht die Regierung der Russischen Republik als geschäftsführender Hauptausschuß derSowjets in voller Uebereinstimmung mit der von unserer Friedensdelegation ausgedrückten Meinung
+diesen Vorschlag als dem Grundsatz der freien Selbstbestimmung der Völker widersprechend an, selbstin der eingeschränkten Form der Antworterklärung des Vierbundes.
+Der Vorsitzende der Delegation.
+Joffé*“339
+
+**04.01.1918 Unterbrechung Brest-Litowsk**
+
+„*Berlin, 4. Januar. Im Hauptausschuß des Reichstags erklärte der Reichskanzler Graf Hertling: Dierussische Regierung schlägt eine Verlegung der Verhandlungen von Brest-Litowsk nach Stockholm vor.*
+
+*Ganz abgesehen davon, daß wir nicht in der Lage sind, uns von den Russen Vorschriften über den Ortmachen zu lassen, wo wir die Verhandlungen weiterführen sollen, darf ich darauf hinweisen, daß eineVerlegung nach Stockholm zu außerordentlich großen Schwierigkeiten führen würde. Ich will nur dieeine Schwierigkeit anführen, daß die direkte Verbindung, die die verhandelnden Delegierten mit ihrenHauptstädten Berlin, Wien, Sofia, Konstantinopel und Petersburg haben müssen – die direktenVerbindungen, die in Brest-Litowsk angelegt sind, funktionieren gut –, in Stockholm auf die größtenSchwierigkeiten stoßen würde. Schon dieser eine Punkt führt dazu daß wir nicht darauf eingehen können.*
+
+*Dazu kommt, daß die Machenschaften der Entente, Mißtrauen zu säen zwischen der russischen Regierung, ihren Vertretern und uns, dort neuen Boden gewinnen würden.*
+
+*Ich habe daher Herrn Staatssekretär v. Kühlmann beauftragt, diesen Vorschlag abzulehnen.*
+
+(Bravo!)
+
+*Inzwischen sind in Brest-Litowsk Vertreter der Ukraine eingetroffen, und zwar nicht nur als Sachverständige, sondern mit Vollmachten zu Verhandlungen ausgestattet. Wir werden ganz ruhig mit denVertretern der Ukraine weiterverhandeln.*
+
+*Ich füge hinzu, daß von Petersburg mitgeteilt worden ist, die russische Regierung könne auf Punkt 1und 2 unserer Vorschläge nicht eingehen. Diese beiden Punkte beziehen sich auf die Modalitäten derRäumung der Gebiete und die Vornahme der Volksabstimmungen. In der russischen Presse wird unsinsinuiert, daß in diesen Punkten 1 und 2 ausgedrückt sei, wie wir uns in illoyaler Weise unsererZusage betreffend das Selbstbestimmungsrecht der Völker entziehen wollen. Ich muß diese Insinuationzurückweisen.*
+
+(Bravo!)
+
+*Punkt 1 und 2 sind lediglich durch praktische Erwägungen bestimmt. Wir könnendavon nicht abgehen.*
+
+*Ich glaube, meine Herren, wir können getrost abwarten, wie dieser Zwischenfall weiter verlaufenwird. Wir stützen uns auf unsere Machtstellung, auf unsere loyale Gesinnung und auf unser gutesRecht.*
+
+(Lebhaftes Bravo!)
+
+*Brest-Litowsk, 4. Januar. Der Vorsitzende der russischen Delegation hat am 3. d. M. aus Petersburgan die Bevollmächtigten der Vierbundmächte in Brest-Litowsk eine Depesche gerichtet, in der er unter
+Berufung auf einen Beschluß der Regierung der Russischen Republik vorschlägt, die Verhandlungenim neutralen Auslande fortzusetzen.*
+
+*Im Erwidern hierauf haben die Delegationen der vier verbündeten Mächte an Herrn Joffé am 4. d. M.telegraphiert, daß sie jede Verlegung des Verhandlungsortes ablehnen, da bindend verabredet wordensei, die Verhandlungen spätestens am 5 d. M. in Brest-Litowsk wieder aufzunehmen.*“340
+
+339 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2562
+
+340 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2563-2564
+
+---
+
+
+
 ![Screenshot_20251212_200721~2.jpg](https://github.com/user-attachments/assets/307c9e9e-1674-4a3b-9f98-ee668bf45782) 143
 
 ![Screenshot_20251212_200726~2.jpg](https://github.com/user-attachments/assets/8c5a476c-b5c7-4c72-9831-ed49d8dfaaf9) 144
