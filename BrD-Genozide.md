@@ -3751,9 +3751,59 @@ Abdankungsfrage irgendeinen Schritt zu unternehmen oder dem Kaiser derartiges vo
 
 
 
-
+---
 
 ![Screenshot_20251212_220848~2.jpg](https://github.com/user-attachments/assets/a605e47a-0ddf-4d0d-aea8-4062a5262062) 202
+
+10.11.1918 Waffenstillstandsbedingungen
+„Folgendes ist ein Auszug aus den Waffenstillstandsbedingungen:
+1. Inkrafttreten 6 Stunden nach Unterzeichnung.
+2. Sofortige Räumung von Belgien, Frankreich, Esaß-Lothringen binnen 14 Tagen. Was an Truppen nach dieser
+Zeit übrigbleibt, [wird] interniert oder [K]riegsgefangen[er].
+3. Abzugeben 5000 Kanonen, zunächst schwere, 30 000 Maschinengewehre, 3000 Minenwerfer, 2000 Flugzeuge.
+4. Räumung des linken Rheinufers, Mainz, Koblenz, Köln besetzt vom Feind auf Radius von 30 Kilometern
+Tiefe.
+5. Auf rechtem Rheinufer 30 bis 40 Kilometer Tiefe neutrale Zone, Räumung in 11 Tagen.
+6. Auf linkem Rheinufergebiet nichts hinwegführen, alle Fabriken, Eisenbahnen usw. Inhalt belassen.
+7. 5000 Lokomotiven, 150 000 Waggons, 10 000 Kraftwagen abgeben.
+8. Unterhalt der [aller] Besatzungstruppen [überall] durch Deutschland.
+9. Im Osten alle Truppen hinter Grenze vom 1. 8. 1914 zurückzunehmen.
+10. Verzicht auf Verträge von Brest-Litowsk und Bukarest.
+11. Bedingungslose Kapitulation von Ostafrika.
+12. Rückgabe des Standes der belgischen Bank, des russischen und rumänischen Goldes.
+13. Rückgabe der Kriegsgefangenen ohne Gegenseitigkeit.
+14. Abgabe von 160 U-Booten, 8 leichten Kreuzern, 6 Dreadnoughts; die übrigen Schiffe desarmiert und überwacht
+durch Alliierte in neutralen oder alliierten Häfen.
+15. Sicherheit der freien Durchfahrt durch das Kattegat, Wegräumung der Minenfelder und Besetzung aller Forts
+und Batterien, von denen aus diese Durchfahrt gehindert werden könnte.
+16. Blockade bleibt bestehen. Deutsche Schiffe dürfen weiter gekapert werden.
+17. Alle von Deutschland für Neutrale verhängten Beschränkungen der Schiffahrt werden aufgehoben.
+18. Waffenstillstand dauert 30 Tage.“
+554
+10.11.1918 Bittnote an Wilson
+„Eine Note an Wilson um Milderung der Bedingungen. […] Heute morgen fand eine Besprechung der
+Staatssekretäre statt. Nach Bekanntgabe der Bedingungen des Waffenstillstandes wurden die
+Bedingungen angenommen. Entsprechende Weisungen sind der Friedensdelegation gegeben worden.
+[von Wem?:]
+Heute Nacht ist folgende Note an den Staatssekretär Lansing nach Washington gefunkt worden:
+Herr Staatssekretär! Ueberzeugt von der Gemeinsamkeit der demokratischen Ziele und Ideale hat
+sich die deutsche [sozialistische Revolutions-]Regierung an den Herrn Präsidenten der Vereinigten
+Staaten [Wilson] mit der Bitte gewandt, den Frieden wiederherzustellen. Dieser Friede sollte den Grundsätzen entsprechen, zu denen Präsident Wilson sich stets bekannt hat. Er sollte eine gerechte Lösung
+aller strittigen Fragen und eine dauernde Versöhnung der Völker zum Zwecke haben. Der Präsident hat
+ferner erklärt, daß er nicht mit dem deutschen Volke Krieg führen und es seiner friedlichen Entwicklung nicht behindern wolle.
+Die deutsche Regierung hat die Bedingungen für den Waffenstillstand erhalten.
+Nach einer Blockade von 50 Monaten würden diese Bedingungen, insbesondere die Abgabe der
+Verkehrsmittel und die Unterhaltung der Besatzungstruppen bei gleichzeitiger Fortdauer der Blockade,
+die Ernährungslage Deutschlands zu einer verzweifelten gestalten und den Hungertod von Millionen
+Männern, Frauen und Kindern bedeuten.
+Wir mußten die Bedingungen annehmen.
+Wir machen aber den Präsidenten Wilson feierlich und ernsthaft darauf aufmerksam, daß die
+Durchführung der Bedingungen im deutschen Volke das Gegenteil der Gesinnung erzeugen muß, die
+eine Voraussetzung für den Neuaufbau der Völkergemeinschaft bilden und einen dauerhaften
+Rechtsfrieden verbürgt.
+554 „Amtliche Kriegs-Depeschen“ – „Nach Berichten des“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2974-2975 v. 10.11.1918, Auszug Bedingungen
+
+---
 
 ![Screenshot_20251212_220855~2.jpg](https://github.com/user-attachments/assets/6e520745-e199-486a-b71b-c6e37648fc33) 203
 
