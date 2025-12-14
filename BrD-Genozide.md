@@ -3192,6 +3192,44 @@ Verbündeten entgegenbringe, bestärken es in dem Wunsche, den schleunigsten Fri
 
 ![Screenshot_20251212_200743~2.jpg](https://github.com/user-attachments/assets/70f53fcb-6b7a-48dc-80ec-7c4223d4c1b3) 148
 
+*Vorwand eines Abbruchs der Friedensverhandlungen aus technischen Gründen zu verzichten, nehmedie russische Delegation die Forderung an, in Brest-Litowsk zu bleiben. Sie bleibe in Brest-Litwosk, umkeine Möglichkeit in dem Kampfe um den Frieden unausgenutzt zu lassen.*“352
+
+**10.01.1918 Annullierung der russischen Staatsschuld**
+
+„*Petersburg, 10. Januar. (Meldung der Petersburger Telegraphenagentur.) Ein Erlaß des Rates der Volkskommissare ordnet die Einstellung der Bezahlung von Coupons und Dividenden an. Die Bezahlung von
+Coupons ist bis zum Erlaß einer neuen Verfügung verboten. Der Handel mit Aktien und Obligationen istbei Strafe der Einziehung der Immobilien verboten.*“353
+
+**11.01.1918 Beginn Kommissionsberatungen in Brest-Litowsk**
+
+„*Brest-Litowsk, 11. Januar. Im Sinne des in der gestrigen Plenarsitzung gefaßten Beschlusses tratengestern nachmittag Abordnungen der Delegationen Deutschlands, Oesterreich-Ungarns und Rußlands zu
+einer Besprechung zusammen. Es wurde vereinbart, daß die von der russischen Delegation am27. Dezember 1917 vorgeschlagene Kommission zur Beratungen der politischen und territorialen Fragengebildet werden solle, und dass parallel mit den Beratungen dieser Kommission Vorbesprechungen derFachreferenten der einzelnen Delegationen über die Regelungen der wirtschaftlichen und rechtlichen
+Fragen stattzufinden hätten. Diese Kommission hat sich heute vormittag 10 Uhr konstituiert und ihreBeratungen begonnen, die um 1 Uhr nachmittags unterbrochen und um ½6 Uhr fortgesetzt wurden.*“354
+
+**13.01.1918 Räumungsdebatte und Selbstbestimmungsrecht**
+
+„*Brest-Litowsk, 13. Januar. Die am 11. d. M. konstituierte deutsch-österreichisch-ungarisch-russischeKommission zur Beratung der territorialen Fragen hielt am 11. und 12. d. M. drei lange Sitzungen ab.*
+
+*Es gelangte u. a. nach längerer Debatte die Frage zur Erörterung, auf welche Teile der besetztenGebiete sich die Räumung zu erstrecken habe.
+
+*Das Ergebnis der beiderseitigen Ausführungen über diesen Punkt wurde vom Staatssekretär v.Kühlmann folgendermaßen zusammengefaßt: Herr Trotzki hat vorgeschlagen: Errichtung vonVertretungskörpern, denen die Organisation und die Festsetzung derjenigen Modalitäten übertragenwerden soll, unter denen von uns einstweilen rein theoretisch konzediert355 Volksabstimmungen oderVolkskundgebungen auf breiterer Basis erfolgen sollen, während wir auf dem Standpunkt stehen undstehen bleiben müssen, daß mangels anderer Vertretungskörper die vorhandenen und historischgewordenen Vertretungskörper präsumtiv356 der Ausdruck des Volkswillens sind, besonders in der einenvitalen Frage des Willens der Nation, eine Nation zu sein.*
+
+*Zusammenfassend stellte Staatssekretär v. Kühlmann fest, daß sich aus den Ausführungen HerrnTrotzkis zu ergeben scheine, er wäre bereit, die in den besetzten Gebieten vorhandenen Organe der
+Volksvertretung als provisorische Organe anzuerkennen, wenn diese Landteile nicht militärisch besetztwären, und er würde diesen dann auch die Befugnisse zuerkennen, das von ihm geforderte Referendumdurchzuführen.*
+
+*Herr Trotzki erklärte hierauf, daß Aeßerungen von Landtagen, Stellvertretungen und dergleichen alsAeßerungen des Willens eines bestimmten, einflußreichen Teiles der Bevölkerung aufgefaßt werdenkönnten, die aber nur Grund zur Annahme bildete, daß das betreffende Volk mit seiner staatlichenPostion unzufrieden sei. Hieraus ergebe sich die Schlußfolgerung, daß ein Referendum eingeholt werden*
+
+352 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2572-2573 Trotzki
+
+353 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2573 russische Staatsschuld
+
+354 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2574
+355 concedere „weichen, nachgeben, zugestehen“
+
+356 vermutlich, mutmaßlich, voraussetzend, als wahrscheinlich angenommen oder vorausgesetzt
+
+---
+
+
 ![Screenshot_20251212_200748~2.jpg](https://github.com/user-attachments/assets/51d3b6f8-65f3-4774-b84b-a64f9263b9f0) 149
 
 ![Screenshot_20251212_200755~2.jpg](https://github.com/user-attachments/assets/8cd8652f-092a-4f0a-88d3-e5e81d93919e) 150
