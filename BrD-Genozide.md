@@ -3507,7 +3507,51 @@ Im Felde, 31. Juli 1918 gez. Wilhelm I.R.*“372
 
 ![Screenshot_20251212_205106~2.jpg](https://github.com/user-attachments/assets/5445cbc5-755b-4e9d-a0ae-640912389fb8) 167
 
+
+---
+
 ![Screenshot_20251212_205113~2.jpg](https://github.com/user-attachments/assets/79e5529f-173e-4868-9bf1-4f7f0c552b3d) 168
+
+**28.10.1918 Sonderfriedensbereitschaft Türkei**
+
+„Konstantinopel, 28. Oktober. Das Blatt ‚Akscham‘ meldete gestern [27.10.1918] von berufener Seite,daß offizielle Verhandlungen der Türkei mit der Entente begonnen hätten. Delegierte seien mit GeneralTownshend abgereist. Die Nachricht beschäftigt die heutige Presse und wird meist in anerkennendemSinne besprochen. Viele geben sogar schon die Bedingungen bekannt. ‚Tanim‘ erklärt dagegen alle
+derartigen Nachrichten, auch aus offizieller Quelle, als reine Vermutungen. Es ist anzunehmen, daß eineamtliche Persönlichkeit derartige Meldungen gegeben hatte, um das aufgeregte Publikum zu beruhigen.*
+
+Wahr scheint es zu sein, daß Verhandlungen inoffiziell eingeleitet sind. Eine feindliche Gegenäußerungist gestern eingelaufen.*“429
+
+**28.10.1918 Ausrufung der tschechischen Republik**
+
+„*Ausrufung der tschechischen Republik.*“ wurde wohl proklamiert.430
+
+**28.10.1918 Bekanntmachung neuer verfassungsändernder Gesetze**
+
+„*Wahnschaffe legte mir spät am 28. Oktober den Erlaß Seiner Majestät vor, mit dem er die Bekannt-machung der neuen verfassungsändernden Gesetze zu begleiten wünschte:*431
+
+*Eurer Großherzoglichen Hoheit lasse ich in der Anlage den mir zur Ausfertigung vorgelegten Gesetzentwurf zur Abänderung der Reichsverfassung432 und der Gesetze, betreffend die Stellvertretung des
+Reichskanzlers vom 17. März 1878, zur alsbaldigen Veröffentlichung wieder zugeben. Ich habe denWunsch, bei diesem für die weitere Geschichte des deutschen Volkes so bedeutungsvollen Schritt zum
+Ausdruck zu bringen, was mich bewegt. Vorbereitet durch eine Reihe von Regierungsakten, tritt jetzt eine
+n e u e Ordnung in Kraft, welche grundlegende Rechte von der Person des Kaisers [Bundespräsident]auf das [Deutsche Bundes-]V o l k überträgt.*“, wie die Entscheidung über Krieg und Frieden oderdas fortan notwendige Vertrauen des Parlaments dem Kanzler gegenüber, weshalb von dort auch derVorschlag kommen muß und der Kanzler überreicht diesen Vorschlag lediglich noch dem Kaiser, was imFalle Max von Baden-Ebert nie gemäß gerade dieser nun in Kraft gesetzten Änderungen erfolgte.433
+
+„*Damit wird eine Periode abgeschlossen, die vor den Augen künftiger Geschlechter in Ehren bestehenwird. Trotz aller Kämpfe zwischen überkommenden Gewalten und emporstrebenden Kräften hat sie in
+unserem Volke jene gewaltige Entwicklung ermöglicht, die sich in den wunderbaren Leistungen diesesKrieges unvergänglich offenbart. In den furchtbaren Stürmen der vier Kriegsjahre aber sind alteFormen zerbrochen, nicht um Trümmer zu hinterlassen, sondern um neuen Lebensgestaltungen Platzzu machen. Nach dem Vollbringen dieser Zeit hat das deutsche Volk den Anspruch, daß ihm kein Rechtvorenthalten wird, das eine freie und glückliche Zukunft verbürgt. Dieser Überzeugung verdanken wirjetzt vom Reichstag angenommenen und erweiterten Vorlagen der verbündeten Regierungen ihre
+Entstehung. Ich aber trete diesen Beschlüssen der Volksvertretung mit meinen hohen Verbündeten[Garanten] bei in dem festen Willen, was an mir liegt, an ihrer vollen Auswirkung mitzuarbeiten,überzeugt, daß ich damit dem Wohle des deutschen Volkes diene. Das Kaiseramt ist Dienst am Volke.*
+
+429 „Amtliche Kriegs-Depeschen“ – „Nach Berichten des“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2948 v. 28.10.1918, „Sonderfriedensbereitschaft“ Türkei
+
+430 „Amtliche Kriegs-Depeschen“ – „Nach Berichten des“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2949 v. 28.10.1918, tschechische Republik
+431 „Erinnerungen und Dokumente“ S. 525; v. 28.10.1918
+
+432 eine Änderung, dem Stück o. Aktenstück mit Stk. o. No./Nr., in dem sich je mindesten zwei Gesetze mit Nummern (Nr.) befanden, die dann auch in einem
+Rutsch veröffentlicht werden konnten, resp. Vermerk-Dopplung vermeiden; am 28.10.1918 sollte Nr. 144 „alsbaldig“ veröffentlicht. Nr. 6503 bedingt 6504!
+433 Wilhelm II. Ereignisse und Gestalten 1878-1918 Köhler 1922, S. 239: „In solch kritischen Zeiten durfte meines Erachtens das gefährdete Staatsschiff
+nicht von Vertretern des Reichskanzlers gesteuert werden. Vertreter können eben nicht die Autorität haben, wie der verantwortliche Regierungschef.
+Autorität aber war gerade damals vonnöten. Es waren, soweit es mir bekannt ist, nicht einmal starke Vollmachten an den Vizekanzler gegeben worden. Der
+richtige, d.h. die pflichtgemäße Lösung wäre die wirkliche Ersetzung des Prinzen Max als Reichskanzlers und die Berufung einer starken Persönlichkeit an
+seiner Stelle gewesen. Da wir das parlamentarische Regierungssystem hatten [RGBl. 1918 Nr. 144], mußten die Parteien den Wechsel im Kanzleramte
+veranlassen und mir einen Nachfolger des Prinzen Max präsentieren. Das ist nicht geschehen.“ – möglicherweise ein schmunzelnder Kaiser als er diese
+Zeilen Seiner Auguste zu Liebe in Sein Buch schrieb.
+
+---
 
 ![Screenshot_20251212_205118~2.jpg](https://github.com/user-attachments/assets/bf203dc7-1c65-4bd0-b2a6-0a2675c27fbc) 169
 
