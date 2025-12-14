@@ -3164,6 +3164,32 @@ Krieges fällt dann ausschließlich auf die Herren der russischen Delegation.‘
 
 ![Screenshot_20251212_200739~2.jpg](https://github.com/user-attachments/assets/a26fda95-ffa4-4736-80a1-7475a7528dfd) 147
 
+**10.01.1918 Rußland verzichtet auf Verlegung**
+
+„*Brest-Litowsk, 10. Januar. In der heute vormittag abgehaltenen Sitzung erklärte sich die russischeDelegation bereit, die Friedensverhandlungen in Brest-Litowsk fortzusetzen. Ferner stellte sie fest, daßdie vom Wolff-Bureau [W.T.B.] veröffentlichte Darstellung über den Verlauf der Sitzung vom26. Dezember dem tatsächlichen Hergang entspricht. Die von der Russischen Telegraphenagenturverbreitete Nachricht über den Verlauf dieser Sitzung wurde russischerseits als unrichtig bezeichnet.*“350
+
+**10.01.1918 Teilnahme Ukraine in Brest-Litowsk**
+
+„*Brest-Litowsk, 10. Januar. Die gestern unterbrochene Plenarsitzung wurde vormittags 11 Uhr unterdem Vorsitz des Staatssekretärs v. Kühlmann fortgesetzt. Erster Redner war der ukrainischeStaatssekretär für Handel und Industrie H o l u b o w y t s c h. Er überreichte namens des Generalsekretariats der Regierung der ukrainischen Volksrepublik eine Note, welche die selbstständige Stellungder Ukrainer bei den jetzigen Friedensverhandlungen betont und das ukrainische Friedensprogrammentwickelt. Der Vorsitzende, Staatssekretär v. Kühlmann schlug darauf vor, daß die ukrainische Note alswichtiges historisches Dokument den Akten des Kongresses einverleibt werde und begrüßt dieukrainischen Vertreter. Die Vertreter der verbündeten Mächte behielten sich ihre Stellungnahme zu denEinzelheiten der Ausführungen der ukrainischen Delegierten vor.*“351
+
+**10.01.1918 Trotzki über Verzicht auf Stockholm**
+
+„*[…] Herr **Trotzki** gab hierauf folgende Erklärung ab: ‚In Kenntnis der durch die ukrainischeDelegation veröffentlichten Note des Generalsekretariats der Regierung der ukrainischen Volksrepublikerklärt die russische Delegation ihrerseits, daß sie im vollen Einvernehmen mit der grundsätzlichenAnerkennung des Selbstbestimmungsrechtes jeder Nation bis zur vollen Lostrennung kein Hindernis
+für die Teilnahme der ukrainischen Delegation an den Friedensverhandlungen finde.‘*
+
+*Ueber die Bedeutung dieser Erklärung entspann sich eine längere Diskussion, die schließlich in dieFrage zusammengefaßt wurde, ob die ukrainische Delegation eine Unterabteilung der russischenDelegation darstelle, oder ob sie in diplomatischen Beziehung als Vertretung eines selbstständigenStaates zu behandeln sei. Dieses Frage wurde von Herrn Trotzki dahin beantwortet, daß er sie alserledigt betrachte, da die ukrainische Delegation als eine selbstständige Vertretung hier aufgetreten, dadiese Vertretung von seiner Delegation anerkannt wurde, und da von keiner Seite ein anderer Vorschlag
+gemacht worden sei.*
+
+*Herr Trotzki erklärte dann weiter: ‚Fürs erste bestätigen wir, daß wir im vollen Einvernehmen mitdem vorher gefaßten Beschluß die Friedensverhandlungen weiterführen wollen, ganz abgesehen davon,ob sich die Mächte der Entente anschließen oder nicht. Wir nehmen die Erklärung der Delegationen desVierbundes zur Kenntnis, daß die Grundlagen des allgemeinen Friedens, die in ihrer Deklaration vom25. Dezember formuliert waren, jetzt hinfällig werden, da die Länder der Entente während derzehntägigen Frist sich den Friedensverhandlungen nicht angeschlossen haben. Wir unsererseits haltenan den von uns proklamierten Grundsätzen des demokratischen Friedens fest.‘ Trotzki erwähnt dannjenen Teil der Rede des Grafen Hertling, in der dieser außer auf das gute Recht und das loyaleGewissen auch auf die Machtstellung Deutschlands hingewiesen habe. Die russische Delegation habeweder die Möglichkeit noch die Absicht zu bestreiten, daß ihr Land durch die Politik der bis vor kurzemherrschenden Klassen geschwächt sei; aber die Weltstellung eines Landes werde nicht nur durch denaugenblicklichen Stand eines technischen Apparats bestimmt, sondern auch durch die ihm innewohnenden Möglichkeiten. Aber die russische Regierung habe an die Spitze ihres Programms das Wort„Friede“ geschrieben, und die hohen Sympathien, welche das russische Volk den Völkern der
+Verbündeten entgegenbringe, bestärken es in dem Wunsche, den schleunigsten Frieden, der auf derVerständigung der Völker begründet sein werde, zu erreichen. Um den Mächten des Vierbundes den*
+
+350 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2572
+
+351 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2572
+
+---
+
+
 ![Screenshot_20251212_200743~2.jpg](https://github.com/user-attachments/assets/70f53fcb-6b7a-48dc-80ec-7c4223d4c1b3) 148
 
 ![Screenshot_20251212_200748~2.jpg](https://github.com/user-attachments/assets/51d3b6f8-65f3-4774-b84b-a64f9263b9f0) 149
