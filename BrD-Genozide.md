@@ -3649,6 +3649,53 @@ geworfen wird, wenn es den politischen Mächten genehm ist, die jetzt an der Her
 
 ![Screenshot_20251212_214138~2.jpg](https://github.com/user-attachments/assets/4fa68bdd-c1eb-4c29-9bb8-2db017ee9e16) 178
 
+**03.11.1918 Waffenstillstand zwischen Italien und Österreich**
+
+Am 03. November 1918 wurde der erste europäische „*Waffenstillstand zwischen Italien undOesterreich-Ungarn*“ unterzeichnet.458
+
+Ebenfalls wurde zwischen Frankreich und Österreich-Ungarn Waffenstillstand unterzeichnet459 unddie Waffen schweigen an immer mehr Fronten. Eine Aufrechterhaltung wegbrechender Fronten schonjetzt nicht mehr möglich. In der Folge war das Deutsche Heer letztendlich ab 09.11.1918 führungslos,verraten, gedemütigt und wehrlos. Keine Wiederaufnahme jedweder Feinseligkeiten mehr möglich,mithin Fortsetzung des Krieges bereits aus innenpolitischen Stürmen nicht mehr denkbar.
+
+**General Gröners Fehler**
+
+„*Nunmehr teilte er [Gröner] mir persönlich mit, daß wir mit der weißen Fahne hinübergehen müßten.
+Ich antwortete: ‚Aber doch nicht vor acht Tagen?‘ Darauf erwiderte der General Gröner: ‚Das ist zulange.‘ Ich fragte noch einmal: ‚Aber doch nicht vor Montag?‘ Gröner antwortete: ‚Das ist auch zu
+lange, Sonnabend ist der letzte Tag.‘*“460
+
+**06.11.1918 Verlorenes Sitzungsprotokoll Haußmanns**
+
+„*Gröner fügte ergänzend hinzu:*“
+
+„*Auch ich hatte gehofft, daß wir acht bis zehn Tage warten können, bis wir uns an der [neuen] Liniegesetzt haben. Nachdem, was ich inzwischen von Kiel, von Tirol und von der Heimatstimmung erhoben habe, insbesondere in Bayern, mit weitgehenden politischen Konsequenzen, bin ich zu der Überzeugung gekommen, daß wir den Schritt, so schmerzlich es ist, tun und Foch fragen müssen.*“461
+
+„*Ebert sprach zuerst:*“
+
+„*Es sei jetzt nicht die Zeit, nach den Schuldigen des allgemeinen Zusammenbruchs zu suchen. Die Stimmung des [Deutschen] Volkes schöbe dem [Deutschen] Kaiser die
+Schuld zu, ob mit Recht oder Unrecht sei gleichgültig. Die Hauptsache sei, daß das [Deutsche] Volk dievermeintlichen Schuldigen von ihren Plätzen entfernt sehen wolle. Daher sei die Abdankung des
+[Deutschen] Kaiser, wenn man den Übergang der Massen in das Lager der Revolutionäre verhindernwolle, notwendig. Er schlug vor, daß der Kaiser spätestens morgen [07.11.1918] seine Abdankungbekanntgebe und einen seiner Söhne, Oskar oder Eitel Friedrich, mit seiner Vertretung beauftrage. DerKronprinz sei jetzt unmöglich, da er bei den Massen zu verhaßt sei.*“
+
+„*Gröner sagte kurz darauf:*“
+
+„*Von einer Abdankung könne nicht die Rede sein; jetzt, wo die Armee in schwerem Ringen mit demFeinde stehe, sei es unmöglich, ihr den Obersten Kriegsherrn zu nehmen. Die Interessen der Armee
+müßten, allen anderen vorangestellt werden. Er lehne es daher auf das allerentschiedenste ab, in der
+Abdankungsfrage irgendeinen Schritt zu unternehmen oder dem Kaiser derartiges vorzutragen.*“462
+
+„*David und Südekum drangen auf Gröner ein:*“ (vgl. 28.10.1918)
+
+„*Sie seien keine Gegner der Monarchie an sich, und dieser Schritt würde in keiner Weise dieAbschaffung der Monarchie in Deutschland bedeuten. Große Teile der Sozialdemokratie würden sichmit einer Monarchie mit sozialem Einschlag nach parlamentarischem System durchaus abfinden.*“
+
+458 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2959 v. 03.11.1918, Italien
+
+459 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2959 v. 03.11.1918, Frankreich
+
+460 „*Erinnerungen und Dokumente*“, Leipzig 1927, ursprünglich als Rechenschaftsbericht gedacht, XII. Kap. S. 589 „*General Gröner*“
+
+461 „*Erinnerungen und Dokumente*“, Leipzig 1927, ursprünglich als Rechenschaftsbericht gedacht, XII. Kap. S. 590 Sitzungsprotokoll Haußmanns
+
+462 „*Erinnerungen und Dokumente*“, Leipzig 1927, ursprünglich als Rechenschaftsbericht gedacht, XII. Kap. S. 591 Sitzungsprotokoll Ebert-Gröner
+
+---
+
+
 ![Screenshot_20251212_214147~2.jpg](https://github.com/user-attachments/assets/bf4a66b4-683a-4a79-af4e-1f4c3ab93252) 179
 
 ![Screenshot_20251212_214153~2.jpg](https://github.com/user-attachments/assets/dc0593af-1ea2-4383-a523-f0f9e1eda029) 180
