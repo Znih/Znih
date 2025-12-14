@@ -3065,9 +3065,9 @@ Unser Programm ist das Programm des Weltfriedens, und es stellt zugleich das ein
 
 *Der erste Punkt ist, daß alle Friedensverträge öffentlich sind und öffentlich zustandegekommensind, und daß danach keine geheimen internationalen Vereinbarungen irgendwelcher Art [was ich selbstgern tu] mehr getroffen werden dürfen, sondern die Diplomatie immer offen und vor aller Welt getriebenwerden soll.*
 
-*Der zweite Punkt ist vollkommene Freiheit der Schiffahrt auf dem Meere außerhalb derterritorialen Gewässer im Frieden sowohl wie im Krieg, mit Ausnahme jener Meere, die ganz oderteilweise durch internationale Handlungen zwecks Durchsetzung internationaler Verträge geschlossenwerden.*
+*Der **zweite Punkt** ist vollkommene Freiheit der Schiffahrt auf dem Meere außerhalb derterritorialen Gewässer im Frieden sowohl wie im Krieg, mit Ausnahme jener Meere, die ganz oderteilweise durch internationale Handlungen zwecks Durchsetzung internationaler Verträge geschlossenwerden.*
 
-*Der dritte Punkt ist die Beseitigung, soweit sie möglich ist, aller wirtschaftlicher Schranken und die
+*Der **dritte Punkt** ist die Beseitigung, soweit sie möglich ist, aller wirtschaftlicher Schranken und die
 Errichtung der Gleichheit der Handelsbeziehungen [TTIP] unter allen Nationen, die sich dem Frieden
 anschließen und sich zu seiner Aufrechterhaltung vereinigen.*
 
@@ -3122,12 +3122,45 @@ See besitzt,347 und dessen politische und wirtschaftliche UNabhängigkeit sowie 
 UNverletzlichkeit der großen sowie der kleinen Nationen. Bezüglich dieser wesentlichen Berichtigungvon UNrecht und Durchsetzung des [UN-]Recht[-]s fühlen wir uns mit allen Regierungen und Völkern,
 die sich gegen die verbündeten Kaiserreiche vereinigt haben, in enger Gemeinschaft.*
 
-*Wir werden bis zum Ende für solche Vereinbarungen und Vertragsbedingungen solcher Artzusammenstehen, wir sind willens zu kämpfen und den Kampf fortzusetzen, bis diese erreicht sind, abernur weil wir die Vorherrschaft des [UN-]Recht[-]s und einen [UN-]gerechten dauerhaften[UN-]Frieden wünschen, wie er lediglich durch Beseitigung der hauptsächlichen Kriegsursachenerzielt werden kann, was durch dieses Programm erreicht wird. Wir haben keine Eifersucht auf die347 Zugang zur See oder US-Seezugang zu Serbien und Polen?*
+*Wir werden bis zum Ende für solche Vereinbarungen und Vertragsbedingungen solcher Artzusammenstehen, wir sind willens zu kämpfen und den Kampf fortzusetzen, bis diese erreicht sind, abernur weil wir die Vorherrschaft des [UN-]Recht[-]s und einen [UN-]gerechten dauerhaften[UN-]Frieden wünschen, wie er lediglich durch Beseitigung der hauptsächlichen Kriegsursachenerzielt werden kann, was durch dieses Programm erreicht wird. Wir haben keine Eifersucht auf die
+
+347 Zugang zur See oder US-Seezugang zu Serbien und Polen?*
 
 ---
 
 
 ![Screenshot_20251212_200734~2.jpg](https://github.com/user-attachments/assets/e2aa0075-a257-47b0-a235-b5b45b491c0c) 146
+
+
+*Größe Deutschlands, und dieses Programm enthält nichts, was diese Größe beeinträchtigt. Wir sindnicht neidisch auf die deutschen Errungenschaften oder das deutsche Ansehen, was Wissenschaft oderUnternehmungsgeist anbelangt, die ihm einen so glänzenden und beneidenswerten Namen gemachthaben. Wir wollen Deutschland nicht schaden oder ihm, was seinen rechtmäßigen Einfluß oder seine
+Machtstellung anbelangt, im Wege stehen. Wir wollen es auch nicht mit den Waffen oder durchfeindselige Handelsverträge bekämpfen, wenn es bereit ist, sich mit uns und den anderen friedliebenden
+Nationen der Welt zu Vertragsbedingungen von Recht und Rechtlichkeit sowie Billigkeit zu vereinigen.*
+
+*Wir wünschen nur, daß es einen Platz der Gleichheit unter den Völkern der Welt einnehme, anstatteinen solchen der [Friedens-]Herrschaft. [Влад-и-мир PUTIN]
+Ebenso nehmen wir uns nicht heraus, irgendeine Abänderung seiner staatlichen Einrichtungen zuverlangen. Aber es ist, wie wir offen bekennen müssen, notwendig, und zwar als Vorbedingung für einen
+Meinungsaustausch mit ihm, daß wir wissen, für wen seine Unterhändler sprechen, wenn sie zu unssprechen, nämlich ob für die Reichstagsmehrheit oder die Militärpartei bzw. für die Leute, derenGlaubensbekenntnis imperialistische Vorherrschaft ist. [Spiegel: US-Hegemonie] Wir haben nunfeierlich in Ausdrücken gesprochen, die zu bestimmt sind, um irgendeinen weiteren Zweifel oder
+weitere Frage zuzulassen. Ein deutlich erkennbarer Grundsatz zieht sich durch das ganze Programm, dasich [nur] umrissen habe. Es ist der Grundsatz der [UN-]Gerechtigkeit gegenüber allen Völkern undNationalitäten und ihr Recht, auf dem gleichen Fuß der Freiheit und Sicherheit miteinander zu leben[7Nations, Cree?!], ob sie nun mächtig oder schwach sind. Solange dieser Grundsatz nicht zur
+Grundlage gemacht wird, kann kein Teil des Gebäudes der internationalen Gerechtigkeit sicherstehen.*
+
+*Das Volk der Vereinigten Staaten [!WIR] kann keinen anderen Grundsatz zulassen, und zu seinerGeltendmachung ist es willens, sein Leben, seine Ehre und alles, was es besitzt, einzusetzen. Dersittliche Gipfelpunkt dieses größten und letzten Krieges für menschliche Freiheit ist erreicht worden,und das amerikanische Volk ist [belastet] bereit, seine ganze Stärke, sein höchstes Streben, seine
+Unversehrtheit und Hingebung einzusetzen.*“348
+
+**09.01.1918 Sonderfriedensverhandlung mit Rußland**
+
+„*Brest-Litowsk, 9. Januar. Heute vormittag um 11 Uhr fand eine Vollsitzung statt, an der sämtlichenDelegationen und die ukrainischen Vertreter teilnahmen. Der Großwesir Talaat Pascha eröffnete dieSitzung und übergab den Vorsitz an den Staatssekretär v. Kühlmann. Dieser warf einen Rückblick aufdie Vorgeschichte und den bisherigen Gang der Verhandlungen und schloß:
+Soweit sich aus den vor der Arbeitstaufe geführten Verhandlungen ein Urteil bilden läßt, halte ich dieSchwierigkeiten materieller Natur nicht für groß genug, um ein Scheitern des Friedenswerkes unddamit voraussichtlich die Wiederaufnahme des Krieges im Osten mit seinen unabsehbaren Folgen fürgerechtfertigt zu halten.*
+
+*Hierauf führte der österreich-ungarische Minister des Aeßern, Graf Czernin u. a., zu den russischen Delegierten gewendet, aus: ‚Sie, meine Herren, haben seinerzeit an uns die Einladung fürallgemeine Friedensverhandlungen ergehen lassen. Wir haben dieselbe angenommen, und wir haben
+uns auf eine Basis für den allgemeinen Frieden geeinigt. Auf dieser Basis haben Sie Ihren Verbündetenein zehntägiges Ultimatum gestellt. Ihre Verbündeten haben Ihnen nicht geantwortet, und heute handeltes sich nicht mehr Verhandlungen zwecks eines allgemeinen Friedens, sondern eines Separatfriedenszwischen Rußland und dem Vierbunde. Wenn die Herren der russischen Delegation von den gleichenIntentionen beseelt sind, so werden wir zu einem alle befriedigenden Ergebnisse gelangen; wenn nicht,dann werden die Dinge ihren notwendigen Lauf nehmen, aber die Verantwortung für die Fortsetzung des
+Krieges fällt dann ausschließlich auf die Herren der russischen Delegation.‘*“349
+
+348 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2568-2570 Wilsons 14 Punkte
+
+349 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2571
+
+
+---
+
 
 ![Screenshot_20251212_200739~2.jpg](https://github.com/user-attachments/assets/a26fda95-ffa4-4736-80a1-7475a7528dfd) 147
 
