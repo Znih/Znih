@@ -3281,10 +3281,49 @@ ein Ultimatum und versuchte, die Erzwingung ihres Willens mit Waffengewalt durch
 ![Screenshot_20251212_200755~2.jpg](https://github.com/user-attachments/assets/8cd8652f-092a-4f0a-88d3-e5e81d93919e) 150
 
 
+*Für uns haben die Völker der besetzten Gebiete ihrem Wunsch der Lostrennung von Rußland bereitsklar und unzweideutig Ausdruck gegeben.*
 
+*Von den wichtigsten Beschlüssen der Bevölkerung möchte ich folgende hervorheben:
+Am 21. 9. 1917 erbat die kurländische Landesversammlung, die sich ausdrücklich als Vertreterinder Gesamtbevölkerung Kurlands bezeichnete, den Schutz des Deutschen Reiches.*
 
+*Am 11. 12. 1917 proklamierte der litauische Landesrat, der von Litauern des In- und Auslandes alseinzig bevollmächtigte Vertretung des litauischen Volkes anerkannt ist, den Wunsch der Abtrennungvon allen staatlichen Verbindungen, die bisher mit anderen Völkern bestanden haben.*
+
+*Am 27. Dezember sprach die Stadtverordnetenversammlung in Riga eine ähnliche Bitte an dasDeutsche Reich aus. Diesem Antrage habe sich die Rigaer Kaufmannskammer, die Große Gilde, die
+Vertreter der Landesbevölkerung sowie 70 Rigaer Vereine angeschlossen.*
+
+*Schließlich haben im Dezember 1917 auch die Vertreter der Ritterschaft der ländlichen, städtischenund kirchlichen Gemeinen auf Oesel, Dagö und Moon in verschiedenen Erklärungen sich ihrenbisherigen Beziehungen losgelöst.*
+
+*Auch aus verwaltungstechnischen Gründen muß die deutsche Heeresleitung eine RäumungKurlands, Litauens, Rigas und den Inseln im Rigaischen Meerbusen ablehnen.
+Alle diese Gegenden besitzen keine Verwaltungsorgane, keine Organe der Rechtspflege, keineOrgane des Rechtsschutzes, keine Eisenbahnen, keine Telegraphen, keine Post. Alles dies ist deutscherBesitz und in deutschem Betriebe. Auch zur Errichtung eines eigenen Volksheeres oder einer Miliz sind
+die Länder mangels geeigneter Organe in absehbarer Zeit nicht in der Lage.‘
+Nach längerer Geschäftsordnungsdebatte wurde die Sitzung aufgehoben.*
+
+*Eine neue Sitzung zur Fortsetzung der Beratung ist noch nicht anberaumt worden.*“357
+
+**04.07.1918 Vier neue Bedingungen Wilsons**
+
+„*New York, 4. Juli. (Reuter-Meldung.) Wilson sagte in seiner Rede am Grabe Washingtons in MountVernon am Donnerstag nachmittag u. a.: Vergangenheit und Gegenwart sind in einen Kampf auf Leben
+und Tod verwickelt; das Ergebnis muß endgültig sein. Wir würden keinen Vergleich, keine halbeEntscheidung dulden können, es würde auch keine halbe Entscheidung möglich sein. Die verbündetenVölker kämpfen für die folgenden Ziele, die verwirklicht sein müssen, ehe Friede werden kann:
+1. Vernichtung jeder Willkür und Macht, die für sich allein und heimlich den Frieden der Welt[world] stören kann und, wenn ihre Vernichtung jetzt nicht möglich ist, mindestens ihreHerabdrückung zu tatsächlicher Machtlosigkeit. [um im Vakuum irgendeinen Hitler zu erzeugen]
+2. Regelung aller Fragen sowohl der territorialen wie der Souveränitätsfragen, der wirtschaftlichen und politischen Fragen auf der Grundlage einer freien Annahme dieser Regelungendurch das Volk, das unmittelbar dabei betroffen ist, und nicht auf der Grundlage des materiellenInteresses oder Vorteils irgendeines anderen [US-]Volkes, das eine andere Regelung zurAusbreitung seines Einflusses oder seiner Herrschaft wünscht.
+3. Einwilligung aller Völker, in ihren Verhältnissen zueinander sich von denselben Grundsätzen derEhre und Achtung vor dem Gewohnheitsrechte358 der zivilisierten Gesellschaften359 leiten zu
+lassen, wie sie für die einzelnen Bürger moderner Staaten gelten, dergestalt, daß alleVersprechungen und Verträge gewissenhaft beobachtet, daß keine Sonderanschläge oderVerschwörungen angezettelt werden, und daß wechselseitiges Vertrauen geschaffen wird auf derBasis wechselseitiger Achtung vor dem Recht.
+4. Schaffung einer Friedensorganisation, die verbürgt, daß die gesamte Macht der freien Nationenjede Rechtsverletzung verhüten wird, und ein Schiedsgericht einrichtet, dem alle internationalen
+Gegensätze unterbreitet werden sollen. Diese großen Ziele können wir in einen Gedanken zu-
+
+357 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2575-2577
+
+358 Das alte Gewohnheitsrecht, welches Wilson gerade abschaffen möchte, um ein Gewohnheitsunrecht zu erzeugen, das wiederum bis heute besteht.
+
+359 Also nicht Völker u. Nationen, sondern „Gesellschaften“?
+
+---
 
 ![Screenshot_20251212_203332~2.jpg](https://github.com/user-attachments/assets/27718acd-dcd2-4bc7-a644-3a627917fc1a) 151
+
+
+
+
 
 ![Screenshot_20251212_203338~2.jpg](https://github.com/user-attachments/assets/c4ecdcf4-cf63-47e8-8922-f8e0d61b168e) 152
 
