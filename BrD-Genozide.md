@@ -2831,6 +2831,45 @@ Selbstständigkeit in diesem Kriege verloren haben [mit dieser Formulierung auch
 
 ![Screenshot_20251212_200701~2.jpg](https://github.com/user-attachments/assets/9888211f-b758-428e-8ac6-766a74eef3b0) 139
 
+*3. Den nationalen Gruppen, die vor dem Kriege nicht selbstständig waren, wird die Möglichkeitgewährleistet, die Frage der Zuständigkeit zu dem einen oder dem anderen Staat oder ihrerstaatlichen Selbstständigkeit durch Referendum zu entscheiden. Dieses Referendum muß in der
+Weise veranstaltet werden, daß voll Unabhängigkeit bei der Stimmabgabe für die ganzeBevölkerung des betreffenden Gebietes einschließlich der Auswanderer und Flüchtlingegewährleistet ist.
+4. In bezug auf Gebiete gemischter Nationalität wird das Recht der Minderheiten durch eingesondertes Gesetz geschützt, das ihr die Selbstständigkeit der nationalen Kultur und – falls dies
+praktisch durchführbar – autonome Verwaltung gibt.
+5. Keines der kriegführenden Länder ist verpflichtet, einem anderen Lande sogenannte‚Kriegskosten‘ zu zahlen; bereits erhobene Kontributionen [Reparationen] sind zurückzuzahlen.
+Was den Ersatz der Verluste von Privatpersonen infolge des Krieges anbetrifft, so werden sie aus
+einem besonderen Fonds beglichen, zu dem die Kriegsführenden proportional beitragen.
+6. Koloniale Fragen werden unter Beachtung der unter 1 bis 4 dargelegten Grundsätze
+entschieden.
+7. In der heute unter dem Vorsitz des bevollmächtigten Vertreters Oesterreich-Ungarns, GrafenCzernin abgehaltenen Plenarsitzung gab dieser namens der Delegation des Vierbundes eine
+Erklärung ab, in der er u. a. sagte:*“331
+
+„*Die Delegationen der Verbündeten sind in Uebereinstimmung mit dem wiederholt kundgebendenStandpunkt ihrer Regierungen der Ansicht, daß die Leitsätze des russischen Vorschlags eine diskutable
+Grundlage für einen solchen Frieden bilden können.*
+
+*Die Delegation des Vierbundes sind mit einem sofortigen allgemeinen Frieden ohne gewaltsameGebietserwerbungen und ohne Kriegsentschädigungen einverstanden.
+Es muß aber ausdrücklich darauf hingewiesen werden, daß sich sämtliche jetzt im Kriegebeteiligten Mächte innerhalb einer angemessenen Frist ausnahmslos und ohne jeden Rückhalt zur
+genauesten Beobachtung der alle Völker in gleicher Weise bindende Bedingungen verpflichten müssen,wenn die Voraussetzungen der russischen Darlegung erfüllt sein sollen.*
+
+*Eine gewaltsame Aneignung von Gebieten, die während des Krieges besetzt worden sind [Ukraine,Balten], liegt nicht in den Absichten der verbündeten Regierungen.
+Es liegt nicht in der Absicht der Verbündeten, eines der Völker, die in diesem Kriege ihre politische
+Selbstständigkeit verloren haben, dieser Selbstständigkeit zu berauben.*
+
+*Die Frage der staatlichen Zugehörigkeit nationaler Gruppen, die keine staatliche Selbstständigkeitbesitzen, kann nach dem Standpunkte der Vierbundmächte nicht zwischenstaatlich geregelt werden. Sie istim gegebenen Falle von jedem Staat mit seinen Völkern selbstständig auf verfassungsmäßigem Wege zulösen.*
+
+*Desgleichen bildet nach Erklärungen von Staatsmännern des Vierbundes der Schutz des Rechts derMinoritäten einen wesentlichen Bestandteil des verfassungsmäßigen Selbstbestimmungsrecht derVölker. Auch die Regierungen der Verbündeten verschaffen diesem Grundsatze, soweit er praktischdurchführbar erscheint, überall Geltung.*
+
+*Die verbündeten Mächte haben mehrfach die Möglichkeit betont, daß nicht nur auf den Erlaß derKriegskosten, sondern auch auf den Erlaß der Kriegsschäden wechselseitig verzichtet werden könnte.*
+
+*Hiernach würden von jeder kriegführenden Macht nur die Aufwendungen für ihre in Kriegsgefangenschaft geratene Angehörige sowie die im eigenen Gebiet durch völkerrechtswidrige Gewaltakte den
+Zivilangehörigen des Gegners zugefügten Schäden zu ersetzen sein.*
+
+*Die Rückgabe der während des Krieges gewaltsam in Besitz genommenen Kolonialgebiete ist einwesentlicher Bestandteil der deutschen Forderung, von denen unter keinen Umständen abgegangen
+werden kann. Ebenso entspricht die russische Forderung der alsbaldigen Räumung solcher vom Feindebesetzten Gebiete den deutschen Absichten. Bei der Natur der deutschen Kolonialgebiete [Schutzgebiete] scheint, von der früher erörterten grundsätzlichen Erwägungen abgesehen, die Ausübung des*
+
+331 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2553-2555 Beschlüsse
+
+---
+
 ![Screenshot_20251212_200706~2.jpg](https://github.com/user-attachments/assets/96869cb4-659d-4ba5-84a7-0afad68f4297) 140
 
 
