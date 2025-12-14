@@ -3555,6 +3555,40 @@ Zeilen Seiner Auguste zu Liebe in Sein Buch schrieb.
 
 ![Screenshot_20251212_205118~2.jpg](https://github.com/user-attachments/assets/bf203dc7-1c65-4bd0-b2a6-0a2675c27fbc) 169
 
+
+*Es möge die Neuordnung alle guten Kräfte freimachen, deren unser Volk bedarf, um die schwerenPrüfungen zu bestehen, die über das Reich verhängt sind, und aus dem Dunkel der Gegenwart mitfestem Schritt eine helle Zukunft zu gewinnen.Berlin, den 28. Oktober 1918. Wilhelm I.R.*“
+
+„*Die Kundegebung konnte nur gedacht sein als eine Antwort auf den Ruf nach Abdankung, der allenthalber laut wurde, und zwar als eine Antwort, die sagte: Ich will auf meinem Posten bleiben und loyal
+mit der Regierung zusammenarbeiten.“ was nur richtig sein konnte, der Kaiser konnte schlicht nichtAbdanken, nicht während eines aktiven Belagerungszustandes, das wäre unverantwortlich für einenpreußischen Offizier und Beamten gewesen.*434
+
+ „*Auch Payer warnte, Aufmerksamkeit auf die Persondes Kaisers zu lenken. Die überwiegende Meinung ging dahin, daß in diesem Augenblick dieVeröffentlichung besser unterbliebe.*“
+
+[...]
+
+**29.10.1918 Deutschland zum Sonderfrieden Oesterreich-Ungarn**
+
+„*Wien, 29. Oktober. Das k. u. k. Telegraphen-Korrespondenz-Bureau meldet: Gegenüber den von verschiedenen inländischen Blättern gebrachten Mitteilungen, von denen sich eine auf eine Unterredung mitdem hiesigen deutschen Botschafter beruht, sind wir ermächtigt nachstehendes festzustellen: Die Kaiserlich deutsche Regierung war durch wiederholte Mitteilungen der maßgebenden Stellen OesterreichUngarns seit längerem in Kenntnis, daß die Monarchie den Krieg höchstens bis zu einem bestimmten
+Zeitpunkt werde fortführen können. Unmittelbar nach dem Amtsantritt des Grafen Andrassy436 am26. d. M. hat der Kaiser dem Deutschen Kaiser in einem freundlichen Telegramm in unzweideutiger
+Weise mitgeteilt, daß Oesterreich-Ungarn nunmehr veranlaßt sei, den entscheidenden Schritt zu unternehmen. In einer Unterredung zwischen dem Minister des Aeußern und dem Kaiserlich deutschen
+Botschafter in Wien am gleichen Tage war letzterer gleichfalls auf den bevorstehenden Schritt derMonarchie vorbereitet worden. Noch vor der Absendung der Note an den Präsidenten der VereinigtenStaaten fand dann am 27. d. M. eine hierauf bezügliche Unterredung zwischen dem Grafen Andrassy und
+dem Grafen Wedel statt.*
+*Z u s a t z des W.T.B.: Durch das Friedensangebot an den Präsidenten Wilson war dem Wunsche derösterreichisch-ungarischen Regierung auf einen baldigen Friedensschluß in vollem UmfangeRechnung getragen worden. Der Schwerpunkt der Demarche des Grafen Andrassy aber liegt in demAngebot eines ‚Separatfriedens‘. Das ein solches Angebot ‚innerhalb 24 Stunden‘ beabsichtigt sei, hatKaiser Karl dem Deutschen Kaiser am 26. Oktober als einen ‚unabänderbaren Entschluß‘ mitgeteilt.*
+
+*Die Kaiserliche [deutsche] Regierung wurde damit vor eine vollendete, unabänderliche Tatsachegestellt, ohne daß ihr die Möglichkeit geboten worden war, dazu Stellung zu nehmen. Die Darstellung
+des k. u. k. Telegraphen-Korrespondenz-Bureaus muß daher als irreführend zurückgewiesen werden.*“437
+
+434 Wilhelm II. Ereignisse und Gestalten 1878-1918 Köhler 1922, S. 239 u. bis 240 o.: „*Ich [Kaiser] legte dem Minister die verhängnisvollen Folgen derAbdankung dar und fragte ihn, wie er als preußischer Beamter eine solche Zumutung mit seinem Beamteneid seinem König gegenüber glaube vereinigen zukönnen. Drews wurde verlegen und entschuldigte sich mit dem Befehl des Reichskanzlers, der keinen anderen Mann habe finden können. Später teilte man
+mir mit, daß Drews einer der ersten Beamten gewesen ist, der von der Abdankung seines Herrn und Königs gesprochen hat. Ich lehne es ab abzudankenund erklärte, ich werde Truppen sammeln und mit ihnen zurückkehren, um der Regierung zu helfen, die Ordnung im Lande aufrecht zu erhalten.*“
+
+435 Präambel u. Art. 2 BVerf. – „*Verfassungsbündnis*“ als ausreichend souveräner „*Bundes-Staat*“ aus souveränen „*Bundesstaaten*“, so L. v. Rönne
+
+436 Gyula (Julius) Graf Andrássy von Csík-Szent-Király und Kraszna-Horka der Jüngere
+
+437 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2949 v. 28.10.1918, „*Sonderfriedensbereitschaft*“ W.T.B.
+
+---
+
+
 ![Screenshot_20251212_205126~2.jpg](https://github.com/user-attachments/assets/cf92bd1f-3b13-4491-882c-7bee19fb99ff) 170
 
 
