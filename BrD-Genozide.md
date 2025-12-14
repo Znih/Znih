@@ -3389,8 +3389,7 @@ Erklärung abgeben.*“364
 
 „*New York, 14. Juli. Reuter meldet aus Port-au-Prince, der Staatsrat von Haiti habe einstimmig beschlossen, Deutschland den Krieg zu erklären. – Zusatz des W.T.B.: Eine Bestätigung dieser Meldung liegt hiernicht vor.*“366
 
-*Am 28.07.1915, besetzten die USA Haiti, mit dem offiziellen Ziel, die öffentliche Ordnung wiederherzustellen. Mit Haitian-American Convention vom 16.09.1915 wurde Haiti zum US-Protektorat mitPolizeirecht und Finanzkontrolle. Einfluss kleiner Gruppe deutscher Einwanderer (etwa 200) in derWirtschaft Haitis groß. Im Juli 1918, kurz vor Ende des Ersten Weltkriegs, wurde Haiti gezwungen,
-Deutschland den Krieg zu erklären, womit der Weg zur Enteignung der Deutschen frei war. Haiti solltesich davon nie wieder erholen. Nach dem Krieg wurde den Deutschen ihr Besitz zurückerstattet.*367
+*Am 28.07.1915, besetzten die USA Haiti, mit dem offiziellen Ziel, die öffentliche Ordnung wiederherzustellen. Mit Haitian-American Convention vom 16.09.1915 wurde Haiti zum US-Protektorat mitPolizeirecht und Finanzkontrolle. Einfluss kleiner Gruppe deutscher Einwanderer (etwa 200) in derWirtschaft Haitis groß. Im Juli 1918, kurz vor Ende des Ersten Weltkriegs, wurde Haiti gezwungen,Deutschland den Krieg zu erklären, womit der Weg zur Enteignung der Deutschen frei war. Haiti solltesich davon nie wieder erholen. Nach dem Krieg wurde den Deutschen ihr Besitz zurückerstattet.*367
 
 „*Vorstellung der auf der Französchen Kolonie St: Domingo von denen schwartzen Sklaven eingebildeteFranzösischen demokratischen Freÿheit, welche selbige durch unerhörte Grausamkeit zu erwerben
 gedachten. Sie ruinierten viele Wolle und Zucker Plantagen und verbran[n]ten die Mühlen, sie metzelden auch ohne Unterschied alle Weis[ß]e die in ihre Hände fielen, dabeÿ ihnen ein weis[ß]es Kind zurFahne diente, schändeten Frauen und schlepten sie in elende Gefangenschaft, 1791. allein ihrVorhaben wurde zu nichte.*“
@@ -3417,7 +3416,7 @@ Moskau, 20. Juli. Der Exzar ist am 16. Juli laut Urteil des Ural-Sowjets in Jeka
 
 **31.07.1918 Feindliche Verluste seit Kriegsbeginn**
 
-„Berlin, 31. Juli. Bereits am 2. August 1917 betrugen die Verluste des Verbandes nach vorsichtiger Schätzung über 18 Millionen Mann. Die blutigen Niederlagen des inzwischen vergangenen Kriegsjahres,die dem Verbande überall neue unerhörte Opfer kosteten, haben diese Zahl auf 25 Millionen erhöht.*
+„*Berlin, 31. Juli. Bereits am 2. August 1917 betrugen die Verluste des Verbandes nach vorsichtiger Schätzung über 18 Millionen Mann. Die blutigen Niederlagen des inzwischen vergangenen Kriegsjahres,die dem Verbande überall neue unerhörte Opfer kosteten, haben diese Zahl auf 25 Millionen erhöht.*
 
 *Hiervon hat Rußland seine Hilfe für die Machtpläne der Weststaaten nach einer Aeußerung des Petersburger Pressekommissars Rusmin am 5. Juli 1918 mit 4½ Millionen Toten, 6 Millionen Verwundetenund Krüppeln und 3 Millionen Gefangenen bezahlen müssen. Die Franzosen und Engländer haben allein1917 im flandrischen Blutsumpf weit über eine halbe Millionen Soldaten und in den ersten drei Monatender deutschen Westoffensive 1918 eine weitere Million verloren. Rechnet man die schwere Einbuße der
 Franzosen am Chemin-des-Dames im Oktober, der Engländer bei Cambrai im November 1917 und diejetzige Gegenoffensive Fochs, die verlustreichste aller bisherigen Schlachten, hinzu, so zählt heute
@@ -3441,6 +3440,44 @@ gebührt allen, die unter schwierigsten Verhältnissen an den Aufgaben mitwirkte
 
 
 ![Screenshot_20251212_203359~2.jpg](https://github.com/user-attachments/assets/2899de22-25f7-49f8-a1dc-ba4034a664ce) 155
+
+*Das fünfte Kriegsjahr, daß heute heraufsteigt, wird dem deutschen Volke weitere [kriegsbedingte]Entbehrungen und Prüfungen nicht ersparen. Aber was auch kommen mag, wir wissen, daß das Härteste hinteruns liegt. Was im Osten durch unsere Waffen erreicht und durch Friedensschlüsse gesichert ist, was im Westensich vollendet, das gibt uns die feste Gewißheit, daß Deutschland aus diesem Völkersturm, der so manchen
+mächtigen Stamm zu Boden warf, stark und kraftvoll hervorgehen wird.*
+
+*An diesem Tage der Erinnerung gedenken wir alle mit Schmerz der schweren Opfer, die dem Vaterlandegebracht werden mußten. Tiefe Lücken sind in unsere Familien gerissen. Das Leid dieses furchtbaren Kriegeshat kein deutsches Haus verschont. Die als Knaben in junger Begeisterung die ersten Truppen hinausziehen sahen, stehen heute neben den Vätern und Brüdern selbst als Kämpfer in der Front. Heilige Pflicht gebietet, alleszu tun, daß dieses kostbare Blut nicht unnütz fließt. Nichts ist von uns versäumt worden, um den Frieden in diezerstörte Welt zurückzuführen. Noch aber findet im feindlichen Lager die Stimme der Menschlichkeit keinGehör. So oft wir Worte der Versöhnlichkeit sprachen, schlug uns Hohn und Haß entgegen. Noch wollen dieFeinde den Frieden nicht. Ohne Scham besudeln sie mit immer neuen Verleumdungen den reinen deutschenNamen. Immer wieder verkünden ihre Wortführer, daß Deutschland vernichtet werden soll. Darum heißt es
+weiter kämpfen und wirken, bis die Feinde bereit sind, unser Lebensrecht anzuerkennen, wie wir es gegen ihren
+übermächtigen Ansturm siegreich verfochten und erstritten haben. Gott mit uns!
+Im Felde, 31. Juli 1918 gez. Wilhelm I.R.*“370
+
+„*An das Deutsche Heer und die Deutsche Marine.*
+
+*Vier Jahre ernster Kriegszeit liegen hinter Euch. Einer Welt von Feinden hat das Deutsche Volk mit seinentreuen Verbündeten siegreich widerstanden, durchdrungen von seiner gerechten Sache, gestützt auf sein scharfesSchwert, im Vertrauen auf Gottes gnädige Hilfe!*
+
+*Euer stürmischer Angriffsgeist trug im ersten Jahre den Krieg in Feindesland und hat die Heimat vor den Schrecken und Verwüstungen des Krieges bewahrt. Im zweiten und dritten Kriegsjahre habt Ihr durch vernichtende Schläge die Kraft des Feindes im Osten gebrochen. Währenddessen boten Eure Kameraden im Westen gewaltiger Uebermacht tapfer und siegreich die Stirn. Als Frucht dieser Siegebrachte uns das vierte Kriegsjahr im Osten den Frieden.371 Im Westen wurde der Feind von der Wucht EuresAngriffes empfindlich getroffen. Die gewonnenen Feldschlachten der letzten Monate zählen zu den höchsten
+Ruhmestaten deutscher Geschichte.*
+
+*Ihr steht mitten im schwersten Kampf. Verzweifelte Kraftanstrengungen des Feindes wird wie bisher an Eurer
+Tapferkeit zunichte. Des bin Ich sicher und mit Mir das ganze Vaterland. Uns schrecken nicht amerikanischeHeere, nicht zahlenmäßige Uebermacht, es ist der Geist, der die Entscheidung bringt. Das lehrt die preußischeund deutsche Geschichte, daß lehrt der bisherige Verlauf des Feldzuges.*
+
+*In treuer Kameradschaft mit Meinem Heere steht Meine Marine in unerschütterlichem Siegeswillen imKampfe mit dem vielfach überlegenden Gegner. Den vereinten Anstrengungen der größten Seemächte der Welt zumTrotz führen meine Unterseeboote zäh und des Erfolges gewiß den Angriff gegen die dem Feind über die See
+zuströmende Kampf- und Lebenskraft. Stets zum Schlagen bereit bahnen in unermütlicher Arbeit dieHochseestreitkräfte den Unterseebooten den Weg ins offene Meere und sichern ihnen im Verein mit den Verteidigernder Küste die Quellen ihrer Kraft.*
+
+*Fern von der Heimat hält eine kleine heldenmütige Schar unserer Schutztruppe erdrückender Uebermachttapfer stand.*
+
+*In Ehrfurcht gedenken wir aller derer, die ihr Leben für das Vaterland hingaben.
+Durchdrungen von der Sorge für die Brüder im Felde stellt die Bevölkerung daheim ihrer ganze Kraft inentsagungsvoller Hingabe in den Dienst unserer großen Sache.*
+
+*Wir müssen und werden weiterkämpfen, bis der Vernichtungswille des Feindes gebrochen ist. Wir werdendafür jedes Opfer bringen und jede Kraftanstrengung vollführen. In diesem Geiste sind Heer und Heimatunzertrennlich verknüpft. Ihr einmütiges Zusammenstehen, ihr unbeugsamer Wille wird den Sieg im Kampfe fürDeutschlands Freiheit bringen. Das walte Gott!
+Im Felde, 31. Juli 1918 gez. Wilhelm I.R.*“372
+
+370 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2818-2819 Kaiserliche Kundgebung
+
+371 was die Aufrichtigkeit deutscher Friedensbekundungen belegt
+
+372 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2819-2820 Kaiserliche Kundgebung
+
+---
+
 
 ![Screenshot_20251212_203405~2.jpg](https://github.com/user-attachments/assets/f6f6a59a-06e5-4f6a-b319-ca287969bf78) 156
 
