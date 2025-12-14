@@ -3087,6 +3087,46 @@ werden.*
 
 ![Screenshot_20251212_200730~2.jpg](https://github.com/user-attachments/assets/c54df396-8b7a-4087-8cbd-b44770590697) 145
 
+*
+**Punkt 5.** Eine freie, weitherzige und unbedingt unparteiische Schlichtung aller KolonialenAnsprüche, die auf einer strikten Beobachtung des Grundsatzes fußt, daß bei der Entscheidung allersolcher Souveränitätsfragen die Interessen der Betroffenen Bevölkerung ein ebensolches Gewichthaben müssen wie die berechtigten Ansprüche der Regierung, deren Rechtstitel bestimmt werden sollen,sollte herbeigeführt werden.*
+
+*
+**Punkt 6.** Wir müssen ferner die Räumung des ganzen russischen Gebiets sowie ein Einvernehmen inallen Fragen, die es betreffen, verlangen zwecks freier Mitwirkung der anderen Nationen der Welt, umRußland eine unbeeinträchtigte und unbehinderte Gelegenheit zur unabhängigen Bestimmung seinerpolitischen Entwicklung und nationalen Politik erringen zu helfen, um es in der Gesellschaft freierNationen unter selbstgewählten Staatseinrichtungen willkommen heißen zu können; darüber hinauswürden wir Rußland Unterstützung jeder Art, die es nötig hätte und wünschen würde, gewähren[Völkerrechtsverbrechen durch Pkt.6].*
+
+*
+**Punkt 7.** Belgien muß, wohin die ganze Welt übereinstimmt, geräumt werden und wiederaufgerichtetwerden, ohne jeden Versuch, seine Souveränität, deren es sich in gleicher Weise wie allen anderen freienNationen erfreuen soll, zu beschränken.*
+
+*
+**Punkt 8.** Das ganze französische Territorium müßte befreit und die besetzten Teile wiederhergestellt
+werden sowie das Unrecht, das Frankreich durch Preußen im Jahre 1871 hinsichtlich Elsaß-Lothringens zugefügt wurde, und das den Weltfrieden während nahezu 50 Jahren in Frage gestellt hat,sollte wieder gutgemacht werden, damit der [UN-]Frieden im Interesse aller wieder sichergestellt werdenkann.*
+
+*
+**Punkt 9.** Es müßte eine Berichtigung der italienischen Grenzen nach dem klar erkennbarennationalen Besitzstande durchgeführt werden.*
+
+*
+**Punkt 10.** Den Völkern von Oesterreich-Ungarn, deren Platz unter den anderen der Nationen wirsichergestellt zu sehen wünschen, müßte die erste Gelegenheit einer autonomen Entwicklung gegebenwerden.*
+
+*
+**Punkt 11.** Rumänien, Serbien und Montenegro müßten geräumt und die besetzten Gebiete zurückerstattet werden; Serbien müßte einen freien und sicheren Zugang zur See erhalten, und die Beziehungender Balkanstaaten zueinander müßten durch freundschaftlichen Verkehr gemäß den historisch bestehendenGrundlinien von Zusammengehörigkeit und Nationalität bestimmt sein; auch müßten internationaleGarantien der politischen und wirtschaftlichen Unabhängigkeit sowie der Unverletzlichkeit desLandbesitzes der Balkanstaaten gegeben werden.*
+
+*
+**Punkt 12.** Bei türkischen Teilen des gegenwärtigen Osmanischen Kaiserreiches müßte unbedingteSelbstständigkeit sichergestellt werden. Aber die anderen Nationalitäten, die jetzt unter türkischerHerrschaft stehen, wollen eine unzweifelhafte Sicherheit für ihre Lebensbedingungen und einevollkommen unbeeinträchtigte Gelegenheit zu autonomer Entwicklung erhalten. Die Dardanellen
+sollten dauernd als freie Durchfahrt unter internationalen Garantien den Handelsschiffen allerNationen geöffnet werden.*
+
+*
+**Punkt 13.** Ein unabhängiger polnischer Staat, der alle Länder, die von einer unzweifelhaftpolnischen Bevölkerung bewohnt sind, und der einen gesicherten freien und zuverlässigen Zugang zur
+See besitzt,347 und dessen politische und wirtschaftliche UNabhängigkeit sowie territorialeUNversehrtheit durch internationalen Vertrag garantiert sein müßten, sollte errichtet werden.*
+
+*
+**Punkt 14.** Es muß eine allgemeine Vereinigung der Nationen mit bestimmten Vertragsbedingungengebildet werden zum Zwecke gegenseitiger Garantieleistungen für die politische UNabhängigkeit und
+UNverletzlichkeit der großen sowie der kleinen Nationen. Bezüglich dieser wesentlichen Berichtigungvon UNrecht und Durchsetzung des [UN-]Recht[-]s fühlen wir uns mit allen Regierungen und Völkern,
+die sich gegen die verbündeten Kaiserreiche vereinigt haben, in enger Gemeinschaft.*
+
+*Wir werden bis zum Ende für solche Vereinbarungen und Vertragsbedingungen solcher Artzusammenstehen, wir sind willens zu kämpfen und den Kampf fortzusetzen, bis diese erreicht sind, abernur weil wir die Vorherrschaft des [UN-]Recht[-]s und einen [UN-]gerechten dauerhaften[UN-]Frieden wünschen, wie er lediglich durch Beseitigung der hauptsächlichen Kriegsursachenerzielt werden kann, was durch dieses Programm erreicht wird. Wir haben keine Eifersucht auf die347 Zugang zur See oder US-Seezugang zu Serbien und Polen?*
+
+---
+
+
 ![Screenshot_20251212_200734~2.jpg](https://github.com/user-attachments/assets/e2aa0075-a257-47b0-a235-b5b45b491c0c) 146
 
 ![Screenshot_20251212_200739~2.jpg](https://github.com/user-attachments/assets/a26fda95-ffa4-4736-80a1-7475a7528dfd) 147
