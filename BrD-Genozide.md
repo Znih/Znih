@@ -2996,6 +2996,51 @@ Berufung auf einen Beschluß der Regierung der Russischen Republik vorschlägt, 
 
 ![Screenshot_20251212_200721~2.jpg](https://github.com/user-attachments/assets/307c9e9e-1674-4a3b-9f98-ee668bf45782) 143
 
+
+**05.01.1918 Rußlands Rückkehr nach Brest-Litowsk**
+
+„*Berlin, 5. Januar. Im Hauptausschuß des Reichstags erklärte der Unterstaatssekretär des Auswärtigen,
+Freiherr von dem Busche, daß aus Brest-Litowsk folgendes Telegramm eingelaufen sei:
+Am 4. Januar, 10 Uhr abends ist hier das in Uebersetzung folgende Hughes-Telegramm ausPetersburg eingetroffen:
+An die Herren Vorsitzenden der vier verbündeten Mächte.*
+
+*Die Verlegung der Verhandlungen auf neutrales Gebiet entspricht dem erreichten Stand derVerhandlungen. In Anbetracht der Auskunft Ihrer Delegationen am früheren Orte der Verhandlungen wirdunsere Delegation zusammen mit dem Volkskommissar für auswärtige Angelegenheiten Trotzki morgennach Brest-Litwosk fahren in der Ueberzeugung, daß eine Verständigung über die Verlegung derVerhandlungen auf neutralen Boden keine Schwierigkeiten machen wird.
+Die russische Delegation.*“341
+
+**05.01.1918 Lloyd George mit Lansdownes US-Kriegszielen**
+
+„*Nunmehr erfolgte eine Proklamation der [US-]Kriegsziele, die tatsächlich auf die von Lansdownegeforderte Revision der Januar-Note hinauslief. Zuerst kam in wiederholten Wendungen dieVersicherung:*342
+
+*D e r  K a m p f  w e r d e  n i c h t  a l s  A n g r i f f s k r i e g  g e g e n  d a s d e u t s c h e  V o l k  g e f ü h r t, w e d e r  s e i n e r  V e r n i c h t u n g  n o c h s e i n e  Z e r s t ü c k e l u n g lägen im Plane Englands, auch Deutschlands große Weltstellungwünsche England nicht zu zerstören; nur der Plan einer militärischen Vorherrschaft sollte aufgegebenwerden. Auch die Auflösung Österreich-Ungarns werde nicht beabsichtigt; die zu seinem Verband
+gehörende Nationen sollten nur weitgehende Selbstregierung erhalten, dann würde Österreich-Ungarn einHort des Friedens werden. Die Deutsche Reichsverfassung sei zwar ein gefährlicher Anachronismus,
+die Annahme einer wirklichen demokratischen Staatsform würde überzeugend dartun, daß Deutschland
+seine [unbelegt gebliebenen, vlg. Putin] Weltherrschaftspläne aufgegeben habe, und den Abschluß einesdemokratischen Friedens erleichtern. – ‚aber das ist D e u t s c h l a n d s e i g e n e S a c h e‘.*“
+
+**06.01.1918 Fristablauf für Entente**
+
+„*Brest-Litowsk, 6. Januar. Gestern abend ist folgender Funkspruch in deutschem Klartext abgesandt worden:
+An die russische Delegation zu Händen ihres Vorsitzenden Herrn Joffé, Petersburg.*
+
+*In Ihrer Antwort auf die Vorschläge der russischen Delegation hatten die Delegationen desVierbundes am 25. Dezember 1917 in Brest-Litowsk gewisse Leitsätze für den Abschluß eines
+sofortigen allgemeinen Frieden aufgestellt. Zur Vermeidung einer einseitigen Festlegung hatten sie die
+Gültigkeit dieser Leitsätze ausdrücklich davon abhängig gemacht, daß sich sämtliche jetzt am Kriegebeteiligten Mächte innerhalb einer angemessenen Frist ausnahmslos und ohne jeden Rückhalt zur
+genauesten Beobachtung der alle Völker in gleicher Weise bindende Bedingungen verpflichten müssen.*
+
+*Mit Zustimmung der vier verbündeten Delegationen war darauf von der russischen Delegation einezehntägigen Frist festgesetzt worden, innerhalb welcher die anderen Kriegführenden sich mit den in
+Brest-Litowsk aufgestellten Grundsätzen eines sofortigen Friedens bekanntmachen und über denAbschluß an die Friedensverhandlungen entscheiden sollten.*
+
+*Die Delegationen der verbündeten Mächte stellen fest, daß die zehntägige Frist mit dem4. Januar 1918 abgelaufen und von keinem der anderen Kriegführenden eine Erklärung über denBeitritt zu den Friedensverhandlungen bei ihnen eingegangen ist.
+Die Vorsitzenden der Verbündeten Delegationen:
+gez. v. Kühlmann für Deutschland; gez. Graf Czermin für Oesterreich-Ungarn;
+gez. Popow für Bulgarien; gez. Essimy Bey für die Türkei.*“343
+
+341 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2564
+
+342 „*Erinnerungen und Dokumente*“ v. 1927 als Rechenschaftsbericht des letzten königlichen Reichskanzler Prinz Max von Baden S. 195
+
+---
+
+
 ![Screenshot_20251212_200726~2.jpg](https://github.com/user-attachments/assets/8c5a476c-b5c7-4c72-9831-ed49d8dfaaf9) 144
 
 ![Screenshot_20251212_200730~2.jpg](https://github.com/user-attachments/assets/c54df396-8b7a-4087-8cbd-b44770590697) 145
