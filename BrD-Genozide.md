@@ -2506,10 +2506,7 @@ sind beschlagnahmt worden.*“279
 **31.07.1917 Angeblicher Potsdamer Kronrat am 5. Juli 1914**
 
 „*Berlin, 31. Juli. Die ‚Times‘ und ihr folgend die feindlichen Korrespondenzbureaus verbreiten
-Mitteilungen über einen Kronrat, der in Potsdam am 5. Juli 1914 bei dem Kaiser unter Teilnahme derführenden politischen und militärischen Persönlichkeiten Deutschlands und Oesterreich-Ungarns stattgefunden hätte und wo der Plan zur Entfesselung des Weltkrieges entworfen worden wäre [Pikes 1. Welle WWI“]. Wir sind zu der Feststellung ermächtigt, daß die Mitteilungen der ‚Times‘ mit allen
-Einzelheiten frei erfunden sind. Es hat weder an dem genannten noch an einem anderen Tage des Juli eine solche gemeinsame Beratung weder mit noch ohne Teilnahme des Kaisers stattgefunden. Wir
-stellen weiter gegenüber den Behauptungen der ‚Times‘ erneut fest, daß die deutsche Regierung sichjeder Einwirkung auf die Fassung des österreichischen Ultimatums an Serbien enthalten hat, und daß
-der Inhalt des Ultimatums vor seinem Abgange der deutschen Regierung völlig unbekannt geblieben ist.*
+Mitteilungen über einen Kronrat, der in Potsdam am 5. Juli 1914 bei dem Kaiser unter Teilnahme derführenden politischen und militärischen Persönlichkeiten Deutschlands und Oesterreich-Ungarns stattgefunden hätte und wo der Plan zur Entfesselung des Weltkrieges entworfen worden wäre. Wir sind zu der Feststellung ermächtigt, daß die Mitteilungen der ‚Times‘ mit allenEinzelheiten frei erfunden sind. Es hat weder an dem genannten noch an einem anderen Tage des Juli eine solche gemeinsame Beratung weder mit noch ohne Teilnahme des Kaisers stattgefunden. Wirstellen weiter gegenüber den Behauptungen der ‚Times‘ erneut fest, daß die deutsche Regierung sichjeder Einwirkung auf die Fassung des österreichischen Ultimatums an Serbien enthalten hat, und daßder Inhalt des Ultimatums vor seinem Abgange der deutschen Regierung völlig unbekannt geblieben ist.*
 
 *Die ‚Times‘ wollen ihre falschen Behauptungen auch auf Angaben stützen, die der Abg. Cohn imHauptausschuß des Reichstages gemacht hätte. Die Angaben des genannten Abgeordneten sind imAnschluß von seiten der Regierung sofort als unrichtig zurückgewiesen worden.*“281
 
@@ -2520,12 +2517,12 @@ der Inhalt des Ultimatums vor seinem Abgange der deutschen Regierung völlig unb
 *An das deutsche Volk.*
 
 *Drei Jahre harten Kampfes liegen hinter uns. Mit Leid gedenken wir unseren Toten, mit Stolzunserer Kämpfer, mit Freude aller Schaffenden, schweren Herzens derer, die in Gefangenschaftschmachten. Ueber allen Gedanken aber steht der feste Wille, daß dieser Kampf gerechter Verteidigung
-zu gutem Ende geführt wird. Unsere Feinde stecken die Hand nach deutschem [Bundes]Lande aus. Siewerden es niemals erlangen [aber ertricksen]. Sie treiben immer neue Völker in den Krieg gegen uns.*
+zu gutem Ende geführt wird. Unsere Feinde stecken die Hand nach deutschem Lande aus. Siewerden es niemals erlangen. Sie treiben immer neue Völker in den Krieg gegen uns.*
 
-*Das schreckt uns nicht. Wir kennen unsere Kraft und sind entschlossen, sie zu gebrauchen. Sie wollen unsschwach und machtlos zu ihren Füßen sehen, aber sie zwingen uns nicht. Unseren Friedensworten sindsie mit Hohn begegnet [oder haben sie ignoriert]. So haben sie wieder erfahren, wie Deutschland zuschlagen und zu siegen weiß. Sie verleumden überall in der Welt den deutschen Namen [„Made inGermany“]. Aber sie können den Ruhm der deutschen Taten nicht vertilgen.*
+*Das schreckt uns nicht. Wir kennen unsere Kraft und sind entschlossen, sie zu gebrauchen. Sie wollen unsschwach und machtlos zu ihren Füßen sehen, aber sie zwingen uns nicht. Unseren Friedensworten sindsie mit Hohn begegnet. So haben sie wieder erfahren, wie Deutschland zuschlagen und zu siegen weiß. Sie verleumden überall in der Welt den deutschen Namen [„Made inGermany“]. Aber sie können den Ruhm der deutschen Taten nicht vertilgen.*
 
 *So stehen wir unerschütterlich, sieghaft und furchtlos am Ausgang dieses Jahres. Schwere Prüfungenkönnen uns noch beschieden sein. Mit Ernst und Zuversicht gehen wir ihnen entgegen. In drei Jahren
-gewaltigen Vollbringens [was hätte diese Kraft ohne Krieg hervorbringen können? vgl. Duala], ist das deutsche Volkfest geworden gegen alles, was Feindesmacht ersinnen kann. Wollen die Feinde das Leiden des Kriegesverlängern, so werden sie auf ihren schwerer liegen als auf uns.*
+gewaltigen Vollbringens [vgl. Duala], ist das deutsche Volkfest geworden gegen alles, was Feindesmacht ersinnen kann. Wollen die Feinde das Leiden des Kriegesverlängern, so werden sie auf ihren schwerer liegen als auf uns.*
 
 *Was draußen die Front vollbringt, die Heimat dankt dafür durch unermüdliche Arbeit. Noch gilt es,weiter zu kämpfen und Waffen zu schmieden. Aber unser Volk sei gewiß: Nicht für den Schatten hohlen
 Ehrgeizes wird deutsches Blut und deutscher Fleiß eingesetzt, nicht für Pläne der Eroberung undKnechtung, sondern für ein starkes und freies Reich, in dem unsere Kinder sicher wohnen sollen
@@ -2561,8 +2558,9 @@ Wilhelm.*“283
 
 „*Der Kaiser an die Helden von Deutsch-Ostafrika.*
 
-*Seine Majestät der Kaiser hat an den Kommandeur der Schutztruppe für Deutsch-Ostafrika, Oberst v. Lettow-Vorbeck, nachstehende Order gerichtet:
-Den Eintritt in ein neues Kriegsjahr will Ich nicht vorübergehen lassen, ohne Ihnen, Mein lieber Oberst, undIhren braven Truppen erneut meinen Dank und Meine uneingeschränkte Anerkennung für Ihr heldenmütigesVerhalten auszusprechen. Gestärkt durch den Geist der Pflichtreue haben Sie unerschrocken und zuversichtlichenMutes den ungleichen Kampf aufgenommen und drei Jahre lang mit nie [Indigene statt Bundestruppen] ermattenderTatkraft Ostafrika verteidigt. Die vielen siegreichen Schlachten und Gefechte haben Mir bewiesen, daß in schicksalsschwerer Stunde der richtige Mann an richtiger Stelle stand.*
+*Seine Majestät der Kaiser hat an den Kommandeur der Schutztruppe für Deutsch-Ostafrika, Oberst v. Lettow-Vorbeck, nachstehende Order gerichtet:*
+
+*Den Eintritt in ein neues Kriegsjahr will Ich nicht vorübergehen lassen, ohne Ihnen, Mein lieber Oberst, undIhren braven Truppen erneut meinen Dank und Meine uneingeschränkte Anerkennung für Ihr heldenmütigesVerhalten auszusprechen. Gestärkt durch den Geist der Pflichtreue haben Sie unerschrocken und zuversichtlichenMutes den ungleichen Kampf aufgenommen und drei Jahre lang mit nie ermattenderTatkraft Ostafrika verteidigt. Die vielen siegreichen Schlachten und Gefechte haben Mir bewiesen, daß in schicksalsschwerer Stunde der richtige Mann an richtiger Stelle stand.*
 
 *In treuer Gemeinschaft mit meinem Gouverneur und der gesamten Bevölkerung des Schutzgebietes konnten Sie den
 gewaltigen Anforderungen der bitteren Notwehr trotz schwerer Entbehrungen gerecht werden und drei schwere Jahre
@@ -2597,7 +2595,7 @@ Kommandeur der Schutztruppe für Deutsch-Ostafrika.*“284
 
 ![Screenshot_20251212_200619~2.jpg](https://github.com/user-attachments/assets/6c1873a0-1a41-4d5d-a0c6-24c4e0f8b9b5) 130
 
-"*Die Regierung schlägt den Regierungen aller kriegführenden Länder [Inseln, angel-sächsischeProtektorate, Kolonien, Hilfsstaaten, Proxies] vor, sogleich einen Waffenstillstand zu schließen.*“298
+"*Die Regierung schlägt den Regierungen aller kriegführenden Länder vor, sogleich einen Waffenstillstand zu schließen.*“298
 
 **21.11.1917 Waffenstillstandsangebot Rußlands**
 
