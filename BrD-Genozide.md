@@ -3303,13 +3303,13 @@ Nach längerer Geschäftsordnungsdebatte wurde die Sitzung aufgehoben.*
 **04.07.1918 Vier neue Bedingungen Wilsons**
 
 „*New York, 4. Juli. (Reuter-Meldung.) Wilson sagte in seiner Rede am Grabe Washingtons in MountVernon am Donnerstag nachmittag u. a.: Vergangenheit und Gegenwart sind in einen Kampf auf Leben
-und Tod verwickelt; das Ergebnis muß endgültig sein. Wir würden keinen Vergleich, keine halbeEntscheidung dulden können, es würde auch keine halbe Entscheidung möglich sein. Die verbündetenVölker kämpfen für die folgenden Ziele, die verwirklicht sein müssen, ehe Friede werden kann:
-1. Vernichtung jeder Willkür und Macht, die für sich allein und heimlich den Frieden der Welt[world] stören kann und, wenn ihre Vernichtung jetzt nicht möglich ist, mindestens ihreHerabdrückung zu tatsächlicher Machtlosigkeit. [um im Vakuum irgendeinen Hitler zu erzeugen]
-2. Regelung aller Fragen sowohl der territorialen wie der Souveränitätsfragen, der wirtschaftlichen und politischen Fragen auf der Grundlage einer freien Annahme dieser Regelungendurch das Volk, das unmittelbar dabei betroffen ist, und nicht auf der Grundlage des materiellenInteresses oder Vorteils irgendeines anderen [US-]Volkes, das eine andere Regelung zurAusbreitung seines Einflusses oder seiner Herrschaft wünscht.
-3. Einwilligung aller Völker, in ihren Verhältnissen zueinander sich von denselben Grundsätzen derEhre und Achtung vor dem Gewohnheitsrechte358 der zivilisierten Gesellschaften359 leiten zu
-lassen, wie sie für die einzelnen Bürger moderner Staaten gelten, dergestalt, daß alleVersprechungen und Verträge gewissenhaft beobachtet, daß keine Sonderanschläge oderVerschwörungen angezettelt werden, und daß wechselseitiges Vertrauen geschaffen wird auf derBasis wechselseitiger Achtung vor dem Recht.
-4. Schaffung einer Friedensorganisation, die verbürgt, daß die gesamte Macht der freien Nationenjede Rechtsverletzung verhüten wird, und ein Schiedsgericht einrichtet, dem alle internationalen
-Gegensätze unterbreitet werden sollen. Diese großen Ziele können wir in einen Gedanken zu-
+und Tod verwickelt; das Ergebnis muß endgültig sein. Wir würden keinen Vergleich, keine halbeEntscheidung dulden können, es würde auch keine halbe Entscheidung möglich sein. Die verbündetenVölker kämpfen für die folgenden Ziele, die verwirklicht sein müssen, ehe Friede werden kann:*
+*1. Vernichtung jeder Willkür und Macht, die für sich allein und heimlich den Frieden der Welt[world] stören kann und, wenn ihre Vernichtung jetzt nicht möglich ist, mindestens ihreHerabdrückung zu tatsächlicher Machtlosigkeit. [um im Vakuum irgendeinen Hitler zu erzeugen]*
+*2. Regelung aller Fragen sowohl der territorialen wie der Souveränitätsfragen, der wirtschaftlichen und politischen Fragen auf der Grundlage einer freien Annahme dieser Regelungendurch das Volk, das unmittelbar dabei betroffen ist, und nicht auf der Grundlage des materiellenInteresses oder Vorteils irgendeines anderen [US-]Volkes, das eine andere Regelung zurAusbreitung seines Einflusses oder seiner Herrschaft wünscht.*
+*3. Einwilligung aller Völker, in ihren Verhältnissen zueinander sich von denselben Grundsätzen derEhre und Achtung vor dem Gewohnheitsrechte358 der zivilisierten Gesellschaften359 leiten zu
+lassen, wie sie für die einzelnen Bürger moderner Staaten gelten, dergestalt, daß alleVersprechungen und Verträge gewissenhaft beobachtet, daß keine Sonderanschläge oderVerschwörungen angezettelt werden, und daß wechselseitiges Vertrauen geschaffen wird auf derBasis wechselseitiger Achtung vor dem Recht.*
+*4. Schaffung einer Friedensorganisation, die verbürgt, daß die gesamte Macht der freien Nationenjede Rechtsverletzung verhüten wird, und ein Schiedsgericht einrichtet, dem alle internationalen
+Gegensätze unterbreitet werden sollen. Diese großen Ziele können wir in einen Gedanken zu-*
 
 357 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2575-2577
 
@@ -3322,7 +3322,29 @@ Gegensätze unterbreitet werden sollen. Diese großen Ziele können wir in einen
 ![Screenshot_20251212_203332~2.jpg](https://github.com/user-attachments/assets/27718acd-dcd2-4bc7-a644-3a627917fc1a) 151
 
 
+*sammenfassen: Wir streben nach der Herrschaft des Rechtes, gegründet auf die Zustimmungder Regierten und gestützt durch die organisierte Meinung der Menschheit.*“360
 
+*Was hat es mit dieser flagranten Note Wilsons und seiner Berater genau auf sich? Ausgerechnet vor demGrab Washingtons, der mit Baron von Steuben für die Freiheit Nordamerikas kämpfte und überhaupt
+diesen Sieg der Freiheit erst ermöglichte, bevor dieser sodann erneut gestohlen wurde, hält Wilson alsodennoch diese Rede. Wilson suggeriert hier, daß Deutschland nicht zu den zivilisierten Staaten zähltund erst noch lernen und versichern müsse in Zukunft sich wie gefordert zu verhalten. Wilson will
+Deutschland vernichten oder wenigstens herabdrücken. Wilson ermächtigt sich selbst und seineFreunde im Recht für die Menschheit durch Zustimmung der Regierten und gestützt auf eine zurechtorganisierte Meinung statt Fakten und Beweise. Ein wenig wie heute gegen Rußland. Als hätte man eserahnen können.*
+
+*Wilson kannte das Steuben-Denkmal hinter dem WH und insoweit sicher auch den Freundschaftsvertragzwischen Preußen und der 1776 Union – nicht 13. vereinten 1776 – aber in jedem Fall die beiden H a a g e r  Friedenskonferenzen 1899 und 1907, die wohl nicht zufällig jeweils damit endeten, daßals aller erstes Seine Majestät der Deutsche Kaiser und König von Preußen die Abkommen (HLKO)zeichnete. All das was Wilson hier als Bonbon an die Welt verkaufte, war das, was Preußen sukzessiveseit 1848 einzig einführte auf den Bund ausdehnte und zuletzt innerhalb des Bundesgebietes aberauch darüber hinaus, schützte. Wilson erklärte daher 1904 in seinem eigenen Buch „Der Staat“,361 daßDeutschland das beste System in Europa, also der Welt, hatte; eben dieses aber sollte 1918 plötzlich
+das Gegenteil sein, verdreht, gespiegelt, und aus einem „Friedenskaiser“ wurde über Nacht derblutigste Kriegsfürst, der dann jedoch nie zur Verantwortung gezogen worden ist. Nicht des Kaisers„Friedenswerk“ war gewünscht, das 43 Jahre Frieden und Wohlstand brachte, sondern bedingungslosdas „Wilsonsche“ UN-Friedenswerk, das fortan als Völkerbund Kriege sicherstellen sollte. Wenn eine Insel wie Haiti362 einem mörderischen Giganten wie Deutschland vollkommen grundlos, daunbeteiligt und ungeschädigt – dafür selbst genug Probleme –, den Krieg erklärt, weiß ein jedes Kind,das kann niemals nicht freiwillig geschehen sein.*
+
+*Krieg entscheidet nicht darüber, wer im Recht ist, sondern lediglich wer überlebt.*
+
+**11.07.1918 Reichskanzler Graf Hertling**
+
+„*Berlin, 11. Juli. Im Hauptausschusse des Reichstages erklärte der Reichskanzler Graf Hertling, daßder Wechsel in der Leitung des Auswärtigen Amtes an dem Kurse der gesamten Reichspolitik nicht dasgeringste ändern werde. Sowohl die innere als auch die äußere Politik des Reichs werde sich nach wie vorauf den Bahnen bewegen, die in den früheren Erklärungen des Kanzlers vorgezeichnet waren. Soweit derWille der Regierung in Betracht komme, seien in innenpolitischer Hinsicht alle gegebenen Zusageneingehalten worden. Die Regierung werde auch mit voller Energie auf die Durchführung der in die Wege geleiteten Reformen bestehen und diese zu Ende führen. Nach außen hin sei die Reichspolitik programmatisch in der Antwort auf die Friedensnote des Papstes festgelegt. Aller Welt sei die ehrliche
+Friedensbereitschaft der deutschen Regierung seit langem bekannt. Es habe sich daran auch weder bisher etwas geändert, noch werde dies in Zukunft geschehen. Demgegenüber stehe aber die Tatsache fest,daß der Vernichtungswille der Feinde [s.o] nach wie vor aufs stärkste hervortrete, zuletzt erst wieder inden Reden von Wilson und Balfour. Solange darin kein Wandel geschehe, seien wir zum Weiterkämpfenum unser Freiheit und Wohlfahrt genötigt. In der Bereitwilligkeit, auf wirklich ernste Verhandlungsvorschläge der uns feindlichen Mächte einzugehen, sei aber die politische Reichsleitung mit der Obersten Heeresleitung vollkommen einig.*
+
+360 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2788 Jesuit Wilson
+
+361 „*Der Staat. Elemente historischer und praktischer Politik.*“ Autorisierte Übersetzung v. Günther Thomas. Woodrow Wilson Berlin, Hillger, 1913
+
+362 US-Protektorat Haiti wird mit 14.07.1918 über NY von den USA gezwungen Deutschland den Krieg zu erklären
+
+---
 
 
 ![Screenshot_20251212_203338~2.jpg](https://github.com/user-attachments/assets/c4ecdcf4-cf63-47e8-8922-f8e0d61b168e) 152
