@@ -3223,7 +3223,8 @@ Volksvertretung als provisorische Organe anzuerkennen, wenn diese Landteile nich
 353 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2573 russische Staatsschuld
 
 354 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2574
-355 concedere „weichen, nachgeben, zugestehen“
+
+355 concedere „*weichen, nachgeben, zugestehen*“
 
 356 vermutlich, mutmaßlich, voraussetzend, als wahrscheinlich angenommen oder vorausgesetzt
 
@@ -3231,6 +3232,51 @@ Volksvertretung als provisorische Organe anzuerkennen, wenn diese Landteile nich
 
 
 ![Screenshot_20251212_200748~2.jpg](https://github.com/user-attachments/assets/51d3b6f8-65f3-4774-b84b-a64f9263b9f0) 149
+
+*müsse, wozu aber die Schaffung eines Organs Vorbedingung sei, das die freie Abstimmung derBevölkerung garantieren können.*
+
+*Nach längerer Debatte unterbreitete der russische Delegierte Kamenow folgende Vorschläge:
+ad 1. Das Territorium. Das Selbstbestimmungsrecht steht den Nationen und nicht ihren Teilen zu,die okkupiert worden sind, dementsprechend gibt die russische Regierung aus eigener Initiative dasRecht der gleichzeitigen Selbstbestimmung auch den Teilen der genannten Nationen, die außerhalb derBesetzungszone leben. Rußland verpflichtet sich, diese Gebiete weder direkt noch indirekt zur Annahmedieser oder der anderen Staatsform zu nötigen, ihre Selbstständigkeit durch keine Zoll- oder
+Militärkonventionen zu beengen, die vor der endgültigen Konstituierung dieser Gebiete auf Grund desSelbstbestimmungsrechtes dieser Nationen geschlossen würden.*
+
+*Die Regierungen Deutschlands und Oesterreich-Ungarns bestätigen ihrerseits kategorisch dasFehlen irgendwelcher Ansprüche sowohl auf die Einverleibung in das Territorium Deutschlands undOesterreich-Ungarns, der Gebiete des früheren russischen Kaiserreichs, die jetzt von den HeerenDeutschlands oder Oesterreich-Ungarns okkupiert worden sind, wie auf die sogenanntenGrenzkorrekturen auf Kosten dieser Gebiete.*
+
+*Gleichzeitig verpflichten sie sich, diese Gebiete nicht, weder direkt noch indirekt, zur Annahme dieser oder jener Staatsform zu nötigen, ihre Unabhängigkeit nicht durch irgendwelche Zoll- oder
+Militärkonvention zu beengen, die geschlossen würden vor der endgültigen Konstituierung dieser Gebiete auf Grund des politischen Selbstbestimmungsrechtes der sie bevölkernden [Ur]Nationen.*
+
+*ad 2. Die Lösung der Frage über die Geschicke der sich selbst bestimmenden Gebiete muß, unterder Bedingung der vollen politischen Freiheit und des Fehlens jedes äußeren Druckes stattfinden,deshalb soll die Abstimmung nach Rücknahme der Fremden Heere und Rückkehr der Flüchtlinge undder vom Anfang des Krieges evakuierten Bevölkerung stattfinden.*
+
+*Der Zeitpunkt der Zurückziehung der Heere wird durch eines besondere Kommission bestimmt.*
+
+*ad 3. Vom Moment der Unterzeichnung des Friedens bis zur staatlichen Konstituierung dergenannten Gebiete geht ihre innere Verwaltung, die Leitung der lokalen Angelegenheiten, Finanzen usw. in
+die Hände eines temporären Organes über, das durch Verständigung der politischen Parteien, die ihreLebensfähigkeit inmitten ihres Volkes vor und während des Krieges bewiesen haben, gebildet wird.*
+
+*ad. 4. Die endgültige Lösung der Frage von der Staatslage der Gebiete, um die es sich handelt,und von der Form ihrer Staatseinrichtungen wird durch das allgemeine Referendum erfolgen.*
+
+*Hierauf erbat General Hoffmann das Wort und führte aus:
+‚Ich muß zunächst gegen den Ton dieser Vorschläge protestieren.*
+
+*Die russische Delegation spricht mit uns, als ob Sie siegreich in unserem Land ständen und unsBedingungen diktieren könnten. Ich möchte darauf hinweisen, daß die Tatsachen entgegengesetzt sind,
+– das siegreiche deutsche Heer steht in Ihrem Gebiet!*
+
+*Ich möchte dann feststellten, daß die russische Delegation für die besetzten Gebiete die Anwendungeines Selbstbestimmungsrechtes der Völker in einer Weise und in einem Umfange fordert, wie es ihreRegierungen im eigenen Lande nicht anwendet.*
+
+*Ihre Regierung ist lediglich begründet auf Macht, und zwar auf Macht, die rücksichtslos mit Gewalt jeden Andersdenkenden unterdrückt. Jeder Andersdenkende wird einfach als Gegenrevolutionär[Reichsbürger] und Bourgeois vogelfrei erklärt. Ich will diese meine Ansicht nur an zwei Beispielenerklären.*
+
+*In der Nacht vom 30. zum 31. Dezember wurde der erste weißrussische Kongreß in Minsk, der dasSelbstbestimmungsrecht des weißrussischen Volkes geltend machen wollte, von den Maximalisten durch
+Bajonette und Maschinengewehre auseinandergejagt.*
+
+*Als die Ukrainer das Selbstbestimmungsrecht geltend machten, stellte die Petersburger Regierung
+ein Ultimatum und versuchte, die Erzwingung ihres Willens mit Waffengewalt durchzusetzen.*
+
+*Soviel aus den mir vorliegenden Funksprüchen hervorgeht, ist der Bürgerkrieg noch im Gange.*
+
+*So stellt sich die Anwendung des Selbstbestimmungsrechtes der Völker durch die maximalistischeRegierung in der Praxis dar.*
+
+*Die deutsche Oberste Heeresleitung muß deshalb eine Einmischung in der Regelung derAngelegenheiten der besetzten Gebiete ablehnen.*
+
+---
+
 
 ![Screenshot_20251212_200755~2.jpg](https://github.com/user-attachments/assets/8cd8652f-092a-4f0a-88d3-e5e81d93919e) 150
 
