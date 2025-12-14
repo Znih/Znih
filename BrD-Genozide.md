@@ -3389,8 +3389,7 @@ Erklärung abgeben.*“364
 
 „*New York, 14. Juli. Reuter meldet aus Port-au-Prince, der Staatsrat von Haiti habe einstimmig beschlossen, Deutschland den Krieg zu erklären. – Zusatz des W.T.B.: Eine Bestätigung dieser Meldung liegt hiernicht vor.*“366
 
-*Am 28.07.1915, besetzten die USA Haiti, mit dem offiziellen Ziel, die öffentliche Ordnung wiederherzustellen. Mit Haitian-American Convention vom 16.09.1915 wurde Haiti zum US-Protektorat mit
-Polizeirecht und Finanzkontrolle. Einfluss kleiner Gruppe deutscher Einwanderer (etwa 200) in derWirtschaft Haitis groß. Im Juli 1918, kurz vor Ende des Ersten Weltkriegs, wurde Haiti gezwungen,
+*Am 28.07.1915, besetzten die USA Haiti, mit dem offiziellen Ziel, die öffentliche Ordnung wiederherzustellen. Mit Haitian-American Convention vom 16.09.1915 wurde Haiti zum US-Protektorat mitPolizeirecht und Finanzkontrolle. Einfluss kleiner Gruppe deutscher Einwanderer (etwa 200) in derWirtschaft Haitis groß. Im Juli 1918, kurz vor Ende des Ersten Weltkriegs, wurde Haiti gezwungen,
 Deutschland den Krieg zu erklären, womit der Weg zur Enteignung der Deutschen frei war. Haiti solltesich davon nie wieder erholen. Nach dem Krieg wurde den Deutschen ihr Besitz zurückerstattet.*367
 
 „*Vorstellung der auf der Französchen Kolonie St: Domingo von denen schwartzen Sklaven eingebildeteFranzösischen demokratischen Freÿheit, welche selbige durch unerhörte Grausamkeit zu erwerben
@@ -3406,6 +3405,40 @@ gedachten. Sie ruinierten viele Wolle und Zucker Plantagen und verbran[n]ten die
 
 
 ![Screenshot_20251212_203349~2.jpg](https://github.com/user-attachments/assets/30150cb8-5bde-4ad3-943b-b2c721aa6aae) 154
+
+**20.07.1918 Erschießung des ehemaligen Zaren Nikolaus II.**
+
+„*Berlin, 20. Juli. Nach einer aus Moskau hier eingegangenen Meldung ist der frühere Zar von Rußlandam 16. dieses Monats in Jekaterinenburg erschossen, worden. Anlaß dazu war das Heranrührentschecho-slowakischer Banden, denen die rote Uralregierung den früheren Zaren nicht lebendigüberlassen wollte.
+Moskau, 20. Juli. Der Exzar ist am 16. Juli laut Urteil des Ural-Sowjets in Jekaterinenburg erschossenworden. Die ‚Bjedneta‘ meldet die Ermordung in folgender Form:*“
+
+„*Durch den Willen des revolutionären Volkes ist der blutige Zar aufs glücklichste inJekaterinenburg verschieden. Es lebe der Rote Terror.*“
+
+„*Ein Dekret vom 19. Juli erklärt das gesamte Eigentum des Exzaren sowie der Exzarinnen Alexandraund Maria und sämtlicher Mitglieder des ehemaligen Kaiserhauses als Besitz der russischen Republik.Einbegriffen in die Konfiskation sind sämtliche Einlagen der Exzarenfamilie in russischen undausländischen Banken.*“368
+
+**31.07.1918 Feindliche Verluste seit Kriegsbeginn**
+
+„Berlin, 31. Juli. Bereits am 2. August 1917 betrugen die Verluste des Verbandes nach vorsichtiger Schätzung über 18 Millionen Mann. Die blutigen Niederlagen des inzwischen vergangenen Kriegsjahres,die dem Verbande überall neue unerhörte Opfer kosteten, haben diese Zahl auf 25 Millionen erhöht.*
+
+*Hiervon hat Rußland seine Hilfe für die Machtpläne der Weststaaten nach einer Aeußerung des Petersburger Pressekommissars Rusmin am 5. Juli 1918 mit 4½ Millionen Toten, 6 Millionen Verwundetenund Krüppeln und 3 Millionen Gefangenen bezahlen müssen. Die Franzosen und Engländer haben allein1917 im flandrischen Blutsumpf weit über eine halbe Millionen Soldaten und in den ersten drei Monatender deutschen Westoffensive 1918 eine weitere Million verloren. Rechnet man die schwere Einbuße der
+Franzosen am Chemin-des-Dames im Oktober, der Engländer bei Cambrai im November 1917 und diejetzige Gegenoffensive Fochs, die verlustreichste aller bisherigen Schlachten, hinzu, so zählt heute
+Frankreich über 5 Millionen, England über 2 800 000 Schwarze und weiße Tote, Verwundete und Gefangene. Nicht weniger schwer hat Italien im vierten Kriegsjahr gelitten. Hatte es am 2. August 1917
+1 600 000 Mann Verluste, so hat es heute nach der ersten [am 19.08.1917] und dem Zusammenbruchder zwölften Isonzo-Schlacht 1917, die allein eine halbe Million seiner Soldaten verschlang, und denKämpfen an der Gebirgs- und Piave-Front 1918 weitere 800 000 Mann geopfert. Am vernichtendsten hatder Krieg die Volkskraft der kleinen Hilfsstaaten der Verbandes getroffen. Serbien hat seine Teilnahmeam Kriege mit fast seiner ganzen erwachsenen männlichen Bevölkerung bezahlt [so wie die Ukraine].
+Rumänien hat die Hälfte der Armee verloren. Rechnet man Belgier, Montenegriner und Amerikaner hinzu, so ergibt sich als Gesamtziffer der Verbandsverluste die Einwohnerzahl von Spanien und Portugalzusammengerechnet: 25 Millionen Menschen.*“369
+
+**31.07.1918 Kaiserliche Kundgebung**
+
+„*An das Deutsche Volk.*
+
+*Vier Jahre schweren Kampfes sind dahingegangen, ewig denkwürdiger Taten voll. Für alle Zeiten ist einBeispiel gegeben, was ein Volk vermag, das für die gerechteste Sache, für die Behauptung seines Daseins, im Felde steht. Dankbar die göttliche Hand, die gnädig über Deutschland waltete, dürfen wir stolz bekennen, daß wir nichtunwert der gewaltigen Aufgabe befunden wurden, vor die uns die Vorsehung gestellt hat. Wenn unserem Volke in seinem Kampfe Führer, zum höchsten Vollbringen befähigt, gegeben waren, so hat es täglich in Treue bewährt, daß esverdiente, solche Führer zu haben. Wie hätte die Wehrmacht draußen ihre gewaltigen Taten verrichten können,
+wenn nicht daheim die gesamte Arbeit auf das Höchstmaß persönlicher Leistung eingestellt worden wäre? Dank
+gebührt allen, die unter schwierigsten Verhältnissen an den Aufgaben mitwirkten, die dem Staat und der Gemeinde gestellt sind, insbesondere unserer treuen, unermüdlichen Beamtenschaft, Dank dem Landmann wie demStädter, Dank auch den Frauen, auf denen so viel in dieser Kriegszeit lastet.*
+
+368 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2806 Zarenmord
+
+369 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2818 Feindliche Verluste
+
+---
+
 
 ![Screenshot_20251212_203359~2.jpg](https://github.com/user-attachments/assets/2899de22-25f7-49f8-a1dc-ba4034a664ce) 155
 
