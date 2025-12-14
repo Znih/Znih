@@ -3626,7 +3626,26 @@ Große Hauptquartier*“ in Spa.448
 
 ![Screenshot_20251212_214128~2.jpg](https://github.com/user-attachments/assets/818ff377-0dea-4f19-a8c9-a0e78e07e47e) 176
 
+---
+
 ![Screenshot_20251212_214133~2.jpg](https://github.com/user-attachments/assets/df066a3f-57a2-4894-8321-4ce26bd25363) 177
+
+*Ich zitiere die folgenden Worte des Grafen Westarp in der ‚Wochenschau‘ vom 3. November 1918(Westarp, a. a. D., S. 90):*“
+
+„*Die von der Sozialdemokratie geforderte Abdankung Seiner Majestät des Kaisers würde nachunserer Auffassung in unaufhaltbarer Folge zum Ende der Hohenzollerndynastie und derEinigkeit des Deutschen Reiches [Einigungswerk 1871] führen. Man muß dabei zunächstvergegenwärtigen, daß die Sozialdemokratie und andere Kreise, die in dieser Frage ihr zur Seitetreten, auch an die Abdankung des Kronprinzen denken, der weder dem Präsidenten Wilson undunseren anderen Feinden, noch unserer Demokratie genehmer sein würde als der Kaiser.*
+
+*W a s  a l l e i n  i n  F r a g e  k o m m t  u n d  g e f o r d e r t  w i r d, i s t  d i e A b d a n k u n g  z u g u n s t e n  d e s  m i n d e r j ä h r i g e n  E n k e l s  u n d e i n e  R e g e n t s c h a f t.*
+
+*Diese wäre nach der Verfassung im Reiche wie in Preußen von dem nächsten großjährigen zurThronfolge berechtigten Prinzen des königlichen Hauses, also dem Prinzen Eitel Friedrich zuführen. Lesen wir einmal wieder nach, was Friedrich der Große in seinem politischen Testament
+über die Regentschaft sagt … Daß die Entente mit ungeheuren Mitteln daran arbeitet, durchSchürung partikularistischer Strömungen den Bestand des Reiches zu zersetzen, geht aus vielen
+Ereignissen der letzten Zeit hervor. Nun kann kein Zweifel bestehen, daß bei richtigerAuslegung der Verfassung die Regentschaft im Reiche ohne weiteres dem Regenten der KronePreußens zusteht456
+. Wer aber wollte dafür bürgen, das unter den heutigen Verhältnissen diezutreffende Auslegung der Verfassung sich durchsetzt und nicht ohne weiteres über den Haufen
+geworfen wird, wenn es den politischen Mächten genehm ist, die jetzt an der Herrschaft sind?*
+
+*Darum ist es nicht anders: Wer die Abdankung des Kaisers fordert, der muß sich vollkommen klardarüber sein, daß er auch das Herrscherhaus, die monarchische Staatsform[en] und dieEinigkeit des Deutschen Reiches aufs schärfste gefährdet.*“457
+
+---
+
 
 ![Screenshot_20251212_214138~2.jpg](https://github.com/user-attachments/assets/4fa68bdd-c1eb-4c29-9bb8-2db017ee9e16) 178
 
