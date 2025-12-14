@@ -2752,9 +2752,7 @@ Berlin und Dresden markierten den Unterschied zwischen Farbrevolution und Friede
 
 *Seine Königliche Hoheit Prinz Leopold von Bayern begrüßte die Vertreter der Mächte desVierbundes und Rußlands mit dem Wunsche, daß auch die nun begonnenen Verhandlungen möglichstbald zu einem die Völker beglückenden Frieden führen möchten.*
 
-*Staatssekretär v. Kühlmann übernahm auf Vorschlag des Alterspräsidenten Hakki Pascha den Vorsitzund hielt eine Ansprache, in der er u. a. Sagte: ‚Nach der Lage der Verhältnisse kann nicht die Rededavon sein, ein bis in die kleinsten Einzelheiten ausgearbeitetes Friedensinstrument bei den jetzt
-begonnenen Beratungen herzustellen. Was mir vorschwebt, ist die Festsetzung der wichtigsten Grundsätze und Bedingungen.‘ Auf Einladung des Vorsitzenden entwickelte hierauf der erste russische
-Vertreter in längerer Rede die Grundlagen des russischen Friedensprogramms.*“324
+*Staatssekretär v. Kühlmann übernahm auf Vorschlag des Alterspräsidenten Hakki Pascha den Vorsitzund hielt eine Ansprache, in der er u. a. Sagte: ‚Nach der Lage der Verhältnisse kann nicht die Rededavon sein, ein bis in die kleinsten Einzelheiten ausgearbeitetes Friedensinstrument bei den jetztbegonnenen Beratungen herzustellen. Was mir vorschwebt, ist die Festsetzung der wichtigsten Grundsätze und Bedingungen.‘ Auf Einladung des Vorsitzenden entwickelte hierauf der erste russischeVertreter in längerer Rede die Grundlagen des russischen Friedensprogramms.*“324
 
 **Zeitzeuge Max zu den Verhandlungen in Brest-Litowsk**
 
@@ -2767,8 +2765,7 @@ gemeinsam eingenommen. Mein [Max] Vetter Fürst Ernst Hohenlohe kam bei Tisch ne
 
 „*Die Russen proklamierten ihre Grundsätze, im wesentlichen Kerenskis Programm,326 das seinerzeitdie Demokratien aller Länder aufgeregt hatte:
 Keine Annexionen und keine Kriegsentschädigungen. Das Selbstbestimmungsrecht wurden allen
-Nationen zugesprochen, und zwar nicht nur den Völkerschaften, die in diesem Kriege ihreSelbstständigkeit verloren hatten, sondern auch den verschiedenen Nationalitäten, die vor dem Kriege
-innerhalb der großen Staatenverbände keine Selbstständigkeit besaßen. [z.B. Polen, Tschecho-Slowaken,Ungarn, Großserbien-Jugoslawien] Die Russen gingen so weit, die Anwendung dieses Grundsatzes auchfür die Kolonien zu verlangen.*“ – das wäre ein Friede im Sinne Ulpian und Celsus gewesen.
+Nationen zugesprochen, und zwar nicht nur den Völkerschaften, die in diesem Kriege ihreSelbstständigkeit verloren hatten, sondern auch den verschiedenen Nationalitäten, die vor dem Kriegeinnerhalb der großen Staatenverbände keine Selbstständigkeit besaßen. [z.B. Polen, Tschecho-Slowaken,Ungarn, Großserbien-Jugoslawien] Die Russen gingen so weit, die Anwendung dieses Grundsatzes auchfür die Kolonien zu verlangen.*“ – das wäre ein Friede im Sinne Ulpian und Celsus gewesen. **Artikel 292 VV verbot ab 1919 diese Friedensmöglichkeit.**
 
 „*In unserer Antwort erklärten wir unsere grundsätzliche327 Zustimmung zu dem Programm: keineAnnexionen und keine Entschädigungen. Wir bekunden unsere Absicht, die politische Selbstständigkeit
 der Völker wiederherzustellen, die sie im Kriege eingebüßt hatten [z.B. Belgien].*
@@ -2794,9 +2791,10 @@ nicht leisten! Die FED wurde auch zum Zwecke der Kriegsverlängerungsfinanzierun
 ![Screenshot_20251212_200656~2.jpg](https://github.com/user-attachments/assets/aa12ba2d-826e-40f1-adec-3677004d1cd9) 138
 
 *Aber wir lehnten das Selbstbestimmungsrecht der Nationalitäten innerhalb der großen Staatenverbände ab: ‚Die staatliche Zugehörigkeit nationaler Gruppen, die keine staatliche Selbstständigkeitbesitzen, können nicht, zwischenstaatlich geregelt werden [Henne-Ei-Problem], sondern sei von jedem
-Staat mit seinen Völkern selbstständig auf verfassungsmäßigem Wege zu lösen.‘
-Der Forderung nach der Selbstbestimmung unserer Kolonien widersprachen wir mit dem Hinweis:
-Die Not und Tod bewährte Treue der eingeborenen Bevölkerung gegen Deutschland sei ein Zeugnis,das an Ernst und Gewicht jede Willenskundgebung durch Abstimmung übertrifft. […] Trotz Meinungsverschiedenheiten über Einzelheiten erkenne sie [die russische Delegation] die enorme Bedeutungdieses Schrittes auf dem Wege zum allgemeinen Frieden an. [i.d.T.] Sie sehe die Grundlage gegeben,um mit allen kriegführenden Mächten sofort zu Verhandlungen zu schreiten.*“328
+Staat mit seinen Völkern selbstständig auf verfassungsmäßigem Wege zu lösen.‘*
+
+*Der Forderung nach der Selbstbestimmung unserer Kolonien widersprachen wir mit dem Hinweis:*
+*Die Not und Tod bewährte Treue der eingeborenen Bevölkerung gegen Deutschland sei ein Zeugnis,das an Ernst und Gewicht jede Willenskundgebung durch Abstimmung übertrifft. […] Trotz Meinungsverschiedenheiten über Einzelheiten erkenne sie [die russische Delegation] die enorme Bedeutungdieses Schrittes auf dem Wege zum allgemeinen Frieden an. [i.d.T.] Sie sehe die Grundlage gegeben,um mit allen kriegführenden Mächten sofort zu Verhandlungen zu schreiten.*“328
 
 **23.12.1917 Beginn Friedensverhandlungen**
 
@@ -2809,8 +2807,7 @@ Die Friedensverhandlungen wurden am 22. d. M., 4 Uhr nachmittags in Brest-Litows
 „*Berlin, 24. Dezember. Die gewaltigen Angriffe unserer Feinde an der Westfront sind gescheitert!
 Unterstützt durch die gesamten Industrien Englands, Frankreichs, und Amerikas, trotz monatelangerVorbereitungen umfassender Art, trotz allergrößter Munitionsaufwandes waren alle Bemühungenunserer Gegner umsonst. Das zähe Durchhalten und die unerschütterliche Tapferkeit unserer todesmutigen Truppen an der Front konnte dies aber neben der Unterstützung durch die Marine nur leistendurch die rastlose Arbeit und die reiche Unterstützung der Heimat [Heer u. Heimat] mit [Verpflegung,]Waffen, Munition und allem sonstigen Kriegsgerät. Dafür sage ich dem Kriegsministerium und seinen
 untergeordneten Behörden Meinen und des Heeres Dank. Zielbewußte Leistung, strengste Pflichterfüllungjedes einzelnen, enges Zusammenarbeiten mit den anderen Behörden, insbesondere der Kriegsministerienden Bundesstaaten, und mit einer schaffensfreudigen, erfinderischen Industrie – auf dieser Grundlagehaben sich Erfolge aufgebaut. Glänzendes ist auch in der rechtzeitigen Bereitstellung eines kriegsmäßig
-vorgebildeten Ersatzes, der Fürsorge für unsere Verwundeten und in der Verteilung und Verwendung derheimischen Arbeitskräfte geleistet. So vertraue ich darauf, daß Mein Kriegsministerium auch weiter invorbildlicher Pflichttreue zum Nutzen von Heer und Vaterland arbeiten und so für sein Teil zum Endsiege
-beitragen wird.
+vorgebildeten Ersatzes, der Fürsorge für unsere Verwundeten und in der Verteilung und Verwendung derheimischen Arbeitskräfte geleistet. So vertraue ich darauf, daß Mein Kriegsministerium auch weiter invorbildlicher Pflichttreue zum Nutzen von Heer und Vaterland arbeiten und so für sein Teil zum Endsiegebeitragen wird.
 Großes Hauptquartier, 24. Dezember 1917
 An den Kriegsminister.*“330
 
@@ -2831,15 +2828,24 @@ Selbstständigkeit in diesem Kriege verloren haben [mit dieser Formulierung auch
 
 ![Screenshot_20251212_200701~2.jpg](https://github.com/user-attachments/assets/9888211f-b758-428e-8ac6-766a74eef3b0) 139
 
-*3. Den nationalen Gruppen, die vor dem Kriege nicht selbstständig waren, wird die Möglichkeitgewährleistet, die Frage der Zuständigkeit zu dem einen oder dem anderen Staat oder ihrerstaatlichen Selbstständigkeit durch Referendum zu entscheiden. Dieses Referendum muß in der
-Weise veranstaltet werden, daß voll Unabhängigkeit bei der Stimmabgabe für die ganzeBevölkerung des betreffenden Gebietes einschließlich der Auswanderer und Flüchtlingegewährleistet ist.
+
+*
+3. Den nationalen Gruppen, die vor dem Kriege nicht selbstständig waren, wird die Möglichkeitgewährleistet, die Frage der Zuständigkeit zu dem einen oder dem anderen Staat oder ihrerstaatlichen Selbstständigkeit durch Referendum zu entscheiden. Dieses Referendum muß in der
+Weise veranstaltet werden, daß voll Unabhängigkeit bei der Stimmabgabe für die ganzeBevölkerung des betreffenden Gebietes einschließlich der Auswanderer und Flüchtlingegewährleistet ist.*
+
+*
 4. In bezug auf Gebiete gemischter Nationalität wird das Recht der Minderheiten durch eingesondertes Gesetz geschützt, das ihr die Selbstständigkeit der nationalen Kultur und – falls dies
-praktisch durchführbar – autonome Verwaltung gibt.
+praktisch durchführbar – autonome Verwaltung gibt.*
+
+*
 5. Keines der kriegführenden Länder ist verpflichtet, einem anderen Lande sogenannte‚Kriegskosten‘ zu zahlen; bereits erhobene Kontributionen [Reparationen] sind zurückzuzahlen.
-Was den Ersatz der Verluste von Privatpersonen infolge des Krieges anbetrifft, so werden sie aus
-einem besonderen Fonds beglichen, zu dem die Kriegsführenden proportional beitragen.
+Was den Ersatz der Verluste von Privatpersonen infolge des Krieges anbetrifft, so werden sie auseinem besonderen Fonds beglichen, zu dem die Kriegsführenden proportional beitragen.*
+
+*
 6. Koloniale Fragen werden unter Beachtung der unter 1 bis 4 dargelegten Grundsätze
-entschieden.
+entschieden.*
+
+*
 7. In der heute unter dem Vorsitz des bevollmächtigten Vertreters Oesterreich-Ungarns, GrafenCzernin abgehaltenen Plenarsitzung gab dieser namens der Delegation des Vierbundes eine
 Erklärung ab, in der er u. a. sagte:*“331
 
@@ -2850,8 +2856,9 @@ Grundlage für einen solchen Frieden bilden können.*
 Es muß aber ausdrücklich darauf hingewiesen werden, daß sich sämtliche jetzt im Kriegebeteiligten Mächte innerhalb einer angemessenen Frist ausnahmslos und ohne jeden Rückhalt zur
 genauesten Beobachtung der alle Völker in gleicher Weise bindende Bedingungen verpflichten müssen,wenn die Voraussetzungen der russischen Darlegung erfüllt sein sollen.*
 
-*Eine gewaltsame Aneignung von Gebieten, die während des Krieges besetzt worden sind [Ukraine,Balten], liegt nicht in den Absichten der verbündeten Regierungen.
-Es liegt nicht in der Absicht der Verbündeten, eines der Völker, die in diesem Kriege ihre politische
+*Eine gewaltsame Aneignung von Gebieten, die während des Krieges besetzt worden sind [Ukraine,Balten], liegt nicht in den Absichten der verbündeten Regierungen.*
+
+*Es liegt nicht in der Absicht der Verbündeten, eines der Völker, die in diesem Kriege ihre politische
 Selbstständigkeit verloren haben, dieser Selbstständigkeit zu berauben.*
 
 *Die Frage der staatlichen Zugehörigkeit nationaler Gruppen, die keine staatliche Selbstständigkeitbesitzen, kann nach dem Standpunkte der Vierbundmächte nicht zwischenstaatlich geregelt werden. Sie istim gegebenen Falle von jedem Staat mit seinen Völkern selbstständig auf verfassungsmäßigem Wege zulösen.*
