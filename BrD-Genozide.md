@@ -69,7 +69,7 @@ Wer nicht hören will, wird fortan fühlen müssen.
 
 Volljuristen unbedingt Nachrichten konsumieren und auf Nürnberg 2.0 vorbereiten.
 
-Verfolgter des Nazismus (VdN), wie schon der Großvater VdN und zusätzlich Mitglied der besonderen priori visionären Widerstandsgruppe "Europäischen Union" um VdN Prof. Robert Hans Günther Havemann u.s.v.a.m.
+Verfolgter des Nazismus (VdN), wie schon der Großvater VdN und zusätzlich Mitglied der besonderen priori visionären Widerstandsgruppe "Europäischen Union" um VdN Prof. Robert Hans Günther Havemann, VdN Dr. Georg Groscurth u.s.v.a.m.
 
 
 ---
