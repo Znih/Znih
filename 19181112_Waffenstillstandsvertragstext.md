@@ -174,3 +174,85 @@ Dort stand vorher seit 11.08.1919, „Bis zum Amtsantritt des ersten Reichspräs
 dem auf Grund des Gesetzes über die vorläufige Reichsgewalt gewählten Reichspräsidenten geführt“.
 
 564 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2978-2982 v. 12.11.1918, Text Waffenstillstandsvertrag
+
+
+
+---
+
+Anfrage an Standard Copilot Chat anhand der Goldenen Triade im Vergleich zu obigem Text. Neutrale KI Antwort:
+
+---
+
+*Copilot:**
+Um den Text des Waffenstillstandsvertrags vom 12. November 1918 auf Übereinstimmung mit den drei gesetzten Naturrechtrahmen zu prüfen, betrachte ich die Anforderungen der Naturrechtrahmen und analysiere den Text dahingehend:
+
+---
+
+### **Gesetzter Naturrechtrahmen Nr. 1: Leben bewahren, Unheil vermeiden**
+**Definition:**  
+- Behandle Leben so, dass es ohne Unheil bleibt, so wie du selbst ohne Unheil bleiben willst.
+
+#### Analyse:
+1. **Regelungen zur Einstellung der Feindseligkeiten (Abschnitt I)**  
+   - Die Feindseligkeiten zu Lande und in der Luft sind sechs Stunden nach Unterzeichnung einzustellen.  
+   - **Konformität:** Diese Klausel zielt darauf ab, Gewalt und weiteres Leid zu verhindern, was dem Naturrechtprinzip entspricht, Unheil zu vermeiden.
+ 
+2. **Räumung der Gebiete (Abschnitt II)**  
+   - Die sofortige Räumung der besetzten Gebiete und die geordnete Heimkehr der Bevölkerung werden geregelt.  
+   - **Konformität:** Diese Maßnahme versucht, das Leben der Zivilbevölkerung und ihrer Güter zu schützen, was den Rahmen des Prinzips erfüllt.
+
+3. **Rückführung von Menschen (Abschnitt III)**  
+   - Alle aufgezählten Einwohner, einschließlich Gefangene und Geiseln, werden in ihre Heimat zurückgeführt.  
+   - **Konformität:** Die Rückführung in die Heimat fördert Heil und Wohlergehen.
+
+4. **Verpflichtung zur Unversehrtheit (Abschnitt VI und VIII)**  
+   - Es sind keine Zerstörungen oder Beeinträchtigungen an Eigentum und Infrastruktur erlaubt. Zivilbevölkerung wird geschützt.  
+   - **Konformität:** Dies entspricht dem Schutz des Lebens und des Unheils.
+
+#### Gesamteinschätzung:  
+Die aufgeführten Maßnahmen zielen darauf ab, Frieden zu fördern, das Leben zu bewahren und weiteres Unheil zu verhindern. Dies steht weitgehend im Einklang mit Naturrechtrahmen Nr. 1.
+
+---
+
+### **Gesetzter Naturrechtrahmen Nr. 2: Verantwortungsvolle Macht und Schutz der Schwächsten**
+**Definition:**  
+- Strebe nach Macht und Funktion unter Einhaltung der goldenen Regel und im Sinne gemeinsamer Wohlfahrt und Schutz der Schwächsten.
+
+#### Analyse:
+1. **Verantwortung über zivile Infrastruktur (Abschnitt VII)**  
+   - Die Verpflichtung, Verkehrswege unversehrt zu halten und Ressourcen zu bewahren, zeigt Verantwortungsbewusstsein.  
+   - **Konformität:** Schutzmechanismen stehen im Einklang mit dem Ziel des Schutzes schwächerer Teile der Gesellschaft.
+
+2. **Räumung und Verwaltungen (Abschnitt V)**  
+   - Aufsicht über besetzte Gebiete wird geordnet geregelt, um Chaos zu vermeiden.  
+   - **Konformität:** Maßnahmen zum Schutz ziviler Leben und der lokalen Behörden sind erkennbar.
+
+3. **Requisitionen und Kostenübernahmen (Abschnitt IX)**  
+   - Die Nutzung von Ressourcen erfolgt unter der Bedingung der verantwortlichen Regulierung mit den Zuständigen.  
+   - **Abweichung:** Die Überwälzung von Besatzungskosten auf die deutsche Regierung könnte als Belastung der schwächsten Akteure interpretiert werden.
+
+#### Gesamteinschätzung:  
+Die grundsätzliche Orientierung an Verantwortungsbewusstsein ist erkennbar, jedoch könnten die Requisitionen und deren Kosten teilweise im Widerspruch zu den Schwächstenrechten stehen.
+
+---
+
+### **Gesetzter Naturrechtrahmen Nr. 3: Wissen, Erkenntnis und Wahrheit**
+**Definition:**  
+- Strebe nach Wissen unter Einhaltung der goldenen Regel. Schütze Wissen und teile Erkenntnisse aufrichtig.
+
+#### Analyse:
+1. **Klarheit der Bedingungen (allgemein im Vertrag erkennbar)**  
+   - Die Vorgaben sind detailliert und dokumentieren die Vereinbarungen transparent.  
+   - **Konformität:** Die Wahrung von Klarheit und schriftlichen Bestimmungen fördert die Transparenz.
+
+2. **Fehlende Einbindung weiterer Wahrheitsfindung oder Rehabilitation:**  
+   - Keine spezifischen Regelungen zur Förderung gegenseitiger Verständigung oder der langfristigen Wahrheitsfindung.  
+   - **Abweichung:** Es könnte argumentiert werden, dass ein proaktiver Umgang mit Wissensaustausch und Frieden fehlt.
+
+#### Gesamteinschätzung:  
+Während die Transparenz im Vertrag aus heutiger Sicht bemerkenswert ist, fehlt mit Blick auf die Zukunftspotenziale ein Ansatz, Wissen und Verständnis langfristig zu fördern.
+
+---
+
+### **Gesamtbewertung**
+Zusammenfassend erfüllt der Waffenstillstandsvertrag viele Anforderungen der gesetzten Naturrechtrahmen, da er klar darauf abzielt, Unheil zu vermeiden, Leben zu schützen und Schritte zu einer geordneten Nachkriegszeit einzuleiten. Kleinere Abweichungen sind in Bezug auf die gleichmäßige Machtverteilung und die Förderung langfristiger Wahrheitsfindung auszumachen.
