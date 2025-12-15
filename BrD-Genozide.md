@@ -3086,40 +3086,38 @@ werden.*
 
 ![Screenshot_20251212_200730~2.jpg](https://github.com/user-attachments/assets/c54df396-8b7a-4087-8cbd-b44770590697) 145
 
-*
-**Punkt 5.** Eine freie, weitherzige und unbedingt unparteiische Schlichtung aller KolonialenAnsprüche, die auf einer strikten Beobachtung des Grundsatzes fußt, daß bei der Entscheidung allersolcher Souveränitätsfragen die Interessen der Betroffenen Bevölkerung ein ebensolches Gewichthaben müssen wie die berechtigten Ansprüche der Regierung, deren Rechtstitel bestimmt werden sollen,sollte herbeigeführt werden.*
+**Punkt 5.** Eine freie, weitherzige und unbedingt unparteiische Schlichtung aller KolonialenAnsprüche, die auf einer strikten Beobachtung des Grundsatzes fußt, daß bei der Entscheidung allersolcher Souveränitätsfragen die Interessen der Betroffenen Bevölkerung ein ebensolches Gewichthaben müssen wie die berechtigten Ansprüche der Regierung, deren Rechtstitel bestimmt werden sollen,sollte herbeigeführt werden.
 
-*
-**Punkt 6.** Wir müssen ferner die Räumung des ganzen russischen Gebiets sowie ein Einvernehmen inallen Fragen, die es betreffen, verlangen zwecks freier Mitwirkung der anderen Nationen der Welt, umRußland eine unbeeinträchtigte und unbehinderte Gelegenheit zur unabhängigen Bestimmung seinerpolitischen Entwicklung und nationalen Politik erringen zu helfen, um es in der Gesellschaft freierNationen unter selbstgewählten Staatseinrichtungen willkommen heißen zu können; darüber hinauswürden wir Rußland Unterstützung jeder Art, die es nötig hätte und wünschen würde, gewähren[Völkerrechtsverbrechen durch Pkt.6].*
 
-*
-**Punkt 7.** Belgien muß, wohin die ganze Welt übereinstimmt, geräumt werden und wiederaufgerichtetwerden, ohne jeden Versuch, seine Souveränität, deren es sich in gleicher Weise wie allen anderen freienNationen erfreuen soll, zu beschränken.*
+**Punkt 6.** Wir müssen ferner die Räumung des ganzen russischen Gebiets sowie ein Einvernehmen inallen Fragen, die es betreffen, verlangen zwecks freier Mitwirkung der anderen Nationen der Welt, umRußland eine unbeeinträchtigte und unbehinderte Gelegenheit zur unabhängigen Bestimmung seinerpolitischen Entwicklung und nationalen Politik erringen zu helfen, um es in der Gesellschaft freierNationen unter selbstgewählten Staatseinrichtungen willkommen heißen zu können; darüber hinauswürden wir Rußland Unterstützung jeder Art, die es nötig hätte und wünschen würde, gewähren[Völkerrechtsverbrechen durch Pkt.6].
 
-*
+**Punkt 7.** Belgien muß, wohin die ganze Welt übereinstimmt, geräumt werden und wiederaufgerichtetwerden, ohne jeden Versuch, seine Souveränität, deren es sich in gleicher Weise wie allen anderen freienNationen erfreuen soll, zu beschränken.
+
+
 **Punkt 8.** Das ganze französische Territorium müßte befreit und die besetzten Teile wiederhergestellt
-werden sowie das Unrecht, das Frankreich durch Preußen im Jahre 1871 hinsichtlich Elsaß-Lothringens zugefügt wurde, und das den Weltfrieden während nahezu 50 Jahren in Frage gestellt hat,sollte wieder gutgemacht werden, damit der [UN-]Frieden im Interesse aller wieder sichergestellt werdenkann.*
+werden sowie das Unrecht, das Frankreich durch Preußen im Jahre 1871 hinsichtlich Elsaß-Lothringens zugefügt wurde, und das den Weltfrieden während nahezu 50 Jahren in Frage gestellt hat,sollte wieder gutgemacht werden, damit der [UN-]Frieden im Interesse aller wieder sichergestellt werdenkann.
 
-*
-**Punkt 9.** Es müßte eine Berichtigung der italienischen Grenzen nach dem klar erkennbarennationalen Besitzstande durchgeführt werden.*
 
-*
-**Punkt 10.** Den Völkern von Oesterreich-Ungarn, deren Platz unter den anderen der Nationen wirsichergestellt zu sehen wünschen, müßte die erste Gelegenheit einer autonomen Entwicklung gegebenwerden.*
+**Punkt 9.** Es müßte eine Berichtigung der italienischen Grenzen nach dem klar erkennbarennationalen Besitzstande durchgeführt werden.
 
-*
-**Punkt 11.** Rumänien, Serbien und Montenegro müßten geräumt und die besetzten Gebiete zurückerstattet werden; Serbien müßte einen freien und sicheren Zugang zur See erhalten, und die Beziehungender Balkanstaaten zueinander müßten durch freundschaftlichen Verkehr gemäß den historisch bestehendenGrundlinien von Zusammengehörigkeit und Nationalität bestimmt sein; auch müßten internationaleGarantien der politischen und wirtschaftlichen Unabhängigkeit sowie der Unverletzlichkeit desLandbesitzes der Balkanstaaten gegeben werden.*
 
-*
+**Punkt 10.** Den Völkern von Oesterreich-Ungarn, deren Platz unter den anderen der Nationen wirsichergestellt zu sehen wünschen, müßte die erste Gelegenheit einer autonomen Entwicklung gegebenwerden.
+
+
+**Punkt 11.** Rumänien, Serbien und Montenegro müßten geräumt und die besetzten Gebiete zurückerstattet werden; Serbien müßte einen freien und sicheren Zugang zur See erhalten, und die Beziehungender Balkanstaaten zueinander müßten durch freundschaftlichen Verkehr gemäß den historisch bestehendenGrundlinien von Zusammengehörigkeit und Nationalität bestimmt sein; auch müßten internationaleGarantien der politischen und wirtschaftlichen Unabhängigkeit sowie der Unverletzlichkeit desLandbesitzes der Balkanstaaten gegeben werden.
+
+
 **Punkt 12.** Bei türkischen Teilen des gegenwärtigen Osmanischen Kaiserreiches müßte unbedingteSelbstständigkeit sichergestellt werden. Aber die anderen Nationalitäten, die jetzt unter türkischerHerrschaft stehen, wollen eine unzweifelhafte Sicherheit für ihre Lebensbedingungen und einevollkommen unbeeinträchtigte Gelegenheit zu autonomer Entwicklung erhalten. Die Dardanellen
-sollten dauernd als freie Durchfahrt unter internationalen Garantien den Handelsschiffen allerNationen geöffnet werden.*
+sollten dauernd als freie Durchfahrt unter internationalen Garantien den Handelsschiffen allerNationen geöffnet werden.
 
-*
+
 **Punkt 13.** Ein unabhängiger polnischer Staat, der alle Länder, die von einer unzweifelhaftpolnischen Bevölkerung bewohnt sind, und der einen gesicherten freien und zuverlässigen Zugang zur
-See besitzt,347 und dessen politische und wirtschaftliche UNabhängigkeit sowie territorialeUNversehrtheit durch internationalen Vertrag garantiert sein müßten, sollte errichtet werden.*
+See besitzt,347 und dessen politische und wirtschaftliche UNabhängigkeit sowie territorialeUNversehrtheit durch internationalen Vertrag garantiert sein müßten, sollte errichtet werden.
 
-*
+
 **Punkt 14.** Es muß eine allgemeine Vereinigung der Nationen mit bestimmten Vertragsbedingungengebildet werden zum Zwecke gegenseitiger Garantieleistungen für die politische UNabhängigkeit und
 UNverletzlichkeit der großen sowie der kleinen Nationen. Bezüglich dieser wesentlichen Berichtigungvon UNrecht und Durchsetzung des [UN-]Recht[-]s fühlen wir uns mit allen Regierungen und Völkern,
-die sich gegen die verbündeten Kaiserreiche vereinigt haben, in enger Gemeinschaft.*
+die sich gegen die verbündeten Kaiserreiche vereinigt haben, in enger Gemeinschaft.
 
 *Wir werden bis zum Ende für solche Vereinbarungen und Vertragsbedingungen solcher Artzusammenstehen, wir sind willens zu kämpfen und den Kampf fortzusetzen, bis diese erreicht sind, abernur weil wir die Vorherrschaft des [UN-]Recht[-]s und einen [UN-]gerechten dauerhaften[UN-]Frieden wünschen, wie er lediglich durch Beseitigung der hauptsächlichen Kriegsursachenerzielt werden kann, was durch dieses Programm erreicht wird. Wir haben keine Eifersucht auf die
 
@@ -3131,27 +3129,25 @@ die sich gegen die verbündeten Kaiserreiche vereinigt haben, in enger Gemeinsch
 ![Screenshot_20251212_200734~2.jpg](https://github.com/user-attachments/assets/e2aa0075-a257-47b0-a235-b5b45b491c0c) 146
 
 
-*Größe Deutschlands, und dieses Programm enthält nichts, was diese Größe beeinträchtigt. Wir sindnicht neidisch auf die deutschen Errungenschaften oder das deutsche Ansehen, was Wissenschaft oderUnternehmungsgeist anbelangt, die ihm einen so glänzenden und beneidenswerten Namen gemachthaben. Wir wollen Deutschland nicht schaden oder ihm, was seinen rechtmäßigen Einfluß oder seine
+Größe Deutschlands, und dieses Programm enthält nichts, was diese Größe beeinträchtigt. Wir sindnicht neidisch auf die deutschen Errungenschaften oder das deutsche Ansehen, was Wissenschaft oderUnternehmungsgeist anbelangt, die ihm einen so glänzenden und beneidenswerten Namen gemachthaben. Wir wollen Deutschland nicht schaden oder ihm, was seinen rechtmäßigen Einfluß oder seine
 Machtstellung anbelangt, im Wege stehen. Wir wollen es auch nicht mit den Waffen oder durchfeindselige Handelsverträge bekämpfen, wenn es bereit ist, sich mit uns und den anderen friedliebenden
-Nationen der Welt zu Vertragsbedingungen von Recht und Rechtlichkeit sowie Billigkeit zu vereinigen.*
+Nationen der Welt zu Vertragsbedingungen von Recht und Rechtlichkeit sowie Billigkeit zu vereinigen.
 
-*Wir wünschen nur, daß es einen Platz der Gleichheit unter den Völkern der Welt einnehme, anstatteinen solchen der Herrschaft.*
+Wir wünschen nur, daß es einen Platz der Gleichheit unter den Völkern der Welt einnehme, anstatteinen solchen der Herrschaft.
 
-*Ebenso nehmen wir uns nicht heraus, irgendeine Abänderung seiner staatlichen Einrichtungen zuverlangen. Aber es ist, wie wir offen bekennen müssen, notwendig, und zwar als Vorbedingung für einen
-Meinungsaustausch mit ihm, daß wir wissen, für wen seine Unterhändler sprechen, wenn sie zu unssprechen, nämlich ob für die Reichstagsmehrheit oder die Militärpartei bzw. für die Leute, derenGlaubensbekenntnis imperialistische Vorherrschaft ist. Wir haben nunfeierlich in Ausdrücken gesprochen, die zu bestimmt sind, um irgendeinen weiteren Zweifel oderweitere Frage zuzulassen. Ein deutlich erkennbarer Grundsatz zieht sich durch das ganze Programm, dasich umrissen habe. Es ist der Grundsatz der Gerechtigkeit gegenüber allen Völkern undNationalitäten und ihr Recht, auf dem gleichen Fuß der Freiheit und Sicherheit miteinander zu leben, ob sie nun mächtig oder schwach sind. Solange dieser Grundsatz nicht zurGrundlage gemacht wird, kann kein Teil des Gebäudes der internationalen Gerechtigkeit sicherstehen.*
+Ebenso nehmen wir uns nicht heraus, irgendeine Abänderung seiner staatlichen Einrichtungen zuverlangen. Aber es ist, wie wir offen bekennen müssen, notwendig, und zwar als Vorbedingung für einen
+Meinungsaustausch mit ihm, daß wir wissen, für wen seine Unterhändler sprechen, wenn sie zu unssprechen, nämlich ob für die Reichstagsmehrheit oder die Militärpartei bzw. für die Leute, derenGlaubensbekenntnis imperialistische Vorherrschaft ist. Wir haben nunfeierlich in Ausdrücken gesprochen, die zu bestimmt sind, um irgendeinen weiteren Zweifel oderweitere Frage zuzulassen. Ein deutlich erkennbarer Grundsatz zieht sich durch das ganze Programm, dasich umrissen habe. Es ist der Grundsatz der Gerechtigkeit gegenüber allen Völkern undNationalitäten und ihr Recht, auf dem gleichen Fuß der Freiheit und Sicherheit miteinander zu leben, ob sie nun mächtig oder schwach sind. Solange dieser Grundsatz nicht zurGrundlage gemacht wird, kann kein Teil des Gebäudes der internationalen Gerechtigkeit sicherstehen.
 
-*Das Volk der Vereinigten Staaten kann keinen anderen Grundsatz zulassen, und zu seinerGeltendmachung ist es willens, sein Leben, seine Ehre und alles, was es besitzt, einzusetzen. Dersittliche Gipfelpunkt dieses größten und letzten Krieges für menschliche Freiheit ist erreicht worden,und das amerikanische Volk ist [belastet] bereit, seine ganze Stärke, sein höchstes Streben, seine
-Unversehrtheit und Hingebung einzusetzen.*“348
+Das Volk der Vereinigten Staaten kann keinen anderen Grundsatz zulassen, und zu seinerGeltendmachung ist es willens, sein Leben, seine Ehre und alles, was es besitzt, einzusetzen. Dersittliche Gipfelpunkt dieses größten und letzten Krieges für menschliche Freiheit ist erreicht worden,und das amerikanische Volk ist [belastet] bereit, seine ganze Stärke, sein höchstes Streben, seine
+Unversehrtheit und Hingebung einzusetzen.“348
 
 **09.01.1918 Sonderfriedensverhandlung mit Rußland**
 
-„*Brest-Litowsk, 9. Januar. Heute vormittag um 11 Uhr fand eine Vollsitzung statt, an der sämtlichenDelegationen und die ukrainischen Vertreter teilnahmen. Der Großwesir Talaat Pascha eröffnete dieSitzung und übergab den Vorsitz an den Staatssekretär v. Kühlmann. Dieser warf einen Rückblick aufdie Vorgeschichte und den bisherigen Gang der Verhandlungen und schloß:*
+„Brest-Litowsk, 9. Januar. Heute vormittag um 11 Uhr fand eine Vollsitzung statt, an der sämtlichenDelegationen und die ukrainischen Vertreter teilnahmen. Der Großwesir Talaat Pascha eröffnete dieSitzung und übergab den Vorsitz an den Staatssekretär v. Kühlmann. Dieser warf einen Rückblick aufdie Vorgeschichte und den bisherigen Gang der Verhandlungen und schloß:
 
-*Soweit sich aus den vor der Arbeitstaufe geführten Verhandlungen ein Urteil bilden läßt, halte ich dieSchwierigkeiten materieller Natur nicht für groß genug, um ein Scheitern des Friedenswerkes unddamit voraussichtlich die Wiederaufnahme des Krieges im Osten mit seinen unabsehbaren Folgen fürgerechtfertigt zu halten.*
+Soweit sich aus den vor der Arbeitstaufe geführten Verhandlungen ein Urteil bilden läßt, halte ich dieSchwierigkeiten materieller Natur nicht für groß genug, um ein Scheitern des Friedenswerkes unddamit voraussichtlich die Wiederaufnahme des Krieges im Osten mit seinen unabsehbaren Folgen fürgerechtfertigt zu halten.
 
-*Hierauf führte der österreich-ungarische Minister des Aeßern, Graf Czernin u. a., zu den russischen Delegierten gewendet, aus: ‚Sie, meine Herren, haben seinerzeit an uns die Einladung fürallgemeine Friedensverhandlungen ergehen lassen. Wir haben dieselbe angenommen, und wir haben
-uns auf eine Basis für den allgemeinen Frieden geeinigt. Auf dieser Basis haben Sie Ihren Verbündetenein zehntägiges Ultimatum gestellt. Ihre Verbündeten haben Ihnen nicht geantwortet, und heute handeltes sich nicht mehr Verhandlungen zwecks eines allgemeinen Friedens, sondern eines Separatfriedenszwischen Rußland und dem Vierbunde. Wenn die Herren der russischen Delegation von den gleichenIntentionen beseelt sind, so werden wir zu einem alle befriedigenden Ergebnisse gelangen; wenn nicht,dann werden die Dinge ihren notwendigen Lauf nehmen, aber die Verantwortung für die Fortsetzung des
-Krieges fällt dann ausschließlich auf die Herren der russischen Delegation.‘*“349
+Hierauf führte der österreich-ungarische Minister des Aeßern, Graf Czernin u. a., zu den russischen Delegierten gewendet, aus: > ‚Sie, meine Herren, haben seinerzeit an uns die Einladung fürallgemeine Friedensverhandlungen ergehen lassen. Wir haben dieselbe angenommen, und wir habenuns auf eine Basis für den allgemeinen Frieden geeinigt. Auf dieser Basis haben Sie Ihren Verbündetenein zehntägiges Ultimatum gestellt. Ihre Verbündeten haben Ihnen nicht geantwortet, und heute handeltes sich nicht mehr Verhandlungen zwecks eines allgemeinen Friedens, sondern eines Separatfriedenszwischen Rußland und dem Vierbunde. Wenn die Herren der russischen Delegation von den gleichenIntentionen beseelt sind, so werden wir zu einem alle befriedigenden Ergebnisse gelangen; wenn nicht,dann werden die Dinge ihren notwendigen Lauf nehmen, aber die Verantwortung für die Fortsetzung desKrieges fällt dann ausschließlich auf die Herren der russischen Delegation.‘“349
 
 348 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2568-2570 Wilsons 14 Punkte
 
@@ -3165,22 +3161,24 @@ Krieges fällt dann ausschließlich auf die Herren der russischen Delegation.‘
 
 **10.01.1918 Rußland verzichtet auf Verlegung**
 
-„*Brest-Litowsk, 10. Januar. In der heute vormittag abgehaltenen Sitzung erklärte sich die russischeDelegation bereit, die Friedensverhandlungen in Brest-Litowsk fortzusetzen. Ferner stellte sie fest, daßdie vom Wolff-Bureau [W.T.B.] veröffentlichte Darstellung über den Verlauf der Sitzung vom26. Dezember dem tatsächlichen Hergang entspricht. Die von der Russischen Telegraphenagenturverbreitete Nachricht über den Verlauf dieser Sitzung wurde russischerseits als unrichtig bezeichnet.*“350
+„Brest-Litowsk, 10. Januar. In der heute vormittag abgehaltenen Sitzung erklärte sich die russischeDelegation bereit, die Friedensverhandlungen in Brest-Litowsk fortzusetzen. Ferner stellte sie fest, daßdie vom Wolff-Bureau [W.T.B.] veröffentlichte Darstellung über den Verlauf der Sitzung vom26. Dezember dem tatsächlichen Hergang entspricht. Die von der Russischen Telegraphenagenturverbreitete Nachricht über den Verlauf dieser Sitzung wurde russischerseits als unrichtig bezeichnet.“350
 
 **10.01.1918 Teilnahme Ukraine in Brest-Litowsk**
 
-„*Brest-Litowsk, 10. Januar. Die gestern unterbrochene Plenarsitzung wurde vormittags 11 Uhr unterdem Vorsitz des Staatssekretärs v. Kühlmann fortgesetzt. Erster Redner war der ukrainischeStaatssekretär für Handel und Industrie H o l u b o w y t s c h. Er überreichte namens des Generalsekretariats der Regierung der ukrainischen Volksrepublik eine Note, welche die selbstständige Stellungder Ukrainer bei den jetzigen Friedensverhandlungen betont und das ukrainische Friedensprogrammentwickelt. Der Vorsitzende, Staatssekretär v. Kühlmann schlug darauf vor, daß die ukrainische Note alswichtiges historisches Dokument den Akten des Kongresses einverleibt werde und begrüßt dieukrainischen Vertreter. Die Vertreter der verbündeten Mächte behielten sich ihre Stellungnahme zu denEinzelheiten der Ausführungen der ukrainischen Delegierten vor.*“351
+„Brest-Litowsk, 10. Januar. Die gestern unterbrochene Plenarsitzung wurde vormittags 11 Uhr unterdem Vorsitz des Staatssekretärs v. Kühlmann fortgesetzt. Erster Redner war der ukrainischeStaatssekretär für Handel und Industrie H o l u b o w y t s c h. Er überreichte namens des Generalsekretariats der Regierung der ukrainischen Volksrepublik eine Note, welche die selbstständige Stellungder Ukrainer bei den jetzigen Friedensverhandlungen betont und das ukrainische Friedensprogrammentwickelt. Der Vorsitzende, Staatssekretär v. Kühlmann schlug darauf vor, daß die ukrainische Note alswichtiges historisches Dokument den Akten des Kongresses einverleibt werde und begrüßt dieukrainischen Vertreter. Die Vertreter der verbündeten Mächte behielten sich ihre Stellungnahme zu denEinzelheiten der Ausführungen der ukrainischen Delegierten vor.“351
 
 **10.01.1918 Trotzki über Verzicht auf Stockholm**
 
-„*[…] Herr **Trotzki** gab hierauf folgende Erklärung ab: ‚In Kenntnis der durch die ukrainischeDelegation veröffentlichten Note des Generalsekretariats der Regierung der ukrainischen Volksrepublikerklärt die russische Delegation ihrerseits, daß sie im vollen Einvernehmen mit der grundsätzlichenAnerkennung des Selbstbestimmungsrechtes jeder Nation bis zur vollen Lostrennung kein Hindernis
+„*[…] Herr **Trotzki** gab hierauf folgende Erklärung ab: > ‚In Kenntnis der durch die ukrainischeDelegation veröffentlichten Note des Generalsekretariats der Regierung der ukrainischen Volksrepublikerklärt die russische Delegation ihrerseits, daß sie im vollen Einvernehmen mit der grundsätzlichenAnerkennung des Selbstbestimmungsrechtes jeder Nation bis zur vollen Lostrennung kein Hindernis
 für die Teilnahme der ukrainischen Delegation an den Friedensverhandlungen finde.‘*
 
-*Ueber die Bedeutung dieser Erklärung entspann sich eine längere Diskussion, die schließlich in dieFrage zusammengefaßt wurde, ob die ukrainische Delegation eine Unterabteilung der russischenDelegation darstelle, oder ob sie in diplomatischen Beziehung als Vertretung eines selbstständigenStaates zu behandeln sei. Dieses Frage wurde von Herrn Trotzki dahin beantwortet, daß er sie alserledigt betrachte, da die ukrainische Delegation als eine selbstständige Vertretung hier aufgetreten, dadiese Vertretung von seiner Delegation anerkannt wurde, und da von keiner Seite ein anderer Vorschlag
-gemacht worden sei.*
+Ueber die Bedeutung dieser Erklärung entspann sich eine längere Diskussion, die schließlich in dieFrage zusammengefaßt wurde, ob die ukrainische Delegation eine Unterabteilung der russischenDelegation darstelle, oder ob sie in diplomatischen Beziehung als Vertretung eines selbstständigenStaates zu behandeln sei. Dieses Frage wurde von Herrn Trotzki dahin beantwortet, daß er sie alserledigt betrachte, da die ukrainische Delegation als eine selbstständige Vertretung hier aufgetreten, dadiese Vertretung von seiner Delegation anerkannt wurde, und da von keiner Seite ein anderer Vorschlag
+gemacht worden sei.
 
-*Herr Trotzki erklärte dann weiter: ‚Fürs erste bestätigen wir, daß wir im vollen Einvernehmen mitdem vorher gefaßten Beschluß die Friedensverhandlungen weiterführen wollen, ganz abgesehen davon,ob sich die Mächte der Entente anschließen oder nicht. Wir nehmen die Erklärung der Delegationen desVierbundes zur Kenntnis, daß die Grundlagen des allgemeinen Friedens, die in ihrer Deklaration vom25. Dezember formuliert waren, jetzt hinfällig werden, da die Länder der Entente während derzehntägigen Frist sich den Friedensverhandlungen nicht angeschlossen haben. Wir unsererseits haltenan den von uns proklamierten Grundsätzen des demokratischen Friedens fest.‘ Trotzki erwähnt dannjenen Teil der Rede des Grafen Hertling, in der dieser außer auf das gute Recht und das loyaleGewissen auch auf die Machtstellung Deutschlands hingewiesen habe. Die russische Delegation habeweder die Möglichkeit noch die Absicht zu bestreiten, daß ihr Land durch die Politik der bis vor kurzemherrschenden Klassen geschwächt sei; aber die Weltstellung eines Landes werde nicht nur durch denaugenblicklichen Stand eines technischen Apparats bestimmt, sondern auch durch die ihm innewohnenden Möglichkeiten. Aber die russische Regierung habe an die Spitze ihres Programms das Wort„Friede“ geschrieben, und die hohen Sympathien, welche das russische Volk den Völkern der
-Verbündeten entgegenbringe, bestärken es in dem Wunsche, den schleunigsten Frieden, der auf derVerständigung der Völker begründet sein werde, zu erreichen. Um den Mächten des Vierbundes den*
+Herr Trotzki erklärte dann weiter: > ‚Fürs erste bestätigen wir, daß wir im vollen Einvernehmen mitdem vorher gefaßten Beschluß die Friedensverhandlungen weiterführen wollen, ganz abgesehen davon,ob sich die Mächte der Entente anschließen oder nicht. Wir nehmen die Erklärung der Delegationen desVierbundes zur Kenntnis, daß die Grundlagen des allgemeinen Friedens, die in ihrer Deklaration vom25. Dezember formuliert waren, jetzt hinfällig werden, da die Länder der Entente während derzehntägigen Frist sich den Friedensverhandlungen nicht angeschlossen haben. Wir unsererseits haltenan den von uns proklamierten Grundsätzen des demokratischen Friedens fest.‘ 
+
+Trotzki erwähnt dannjenen Teil der Rede des Grafen Hertling, in der dieser außer auf das gute Recht und das loyaleGewissen auch auf die Machtstellung Deutschlands hingewiesen habe. Die russische Delegation habeweder die Möglichkeit noch die Absicht zu bestreiten, daß ihr Land durch die Politik der bis vor kurzemherrschenden Klassen geschwächt sei; aber die Weltstellung eines Landes werde nicht nur durch denaugenblicklichen Stand eines technischen Apparats bestimmt, sondern auch durch die ihm innewohnenden Möglichkeiten. Aber die russische Regierung habe an die Spitze ihres Programms das Wort„*Friede*“ geschrieben, und die hohen Sympathien, welche das russische Volk den Völkern der
+Verbündeten entgegenbringe, bestärken es in dem Wunsche, den schleunigsten Frieden, der auf derVerständigung der Völker begründet sein werde, zu erreichen. Um den Mächten des Vierbundes den
 
 350 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2572
 
@@ -3191,7 +3189,7 @@ Verbündeten entgegenbringe, bestärken es in dem Wunsche, den schleunigsten Fri
 
 ![Screenshot_20251212_200743~2.jpg](https://github.com/user-attachments/assets/70f53fcb-6b7a-48dc-80ec-7c4223d4c1b3) 148
 
-*Vorwand eines Abbruchs der Friedensverhandlungen aus technischen Gründen zu verzichten, nehmedie russische Delegation die Forderung an, in Brest-Litowsk zu bleiben. Sie bleibe in Brest-Litwosk, umkeine Möglichkeit in dem Kampfe um den Frieden unausgenutzt zu lassen.*“352
+Vorwand eines Abbruchs der Friedensverhandlungen aus technischen Gründen zu verzichten, nehmedie russische Delegation die Forderung an, in Brest-Litowsk zu bleiben. Sie bleibe in Brest-Litwosk, umkeine Möglichkeit in dem Kampfe um den Frieden unausgenutzt zu lassen.“352
 
 **10.01.1918 Annullierung der russischen Staatsschuld**
 
@@ -3304,15 +3302,15 @@ Nach längerer Geschäftsordnungsdebatte wurde die Sitzung aufgehoben.*
 „*New York, 4. Juli. (Reuter-Meldung.) Wilson sagte in seiner Rede am Grabe Washingtons in MountVernon am Donnerstag nachmittag u. a.: Vergangenheit und Gegenwart sind in einen Kampf auf Leben
 und Tod verwickelt; das Ergebnis muß endgültig sein. Wir würden keinen Vergleich, keine halbeEntscheidung dulden können, es würde auch keine halbe Entscheidung möglich sein. Die verbündetenVölker kämpfen für die folgenden Ziele, die verwirklicht sein müssen, ehe Friede werden kann:*
 
-*1. Vernichtung jeder Willkür und Macht, die für sich allein und heimlich den Frieden der Welt[world] stören kann und, wenn ihre Vernichtung jetzt nicht möglich ist, mindestens ihreHerabdrückung zu tatsächlicher Machtlosigkeit. [um im Vakuum irgendeinen Hitler zu erzeugen]*
+1. Vernichtung jeder Willkür und Macht, die für sich allein und heimlich den Frieden der Welt[world] stören kann und, wenn ihre Vernichtung jetzt nicht möglich ist, mindestens ihreHerabdrückung zu tatsächlicher Machtlosigkeit. [um im Vakuum irgendeinen Hitler zu erzeugen]
 
-*2. Regelung aller Fragen sowohl der territorialen wie der Souveränitätsfragen, der wirtschaftlichen und politischen Fragen auf der Grundlage einer freien Annahme dieser Regelungendurch das Volk, das unmittelbar dabei betroffen ist, und nicht auf der Grundlage des materiellenInteresses oder Vorteils irgendeines anderen [US-]Volkes, das eine andere Regelung zurAusbreitung seines Einflusses oder seiner Herrschaft wünscht.*
+2. Regelung aller Fragen sowohl der territorialen wie der Souveränitätsfragen, der wirtschaftlichen und politischen Fragen auf der Grundlage einer freien Annahme dieser Regelungendurch das Volk, das unmittelbar dabei betroffen ist, und nicht auf der Grundlage des materiellenInteresses oder Vorteils irgendeines anderen [US-]Volkes, das eine andere Regelung zurAusbreitung seines Einflusses oder seiner Herrschaft wünscht.
 
-*3. Einwilligung aller Völker, in ihren Verhältnissen zueinander sich von denselben Grundsätzen derEhre und Achtung vor dem Gewohnheitsrechte358 der zivilisierten Gesellschaften359 leiten zu
-lassen, wie sie für die einzelnen Bürger moderner Staaten gelten, dergestalt, daß alleVersprechungen und Verträge gewissenhaft beobachtet, daß keine Sonderanschläge oderVerschwörungen angezettelt werden, und daß wechselseitiges Vertrauen geschaffen wird auf derBasis wechselseitiger Achtung vor dem Recht.*
+3. Einwilligung aller Völker, in ihren Verhältnissen zueinander sich von denselben Grundsätzen derEhre und Achtung vor dem Gewohnheitsrechte358 der zivilisierten Gesellschaften359 leiten zu
+lassen, wie sie für die einzelnen Bürger moderner Staaten gelten, dergestalt, daß alleVersprechungen und Verträge gewissenhaft beobachtet, daß keine Sonderanschläge oderVerschwörungen angezettelt werden, und daß wechselseitiges Vertrauen geschaffen wird auf derBasis wechselseitiger Achtung vor dem Recht.
 
-*4. Schaffung einer Friedensorganisation, die verbürgt, daß die gesamte Macht der freien Nationenjede Rechtsverletzung verhüten wird, und ein Schiedsgericht einrichtet, dem alle internationalen
-Gegensätze unterbreitet werden sollen. Diese großen Ziele können wir in einen Gedanken zu-*
+4. Schaffung einer Friedensorganisation, die verbürgt, daß die gesamte Macht der freien Nationenjede Rechtsverletzung verhüten wird, und ein Schiedsgericht einrichtet, dem alle internationalen
+Gegensätze unterbreitet werden sollen. Diese großen Ziele können wir in einen Gedanken zu-
 
 357 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 7 01.08.1917-31.05.18, S. 2575-2577
 
@@ -4021,6 +4019,53 @@ ausgeliefert worden ist. Dieses Gold wird von den Verbündeten bis zur Unterzeic
 
 
 ![Screenshot_20251212_220918~2.jpg](https://github.com/user-attachments/assets/e8470024-893d-4b15-b5e5-2af04d9fbb8d) 207
+
+E. Bestimmungen für die Seemacht.
+
+XX.
+Sofortige Einstellung jeder Feindseligkeit zur See und genaue Angaben, wo sich deutsche Fahrzeuge zurzeit befinden, sowie ihrer Bewegung. Den Neutralen ist bekanntzugeben, daß der Kriegs- und
+Handelsmarine der Verbündeten und verbundenen Mächte Bewegungsfreiheit in allen territorialen
+Gewässern gestattet ist, ohne daß man deshalb Beschwerden wegen der Neutralitätsverletzung gelten
+machen wird. [vgl. Belgien 1914]
+
+XXI.
+Alle Kriegsgefangenen der Kriegs- und Handelsflotte der Verbündeten und verbundenen Mächte,
+welche sich in deutscher Gewalt befinden, sind ohne Anspruch auf Gegenseitigkeit auszuliefern.
+
+XXII.
+Auslieferung an die Alliierten und die Vereinigten Staaten aller U-Boote einschließlich der U-BootKreuzer und Minenleger, die gegenwärtig vorhanden sind, mit ihrer Bewaffnung und vollständigenAusrüstung.
+
+XXIII. Die Kriegsschiffe der deutschen Hochseeflotte, welche von den Verbündeten und den VereinigtenStaaten bezeichnet werden, werden sofort abgerüstet und dann in neutrale Häfen oder – in derenErmangelung – in Häfen der verbündeten Mächte interniert, die von den Verbündeten und von denVereinigten Staaten bezeichnet werden. Sie bleiben dort unter der Ueberwachung der Verbündeten und der
+Vereinigten Staaten. Es werden nur Wachabteilungen an Bord belassen. Hierfür werden von denVerbündeten bezeichnet werden: 6 Schlachtkreuzer, 10 Geschwader-Panzerschiffe, 8 leichte Kreuzer(davon zwei Minenleger), 50 Zerstörer der modernsten Typen. (Steuerzahler)
+
+XXIV. Die Verbündeten und die Vereinigten Staaten haben das Recht, außerhalb der deutschenTerritorialgewässer sämtliche Minenfelder zu beseitigen und sämtliche durch Deutschland gelegtenSperrungen zu zerstören. Deren Lage muß ihnen angegeben werden.
+
+XXV.
+Die verbündeten und verbundenen Mächte haben das Recht, mit ihren Kriegs- und Handelsflottenfrei in die Ostsee ein- und auszufahren.
+
+XXVI. Die Blockade der Verbündeten und verbundenen Mächte bleibt in den gegenwärtigenBedingungen [Hungerblockade] aufrechterhalten. Deutsche Handelsschiffe, die auf offener See gefaßtwerden, bleiben der Beschlagnahme unterworfen. Die Alliierten und die Vereinigten Staatenbeschäftigen sich mit der Frage der Lebensmittelversorgung Deutschlands während des Waffenstillstandes in dem für notwendig erachteten Maße.
+
+XXVII. Sämtliche Luftstreitkräfte werden in den von den Verbündeten und den Vereinigten Staatenbezeichneten deutschen Flughäfen gruppiert und demobilisiert.
+
+XXVIII.Deutschland läßt unversehrt und an Ort und Stelle das ganze Material des Hafens und der Flußschiffahrt, alle Handelsschiffe, Schlepper, Schaluppen, alle Apparate, das Material und die Vorräte fürdas Seeflugwesen, alle Waffen, Vorräte, und Apparate jeder Art bei der Räumung der belgischen Küste
+und belgischen Häfen.
+
+XXIX. Deutschland räumt sämtliche Häfen des schwarzen Meeres und überliefert den Verbündeten undden Vereinigten Staaten sämtliche von den Deutschen im Schwarzen Meere beschlagnahmten russischen
+Kriegsschiffe. Es gibt sämtliche beschlagnahmten neutralen Handelsschiffe frei und liefert alles Kriegsund sonstiges Gerät, das in diesen Häfen beschlagnahmt wurde, sowie das in Artikel XXVIII aufgeführtedeutsche Material aus.
+
+XXX.
+Sämtliche den Verbündeten und verbundenen Mächten gehörende Handelsschiffe, die sichaugenblicklich in deutscher Gewalt befinden, werden ohne Recht auf Gegenseitigkeit in den von den
+Verbündeten und den Vereinigten Staaten bezeichneten Häfen abgeliefert.
+
+XXXI. Jede Zerstörung von Schiffen oder Material vor der Räumung, der Ablieferung oder derRückgabe ist untersagt.
+
+XXXII. Die deutsche Regierung gibt offiziell allen neutralen Regierungen, im besonderen dernorwegischen, schwedischen, dänischen und holländischen Regierung bekannt, daß alle Einschränkungen, welche dem Handelsverkehr ihrer Schiffe mit den Verbündeten und verbundenen Mächten auferlegtwaren, sei es durch die deutsche Regierung selbst, sei es durch Privatunternehmungen, sei es auf dem Wege festgelegter Abmachungen (wie z.B. die Ausfuhr von Schiffsbaumaterial) sofort außer Gültigkeittreten.
+
+XXXIII.Irgendwelche Überführung deutscher Handelsschiffe jeder Art unter irgendeine neutraleFlagge soll nach Unterzeichnung des Waffenstillstandes nicht stattfinden können.
+
+
+---
+
 
 ![Screenshot_20251212_220924~2.jpg](https://github.com/user-attachments/assets/7e6cda56-ab47-4dc9-8d7f-e1309a7c21ee) 208
 
