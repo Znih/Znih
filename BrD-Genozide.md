@@ -86,6 +86,8 @@ https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251205_Tag-
 
 Faksimile Abschriften AA v. 1914-1918 mvwN: https://github.com/Znih/Znih/discussions/19#discussioncomment-15242130
 
+https://github.com/Znih/Znih/blob/main/Versailler-Unfrieden-1919-1925.md
+
 https://github.com/Znih/Znih/blob/main/19161212_Deutsches-Friedensangebot.md
 
 https://github.com/Znih/Znih/blob/main/1871-Friede-1871.md
