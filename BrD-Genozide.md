@@ -3758,31 +3758,31 @@ Abdankungsfrage irgendeinen Schritt zu unternehmen oder dem Kaiser derartiges vo
 **10.11.1918 Waffenstillstandsbedingungen**
 
 „*Folgendes ist ein Auszug aus den Waffenstillstandsbedingungen:*
-*
-1. Inkrafttreten 6 Stunden nach Unterzeichnung.
-2. Sofortige Räumung von Belgien, Frankreich, Esaß-Lothringen binnen 14 Tagen. Was an Truppen nach dieser
-Zeit übrigbleibt, [wird] interniert oder [K]riegsgefangen[er].
-3. Abzugeben 5000 Kanonen, zunächst schwere, 30 000 Maschinengewehre, 3000 Minenwerfer, 2000 Flugzeuge.
-4. Räumung des linken Rheinufers, Mainz, Koblenz, Köln besetzt vom Feind auf Radius von 30 KilometernTiefe.
-5. Auf rechtem Rheinufer 30 bis 40 Kilometer Tiefe neutrale Zone, Räumung in 11 Tagen.
-6. Auf linkem Rheinufergebiet nichts hinwegführen, alle Fabriken, Eisenbahnen usw. Inhalt belassen.
-7. 5000 Lokomotiven, 150 000 Waggons, 10 000 Kraftwagen abgeben.
-8. Unterhalt der [aller] Besatzungstruppen [überall] durch Deutschland.
-9. Im Osten alle Truppen hinter Grenze vom 1. 8. 1914 zurückzunehmen.
-10. Verzicht auf Verträge von Brest-Litowsk und Bukarest.
-11. Bedingungslose Kapitulation von Ostafrika.
-12. Rückgabe des Standes der belgischen Bank, des russischen und rumänischen Goldes.
-13. Rückgabe der Kriegsgefangenen ohne Gegenseitigkeit.
-14. Abgabe von 160 U-Booten, 8 leichten Kreuzern, 6 Dreadnoughts; die übrigen Schiffe desarmiert und überwacht
-durch Alliierte in neutralen oder alliierten Häfen.
-15. Sicherheit der freien Durchfahrt durch das Kattegat, Wegräumung der Minenfelder und Besetzung aller Fortsund Batterien, von denen aus diese Durchfahrt gehindert werden könnte.
-16. Blockade bleibt bestehen. Deutsche Schiffe dürfen weiter gekapert werden.
-17. Alle von Deutschland für Neutrale verhängten Beschränkungen der Schiffahrt werden aufgehoben.
-18. Waffenstillstand dauert 30 Tage.“
-554
-10.11.1918 Bittnote an Wilson
-„Eine Note an Wilson um Milderung der Bedingungen. […] Heute morgen fand eine Besprechung der
-Staatssekretäre statt. Nach Bekanntgabe der Bedingungen des Waffenstillstandes wurden dieBedingungen angenommen. Entsprechende Weisungen sind der Friedensdelegation gegeben worden.*
+
+*1. Inkrafttreten 6 Stunden nach Unterzeichnung.*
+*2. Sofortige Räumung von Belgien, Frankreich, Esaß-Lothringen binnen 14 Tagen. Was an Truppen nach dieser
+Zeit übrigbleibt, [wird] interniert oder [K]riegsgefangen[er].*
+*3. Abzugeben 5000 Kanonen, zunächst schwere, 30 000 Maschinengewehre, 3000 Minenwerfer, 2000 Flugzeuge.*
+*4. Räumung des linken Rheinufers, Mainz, Koblenz, Köln besetzt vom Feind auf Radius von 30 KilometernTiefe.*
+*5. Auf rechtem Rheinufer 30 bis 40 Kilometer Tiefe neutrale Zone, Räumung in 11 Tagen.*
+*6. Auf linkem Rheinufergebiet nichts hinwegführen, alle Fabriken, Eisenbahnen usw. Inhalt belassen.*
+*7. 5000 Lokomotiven, 150 000 Waggons, 10 000 Kraftwagen abgeben.*
+*8. Unterhalt der Besatzungstruppen durch Deutschland.*
+*9. Im Osten alle Truppen hinter Grenze vom 1. 8. 1914 zurückzunehmen.*
+*10. Verzicht auf Verträge von Brest-Litowsk und Bukarest.*
+*11. Bedingungslose Kapitulation von Ostafrika.*
+*12. Rückgabe des Standes der belgischen Bank, des russischen und rumänischen Goldes.*
+*13. Rückgabe der Kriegsgefangenen ohne Gegenseitigkeit.*
+*14. Abgabe von 160 U-Booten, 8 leichten Kreuzern, 6 Dreadnoughts; die übrigen Schiffe desarmiert und überwacht
+durch Alliierte in neutralen oder alliierten Häfen.*
+*15. Sicherheit der freien Durchfahrt durch das Kattegat, Wegräumung der Minenfelder und Besetzung aller Fortsund Batterien, von denen aus diese Durchfahrt gehindert werden könnte.*
+*16. Blockade bleibt bestehen. Deutsche Schiffe dürfen weiter gekapert werden.*
+*17. Alle von Deutschland für Neutrale verhängten Beschränkungen der Schiffahrt werden aufgehoben.*
+*18. Waffenstillstand dauert 30 Tage.*“554
+
+**10.11.1918 Bittnote an Wilson**
+
+„*Eine Note an Wilson um Milderung der Bedingungen. […] Heute morgen fand eine Besprechung derStaatssekretäre statt. Nach Bekanntgabe der Bedingungen des Waffenstillstandes wurden dieBedingungen angenommen. Entsprechende Weisungen sind der Friedensdelegation gegeben worden.*
 
 *Heute Nacht ist folgende Note an den Staatssekretär Lansing nach Washington gefunkt worden:*
 
@@ -3791,7 +3791,7 @@ Staaten [Wilson] mit der Bitte gewandt, den Frieden wiederherzustellen. Dieser F
 
 *Die **deutsche Regierung** hat die Bedingungen für den Waffenstillstand erhalten.*
 
-Nach einer Blockade von 50 Monaten würden diese Bedingungen, insbesondere die Abgabe derVerkehrsmittel und die Unterhaltung der Besatzungstruppen bei gleichzeitiger Fortdauer der Blockade,die Ernährungslage Deutschlands zu einer verzweifelten gestalten und den Hungertod von MillionenMännern, Frauen und Kindern bedeuten.*
+*Nach einer Blockade von 50 Monaten würden diese Bedingungen, insbesondere die Abgabe derVerkehrsmittel und die Unterhaltung der Besatzungstruppen bei gleichzeitiger Fortdauer der Blockade,die Ernährungslage Deutschlands zu einer verzweifelten gestalten und den Hungertod von MillionenMännern, Frauen und Kindern bedeuten.*
 
 *Wir mußten die Bedingungen annehmen.*
 
@@ -3805,8 +3805,7 @@ Nach einer Blockade von 50 Monaten würden diese Bedingungen, insbesondere die A
 
 *Das deutsche Volk wendet sich daher in letzter Stunde nochmals an den Präsidenten mit der Bitte,auf eine Milderung der Vernichtenden Bedingungen bei den Alliierten Mächten hinzuwirken.*
 
-Der Staatssekretär des Auswärtigen Amtes.
-Solf.*“555
+*Der Staatssekretär des Auswärtigen Amtes.Solf.*“555
 
 **11.11.1918 Um 5 Uhr französischer Zeit Unterzeichnung**
 
@@ -3823,12 +3822,12 @@ Nr. 183, besonders aus. Infolge der Unterzeichnung des Waffenstillstandsvertrage
 
 **12.11.1918 RGBl. S. 1303 mit sozialistischem Programm**
 
-„*An das deutsche Volk!
-Die aus der Revolution hervorgegangene Regierung, deren politische Leitung rein sozialistisch ist, setzt sich die
+„*An das deutsche Volk!*
+*Die aus der Revolution hervorgegangene Regierung, deren politische Leitung rein sozialistisch ist, setzt sich die
 Aufgabe, das sozialistische Programm zu verwirklichen. Sie verkündet schon jetzt mit Gesetzeskraft:* [lex vs. Ius!]
-*
-1. Der Belagerungszustand wird aufgehoben.559
-2. Das Vereins- und Versammlungsrecht unterliegt keiner Beschränkung, auch nicht für Beamte und
+
+*1. Der Belagerungszustand wird aufgehoben.*559
+*2. Das Vereins- und Versammlungsrecht unterliegt keiner Beschränkung, auch nicht für Beamte und
 Staatsarbeiter.*306
 
 555 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2975-2976 v. 10.11.1918, Bittnote
@@ -3838,7 +3837,7 @@ Staatsarbeiter.*306
 557 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2978 v. 11.11.1918, Brandenburger u. Sachsen
 
 558 Quellenslg z. Geschichte d. Deutschen Reichsverfassung in Mittelalter u. Neuzeit – Dr. Karl Zeumner, Prof. i. Berlin, Mohr-Siedeck 1913, 1. Teil Nr. 1:
-„Anschlag für ein zweites Aufgebot zum Römerzug Ottos II.“ – 981. MG. Const. I, Nr. 436, S. 633 u. Nr. 2. (1). MG. Const. I, Nr. 440, S. 647-649 (Ortsnamen)
+„*Anschlag für ein zweites Aufgebot zum Römerzug Ottos II.*“ – 981. MG. Const. I, Nr. 436, S. 633 u. Nr. 2. (1). MG. Const. I, Nr. 440, S. 647-649 (Ortsnamen)
 
 559 Zu 1. nicht mehr möglich seit 9.11.1918! Zu 2. sinnfremd, da mit dem Pkt. 1. automatisch auf zivilen Rechtsfrieden zurückgeschaltet, wenn denn
 Pkt. 1. umsetzbar gewesen wäre! Aber ggfs. wichtig bzgl. dem Zollverein! Zu 5. Jesuiten; vgl. Preußenrechte u. sächsisches BGB
@@ -3847,6 +3846,57 @@ Pkt. 1. umsetzbar gewesen wäre! Aber ggfs. wichtig bzgl. dem Zollverein! Zu 5. 
 
 
 ![Screenshot_20251212_220901~2.jpg](https://github.com/user-attachments/assets/012e13e3-a6dd-478e-9f5f-d7a1b2f1214b) 204
+
+
+*3. Eine Zensur findet nicht statt.306 Die Theaterzensur wird aufgehoben[.]*306
+*4. Meinungsäußerungen in Wort und Schrift ist frei.*306
+*5. Die Freiheit der Religionsausübung wird gewährleistet.*306 *Niemand darf zu einer religiösen Handlunggezwungen werden.*306
+*6. Für alle politischen Straftaten wird [uneingeschränkte] Amnestie gewährt.*560 *Die [Agenten] wegen solcherStraftaten anhängigen Verfahren werden niedergeschlagen.*
+
+*7. Das Gesetz über den vaterländischen Hilfsdienst wird aufgehoben, mit Ausnahme der sich auf die Schlichtungvon Streitigkeiten beziehenden Bestimmungen.*
+*8. Die Gesindeordnungen werden außer Kraft gesetzt, ebenso die Ausnahmegesetze gegen die Landarbeit.*306
+*9. Die bei Beginn des Krieges aufgehobenen Arbeitsschutzbestimmungen werden hiermit wieder in Kraft gesetzt.*306
+
+*Weitere sozialistische Verordnungen werden binnen kurzem veröffentlicht werden. Spätestens am1. Januar 1919 wird der achtstündige Maximalarbeitstag in Kraft treten.306 Die Regierung wird alles tun, um fürausreichende Arbeitsgelegenheit zu sorgen. Eine Verordnung über die Unterstützung von Erwerbslosen ist fertiggestellt.*
+
+*Sie verteilt die Lasten auf Reich, Staat und Gemeinde.*
+
+*Auf dem Gebiete der Krankenversicherung wird die Versicherungspflicht über die bisherige Grenze von 2500 Mark
+ausgerechnet werden.*
+
+*Die Wohnungsnot wird durch Bereitstellung von Wohnungen bekämpft werden.306
+Auf die Sicherung einer geregelten Volksernährung wird hingearbeitet werden.*306
+
+*Die Regierung wird die geordnete Produktion aufrechterhalten, das Eigentum gegen Eingriffe Privater sowie
+Freiheit und Sicherheit der Person schützen.*306
+
+*Alle Wahlen zu öffentlichen Körperschaften sind fortan nach dem gleichen, geheimen, direkten, allgemeinen Wahlrecht auf Grund des p[ro]portionalen Wahlsystems für alle mindestens 20 Jahre alten männlichen oder weiblichen Personen zu vollziehen.*306
+
+*Auch für die konstituierende Versammlung, über die nähere Bestimmung noch erfolgen wird, gilt dieses Wahlrecht.*306
+
+*Berlin, den 12. November 1918.
+Ebert Haase Scheidemann Landsberg Dittmann Barth*“561
+
+**12.11.1918 Deutscher Vorschlag eines Präliminarfriedens**
+
+**„Neue deutsche Note an Amerika.“**
+
+„*Die deutsche [sozialistische Revolutions-]Regierung hat durch Vermittlung der schweizerischen
+Regierung an die Regierung der Vereinigten Staaten von Amerika folgende Note gerichtet:*
+*Nachdem nunmehr der Waffenstillstand geschlossen ist, bittet die deutsche Regierung denPräsidenten der Vereinigten Staaten, den Beginn der Friedensverhandlungen in die Wege leiten zuwollen. Der Beschleunigung halber schlägt sie vor, zunächst den Abschluß eines Präliminarfriedens ins Auge zu fassen und ihr mitzuteilen, an welchen Ortund zu welchem Zeitpunkt die Verhandlungen beginnen können.*
+
+*Wegen drohender Lebensmittelnot legt die deutsche Regierung auf unverzüglichen
+Beginn der Verhandlungen besonderen Wert.
+gez. Solf, Staatssekretär des Auswärtigen Amtes.*“562
+
+560 mithin also auch Gewalttaten und Verbrechen und diesem fragwürdigen Vorbild folgten später dann die NAZIs
+561 RGBl. 1918 Nr. 153 (Nr. 6528) S. 1303 u. S. 1304 – Die Putsch-Regierung, die rein sozialistisch ist, hat sich selbst zur einzigen Aufgabe gesetzt,
+„*das sozialistische Programm zu verwirklichen.*“ – diese „*deutsche Regierung*“ indes unterzeichnete putativ durch privat auftretende Vertreter!
+
+562 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2978 v. 12.11.1918, Präliminarfrieden
+
+---
+
 
 ![Screenshot_20251212_220908~2.jpg](https://github.com/user-attachments/assets/c9ec1dac-c4c0-47df-8e3f-98fe33110c6e) 205
 
