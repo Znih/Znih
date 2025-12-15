@@ -83,6 +83,10 @@ https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251206_Busc
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251205_Tag-der-Freiwilligen_Nazismus-im-GG.md
 
 ---
+
+Faksimile Abschriften AA v. 1914-1918 mvwN: https://github.com/Znih/Znih/discussions/19#discussioncomment-15242130
+
+---
 ---
 
 Copilot Chat KI Antworten zum Granite Act etc. pp v. 7. Dezember 2025:
