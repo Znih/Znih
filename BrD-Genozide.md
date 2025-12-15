@@ -4069,6 +4069,34 @@ XXXIII.Irgendwelche Überführung deutscher Handelsschiffe jeder Art unter irgen
 
 ![Screenshot_20251212_220924~2.jpg](https://github.com/user-attachments/assets/7e6cda56-ab47-4dc9-8d7f-e1309a7c21ee) 208
 
+Dauer des Waffenstillstandes.
+
+XXXIV. Die Dauer wird auf 36 Tage festgesetzt mit der Möglichkeit der Verlängerung. Im Laufe dieses
+Zeitraumes [36d] kann der Waffenstillstand, wenn die Klauseln [von einem der Unterzeichner] nicht ausgeführt werden, von einer der [übrigen] kontrahierenden Parteien gekündigt werden. Diese muß48 Stunden im voraus davon Kenntnis geben. Es wird so verstanden, daß die Artikel 3 und 18 nur dannzur Kündigung des Waffenstillstandes wegen unzureichender Ausführung in den bestimmten Zeiträumenführen, wenn es sich um eine böswillige Ausführung handelt. Um die Ausführungen der gegenseitigen
+Vereinbarung unter den günstigsten Verhältnissen zu sichern, wird das Prinzip einer permanenteninternationalen Waffenstillstandskommission angenommen. Diese Kommission wird unter der obersten
+Leitung des Oberbefehlshabers des Heeres und der Marine der alliierten Armeen arbeiten.
+
+gez. Foch. R.F. Wemyß. Erzberger. A. Oberndorff. Winterfeldt. Vanselow.
+
+
+Es folgen zwei Zusatznoten. Zusatznote I regelt die Zeitstufen der Räumung der besetzten Gebiete (Belgien,Frankreich, Luxemburg) und Elsaß-Lothingen, sowie der Räumung der Rheinlande. Zusatznote II trifftBestimmungen über Bedingungen betreffend die Verkehrswege bis zum Rhein hin.“564
+
+
+**14.08.1919 Inkrafttreten der Weimarer Reichsverfassung (WRV)**
+
+Die WRV soll mit 181 Artikeln am 11. August 1919 in Schwarzburg beschlossen und ohne ordnungsgemäß definiertes Wahlvolk am 14. August 1919 verkündet worden, mithin in Kraft getreten, sein.
+
+Bis zum Gesetz vom 27. Oktober 1922 als der Artikel 180 Satz 2 folgende Fassung erhielt:
+„Der von der Nationalversammlung gewählte Reichspräsident führt sein Amt bis zum 30. Juni 1925“.
+
+Dort stand vorher seit 11.08.1919, „Bis zum Amtsantritt des ersten Reichspräsidenten wird sein Amt von
+dem auf Grund des Gesetzes über die vorläufige Reichsgewalt gewählten Reichspräsidenten geführt“.
+
+564 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2978-2982 v. 12.11.1918, Text Waffenstillstandsvertrag
+
+---
+
+
 ![Screenshot_20251212_220928~2.jpg](https://github.com/user-attachments/assets/f6d14958-b4ee-4115-b358-bbdcdbd37aaf) 209
 
 ![Screenshot_20251212_220933~2.jpg](https://github.com/user-attachments/assets/91898b01-5611-4590-8916-122abbe01384) 210
