@@ -88,6 +88,8 @@ Faksimile Abschriften AA v. 1914-1918 mvwN: https://github.com/Znih/Znih/discuss
 
 https://github.com/Znih/Znih/blob/main/19161212_Deutsches-Friedensangebot.md
 
+https://github.com/Znih/Znih/blob/main/1871-Friede-1871.md
+
 ---
 ---
 
