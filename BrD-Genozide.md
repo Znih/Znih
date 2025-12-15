@@ -3965,6 +3965,61 @@ Sie wird außerdem sämtliche schädliche Maßnahmen, die getroffen sein können
 
 ![Screenshot_20251212_220913~2.jpg](https://github.com/user-attachments/assets/d508222a-82bd-471e-a195-d7d83a2d71df) 206
 
+
+IX.
+Das Recht der Requisition wird von den Armeen der Alliierten und den Vereinigten Staatenin allen besetzten Gebieten vorbehaltlich der Zahlungsregulierung mit den Zuständigen ausgeübt. Der
+Unterhalt der Besatzungstruppen der rheinischen Gebiete (mit Ausnahme Elsaß-Lothringen) erfolgt auf
+Kosten der deutschen Regierung.“
+
+X.
+„Sämtliche Kriegsgefangenen der Verbündeten und den Vereinigten Staaten, einschließlich der in
+Anklagezustand befindlichen und verurteilten sind ohne Recht auf Gegenseitigkeit in ihre Heimat zu befördern. Die Einzelbestimmungen werden noch getroffen. Die verbündeten und Mächte und die VereinigtenStaaten sollen das Recht haben, nach Gutdünken über sie zu verfügen. Durch vorstehende Bedingung
+werden sämtliche Abmachungen, die früher über Kriegsgefangenenaustausch getroffen worden sind, fürungültig erklärt, einschließlich diejenigen vom Juli 1918,
+563 welche im Begriffe ist, ratifiziert zu werden. Indessen wird die Heimsendung der deutschen Kriegsgefangenen, die in Holland und in derSchweiz [neutral] interniert sind, wie vordem fortgesetzt werden. Die Heimsendung der deutschen Kriegsgefangenen wird beim Abschluß der Vorfriedensverhandlungen geregelt werden.
+
+XI.
+Die nicht transportfähigen Kranken und Verwundeten, welche auf den von den deutschen Armeen geräumten Gebieten zurückgelassen werden, werden von deutschem Santitätspersonal verpflegt; dies istdaher mit dem nötigen Material an Ort und Stelle zu belassen.
+
+B. Auf der Ostfront. [mit HLKO]
+
+XII.
+Alle deutschen Truppen, die sich gegenwärtig in Gebieten befinden, die vor dem Kriege zuOesterreich, Rumänien und der Türkei gehörten, müssen sofort in die deutschen Grenzen zurückkehren,wie sie am 1. August 1914 bestanden [=HLKO 1918]. Alle deutschen Truppen, die sich gegenwärtig inGebieten befinden, die vor dem Kriege zu Rußland gehörten, müssen ebenfalls in die deutschen Grenzen
+zurück-kehren, wie diese oben festgelegt sind, sobald die Alliierten den Augenblick für gekommenbetrachten, unter Berücksichtigung der inneren Lag[e] dieser Gebiete.
+
+XIII.
+Die Abbeförderung der deutschen Truppen und die Rückberufung deutschen Instrukteure,Gefangene, Zivil- und Militäragenten vom russischen Gebiet (nach Grenzen vom 1. August 1914) ist sofort
+einzuleiten.
+
+XIV.
+Sofortige Einstellung seitens der deutschen Truppen aller Requisitionen, Beschlagnahmen oderZwangsmaßnahmen, die dazu bestimmt wären, sich Hilfsmittel für Deutsche[-n] in Rumänien und Rußlandzu beschaffen. (In den Grenzen vom 1. August 1914.)
+
+XV.
+Verzicht auf die Friedensverträge in Bukarest und Brest-Litowsk sowie auf ihre Zusatzverträge.
+
+XVI.
+Die Alliierten werden freien Zugang haben zu den Gebieten, die von den Deutschen an den Ostgrenzen geräumt werden, sei es über Danzig, sei es über die Weichsel, um die Bevölkerung versorgen zukönnen und zur Aufrechterhaltung der Ordnung.
+
+C. In Ostafrika.
+
+XVII.
+Räumung von allen deutschen Streitkräften, die in Ostafrika operieren, innerhalb eines von denVerbündeten zu bestimmenden Zeitraums.
+
+D. Allgemeine Bestimmungen.
+
+XVIII. Alle Zivilinternierten [alle], welche den Verbündeten oder verbundenen Mächten angehören undnicht im Artikel III aufgeführt sind, sind ohne Recht und Gegenseitigkeit [gleich] in einem Höchstzeitraumvon einem Monat in ihre Heimat zu befördern. Ausführungsbestimmungen bleiben noch festzusetzen.
+
+Finanzielle Bestimmungen.
+
+XIX.
+Später Ansprüche und Forderungen jeder Art von Seiten der Verbündeten und der VereinigtenStaaten werden vorbehalten. Die Wiederherstellung aller Beschädigten. [außer Deutschland] Während
+der Dauer des Waffenstillstandes darf der Feind keine öffentlichen Werte beseitigen, welche denVerbündeten als Pfänder für die Deckung der Kriegsschäden dienen könnten. Sofortige Zurückerstattungsämtlicher Dokumente und Wertpapiere (mobilarer und fiduziarischer mit dem Ausgabematerial), welchedem öffentlichen Interesse dienen und in den besetzten Gebieten eingezogen worden sind. Rückerstattungdes russischen und rumänischen Goldes, welches von den Deutschen beschlagnahmt oder ihnen
+ausgeliefert worden ist. Dieses Gold wird von den Verbündeten bis zur Unterzeichnung des Friedens inVerwahrung genommen werden.
+
+563 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, nicht im AA aufgeführt u. nicht in den Gesetzen
+
+---
+
+
 ![Screenshot_20251212_220918~2.jpg](https://github.com/user-attachments/assets/e8470024-893d-4b15-b5e5-2af04d9fbb8d) 207
 
 ![Screenshot_20251212_220924~2.jpg](https://github.com/user-attachments/assets/7e6cda56-ab47-4dc9-8d7f-e1309a7c21ee) 208
