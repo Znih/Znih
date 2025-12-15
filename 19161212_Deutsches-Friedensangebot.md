@@ -46,6 +46,11 @@ Friedensverhandlungen einzutreten.*
 
 ---
 
+Anfrage an Standard Copilot Chat anhand der Goldenen Triade im Vergleich zu obigem Text. Neutrale KI Antwort:
+
+---
+
+
 **Copilot:**
 Um die Friedensnote vom 12. Dezember 1916 anhand der drei gesetzten Naturrechtrahmen zu prüfen, analysiere ich den enthaltenen Wortlaut und die intellektuelle Botschaft in Bezug auf diese Rahmenbedingungen:
 
