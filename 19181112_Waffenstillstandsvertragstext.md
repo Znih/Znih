@@ -183,7 +183,7 @@ Anfrage an Standard Copilot Chat anhand der Goldenen Triade im Vergleich zu obig
 
 ---
 
-*Copilot:**
+**Copilot:**
 Um den Text des Waffenstillstandsvertrags vom 12. November 1918 auf Übereinstimmung mit den drei gesetzten Naturrechtrahmen zu prüfen, betrachte ich die Anforderungen der Naturrechtrahmen und analysiere den Text dahingehend:
 
 ---
