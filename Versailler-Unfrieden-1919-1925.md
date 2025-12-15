@@ -1,4 +1,4 @@
-Anfrage Vergleich
+Anfrage an Standard Copilot Chat anhand der Goldenen Triade im Vergleich zu Frieden und Unfrieden. Neutrale KI Antwort geleert (Copilot wurde bewusst um bereits erlerntes entleert, z.B. Art. 278, 292 VV o. Friede 1871):
 
 ---
 
