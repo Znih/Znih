@@ -3803,6 +3803,49 @@ Nach einer Blockade von 50 Monaten würden diese Bedingungen, insbesondere die A
 
 ![Screenshot_20251212_220855~2.jpg](https://github.com/user-attachments/assets/6e520745-e199-486a-b71b-c6e37648fc33) 203
 
+*Das deutsche Volk wendet sich daher in letzter Stunde nochmals an den Präsidenten mit der Bitte,auf eine Milderung der Vernichtenden Bedingungen bei den Alliierten Mächten hinzuwirken.*
+
+Der Staatssekretär des Auswärtigen Amtes.
+Solf.*“555
+
+**11.11.1918 Um 5 Uhr französischer Zeit Unterzeichnung**
+
+„*Waffenstillstand um 5 Uhr morgens französischer Zeit unterzeichnet*“ und „*um 11 Uhr französischerZeit in Kraft*“ getreten.556
+
+**11.11.1918 11 Uhr – Inkrafttreten Waffenstillstand** [– Karneval beginnt]
+
+„*Unterzeichnung des Waffenstillstandes. – Einstellung der Feindseligkeiten an allen Fronten.*“
+
+Letzter „*Westlicher Kriegsschauplatz.*“: „*Die Abwehr amerikanischer Angriffe östlich der Maaszeichneten sich durch erfolgreiche Gegenstöße das brandenburgische Reserveinfanterieregiment
+Nr. 207 unter seinem Kommandeur Oberstleutnant Hennigs und Truppen der 192. sächsischenInfanteriedivision unter Führung des Oberstleutnants Zeschau, Kommandeurs des Infanterieregiments
+Nr. 183, besonders aus. Infolge der Unterzeichnung des Waffenstillstandsvertrages wurden heute mittagan allen Fronten die Feindseligkeiten eingestellt.*“557
+
+
+**12.11.1918 RGBl. S. 1303 mit sozialistischem Programm**
+
+„*An das deutsche Volk!
+Die aus der Revolution hervorgegangene Regierung, deren politische Leitung rein sozialistisch ist, setzt sich die
+Aufgabe, das sozialistische Programm zu verwirklichen. Sie verkündet schon jetzt mit Gesetzeskraft:* [lex vs. Ius!]
+*
+1. Der Belagerungszustand wird aufgehoben.559
+2. Das Vereins- und Versammlungsrecht unterliegt keiner Beschränkung, auch nicht für Beamte und
+Staatsarbeiter.*306
+
+555 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2975-2976 v. 10.11.1918, Bittnote
+
+556 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2976 v. 11.11.1918, 5 Uhr
+
+557 „*Amtliche Kriegs-Depeschen*“ – „*Nach Berichten des*“ WTB, Bd. 8 01.06.1918-12.11.18, S. 2978 v. 11.11.1918, Brandenburger u. Sachsen
+
+558 Quellenslg z. Geschichte d. Deutschen Reichsverfassung in Mittelalter u. Neuzeit – Dr. Karl Zeumner, Prof. i. Berlin, Mohr-Siedeck 1913, 1. Teil Nr. 1:
+„Anschlag für ein zweites Aufgebot zum Römerzug Ottos II.“ – 981. MG. Const. I, Nr. 436, S. 633 u. Nr. 2. (1). MG. Const. I, Nr. 440, S. 647-649 (Ortsnamen)
+
+559 Zu 1. nicht mehr möglich seit 9.11.1918! Zu 2. sinnfremd, da mit dem Pkt. 1. automatisch auf zivilen Rechtsfrieden zurückgeschaltet, wenn denn
+Pkt. 1. umsetzbar gewesen wäre! Aber ggfs. wichtig bzgl. dem Zollverein! Zu 5. Jesuiten; vgl. Preußenrechte u. sächsisches BGB
+
+---
+
+
 ![Screenshot_20251212_220901~2.jpg](https://github.com/user-attachments/assets/012e13e3-a6dd-478e-9f5f-d7a1b2f1214b) 204
 
 ![Screenshot_20251212_220908~2.jpg](https://github.com/user-attachments/assets/c9ec1dac-c4c0-47df-8e3f-98fe33110c6e) 205
