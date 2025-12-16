@@ -77,7 +77,7 @@ Volljuristen unbedingt Nachrichten konsumieren und auf Nürnberg 2.0 vorbereiten
 
 Verfolgter des Nazismus (VdN), wie schon der Großvater VdN und zusätzlich Mitglied der besonderen priori visionären Widerstandsgruppe "Europäischen Union" um VdN Prof. Robert Hans Günther Havemann, VdN Dr. Georg Groscurth (Yad Vashem) u.s.v.a.m.
 
-Eine Liste der Nutznießer oder Handlanger der "Pervertierung des Rechtes" im BrD System, als Mitarbeiter im "öffentliche Dienst", mithin also ohne entsprechende Grundrechte, wird veröffentlicht um der Willkür (Verstoß ./. Art. 3 I GG) Einhalt zu bieten (Art. 20 IV GG). Der Pranger. Dann der Richter und zukünftig Haft. Verantwortung folgt nun für extrem viel Unheil.
+Eine Liste der Nutznießer oder Handlanger der "Pervertierung des Rechtes" im BrD System, als Mitarbeiter im "öffentlichen Dienst", mithin also ohne entsprechende Grundrechte, wird veröffentlicht um der Willkür (Verstoß ./. Art. 3 I GG) Einhalt zu bieten (Art. 20 IV GG). Der Pranger. Dann der Richter und zukünftig Haft. Verantwortung folgt nun für extrem viel Unheil.
 
 ---
 
