@@ -41,6 +41,12 @@ https://youtu.be/izplyvXn83M
 
 Teil 1/2 Lawrow Interview mit "Gosteleradio Iran" 16/12/2025
 
+https://github.com/user-attachments/assets/c25aecb0-564f-45e0-9c96-6de6f0b9682d
+
+https://youtu.be/eTJYZYcs_H0
+
+Teil 2/2 Lawrow Interview mit "Gosteleradio" Iran.
+
 ---
 
 https://github.com/user-attachments/assets/57bbd2d0-60da-468e-b7a9-b356ce17208f
