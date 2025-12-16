@@ -43,6 +43,14 @@ Teil 1/2 Lawrow Interview mit "Gosteleradio Iran" 16/12/2025
 
 ---
 
+https://github.com/user-attachments/assets/57bbd2d0-60da-468e-b7a9-b356ce17208f
+
+https://github.com/user-attachments/assets/ede22ee1-8993-454e-8f42-29b6f4135465
+
+https://youtu.be/Jwa7IjnJk_s
+
+---
+
 
 https://github.com/Znih/Znih/blob/main/BrD-Genozide.md
 
