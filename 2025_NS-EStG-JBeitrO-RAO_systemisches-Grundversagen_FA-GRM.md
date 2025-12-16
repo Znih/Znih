@@ -18,18 +18,16 @@ Es fällt dabei auf und es ist hiermit festzustellen, daß aus erwiesenermaßen 
 
 Kurz:   Der "Beschenkte" von 3300Euro unter Androhung von Haft einer Alleinerziehenden Mutter mit Kind (Art.6 I u. IV GG, UN-Pakete 1 u. 2);von diesen Schenkenden kriminell oben drauf und offen wider besseren Wissens (Paragraph 17 StGB).
 
-Jahr       | Steuerklasse |  Kind
+### **Vergleich Steuerklassenwechsel ohne Steuerzahlerkenntnis und Zustimmung**
+| **Jahr** | **Klasse** | **Kind** |
+|-------------|-----------|----------------|
+| **2013-25**  | 2 | 2 |
+| **2014**     | 1 | 0,5 |
+| **2023**     | 1 | 1,5 |
+| **2018**     | 2 | 1,5 |
+| **2016**     | 1 | 1,5 |
+| **2016**     | 2 | 1 |
 
-2013-2025    | (tatsächlich | Kl.2 ab 2014 |    2.0 Kinder)  |           |     2    
-
-ab 01/24      |    1    | 0,5 bis heute     |                               
-ab 03/23      |                  bis 12/23     |    1    |     1,5
-
-ab 01/18       |                  bis 02/23      |    2   |      1,5
-
-ab 06/16       |                  bis 12/17      |    1   |      1,5
-
-  bis 05/16      |    2   |       1
 
 Es geht nunmehr durch Ihr Schreiben um nachgewiesenes systemisches Grundversagen des FA Grimma, zu diesem Zweck läuft seit ein paar Tagen eine internationale KI Diskussion in den Ihr Beispiel FA Grimma zu Analysezwecke verwendet wurde. Teile daraus auszugsweise zitiert:
 
