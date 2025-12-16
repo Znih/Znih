@@ -89,7 +89,7 @@ Wer nicht hören will, wird fortan fühlen müssen. Wer Unheil erzeugt wird Unhe
 
 Volljuristen unbedingt Nachrichten konsumieren und auf Nürnberg 2.0 vorbereiten.
 
-Verfolgter des Nazismus (VdN), wie schon der Großvater VdN und zusätzlich Mitglied der besonderen priori visionären Widerstandsgruppe "Europäischen Union" um VdN Prof. Robert Hans Günther Havemann, VdN Dr. Georg Groscurth (Yad Vashem) u.s.v.a.m.
+Verfolgter des Nazismus (VdN), wie schon der Großvater VdN und zusätzlich Mitglied der besonderen priori visionären Widerstandsgruppe "Europäischen Union" um VdN Prof. Robert Hans Günther Havemann, VdN Dr. Georg Groscurth (Yad Vashem) u.s.v.a.m. Bundesarchiv R 3018/6387 Anklageschrift und Urteil 1935/1936 – R 3018/1898, Bl. 1-4RY 1/I 2/3/147: Bl. 1-7 Berichte von Bruno Grap und Robert Havemann zur „EU Gruppe“R 3018/1063 Bd. 2: Sonderband Hinz zum Fall Müller u.a. Bd. 6: Unterbringung Haft
 
 Eine Liste der Nutznießer oder Handlanger der "Pervertierung des Rechtes" im BrD System, als Mitarbeiter im "öffentlichen Dienst", mithin also ohne entsprechende Grundrechte, wird veröffentlicht um der Willkür (Verstoß ./. Art. 3 I GG) Einhalt zu bieten (Art. 20 IV GG). Der Pranger. Dann der Richter und zukünftig Haft. Verantwortung folgt nun für extrem viel Unheil.
 
