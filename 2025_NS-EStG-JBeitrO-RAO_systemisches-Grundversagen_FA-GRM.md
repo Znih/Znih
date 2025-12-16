@@ -8,6 +8,12 @@ Da wird ein Ausschuß nicht ausreichen.
 
 ---
 
+https://github.com/Znih/Znih/blob/main/BrD-Genozide.md
+
+https://github.com/Artikel-278-VV/Artikel-278-VV/blob/main/NS-EStG-1933-vs-Law-No-1.md
+
+---
+
 Sehr geehrte Damen und Herren,
 
 Neben vielen Dingen die jetzt Einfluss nehmen könnten seiten des Finanzamtes muss ich mich jetzt auf das wesentliche konzentrieren. Der Steuerzahler zahlt im voraus mehr als es am Jahresende sein müsste, da die Einkommenssteuerklärung auf Freiwilligkeit beruht.
@@ -39,7 +45,6 @@ Analyse: Das Gleichbehandlungsgebot von Art. 3 I GG wird durch die langfristige 
 
 Quelle aus öffentlicher KI Diskussion: https://github.com/Znih/Znih/discussions/12#discussioncomment-14959388
 
-https://github.com/Artikel-278-VV/Artikel-278-VV/blob/main/NS-EStG-1933-vs-Law-No-1.md
 
 https://github.com/user-attachments/assets/b0ba9699-a1bd-483d-bcbd-d3ad16c12a91
 
