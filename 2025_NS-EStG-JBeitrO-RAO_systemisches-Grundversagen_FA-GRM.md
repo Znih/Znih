@@ -1,4 +1,23 @@
-Antwort des FA GRM würdigt schwere Vorwürfe weder rechtlich noch inhaltlich, sondern begründet Straftaten im Amt offen mit der Volljährigkeit eines der beiden Kinder, womit Steuerklasse 1 trotz des zweiten Kindes für alle Kinder wegfallen würde. Das ist mehrfach falsch und führt in der Summe zu direktem Angriff des FA GRM gegen Mutter, Kind, Familie und gegen Grundgesetz samt Menschenrechtskodex. Trotz besserem Wissens.
+Sehr geehrte Frau Gottschling,
+
+festgestellt werden muß, daß Sie sich persönlich an gleich mehreren Straftaten im Amt jedenfalls beteiligt haben und jedenfalls statt Aufklärung mit unbegründeter Arroganz und Drohung gegen die Opfer vorzugehen, Strafvereitelung trotz Beweissicherung betreiben und in Ihrem Schreiben vom 27.11.2025 dies auch noch dokumentierten.
+
+> Die Steuerklasse II steht Alleinerziehenden zu, wenn zu Ihrem Haushalt mindestens ein Kind gehört, für dass Sie Anspruch auf Kindergeld/Kinderfreibeträge haben und keine weitere volljährige Person mit in Ihrem Haushalt lebt, für die Sie keinen Anspruch auf Kinderfreibetrag oder Kindergeld haben.
+
+Wie begründen Sie solch skurrile Aussage? Inhaltlich falsch und tatsächlich falsch, was sogar mit den falschen Daten des FA GRM noch begründet werden konnten.
+
+> Mit der Abgabe der [freiwilligen] Steuerklärungen haben Sie die Möglichkeit steuerlich relevante Tatbestände vorzubringen, die sich steuerlich für Sie vorteilhaft auswirken können. Werbungskosten, Sonderausgaben (wie z.B. **Kinderbetreuungskosten für Ihren Sohn**), [...] können sich steuerlich vorteilhaft auswirken.
+
+Also doch ein Sohn mit falschen 0,5 aber immerhin widersprüchlich zu Ihrer Aussage bzgl. Steuerklasse II.
+
+Damit haben Sie und das FA GRM insgesamt gegen die eigenen Spielregeln derart offenkundig verstoßen, daß selbst die gerade in Ungnade gefallene BrD Justiz um Ermittlung, Anklage und Hafturteil nicht mehr herumkommen, um nicht selbst sehr lange Haftstrafen in Kauf nehmen zu müssen. Die BrD steht allein in der Welt und sieht sich zurecht einer nunmehr aktivierten Feindstaatenklausel entgegen, die seit 22.11.2025 nicht mehr das Deutsche Volk als vielmehr dessen nazistischen Führerklasse n. Art. 116 I GG ist, mithin das "Wir und Uns" nach NAZI Logik der Reichsbürgerschaft.
+
+Strafantrag gegen das gesamte FA GRM wird hiermit wiederholt und höflich an das Ende eines Mitarbeiters des FA Rendsburg erinnert. In diesem Sinne herzliche Grüße an Ihre Familie, die Ihnen hoffentlich irgendwie, irgendwann verzeihen wird können. Die BrD Opfer in der Welt indes sicher nicht. Steuergeld für PR, Krieg und die gesamte Welt aber den Kindern in der BrD die Familie und die Zukunft zerstören.
+
+Das muß zum Strafantrag führen und wird Ermittlungen einleiten. Mit IQ 70 gewinnt niemand einen Krieg gegen IQ 150+ aber es hilft beim späteren richten.
+
+
+Antwort einer Frau Gottschling des FA GRM (238/359/03265 AV09, poststelle@fa-grimma.smf.sachsen.de) vom 27.11.2025, würdigt schwere Vorwürfe weder rechtlich noch inhaltlich, sondern begründet Straftaten im Amt offen mit der Volljährigkeit eines der beiden Kinder, womit Steuerklasse 1 trotz des zweiten Kindes für alle Kinder wegfallen würde. Das ist mehrfach falsch und führt in der Summe zu direktem Angriff des FA GRM gegen Mutter, Kind, Familie und gegen Grundgesetz samt Menschenrechtskodex. Trotz besserem Wissens.
 
 Ergebnis ist: Das FA GRM bleibt bei falscher Steuerklasse 1 statt 2 und weigert sich die Wechsel in den Jahren 2016 bis 2025 zu berichtigen, während selbiges gegen Vernunft, Gewissen und Recht unter offener Missachtung des Grundgesetzes (lex) mit Inhaftierung einer Mutter und Steuerzahlerin droht. Das ist nicht nur moralisch verwerflich, sondern auch unzweckmäßig unverhältnismäßig. Schaden für Familie, Mutter, Kind und Allgemeinheit durch langfristigen Steuerausfall des Steuerzahlers, der seit 2002 zahlt. Kein Einzelfall sondern System.
 
