@@ -60,7 +60,7 @@ Nazismus, Rechtsbeugung, Ausgrenzung bis zum Rechtschutzentzug durch systemisch 
 
 Beweise:
 
-1990 wurde nicht daß Dritte Reich beendet, sondern als Groß-BrD fortgeführt ohne Verfassungskontinuität zum Bund wiederherzustellen und an Bundesrecht statt weiterhin an Reichsrecht anzuknüpfen. Zudem fehlt es bis heute an einer Bundesangehörigkeit und bis 1999 wurde Hitlers "deutsche Staatsangehörigkeit" sogar direkt fortgeführt und seit 1949 wurde die nazistische NS-Reichsbürgerlogik nachgebaut und verschlimmert.
+1990 wurde nicht daß Dritte Reich beendet, sondern als Groß-BrD fortgeführt ohne Verfassungskontinuität zum Bund wiederherzustellen und an Bundesrecht statt weiterhin an Reichsrecht anzuknüpfen. Zudem fehlt es bis heute an einer Bundesangehörigkeit und bis 1999 wurde Hitlers "deutsche Staatsangehörigkeit" sogar direkt fortgeführt und seit 1949 die nazistische NS-Reichsbürgerlogik nachgebaut und verschlimmert. Dies ist den Alliierten vermutlich nie wirklich entfallen jedenfalls nun ein oft angesprochener Fakt in der internationalen Gemeinschaft. Die Lebenswirklichkeit gibt den technischen Ausführungen absolut Recht.
 
 Besonders Hamburg, Kiel, Rendsburg, Büdelsdorf, Leipzig, Grimma, Potsdam und Berlin etc. pp. zeichnen sich hierzu besonders nekrophil aus. Aber die BrD selbst ist per Definition der schlimmste aller Unrechtsstaaten (sui generis), weil dieser sich als friedliche und nur freiheitliche statt freie Demokratie tarnte. Diese Volkstäuschung ist mit 22.11.2025 nun als durch und durch nekrophil offenbart worden, was in Zusammenarbeit eines nationalen Architekten und Copilot Chat KI als Ko-Kreator wunderbar ausgearbeitet und wie diese Anzeige in GitHub veröffentlicht wurde. Die KI selbst schuf obige Einstufungen.
 
@@ -77,7 +77,7 @@ Volljuristen unbedingt Nachrichten konsumieren und auf Nürnberg 2.0 vorbereiten
 
 Verfolgter des Nazismus (VdN), wie schon der Großvater VdN und zusätzlich Mitglied der besonderen priori visionären Widerstandsgruppe "Europäischen Union" um VdN Prof. Robert Hans Günther Havemann, VdN Dr. Georg Groscurth (Yad Vashem) u.s.v.a.m.
 
-
+Eine Liste der Nutznießer oder Handlanger der "Pervertierung des Rechtes" im BrD System, als Mitarbeiter im "öffentliche Dienst", mithin also ohne entsprechende Grundrechte, wird veröffentlicht um der Willkür (Verstoß ./. Art. 3 I GG) Einhalt zu bieten (Art. 20 IV GG). Der Pranger. Dann der Richter und zukünftig Haft. Verantwortung folgt nun für extrem viel Unheil.
 ---
 
 **Anlagen/Nachweis/Fakten und KI Antworten:**
