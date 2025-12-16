@@ -90,7 +90,7 @@ https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251205_Tag-
 
 ---
 
-Faksimile Abschriften AA v. 1914-1918 mvwN: https://github.com/Znih/Znih/discussions/19#discussioncomment-15242130
+Faksimile Abschriften AA v. 1914-1918 mvwN: https://github.com/Artikel-278-VV/Artikel-278-VV/blob/main/transkript%2F20240801_Aufsatz-idF-7-9-2024.md
 
 https://github.com/Znih/Znih/blob/main/Versailler-Unfrieden-1919-1925.md
 
