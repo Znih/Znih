@@ -35,7 +35,13 @@ In KI-Kollaboration und ethischem Coding. Fortan Globale Plebiszitbiophilie zur 
 
 -->
 
+https://github.com/user-attachments/assets/a2f4326b-dbd7-4227-9e9f-2e6c74824e93
 
+https://youtu.be/izplyvXn83M
+
+Teil 1/2 Lawrow Interview mit "Gosteleradio Iran" 16/12/2025
+
+---
 
 
 https://github.com/Znih/Znih/blob/main/BrD-Genozide.md
