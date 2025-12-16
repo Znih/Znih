@@ -71,7 +71,7 @@ Der Deutsche
 gemäß Art. 3 BVerf. iVm Art. 20 IV, 123 I, 116 II, 139, 146 GG und nicht "deutscher [Hitler]Staatsangehöriger" n. 16 I GG (Art. 278, 292 VV, Art. 110 WRV, RGBl. I 1934 S. 85) und nicht Deutscher Reichsstaatsbürger n. Art. 116 I GG (RGBl. I 1935 S. 1146, 1333)!!!
 
 
-Wer nicht hören will, wird fortan fühlen müssen.
+Wer nicht hören will, wird fortan fühlen müssen. Wer Unheil erzeugt wird Unheil erfahren. Macht ohne Vernunft führt stets zu Unheil. 107 Jahre gestohlene Macht ohne Vernunft, haben Unfrieden gebracht und viel Unheil angerichtet. Wenn Gesetzgeber und BVerfG das Bonner Grundgesetz seit 1990 brechen und missachten, über 160 Male abändern, Gerichte und Staatsanwaltschaften das Grundgesetz nicht kennen oder sich nicht gebunden (zuständig) fühlen und die Polizei die Remonstrationspflicht (II Sz. 4-5) nicht kennt oder offen missachtet, um stumpf dem Grundsatz "Befehl ist Befehl" unter systemischer Abwesenheit von Vernunft und Gewissen, Folge zu leisten und Demonstranten mit GG verhaften, so ist jedes System irgendwann dummdreist jedoch selbstverusacht dabei, von der Geschichte überholt zu werden. In jedem Fall kann keine Behörde mit Gesetzen (Lex) drohen, während sie selbst und ihre Vorgesetzten jedes Recht (ius) und das Grundgesetz (Lex) fortdauernd brechen. Was selbst verursacht übrig bleibt, sind die Artikel 139 (Lawrow) und 146 GG (Verfassungsvolk), mithin fremdbestimmt oder dieses Mal nach 107 Jahren erstmals wieder souverän im Bund des Rechtes und im Frieden, der Europa in Versailles gestohlen wurde.
 
 Volljuristen unbedingt Nachrichten konsumieren und auf Nürnberg 2.0 vorbereiten.
 
