@@ -25,7 +25,7 @@ Ergebnis ist: Das FA GRM bleibt bei falscher Steuerklasse 1 statt 2 und weigert 
 
 Jedes Finanzamt nutzt das refomierte EStG v. 1933/34 und die JBeitrO v. 1935 seit 2016 als JBeitrG v. 1935, sowie einen Nachbau der RAO von 1943/44 iVm NS und NAZI Logiken bzgl. Vollbürger n. Art. 116 I GG, um Steuergewalt gegen Bewohner aber besonders gegen Andersdenkende Bewohner systemisch nekrophil einzusetzen. Nicht für gemeinsame Wohlfahrt aller, sondern elitäre Wohlfahrt weniger und um Täuschung und Krieg weiterhin finanzieren zu können. Wahrheit kostet Lebenszeit und Lebensqualität aber Lügen kosten unerhört enorme Summen an Geld ohne Wert. Seit 1913/14! Also nun enorme Verantwortung bei den verantwortlichen BrD Staatsbürgern n. Art. 116 I GG, die auch zur Front müssten. Die Bewohner n. Art. 16 I GG indes nicht, da kein "Deutscher" n. 116 I GG ohne Einbürgerung oder Staatsangehörigkeitsnachweis n. 30, 33 StAG.
 
-Da wird ein Ausschuß nicht ausreichen. Anbei ingewürdigte Mail an FA GRM worauf selbiges am 27.11.2025 reagierte.
+Da wird ein Ausschuß nicht ausreichen. Anbei ungewürdigte Mail an FA GRM worauf selbiges am 27.11.2025 reagierte.
 
 veröffentlicht unter https://github.com/Znih/Znih/blob/main/2025_NS-EStG-JBeitrO-RAO_systemisches-Grundversagen_FA-GRM.md
 
