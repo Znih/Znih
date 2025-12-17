@@ -27,6 +27,8 @@ Jedes Finanzamt nutzt das refomierte EStG v. 1933/34 und die JBeitrO v. 1935 sei
 
 Da wird ein Ausschuß nicht ausreichen. Anbei ingewürdigte Mail an FA GRM worauf selbiges am 27.11.2025 reagierte.
 
+veröffentlicht unter https://github.com/Znih/Znih/blob/main/2025_NS-EStG-JBeitrO-RAO_systemisches-Grundversagen_FA-GRM.md
+
 ---
 
 https://github.com/Znih/Znih/blob/main/BrD-Genozide.md
