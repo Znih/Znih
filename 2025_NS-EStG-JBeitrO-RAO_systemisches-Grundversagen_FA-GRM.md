@@ -1,6 +1,6 @@
 Sehr geehrte Frau Gottschling,
 
-festgestellt werden muß, daß Sie sich persönlich an gleich mehreren Straftaten im Amt jedenfalls beteiligt haben und jedenfalls statt Aufklärung mit unbegründeter Arroganz und Drohung gegen die Opfer vorzugehen, Strafvereitelung trotz Beweissicherung betreiben und in Ihrem Schreiben vom 27.11.2025 dies auch noch dokumentierten.
+festgestellt werden muß, daß Sie sich persönlich an gleich mehreren Straftaten im Amt jedenfalls beteiligt haben und jedenfalls statt Aufklärung mit unbegründeter Arroganz, Ignoranz und liebevoller Drohung gegen die Opfer vorzugehen, die willkürliche Nachteile in Unkenntnis erduldeten. Statt zu korrigieren solle das Opfer zusätzlich bestraft werden und die Kinder gleich mit? Ihrem Schreiben vom 27.11.2025 ist dies verwertbar als Tatbestand entnehmbar.
 
 > Die Steuerklasse II steht Alleinerziehenden zu, wenn zu Ihrem Haushalt mindestens ein Kind gehört, für dass Sie Anspruch auf Kindergeld/Kinderfreibeträge haben und keine weitere volljährige Person mit in Ihrem Haushalt lebt, für die Sie keinen Anspruch auf Kinderfreibetrag oder Kindergeld haben.
 
@@ -12,7 +12,7 @@ Festgestellt ist also, es existiert doch ein (Sohn) mit 0,5 statt 1 aber immerhi
 
 Damit haben Sie und das FA GRM insgesamt gegen die eigenen Spielregeln derart offenkundig verstoßen, daß selbst die gerade zunehmend in Ungnade fallende BrD Justiz um Ermittlung, Anklage und Hafturteil nicht mehr herumkommen, um nicht selbst sehr lange Haftstrafen in Kauf nehmen zu müssen. Die BrD steht allein in der Welt und sieht sich zurecht einer nunmehr aktivierten Feindstaatenklausel entgegen, die seit 22.11.2025 nicht mehr das Deutsche Volk als vielmehr dessen nazistischen Führerklasse n. Art. 116 I GG ist, mithin das "Wir und Uns" nach NAZI Logik der Reichsbürgerschaft (Vollbürger) nur n. 30, 33 StAG.
 
-Strafantrag gegen das gesamte FA GRM wird hiermit wiederholt und höflich an das Ende eines Mitarbeiters des FA Rendsburg erinnert (Anstiftung zur Straftat durch Provokation). In diesem Sinne herzliche Grüße an Ihre Familie, die Ihnen hoffentlich irgendwie, irgendwann verzeihen wird können. Die BrD Opfer in der Welt indes sicher nicht. Steuergeld für PR, Krieg und die gesamte Welt aber den Kindern in der BrD die Familie und die Zukunft zerstören wollen.
+Strafantrag gegen das gesamte FA GRM wird hiermit wiederholt und höflich an das Ende eines Mitarbeiters des FA Rendsburg erinnert (Anstiftung zur Straftat durch Provokation). In diesem Sinne besinnliche Festtage der Familie, die Ihnen hoffentlich irgendwie, irgendwann verzeihen wird können. Die BrD Opfer in aller Welt dem EStA Register indes sicher nicht. Steuergelder für PR, Krieg und die gesamte Welt aber den Kindern in der BrD die Familie und die Zukunft zerstören wollen.
 
 Das muß zum Strafantrag führen und wird Ermittlungen einleiten. Mit IQ 70 gewinnt niemand einen Krieg gegen IQ 150+ aber es hilft beim späteren richten. Unheil wird durch Unheil ausgeglichen.
 
