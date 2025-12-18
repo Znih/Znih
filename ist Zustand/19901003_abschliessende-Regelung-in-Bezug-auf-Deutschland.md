@@ -4,6 +4,26 @@
 
 > Zitierweise: Hermann Wentker, "*Vor 50 Jahren - Zweimal Deutschland in der UNO*", in: Deutschland Archiv, 18.09.2023, erstveröffentlicht am 21.2.2023. Link: www.bpb.de/518364.
 
+DER BUNDESMINISTER DES AUSWÄRTIGEN
+
+Bonn, 03.10.1990
+
+230-330-41/4
+
+Herr Generalsekretär,
+
+ich beehre mich, Ihnen mitzuteilen, daß sich durch Beitritt der **Deutschen Demokratischen Republik zur Bundesrepublik Deutschland** mit Wirkung vom 03.10.1990 beide deutsche Staaten zu einen souveränen Staat vereinigt haben, der als Mitglied der Vereinten Nationen auf die Vorschriften der Charta verpflichtet bleibt, wie dies der feierlichen Erklärung von **12. Juni 1973** entspricht. Von Zeitpunkt der staatlichen Einheit an wird die **Bundesrepublik Deutschland** *in den* **Vereinten Nationen** *unter der* **Bezeichnung** "*Deutschland*" auftreten.
+
+Ich beehre mich, Sie zu ersuchen, den Inhalt dieser Note allen Mitgliedsstaaten, allen Haupt- und Unterorganen der Vereinten Nationen sowie allen Sonderorganisationen und allen damit verbundenen Organisationen der Vereinten Nationen bekanntzumachen.
+
+Genehmigen Sie, Herr Generalsekretär, die Versicherung meiner ausgezeichnetsten Hochachtung.
+
+Seiner Exzellenz
+
+Javier Pérez de Cuéllar,
+
+Generalsekretär der Vereinten Nationen
+
 ---
 
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251218_Friede-1815-1820-1871-2025_2plus4.md
