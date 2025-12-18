@@ -165,5 +165,102 @@ Bundesrecht mvwN_Artikel-9-2plus4_Das-vereinte Deutschland.odt
 
 ![Screenshot_20251218_140526~2.jpg](https://github.com/user-attachments/assets/3743a6b2-954b-4a4b-af15-818e47b7ffce)
 
+---
+
 ![Screenshot_20251218_140532~2.jpg](https://github.com/user-attachments/assets/17e650a1-7fb6-46df-b1d5-a007f242c2a2)
 
+Die „*Aussetzung*" - mithin die temporäre Suspendierung - lediglich der Wirkung der sonst verbleibenden ("*versteinerten*") Vier-Mächte-Rechte und -Verantwortlichkeiten" als „*abschließende*" „*Regelung*" aus dem Londoner Schuldenabkommen von 1953 „*in bezug*" auf die Zins- und Zinseszinsschulden des reinsten Dritten Reichs, mithin also „*Deutschlands*" im Verständnis desselben ab 1945 (Erledigung in 4. Generation zwischen 01.01.1996 und 03.10.2010), endete laut „*Erklärung zur Aussetzung der Wirksamkeit der Vier-Mächte-Rechte- und -Verantwortlichkeiten*" entsprechend am 15.03.1991 ohne DDR [und ohne fehlender Ostengebiete n. Art. 116 I GG], als hätte es sie nie gegeben (S. 16).
+
+Vertrag
+
+über die abschließende Regelung in Bezug auf Deutschland (Zwei-plus-Vier-Vertrag)
+
+Moskau, 12. September 1990
+
+Inkrafttreten:
+
+15. März 1991 gemäß Artikel 9
+
+"*Dieser Vertrag tritt für das Vereinte Deutschland, die Union der Sozialistischen Sowjetrepubliken, die Französische Republik, das Vereinigte Königreich Großbritannien und Nordirland und die Vereinigten Staaten von Amerika am Tag der Hinterlegung der letzten Ratifikations- oder Annahmeurkunde durch diese Staaten in Kraft.""
+
+Fundstelle:
+
+Bundesgesetzblatt II 1990, S. 1317 AA-Vertragssammlung Band 70 A 873
+
+Stand: 26. September 2011
+
+Vertragspartei
+
+Unterzeichnung
+
+Hinterlegung der
+
+in Kraft seit
+
+Ratifikations-Annahme- oder Genehmigungs-urkunde
+
+Frankreich 1)
+
+12.09.1990
+
+04.02.1991
+
+15.03.1991
+
+13.10.1990
+
+15.03.1991
+
+Deutschland
+
+12.09.1990
+
+15.03.1991
+
+15.03.1991
+
+Sowjetunion 1) 2)
+
+12.09.1990
+
+16.11.1990
+
+15.03.1991
+
+Vereinigtes Königreich 1)
+
+12.09.1990
+
+25.10.1990
+
+15.03.1991
+
+Vereinigte Staaten 1)
+
+12.09.1990
+
+1) Die Außenminister Frankreichs, der Sowjetunion, des Vereinigten Königreichs und der Vereinigten Staaten haben am 1. Oktober 1990 in New York folgende gemeinsame Erklärung unterzeichnet, die von den Regierungen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik durch Unterzeichnung zur Kenntnis genommen wurde:
+
+„*Erklärung zur Aussetzung der Wirksamkeit der Vier-Mächte-Rechte und -Verantwortlichkeiten*
+
+*Die Regierungen der Französischen Republik, der Union der Sozialistischen Sowjetrepubliken, des Vereinigten Königreichs Großbritannien und Nordirland und der Vereinigten Staaten von Amerika, vertreten durch ihre Außenminister, die am 1. Oktober 1990 in New York zusammengetroffen sind,*
+
+*unter Berücksichtigung des am 12. September 1990 in Moskau unterzeichneten Vertrags über die abschließende Regelung in Bezug auf Deutschland, der die Beendigung ihrer Rechte und Verantwortlichkeiten in Bezug auf Berlin und Deutschland als Ganzes festlegt,*
+
+*erklären, dass die Wirksamkeit ihrer Rechte und Verantwortlichkeiten in Bezug auf Berlin und Deutschland als Ganzes mit Wirkung vom Zeitpunkt der Vereinigung Deutschlands bis zum Inkrafttreten des Vertrags über die abschließende Regelung in Bezug auf Deutschland ausgesetzt wird. Als Ergebnis werden die Wirksamkeit der entsprechenden, damit zusammenhängenden vierseitigen Vereinbarungen, Beschlüsse und Praktiken und die Tätigkeit aller entsprechenden Einrichtungen der Vier Mächte ab dem Zeitpunkt der Vereinigung Deutschlands ebenfalls ausgesetzt.*"
+
+2) Vertragspartei ist seit der Auflösung der Sowjetunion die Russische Föderation
+
+Überblick: https://github.com/Artikel-278-VV
+
+Download PDF/A von Proton:
+
+https://drive.proton.me/urls/MEY7CR9XXM#rlhfRk0TC47j
+
+17/888
+
+Potsdam, den 08.01.2025
+
+1815-2024_Q-Sammlung-Deutsches. Bundesrecht mvwN_Artikel-9-2plus4_Das-vereinte-Deutschland.odt
+
+18
