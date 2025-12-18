@@ -303,3 +303,53 @@ Svetlana Savranskaya und Tom Blanton
 Washington D.C., 12. Dezember 2017 – Die berühmte Zusicherung des US-Außenministers James Baker, die NATO werde sich „keinen Zentimeter nach Osten“ ausdehnen, war Teil einer ganzen Reihe von Sicherheitszusicherungen westlicher Staats- und Regierungschefs gegenüber Gorbatschow und anderen sowjetischen Funktionären während des deutschen Wiedervereinigungsprozesses 1990 und bis ins Jahr 1991 hinein. Dies geht aus freigegebenen US-amerikanischen, sowjetischen, deutschen, britischen und französischen Dokumenten hervor, die heute vom National Security Archive der George Washington University (http://nsarchive.gwu.edu) veröffentlicht wurden.
 
 Aus den Dokumenten geht hervor, dass mehrere nationale Führungskräfte Anfang 1990 und im Laufe des Jahres 1991 die Mitgliedschaft Mittel- und Osteuropas in der NATO erwogen und abgelehnt haben, dass die Diskussionen über die NATO im Kontext der deutschen Wiedervereinigungsverhandlungen im Jahr 1990 keineswegs auf den Status des ostdeutschen Territoriums beschränkt waren und dass die späteren sowjetischen und russischen Beschwerden darüber, hinsichtlich der NATO-Erweiterung irregeführt worden zu sein, auf schriftlichen, zeitgleichen Memoranden und Telefongesprächen auf höchster Ebene beruhten.
+
+---
+
+https://github.com/user-attachments/assets/a2f4326b-dbd7-4227-9e9f-2e6c74824e93
+
+https://youtu.be/izplyvXn83M
+
+Teil 1/2 Lawrow Interview mit "Gosteleradio" Iran.
+
+https://github.com/user-attachments/assets/c25aecb0-564f-45e0-9c96-6de6f0b9682d
+
+https://youtu.be/eTJYZYcs_H0
+
+Teil 2/2 Lawrow Interview mit "Gosteleradio" Iran.
+
+---
+
+https://github.com/user-attachments/assets/57bbd2d0-60da-468e-b7a9-b356ce17208f
+
+https://github.com/user-attachments/assets/ede22ee1-8993-454e-8f42-29b6f4135465
+
+https://youtu.be/Jwa7IjnJk_s
+
+
+---
+
+**Lawrow:** Deutschlands Wiedervereinigung 1990 wurde auf eine Weise durchgeführt, die weit überwiegend dem westlichen Teil nützte und einem Verrat an den Ostdeutschen durch die Sowjetunion entsprach, sagte der russische Außenminister Sergei Lawrow.
+
+In einem Interview mit dem iranischen Staatssender IRIB erklärte Lawrow am Montag, der Prozess habe das Fundament für den erneuerten Militarismus des heutigen Deutschland gelegt, den Moskau mit wachsender Sorge betrachte.
+
+Der sowjetische Staatschef Michail Gorbatschow stimmte der Vereinigung von Bundesrepublik Deutschland und Deutscher Demokratischer Republik zu, nachdem er die Zusicherung erhalten hatte, die NATO werde sich nicht weiter nach Osten ausbreiten – Versprechen, die später gebrochen wurden.
+
+"*Das war seitens der Sowjetunion ein Fehler und ein Verrat, als beinahe eine halbe Million Soldaten ohne jede Entschädigung abgezogen wurden, und die Möglichkeit, ihre Gegenwart im Ostteil des vereinten Deutschlands aufrechtzuerhalten, ignoriert wurde*", sagte Lawrow.
+
+Er fügte hinzu, die westdeutschen Behörden hätten die Integration der ehemaligen DDR schlecht gehandhabt. "*Die Regierenden im damaligen Westdeutschland machten einen schweren Fehler, als sie nach der Übernahme des östlichen Teils ihre Landsleute wie Bürger zweiter Klasse behandelten*", sagte er. "*Die deutschen Behörden brachten, als Eroberer, das ganze Land der ehemaligen DDR unter ihre Kontrolle und entledigten sich aller politischen Gestalten. Ihnen wurde keine Zukunft angeboten. Es war eine Übernahme, kein Zusammenschluss.*"
+
+Berlin ist jetzt einer der stärksten Vertreter der großformatigen Militarisierung der EU, die die Führung des Staatenverbunds mit der Behauptung rechtfertigt, sie müssten sich auf einen möglichen russischen Angriff vorbereiten. Moskau sagt, derartige Rhetorik sei dazu gedacht, die Öffentlichkeit in Angst zu versetzen und inmitten gescheiterter Innenpolitik Widerspruch zu unterdrücken.
+
+Lawrow kritisierte jüngst erfolgte Bemerkungen von Bundeskanzler Friedrich Merz, nannte einige davon "*offen rassistisch*" und an die Nazi-Sprache erinnernd.
+
+"*Die DNA in seiner Familie ist noch da*", sagte der Außenminister unter Bezug auf Merz' Großvater mütterlicherseits, Paul Sauvigny, den historische Aufzeichnungen als begeistertes Mitglied der Nazipartei beschreiben. "*Hier geht es um Verachtung, Arroganz, und ich kann so weit gehen, das das Verhalten einer Person zu nennen, die glaubt, für eine überlegene Rasse zu stehen*", erklärte Lawrow.
+
+https://rtde.org/russland/265004-lawrow-deutsche-wiedervereinigung-war-eine-uebernahme/
+
+Dirk Dietrich https://t.me/DDDDoffiziell
+
+https://de.wikipedia.org/wiki/Josef_Paul_Sauvigny
+
+https://www.ciras.org/justice/
+
