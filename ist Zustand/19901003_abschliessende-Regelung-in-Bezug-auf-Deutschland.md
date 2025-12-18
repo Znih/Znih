@@ -1,3 +1,7 @@
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251218_Friede-1815-1820-1871-2025_2plus4.md
+
+---
+
 **Copilot:**
 Danke für das umfassende Material und die Referenzen zum Vertrag über die abschließende Regelung in Bezug auf Deutschland ("2+4-Vertrag") sowie die Analyse, Kritik und historischen Einblicke zu Nato-Erweiterungen und Wiedervereinigungsabkommen.
 
