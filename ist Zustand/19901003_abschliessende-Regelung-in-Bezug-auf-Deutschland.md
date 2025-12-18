@@ -1,3 +1,11 @@
+![Screenshot_20251218_175859~2.jpg](https://github.com/user-attachments/assets/ff63b4a3-6fd0-4ce7-9ddf-e7f997c2ce1e)
+
+> Die Note Genschers vom 3. Oktober 1990 an den damaligen UNO-Generalsekretär Pérez de Cuéllar über die Herstellung der Deutschen Einheit. © CC-BY-ND
+
+> Zitierweise: Hermann Wentker, "*Vor 50 Jahren - Zweimal Deutschland in der UNO*", in: Deutschland Archiv, 18.09.2023, erstveröffentlicht am 21.2.2023. Link: www.bpb.de/518364.
+
+---
+
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251218_Friede-1815-1820-1871-2025_2plus4.md
 
 ---
