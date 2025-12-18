@@ -289,4 +289,17 @@ Svetlana Savranskaya and Tom Blanton
  
 Washington D.C., December 12, 2017 – U.S. Secretary of State James Baker’s famous “*not one inch eastward*” assurance about NATO expansion in his meeting with Soviet leader Mikhail Gorbachev on February 9, 1990, was part of a cascade of assurances about Soviet security given by Western leaders to Gorbachev and other Soviet officials throughout the process of German unification in 1990 and on into 1991, according to declassified U.S., Soviet, German, British and French documents posted today by the National Security Archive at George Washington University (http://nsarchive.gwu.edu).
 
-The documents show that multiple national leaders were considering and rejecting Central and Eastern European membership in NATO as of early 1990 and through 1991, that discussions of NATO in the context of German unification negotiations in 1990 were not at all narrowly limited to the status of East German territory, and that subsequent Soviet and Russian complaints about being misled about NATO expansion were founded in written contemporaneous memcons and telcons at the highest levels. 
+The documents show that multiple national leaders were considering and rejecting Central and Eastern European membership in NATO as of early 1990 and through 1991, that discussions of NATO in the context of German unification negotiations in 1990 were not at all narrowly limited to the status of East German territory, and that subsequent Soviet and Russian complaints about being misled about NATO expansion were founded in written contemporaneous memcons and telcons at the highest levels.
+
+---
+
+Freigegebene Dokumente belegen Sicherheitszusagen gegen die NATO-Osterweiterung an sowjetische Führungskräfte von Baker, Bush, Genscher, Kohl, Gates, Mitterrand, Thatcher, Hurd, Major und Wörner.
+
+Ein Panel für Slawistik befasst sich mit der Frage: „*Wer hat wem was zur NATO-Osterweiterung versprochen?*“
+
+Veröffentlicht: 12. Dez. 2017
+Svetlana Savranskaya und Tom Blanton
+
+Washington D.C., 12. Dezember 2017 – Die berühmte Zusicherung des US-Außenministers James Baker, die NATO werde sich „keinen Zentimeter nach Osten“ ausdehnen, war Teil einer ganzen Reihe von Sicherheitszusicherungen westlicher Staats- und Regierungschefs gegenüber Gorbatschow und anderen sowjetischen Funktionären während des deutschen Wiedervereinigungsprozesses 1990 und bis ins Jahr 1991 hinein. Dies geht aus freigegebenen US-amerikanischen, sowjetischen, deutschen, britischen und französischen Dokumenten hervor, die heute vom National Security Archive der George Washington University (http://nsarchive.gwu.edu) veröffentlicht wurden.
+
+Aus den Dokumenten geht hervor, dass mehrere nationale Führungskräfte Anfang 1990 und im Laufe des Jahres 1991 die Mitgliedschaft Mittel- und Osteuropas in der NATO erwogen und abgelehnt haben, dass die Diskussionen über die NATO im Kontext der deutschen Wiedervereinigungsverhandlungen im Jahr 1990 keineswegs auf den Status des ostdeutschen Territoriums beschränkt waren und dass die späteren sowjetischen und russischen Beschwerden darüber, hinsichtlich der NATO-Erweiterung irregeführt worden zu sein, auf schriftlichen, zeitgleichen Memoranden und Telefongesprächen auf höchster Ebene beruhten.
