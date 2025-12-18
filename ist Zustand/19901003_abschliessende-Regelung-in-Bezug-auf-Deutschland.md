@@ -258,3 +258,21 @@ Potsdam, den 08.01.2025
 1815-2024_Q-Sammlung-Deutsches. Bundesrecht mvwN_Artikel-9-2plus4_Das-vereinte-Deutschland.odt
 
 18
+
+---
+
+1945 Operation Undurchführbar
+
+1947 SHAEF/NATO/OTAN/SHAPE
+
+1990 wOTAN Osterweiterung trotz oder wegen des 2+4 Vertrages?
+
+2014 wOTAN BIP 2.v.H. vereinbart und Vorbereitung von Angriffskrieg und Aggression nicht mehr unter Strafe VStGB statt StGB v. 1871 ab 2017
+
+2017 https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early
+
+2022 Krieg um Frieden
+
+2023 Minsk nur Fake so Merkel u.a.
+
+2025 EU, NATO, BrD pleite und handlungsunfähig ausgegrenzt durch Fehler, Korruption und systematischer Unterlassung.
