@@ -276,3 +276,17 @@ Potsdam, den 08.01.2025
 2023 Minsk nur Fake so Merkel u.a.
 
 2025 EU, NATO, BrD pleite und handlungsunfähig ausgegrenzt durch Fehler, Korruption und systematischer Unterlassung.
+
+
+---
+
+Declassified documents show security assurances against NATO expansion to Soviet leaders from Baker, Bush, Genscher, Kohl, Gates, Mitterrand, Thatcher, Hurd, Major, and Woerner
+
+Slavic Studies Panel Addresses “*Who Promised What to Whom on NATO Expansion?*”
+
+Published: Dec 12, 2017
+Svetlana Savranskaya and Tom Blanton
+ 
+Washington D.C., December 12, 2017 – U.S. Secretary of State James Baker’s famous “*not one inch eastward*” assurance about NATO expansion in his meeting with Soviet leader Mikhail Gorbachev on February 9, 1990, was part of a cascade of assurances about Soviet security given by Western leaders to Gorbachev and other Soviet officials throughout the process of German unification in 1990 and on into 1991, according to declassified U.S., Soviet, German, British and French documents posted today by the National Security Archive at George Washington University (http://nsarchive.gwu.edu).
+
+The documents show that multiple national leaders were considering and rejecting Central and Eastern European membership in NATO as of early 1990 and through 1991, that discussions of NATO in the context of German unification negotiations in 1990 were not at all narrowly limited to the status of East German territory, and that subsequent Soviet and Russian complaints about being misled about NATO expansion were founded in written contemporaneous memcons and telcons at the highest levels. 
