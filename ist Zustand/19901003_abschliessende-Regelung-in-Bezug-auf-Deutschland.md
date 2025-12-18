@@ -1,4 +1,4 @@
-Quellensammlung des Bundesrechtes S. 2 - xx - 2+4 zur Analyse.
+***Quellensammlung des Bundesrechtes S. 2 - 17 - 2+4 zur Analyse.***
 
 ![Screenshot_20251218_140255~2.jpg](https://github.com/user-attachments/assets/eb018753-2ea9-480a-9ed5-6bddd92cd54a) 
 
@@ -14,9 +14,9 @@ https://www.auswaertiges-amt.de/resource/blob/243466/2851e102b97772a5772e9fdb8a9
 
 Auswärtiges Amt
 
-Vertrag vom 12. September 1990 über die abschließende Regelung in bezug auf Deutschland
+***Vertrag vom 12. September 1990 über die abschließende Regelung in bezug auf Deutschland***
 
-„2+4-Vertrag"
+„*2+4-Vertrag*"
 
 mit Erklärung vom 01. Oktober 1990 zur Aussetzung der Wirksamkeit der Vier-Mächte-Rechte und -Verantwortlichkeiten
 
@@ -75,9 +75,9 @@ ARTIKEL 8
 
 (2) Die Ratifikations- oder Annahmeurkunden werden bei der Regierung des vereinten Deutschland hinterlegt. Diese unterrichtet die Regierungen der anderen Vertragschließenden Seiten von der Hinterlegung jeder Ratifikations- oder Annahmeurkunde.
 
-ARTIKEL 9
+**ARTIKEL 9**
 
-Dieser Vertrag tritt für das vereinte Deutschland, die Union der Sozialistischen Sowjetrepubliken, die Französische Republik, das Vereinigte Königreich Großbritannien und Nordirland und die Vereinigten Staaten von Amerika am Tag der Hinterlegung der letzten Ratifikations- oder Annahmeurkunde durch diese Staaten in Kraft.
+Dieser Vertrag tritt für das vereinte Deutschland, die Union der Sozialistischen Sowjetrepubliken, die Französische Republik, das Vereinigte Königreich Großbritannien und Nordirland und die Vereinigten Staaten von Amerika **am Tag der Hinterlegung der letzten Ratifikations- oder Annahmeurkunde durch diese Staaten in Kraft**.
 
 ARTIKEL 10
 
@@ -125,7 +125,41 @@ Potsdam, den 08.01.2025
 
 ![Screenshot_20251218_140507~2.jpg](https://github.com/user-attachments/assets/5bb0152f-7dc8-4966-871c-c1471d565a64)
 
+---
+
 ![Screenshot_20251218_140513~2.jpg](https://github.com/user-attachments/assets/2f0006f3-7e4c-4f7e-ac21-697e174c51cc)
+
+**Zusammentreffen der Außenminister am 01.10.1990 in NY**
+
+Die Regierungen der Französischen Republik, der Union der Sozialistischen Sowjetrepubliker, des Vereinigten Königreichs Grossbritannien und Nordirland und der Vereinigten Staaten von Amerika,
+
+Vertreten durch ihre Aussenminister, die am 1. Oktober 1990 in New York zusammengetroffen sind,
+
+Unter Berücksichtigung des am 12. September 1990 in Moskau unterzeichneten Vertrags über die abschliessende Regelung in bezug auf **Deutschland** [Reich], der die Beendigung ihrer Rechte und Verantwortlichkeiten in bezug auf **Berlin und Deutschland als Ganzes** [Bund] festlegt,
+
+Erklären, dass die **Wirksamkeit** ihrer Rechte und Verantwortlichkeiten in bezug auf **Berlin und Deutschland als Ganzes** [Bund] mit Wirkung vom Zeitpunkt der Vereinigung Deutschlands [03.10.1990] bis zum Inkrafttreten des Vertrags über die abschliessende Regelung in bezug auf **Deutschland** [Reich, 15.03.1991] **ausgesetzt** wird. Als Ergebnis werden die Wirksamkeit der entsprechenden, damit zusammenhängenden vierseitigen Vereinbarungen, Beschlüsse und Praktiken und die Tätigkeit aller entsprechenden Einrichtungen der Vier Mächte ab dem Zeitpunkt der Vereinigung Deutschlands ebenfalls ausgesetzt.
+
+Die Regierung der Bundesrepublik Deutschland, vertreten durch ihren Aussenminister, und die Regierung der Deutschen Demokratischen Republik, vertreten durch ihren Minister für Bildung und Wissenschaft, nehmen diese Erklärung zur Kenntnis.
+
+„*in bezug auf Berlin und Deutschland als Ganzes mit Wirkung vom Zeitpunkt der Vereinigung Deutschlands [am 03.10.1990] bis zum Inkrafttreten des Vertrags über die abschließende Regelung [mit 15.03.1991] ausgesetzt*"!!!
+
+[Begriff aus Schuldenabkommen v. 1953] in bezug auf Deutschland iS 1937 (Art. 116 I GG)]
+
+Überblick: https://github.com/Artikel-278-VV
+
+Download PDF/A von Proton: https://drive.proton.me/urls/MEY7CR9XXM#rlhfRk0TC47j
+
+14/888
+
+Potsdam, den 08.01.2025
+
+1815-2024_Q-Sammlung-Deutsches-
+
+Bundesrecht mvwN_Artikel-9-2plus4_Das-vereinte Deutschland.odt
+
+15
+
+---
 
 ![Screenshot_20251218_140519~2.jpg](https://github.com/user-attachments/assets/ac0aa9bf-5a7c-429d-8ed2-4f4901344d6b)
 
