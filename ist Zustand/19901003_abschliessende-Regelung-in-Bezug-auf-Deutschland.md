@@ -371,3 +371,15 @@ https://de.wikipedia.org/wiki/Josef_Paul_Sauvigny
 
 https://www.ciras.org/justice/
 
+---
+
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251218_Friede-1815-1820-1871-2025_2plus4.md
+
+https://github.com/user-attachments/assets/0ef177cd-9d95-440b-8538-4f221a4b9c32
+
+https://github.com/user-attachments/assets/245d1875-cda8-49a9-8af4-dcfa3e935290
+
+https://github.com/user-attachments/assets/805a0e5f-dc5d-4b31-ac7a-8e6c4f8e6efc
+
+https://github.com/user-attachments/assets/1c0c30af-24a9-4c2d-8dba-b474b82c059d
+
