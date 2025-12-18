@@ -4,7 +4,7 @@
 
 Vertrag v. 12.09.1990 über die „*abschließende*" „*Regelung*" in bezug auf Deutschland
 
-,,*2+4-Vertrag*"
+"*2+4-Vertrag*"
 
 „*mit Erklärung v. 01.10.1990 zur Aussetzung - Suspendierung nur - der Wirksamkeit der Vier-Mächte-Recht und - Verantwortlichkeiten*" - Vlad-i-MIRs Trumpf
 
@@ -53,9 +53,7 @@ Potsdam, den 08.01.2025
 
 1815-2024_Q-Sammlung-Deutsches-
 
-Bundesrecht mvwN Artikel-9-
-
-2plus4_Das-vereinte-Deutschland.odt
+Bundesrecht mvwN Artikel-9-2plus4_Das-vereinte-Deutschland.odt
 
 3
 
@@ -63,7 +61,7 @@ Bundesrecht mvwN Artikel-9-
 
 ![Screenshot_20251218_140303~2.jpg](https://github.com/user-attachments/assets/70847535-4621-407b-810a-2a1b6d6fbf77)
 
-Vertrag v. 12.09.1990 über die „*abschließende*" - „*Regelung*" - Artikel 9
+Vertrag v. 12.09.1990 über die „*abschließende*" - „*Regelung*" - **Artikel 9**
 
 []chenden, damit zusammenhängenden vierseitigen Vereinbarungen, Beschlüsse und Praktiken beendet und alle entsprechenden Einrichtungen der Vier Mächte aufgelöst.
 
@@ -85,7 +83,7 @@ Die Urschrift dieses Vertrags, dessen deutscher, englischer, französischer und 
 
 Anm. Fazit: Das Bonner Grundgesetz ist inzwischen selbst irreführend, rechtsunsicher, mehrfach geändert, durch die Organe selbst angegriffen und zerstört, und mit 15.03.1991 endete heimlich die temporäre Suspendierung der „*Vier-Mächte-Recht- und Verantwortlichkeiten*" (sui generis).
 
-Tritt also erst am 15.03.1991 für „*das vereinte Deutschland*" in Putativ-Kraft. Laut Erklärung von 01.10.1990 fiel sodann die „*Aussetzung*" ab 03.10.1990 unmittelbar mit 15.03.1991 weg!!!
+[Vertrag] Tritt also erst am 15.03.1991 für „*das vereinte Deutschland*" in Putativ-Kraft. Laut Erklärung von 01.10.1990 fiel sodann die „*Aussetzung*" ab 03.10.1990 unmittelbar mit 15.03.1991 weg!!!
 
 Download PDF/A von Proton:
 
@@ -97,9 +95,7 @@ https://drive.proton.me/urls/MEY7CR9XXM#rlhfRk0TC47j
 
 Potsdam, den 08.01.2025
 
-1815-2024_Q-Sammlung-Deutsches-Bundesrecht mvwN_Artikel-9-
-
-2plus4_Das-vereinte-Deutschland.odt
+1815-2024_Q-Sammlung-Deutsches-Bundesrecht mvwN_Artikel-9-2plus4_Das-vereinte-Deutschland.odt
 
 4
 
@@ -129,7 +125,7 @@ Potsdam, den 08.01.2025
 
 ![Screenshot_20251218_140513~2.jpg](https://github.com/user-attachments/assets/2f0006f3-7e4c-4f7e-ac21-697e174c51cc)
 
-**Zusammentreffen der Außenminister am 01.10.1990 in NY**
+***Zusammentreffen der Außenminister am 01.10.1990 in NY***
 
 Die Regierungen der Französischen Republik, der Union der Sozialistischen Sowjetrepubliker, des Vereinigten Königreichs Grossbritannien und Nordirland und der Vereinigten Staaten von Amerika,
 
@@ -153,9 +149,7 @@ Download PDF/A von Proton: https://drive.proton.me/urls/MEY7CR9XXM#rlhfRk0TC47j
 
 Potsdam, den 08.01.2025
 
-1815-2024_Q-Sammlung-Deutsches-
-
-Bundesrecht mvwN_Artikel-9-2plus4_Das-vereinte Deutschland.odt
+1815-2024_Q-Sammlung-Deutsches-Bundesrecht mvwN_Artikel-9-2plus4_Das-vereinte Deutschland.odt
 
 15
 
@@ -181,7 +175,7 @@ Inkrafttreten:
 
 15. März 1991 gemäß Artikel 9
 
-"*Dieser Vertrag tritt für das Vereinte Deutschland, die Union der Sozialistischen Sowjetrepubliken, die Französische Republik, das Vereinigte Königreich Großbritannien und Nordirland und die Vereinigten Staaten von Amerika am Tag der Hinterlegung der letzten Ratifikations- oder Annahmeurkunde durch diese Staaten in Kraft.""
+"*Dieser Vertrag tritt für das Vereinte Deutschland, die Union der Sozialistischen Sowjetrepubliken, die Französische Republik, das Vereinigte Königreich Großbritannien und Nordirland und die Vereinigten Staaten von Amerika am Tag der Hinterlegung der letzten Ratifikations- oder Annahmeurkunde durch diese Staaten in Kraft.*"
 
 Fundstelle:
 
@@ -243,11 +237,11 @@ Vereinigte Staaten 1)
 
 „*Erklärung zur Aussetzung der Wirksamkeit der Vier-Mächte-Rechte und -Verantwortlichkeiten*
 
-*Die Regierungen der Französischen Republik, der Union der Sozialistischen Sowjetrepubliken, des Vereinigten Königreichs Großbritannien und Nordirland und der Vereinigten Staaten von Amerika, vertreten durch ihre Außenminister, die am 1. Oktober 1990 in New York zusammengetroffen sind,*
+> *Die Regierungen der Französischen Republik, der Union der Sozialistischen Sowjetrepubliken, des Vereinigten Königreichs Großbritannien und Nordirland und der Vereinigten Staaten von Amerika, vertreten durch ihre Außenminister, die am 1. Oktober 1990 in New York zusammengetroffen sind,*
 
-*unter Berücksichtigung des am 12. September 1990 in Moskau unterzeichneten Vertrags über die abschließende Regelung in Bezug auf Deutschland, der die Beendigung ihrer Rechte und Verantwortlichkeiten in Bezug auf Berlin und Deutschland als Ganzes festlegt,*
+> *unter Berücksichtigung des am 12. September 1990 in Moskau unterzeichneten Vertrags über die abschließende Regelung in Bezug auf Deutschland, der die Beendigung ihrer Rechte und Verantwortlichkeiten in Bezug auf Berlin und Deutschland als Ganzes festlegt,*
 
-*erklären, dass die Wirksamkeit ihrer Rechte und Verantwortlichkeiten in Bezug auf Berlin und Deutschland als Ganzes mit Wirkung vom Zeitpunkt der Vereinigung Deutschlands bis zum Inkrafttreten des Vertrags über die abschließende Regelung in Bezug auf Deutschland ausgesetzt wird. Als Ergebnis werden die Wirksamkeit der entsprechenden, damit zusammenhängenden vierseitigen Vereinbarungen, Beschlüsse und Praktiken und die Tätigkeit aller entsprechenden Einrichtungen der Vier Mächte ab dem Zeitpunkt der Vereinigung Deutschlands ebenfalls ausgesetzt.*"
+> *erklären, dass die Wirksamkeit ihrer Rechte und Verantwortlichkeiten in Bezug auf Berlin und Deutschland als Ganzes mit Wirkung vom Zeitpunkt der Vereinigung Deutschlands bis zum Inkrafttreten des Vertrags über die abschließende Regelung in Bezug auf Deutschland ausgesetzt wird. Als Ergebnis werden die Wirksamkeit der entsprechenden, damit zusammenhängenden vierseitigen Vereinbarungen, Beschlüsse und Praktiken und die Tätigkeit aller entsprechenden Einrichtungen der Vier Mächte ab dem Zeitpunkt der Vereinigung Deutschlands ebenfalls ausgesetzt.*"
 
 2) Vertragspartei ist seit der Auflösung der Sowjetunion die Russische Föderation
 
