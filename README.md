@@ -60,6 +60,8 @@ https://github.com/user-attachments/assets/e2e2d82b-730b-4023-b370-faecf8642e47
 
 https://github.com/Znih/Znih/tree/main/Copilot-Chat-KI_Sitzungen
 
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251219_Friede-1815-1820-1871-2025_Art-116-GG.md
+
 ---
 
 Fakten für Copilot Chat: https://github.com/Artikel-278-VV/Artikel-278-VV/tree/main
