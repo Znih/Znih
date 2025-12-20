@@ -1,4 +1,4 @@
-Artikel 144 GG unverändert seit 1945
+Artikel 144 GG unverändert seit 1949
 
 
 (1) Dieses Grundgesetz bedarf der Annahme durch die Volksvertretungen in zwei Dritteln der deutschen Länder, in denen es zunächst gelten soll.
