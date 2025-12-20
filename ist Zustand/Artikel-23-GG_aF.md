@@ -1,3 +1,8 @@
+Art. 23 [Geltungsbereich des Grundgesekes]
+
+Dieses Grundgesek gilt zunächst im Gebiete der Länder Baden, Bayern, Bremen, Groß-Berlin, Hamburg, Hessen, Nieder-sachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Schleswig-Holstein, Württemberg-Baden und Württemberg-Hohenzollern. In anderen Teilen Deutschlands ist es nach deren Beitritt in Kraft zu sehen.
+
+
 > Anlagen zu https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251219_Friede-1815-1820-1871-2025_Art-116-GG.md
 > 
 > ![Screenshot_20251219_133211~2.jpg](https://github.com/user-attachments/assets/6f7ff444-281d-4fe1-b9d0-5d5e1512aab9)
@@ -152,3 +157,5 @@
 4. die Ausdrücke "*das Gebiet der Bundesrepublik*" und das Bundesgebiet" umfassen die Gebiete der Länder Baden. Bayern, Bremen, Hamburg, Hessen. Niedersachsen, Nordrhein Westfalen, Rheinland 'Pfalz, Schleswig-Holstein, Württemberg-Baden und Württemberg-Hohenzollern, wie sie am Tage des Inkrafttretens dieses Gesetzes bestanden.
 
 Für den späteren Art. 23 GG a.F. und als Begriffsdefinition, da sonst Unsicherheit gegenüber dem ewigen Bund, dessen Bundesrecht im Bundesgebiet trotz Reichsrecht und Reichsgebiet als Basis bleiben mußte (Art. 23, 16 i u. 116 i gg für Reich mit kleinerem Bundesgebiet n. Law Nr. 2 4. auf dem tatsächlichen Bundesgebiet gemäß Art. 1 BVerf. versteckt im Art. 116 II gg in den wieder einzubütgern wäre, da nur Hitler bliebe, da dieser 1934 die "deutsche Reichsangehörigkeit" Art. 110 wrv und 1935 die "Deutsche Reichsbürgerschaft" Art. 109 wrv direkt und indirekt aufhob oder zerstörte. Was 1949 verblieb war RuStAG UR und 1934/35 (Art. 278 vv) oder zurück zur mittelbar zu erwerbenden Bundesangehörigkeit oder dem Prinzip folgend europäischen Bundesangehörigkeit. Weder 1949 noch 1990 oder 1999 bereinigte dies eine BrD Regierung. Das fällt ihnen nun auf die Füße, da die EU - die Ablösung - selbst gerade zerfällt.
+
+
