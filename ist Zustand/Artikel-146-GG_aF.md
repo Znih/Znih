@@ -4,5 +4,3 @@
 Art. 146 [Geltungsdauer des Grundgesetzes]
 
 Dieses Grundgesetz verliert seine Gültigkeit an dem Tage, an dem eine Verfassung in Kraft tritt, die von dem deutschen Volke in freier Entscheidung beschlossen worden ist.
-
-Aber die Auflösung des Parlamentarischen Rats nach Erledigung dieser Schlußaufgaben vgl. Schreiben der Militärgouverneure v. 12.5. 1949 Ziff. 10 (abgedruckt unten Nr. 2).
