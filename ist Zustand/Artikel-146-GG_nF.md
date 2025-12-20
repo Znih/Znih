@@ -1,0 +1,3 @@
+Artikel 146 GG n.F.
+
+Dieses Grundgesetz, das nach Vollendung der Einheit und Freiheit Deutschlands für das gesamte deutsche Volk gilt, verliert seine Gültigkeit an dem Tage, an dem eine Verfassung in Kraft tritt, die von dem deutschen Volke in freier Entscheidung beschlossen worden ist.
