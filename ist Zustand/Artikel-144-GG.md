@@ -1,0 +1,1 @@
+Artikel 144 GG unverändert seit 1945
