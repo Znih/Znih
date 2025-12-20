@@ -35,6 +35,9 @@ https://github.com/Znih/Znih/blob/main/BrD-Genozide.md
 
 https://github.com/Artikel-278-VV/Artikel-278-VV/blob/main/NS-EStG-1933-vs-Law-No-1.md
 
+Nachtrag zum Art. 116 GG
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251219_Friede-1815-1820-1871-2025_Art-116-GG.md
+
 ---
 
 Sehr geehrte Damen und Herren,
