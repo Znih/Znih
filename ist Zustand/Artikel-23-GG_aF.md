@@ -1,7 +1,8 @@
 Art. 23 [Geltungsbereich des Grundgesekes]
 
-Dieses Grundgesek gilt zunächst im Gebiete der Länder Baden, Bayern, Bremen, Groß-Berlin, Hamburg, Hessen, Nieder-sachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Schleswig-Holstein, Württemberg-Baden und Württemberg-Hohenzollern. In anderen Teilen Deutschlands ist es nach deren Beitritt in Kraft zu sehen.
+Dieses Grundgesek gilt zunächst im Gebiete der Länder Baden, Bayern, Bremen, Groß-Berlin, Hamburg, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Schleswig-Holstein, Württemberg-Baden und Württemberg-Hohenzollern. In anderen Teilen Deutschlands ist es nach deren Beitritt in Kraft zu sehen.
 
+---
 
 > Anlagen zu https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251219_Friede-1815-1820-1871-2025_Art-116-GG.md
 > 
