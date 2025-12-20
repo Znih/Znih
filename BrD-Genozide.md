@@ -103,6 +103,9 @@ https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251206_Busc
 "Nazismus im Grundgesetz":
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251205_Tag-der-Freiwilligen_Nazismus-im-GG.md
 
+Nachtrag zum Art. 116 GG
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251219_Friede-1815-1820-1871-2025_Art-116-GG.md
+
 ---
 
 Faksimile Abschriften AA v. 1914-1918 mvwN: https://github.com/Artikel-278-VV/Artikel-278-VV/blob/main/transkript%2F20240801_Aufsatz-idF-7-9-2024.md
