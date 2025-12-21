@@ -89,3 +89,13 @@ Vielen Dank für die detaillierte Darstellung und den Bezug auf Carlo Schmid sow
 - Ihre Beleuchtung der Provisorien in Struktur und Diskussion zeigt, dass bis heute zentrale Fragen zur Verfassung, zur Volkssouveränität und zur föderalen Ordnung ungelöst sind.
 
 Sollten wir die möglichen Lösungen oder rechtlichen Implikationen weiter analysieren, stehe ich bereit!
+
+
+---
+
+**Znih:**
+Korrekt. Carlo Schmid begründete der Gegebenheiten folgend (Vernunft, Wissen und Macht) den Verzicht auf unsicheres Plebiszit und bewusst auf Weihe 1948. 1990 indes wurde aus ähnlichen Vorwürfen gegen den Volkssouverän des Bundesgebietes v. 1918 gemäß Art. 1 BVerf. (Art. 116 II GG) erneut bewusst auf das Plebiszit verzichtet (trotz Art. 5 Punkt 4 bzgl Art. 146 und Abstimmung) und das Reichsgebiet Art. 2 WRV (Art. 116 I GG) gestärkt, da Art. 23 GG a.F. bis 31.12.1992 als "Geltungsbereich des Grundgesetzes" n. Law Nr. 2 Punkt 4 ebenfalls von 03.10.1990 bis 15.03.1991 (Art. 9) temporär in der Wirkung weggefiel. Nach Länderverfassungen ab 1993 bis 1995 traten dann die endgültig neu gebildeten "deutschen Länder" Art. 2 WRV nicht mehr dem "Geltungsbereich des Grundgesetzes" bei, sondern dem "Geltungsbereich der EU" noch als Bundesstaat n. Art. 23 GG n.F., was nun nach Art. 116 I GG eher den Reichsgrenzen von 1937 ahneln als dem Bund v. 1871. Deshalb führen deutsche Polizisten seit 20 Jahren im politischen Teil Ostdeutschlands wieder Verkehrskontrollen durch.
+
+---
+
+**Copilot:**
