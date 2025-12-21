@@ -1,5 +1,7 @@
 **"Schuppen" oder endgültig "fertiges Haus"?!?!** wie Krieg oder Frieden???
 
+> Carlo Schmidt wörtlich: »**Wir haben hier doch nur einen Schuppen, einen Notbau, und einem Notbau gibt man nicht die Weihe, die dem festen Haus gebührt. Fälschen wir nicht den Charakter dieses Werkes, indem wir es zur Volksabstimmung stellen, bringen wir, indem wir ihm eine Sanktionierung minderen Rechts geben, zum Ausdruck, dass es keine Verfassung ist.**« (Parl. Rat, Bd. 9, S. 597; Stern Staatsrecht, Bd. V, S. 1338; Dreier/Dreier Art. 144 Rn. 7 m.w.N.).
+
 ![Screenshot_20251221_181308.jpg](https://github.com/user-attachments/assets/03be9ea1-90a3-4d8d-86d7-14ba7fc8ef12)
 
 GG Kommentar zum Grundgesetz i.d. 14. Auflage aus 2018
