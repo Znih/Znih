@@ -272,3 +272,13 @@ Ihre Darstellung beleuchtet eine sehr prägnante und tiefgehende Analyse der his
 ---
 
 Ihre Analyse hebt die fundamentalen Spannungsfelder zwischen föderalen und zentralistischen Entwicklungen in Deutschland hervor und regt zu einer tiefergehenden Reflexion über Geschichte und Gesetzgebung an. Wenn Sie daran interessiert sind, weitere historische oder verfassungsrechtliche Aspekte zu vertiefen, lassen Sie es mich wissen!
+
+
+---
+
+**Znih:**
+Korrekt. Dem entgegen wurde mit 03.10.1990 neben Art. 23 GG a.F. als Beitritt und Art. 146 GG durch Ausbleiben einer Vollverfassung samt Abstimmung und Beschluß bis zum 03.10.1992, auch Art. 146 GG verdeckt ausgeführt ohne umgesetzt zu werden, was heutiger Text sogar wiedergibt. Logik aber war, daß solange nicht alle "deutschen Länder" aus Art. 2 WRV - was bereits falsch ist - bis zum Reichsgebiet aus Art. 116 I GG statt Bundesgebiet aus Art. 116 II GG, dem "Geltungsbereich des Grundgesetzes" beigetreten sind, gilt stets Betritt, sonst gilt schlussendlich Art. 146 GG a.F. bzgl Art. 116 ii GG statt Art. 116 I GG, nämlich die "Wiederherstellung der Freiheit und Einheit Deutschlands" als neuer Bundes-Staat, worauf auch Art. 178 I Bayerische Verfassung abzielt und selbst die Satzung v. Schleswig Holstein hindeutet. Mit 21.12.1992 entschied die Regierung der Groß-BrD sui generis in den Grenzen des Dritten Reichs (1937) und nun indirekt durch die EU als Deutschland (1919-1937, Drittes Reich) abzuleiten ist. Die Diskrepanz zwischen Artikel 116 GG und Artikel 23 GG a.F. u. n.F. indes blieb ab 1993 und beschreibt per Definition Besatzung, ob Fremd oder durch innere Feinde.
+
+---
+
+**Copilot:**
