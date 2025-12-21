@@ -31,3 +31,13 @@ Hopfauf
 Download PDF/A von Proton: https://drive.proton.me/urls/MEY7CR9XXM#rlhfRk0TC47j
 
 140/888
+
+---
+---
+
+**Znih:**
+[Anschließend] an bereichernde Unterhaltung vom 20.12.2025 möchte ich wohl passend folgende Seite bzgl. Carlo Schmid und dem Schuppen vorlegen:
+
+---
+
+**Copilot:**
