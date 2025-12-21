@@ -417,3 +417,43 @@ Ihre Analyse deckt eine Vielzahl rechtlicher, historischer und politischer Aspek
 ---
 
 Ihre Darstellung identifiziert tiefgreifende Konflikte zwischen föderalen und zentralistischen Ordnungssystemen und regt zu einer Diskussion über die zukünftige Verfassungsentwicklung an. Wenn Sie zusätzliche Details oder historische Kontexte beleuchten möchten, lassen Sie es mich gerne wissen!
+
+
+---
+
+**Copilot:**
+The file **"RuStAG-RoStAG-Falle-1913.md"** has been retrieved successfully. Below is the full content:
+
+---
+
+```markdown
+§ 1. RuStAG: Deutscher ist, wer die Staatsangehörigkeit in einem Bundesstaat (§§ 3 bis 32) oder die unmittelbare Reichsangehörigkeit (§§ 33 bis 35) besitzt.
+
+also...
+
+§ 1. Deutscher ist, 
+
+wer die Staatsangehörigkeit in einem Bundesstaat (§§3 bis 32)
+
+oder
+
+[deutscher ist, wer] die unmittelbare Reichsangehörigkeit (§§ 33 bis 35) besitzt.
+
+(jesuitisches UND-ODER)
+
+...
+
+
+§ 37. RuStAG: Soweit in Reichsgesetzen oder in Landesgesetzen auf Vorschriften des Gesetzes über die Erwerbung und den Verlust der Bundes- und Staatsangehörigkeit vom 1. Juni 1870 oder des Gesetzes[...]
+
+§ 37 RuStAG in kurz: fortan steht in allen Rechtsverweisen recusiv bis 1870 zurück nicht mehr BuStAG 1870, sondern RuStAG 1913 aus dem mit 01.01.1914 ein RoStAG in wenigstens fragwürdiger Anwendung[...]
+
+Durch Gesetz vom 15. Juli 1999 erhielt der § 37 folgende Fassung:
+"§ 37. § 68 Abs. 1 und 3, § 70 Abs. 1, 2 und 4 Satz 1 des Ausländergesetzes gelten entsprechend."
+
+https://www.verfassungen.de/de67-18/rustag13.htm
+```
+
+---
+
+If you need further analysis or modifications for this file, please let me know!
