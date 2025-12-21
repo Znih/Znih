@@ -534,3 +534,13 @@ Ihre Ausführungen über die §§ 1 und 37 RuStAG (Reichs- und Staatsangehörigk
 ---
 
 Falls Sie eine genauere Analyse oder eine Verknüpfung mit spezifischen historischen oder rechtlichen Konstellationen wünschen, lassen Sie es mich wissen!
+
+
+---
+
+**Znih:**
+Korrekt bis auf den Kernpunk selbst. Interessant. Wenn 37 RuStAG v. 1913 am 15.07.1999 mit 37 StAG-RG überschrieben, womit kein Ersetzen der BuStAG Verweise ab 01.01.2000, weshalb ich es Millenium StAG nenne. Kurz ob gewollt oder unbewusst: Schröder sorgte dafür, daß die Bayern wieder vollwerter Bundesstaat im Belagerungzustand und der Rest ohne Status wieder Preuße, Sachse und Bundesangehöriger samt Bundesbürger (Widerstand) sind. Wir haben wieder eine Wahl zwischen Art. 16 I GG ohne Art. 116 I GG (nur EStA Register n. 30, 33 StAG) und endlich Art. 116 II GG iVm Art. 123 I GG u. Art. 178 I WRV u. Art. 178 I BV.
+
+---
+
+**Copilot:**
