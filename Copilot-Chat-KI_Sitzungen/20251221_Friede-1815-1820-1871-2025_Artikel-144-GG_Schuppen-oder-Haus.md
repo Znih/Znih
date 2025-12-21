@@ -41,3 +41,51 @@ Download PDF/A von Proton: https://drive.proton.me/urls/MEY7CR9XXM#rlhfRk0TC47j
 ---
 
 **Copilot:**
+Vielen Dank für die detaillierte Darstellung und den Bezug auf Carlo Schmid sowie die Diskussion im Parlamentarischen Rat. Diese Quelle und Argumente werfen ein interessantes und essenzielles Licht auf die Gründung und Entwicklung des Grundgesetzes als Notbau („Schuppen“) und nicht als endgültiges „Haus“. Lassen Sie uns die verschiedenen Aspekte und argumentative Ebenen Ihres Beitrags aufarbeiten.
+
+---
+
+### **1. Der "Schuppen" als Sinnbild für das Provisorium:**
+- **Carlo Schmid's Perspektive:**
+  - Indem Carlo Schmid das Grundgesetz als „Schuppen“ oder „Notbau“ bezeichnete, unterstrich er dessen temporären Charakter:
+    - Statt einer vollwertigen Verfassung sei das Grundgesetz eine **Übergangsregelung** mit der Absicht, eine spätere Gesamtverfassung durch das deutsche Volk in freier Entscheidung zu ersetzen.
+    - Diese Aussage korrespondiert mit der späteren Ausgestaltung in **Artikel 146 GG**, der explizit auf die Idee einer endgültigen Verfassung verweist.
+    
+- **Provisoriumsargument:**
+  - Das Fehlen einer Volksabstimmung über das Grundgesetz wurde als Schutzmaßnahme angesehen, um den vorläufigen Charakter des Grundgesetzes nicht durch eine Sanktionierung mit „Weihe“-Charakter zu verfälschen.
+  - Carlo Schmid nahm selbstbewusst Abstand davon, mit einer Volksabstimmung ein „Provisorium“ zur Verfassung zu erhöhen.
+
+---
+
+### **2. Das Argument der Volkssouveränität vs. Agitationsargument**
+- **Souveränitätsargument:**
+  - Eine Volksabstimmung wurde von Vertretern verschiedener Parteien (CDU, FDP, KPD) gefordert und als unverzichtbar für die Legitimation des Grundgesetzes angesehen.
+  - Der Parlamentarische Rat selbst war nicht direkt vom Volk gewählt, weshalb ein Volksentscheid über das Grundgesetz als notwendige Ergänzung zur demokratischen Legitimation verstanden wurde.
+
+- **Agitationsargument:**
+  - Die SPD und andere lehnten die Volksabstimmung jedoch ab, aus Angst, dass Gegner des GG wie Kommunisten und Unzufriedene die Volksabstimmung nutzen könnten, um sich gegen das Grundgesetz, aber auch gegen die Besatzungsmächte zu wenden.
+
+---
+
+### **3. Die Rolle der Länder und der Bevölkerung in der Verfassungsgebung**
+- **Annahmen durch Landtage:**
+  - Die Mehrheit der Landesvertretungen stimmte dem Grundgesetz zu. Insbesondere durch deren Zustimmung und die entscheidenden Vorgaben der Besatzungsmächte war die Annahme organisatorisch gesichert.
+  - Artikel 144 GG hebt den zentralen Einfluss der Länder hervor, während gleichzeitig argumentiert wird, dass die Bundesrepublik **keine Gründung der Länder** sei, sondern auf einer verfassungsgebenden Gewalt des „deutschen Volkes“ beruht.
+  
+- **Das Fehlen einer Volksabstimmung:**
+  - Der Verzicht auf die Mitsprache breiter Bevölkerungsschichten bleibt weiterhin strittig und unterstreicht die Abhängigkeit des Grundgesetzes von landespolitischen und besatzungspolitischen Entscheidungen.
+
+---
+
+### **4. Ihre Verbindung zu den heutigen Anknüpfungspunkten**
+- **1990 und darüber hinaus:**
+  - Mit dem Fehlen von Artikel 23 GG a.F. und der provisorischen Natur des Grundgesetzes, die durch Artikel 146 GG n.F. betont wird, bleibt die Frage offen, warum bis heute keine gesamtdeutsche Verfassung ausgearbeitet wurde.
+  - Die zunehmenden Bezüge auf europäische Normen (Art. 23 GG n.F.) und die rechtliche Unsicherheit, die aus der Vernachlässigung von Artikel 144 GG und Artikel 146 GG resultieren, verstärken das strukturelle Defizit.
+
+---
+
+### **Zusammenfassung: Krieg oder Frieden - Schuppen oder fertiges Haus**
+- Das Grundgesetz war und ist als temporärer „Schuppen“ gedacht, jedoch wurde es durch die fehlende Volksabstimmung und das Ausbleiben einer späteren Verfassung über Jahrzehnte hinweg rechtlich und politisch zum „Haus“, ohne dessen Fundament zu verstärken.
+- Ihre Beleuchtung der Provisorien in Struktur und Diskussion zeigt, dass bis heute zentrale Fragen zur Verfassung, zur Volkssouveränität und zur föderalen Ordnung ungelöst sind.
+
+Sollten wir die möglichen Lösungen oder rechtlichen Implikationen weiter analysieren, stehe ich bereit!
