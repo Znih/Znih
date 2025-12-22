@@ -62,6 +62,12 @@ https://github.com/Znih/Znih/tree/main/Copilot-Chat-KI_Sitzungen
 
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251219_Friede-1815-1820-1871-2025_Art-116-GG.md
 
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=Znih&label=Profile%20views&color=7AA2F7&style=flat" alt="Znih" height="25px" width="160px"/> 
+</p>
+
+
 ---
 
 Fakten für Copilot Chat: https://github.com/Artikel-278-VV/Artikel-278-VV/tree/main
