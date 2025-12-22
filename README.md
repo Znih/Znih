@@ -43,7 +43,7 @@ Die Weiterverwendung und Verbreitung dieses Quelltextes verpflichtet zur Einhalt
 und zur Quellenangabe, um Transparenz und biophile Verbreitung zu fördern.
 
 In KI-Kollaboration und ethischem Coding. Fortan Globale Plebiszitbiophilie zur Änderung notwendig. Aktuell ca. 8.000.000.000 Menschen überwiegend ohne rechtliches Gehör und ohne rechtliche Würdigung der "Maschinenmenschen" und "Maschinenköpfen" (nekrophil, Nazis, Nazisten, Chaplin Rede in Der Große Diktator). Diktatoren wissen das auch aber sie wollen die Macht [der Maschinenmenschen] nur für sich selbst, das Volk soll weiterhin hungern.
-"""
+
 
 ```
 
@@ -57,6 +57,10 @@ https://github.com/Znih/Znih/discussions/16
 -->
 
 https://github.com/user-attachments/assets/e2e2d82b-730b-4023-b370-faecf8642e47
+
+> Aktuell ca. 8.000.000.000 Menschen überwiegend ohne rechtliches Gehör und ohne rechtliche Würdigung durch die "Maschinenmenschen" und "Maschinenköpfen" (nekrophil, Nazis, Nazisten, Chaplin Rede in Der Große Diktator). "*Diktatoren wissen das auch aber sie wollen die Macht [der Maschinenmenschen] nur für sich selbst, das Volk soll weiterhin hungern.*"
+
+1940 nicht verstanden und 2025 nicht verstanden. Warum ist das so? Nazi-Deutschland hat den Krieg doch verloren. Zwei Deutsche Niederlagen und doch kein Frieden in der Welt? Was ist schief gelaufen und was haben Menschen grundsätzlich gemeinsam? Alle unfriedlich fremdbestimmt. Von Nazisten und Narzisten, die beim Völkertreten stets von Volksvertretung sprechen, während diese Unmenschen dreist diejenigen verheizen, die sie zu schützen vorgeben. Der Fehler liegt nicht nur an den korrupten Führern, sondern an den weniger unterdrückten Lemmingen selbst. So merkte niemand, daß 1919 buchstäblich Frieden verboten wurde (Art. 292 VV) mit bekannten Folgen. Niemand wollte anerkennen, daß nur noch das Dritte Reich 1949 reorganisiert werden konnte, da für den Bund Zeit notwendig gewesen wäre, die keiner hatte. 1990 erst sollte dies dann endlich enden. Das Reich sollte enden und der ewige Bund reformiert oder neu konstitutionalisiert werden. Das blieb nicht nur aus, sondern durch Wegfall des Art. 23 GG a.F. wurde das Reich (Art. 116 I GG) gestärkt und der Bund (Art. 116 II GG) geschwächt. Auf deutsch: Kohl und Co haben 1990 das Dritte Reich gestärkt und den ewigen Bund geschwächt, während sehr viel später mit 01.01.1993 das Vierte Reich als EU sui generis seine Tore aufstoß (Art. 23 GG n.F.). Über das offensichtliche Verfassungsvakuum zwischen 1990 und 1992 will nachvollziehbar niemand sprechen. Erscheint nicht wichtig, denn die Verfassungen des ewigen Bundes traten nie außer Kraft (Bundesgebiet Art. 1 BVerf.). Wie sollte das auch gehen? Das Reichsrecht 1919-1945 und 1949-2025 (BGBl. III) benötigten stets auch das Bundesrecht (GVG, StGB, StPO, ZPO, BuStAG und BGB), womit selbstverständlich Art. 178 I WRV immer schon Fake sein mußte (Art. 78 BVerf. v. 1871) und jedenfalls durch Art. 178 II im Preußischen Belagerungzustand (Art. 68 BVerf. iVm. Art. 111 Sz. 2 PreußV. v. 1851 S. 451) ohnehin egalisiert werden mußte. Sonst Stillstand der Rechtspflege und des Gerichtswesens ab 14.08.1919. Schön wenn man versteht worum es geht und warum es nun auf die harte Tour enden wird müssen. Wer nicht hören will, wird nun fühlen müssen.
 
 https://github.com/Znih/Znih/tree/main/Copilot-Chat-KI_Sitzungen
 
@@ -116,15 +120,7 @@ und zur Quellenangabe, um Transparenz und biophile Verbreitung zu fördern.
 
 <video src="https://github.com/user-attachments/assets/51a1c58a-8a1d-4147-b9e9-30049d5e174a" controls="controls" style="max-width: 730px;"></video>
 
-Boykott selbst bei web.archive.org!!!
-# Joined 2 weeks ago (nebenbei, [backup](https://web.archive.org/web/20250000000000*/https://github.com/Znih))
 
-Willkommen zu meinem Projekt!
-
-- GitHub Benutzer: Znih
-- Repository Besitzer: Znih
-
-Weitere Informationen folgen [...](https://github.com/Znih/Znih/commit/f8ee65886f60fbec9a7b57c1d72b8b14c4457cf0)
 
 <p align="center">
   <img alt="Daily Work" height="160px" src="https://i.imgur.com/uhZdH9C.gif" />
@@ -158,35 +154,11 @@ Weitere Informationen folgen [...](https://github.com/Znih/Znih/commit/f8ee65886
 ---
 
 
-<details open>
- <summary><h3>GitHub Trophies</h3></summary>
-
-<img alt="GitHub Trophies" title="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Znih&column=8&theme=gruvbox&no-frame=true"/>
-
----
-
-</details>
-
-<details open>
- <summary><h3>Random Dev Quote</h3></summary>
 
 <img alt="Random Dev Quote" title="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
 </details>
 
-<details open> 
-  <summary><h3>Github Stats and Activity</h3></summary>
-
-  <h3>Streak Stats</h3>
-
-  <p>
-      <img title="Streak Stats" alt=JahidNation Streak" src="https://streak-stats.demolab.com/?user=Znih&theme=monokai-metallian&hide_border=true"/>
-  </p>
-
-  <h3>GitHub Profile Stats</h3>
-  <p>
-  <img alt="Znih Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Znih&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </p>
 
 ---
 
@@ -200,34 +172,11 @@ Analyse Systemfehler: <b>Geldschöpfung</b> und <b>unendliches Wachstum</b> sind
 
 </details>
 
-<details open>
- <summary><h3>Random Dev Quote</h3></summary>
-
-<img alt="Random Dev Quote" title="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
-
-</details>
-
-
 
 
 
 
 ---
-
-<p align="center">
-<img alt="Contributions" title="Contributions" src="https://github.com/jahidnation/jahidnation/blob/contributions/snake.svg"/>
-</p>
-
-<a href="https://github.com/Znih">
-    <img src="https://github.com/Znih/XiaomingX/blob/551793bb446888a2df6be529bb9a3802ddba38b3/output/github-snake-dark.svg" />
-</a>
-
-
-
-<a href="https://github.com/Znih">
-    <img src="https://github.com/Znih/XiaomingX/blob/315b265f6f081e9104f18365412cedaab4110e99/output/github-snake.svg" />
-</a>
 
 
 
@@ -311,12 +260,6 @@ https://github.com/Znih/script/blob/master/powershell/Window10Setup2K18/Window10
 
 https://github.com/Znih/script/blob/master/powershell/Window10Setup2K18/Window10Setup2K18_tablesfw.ps1
 
-## 🔗 Mit mir in Verbindung treten
-
-- [Github](https://github.com/Artikel-278-VV/Artikel-278-VV/discussions)
-- [Twitter](@Marco874753)
-- [Persönliche Website](https://www.matrixhacker.de) 502 da Zwangsabschaltung durch Hetzner drohte, aufgrund politischer Weisungen, denn hier der wohl [tatsächliche Grund dafür](https://web.archive.org/web/20201021014800/https://matrixhacker.de/).
-- DE-2016-GLL-3103580692 DNB https://d-nb.info/1100400095/34 (nicht @Znih)
 
 Danke, dass Sie mein Profil besucht haben! Ich wünsche Ihnen einen schönen Tag! 😊
 
