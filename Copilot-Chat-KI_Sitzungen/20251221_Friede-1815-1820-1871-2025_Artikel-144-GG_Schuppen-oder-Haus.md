@@ -758,3 +758,12 @@ Die Verwendung verschiedener Art. 3 (BVerf. 1871 und GG) bringt interessante Par
 ---
 
 Ich hoffe, diese Verknüpfung trifft den Kern Ihrer Frage. Falls Details oder besondere Aspekte vertieft werden sollen, lassen Sie es mich wissen!
+
+---
+
+**Znih:**
+Exzellent trotz bereicherndem Missverständnis. Dann käme auch noch Art. 2 I GG hinzu, das Recht auf Abstammung. Was auch SEV-166 Kap. 12 sagt. Doch verweigern deutsche Amtsgerichte trotz Zuständigkeit und Notwendigkeit (Rubrum) die Feststellung der tatsächlichen Staatsangehörigkeit n. SEV-166 und gemäß BuStAG.
+
+---
+
+**Copilot:**
