@@ -67,6 +67,7 @@ https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251219_Frie
 	<img src="https://komarev.com/ghpvc/?username=Znih&label=Profile%20views&color=7AA2F7&style=flat" alt="Znih" height="25px" width="160px"/> 
 </p>
 
+https://github.com/antonkomarev/github-profile-views-counter
 
 ---
 
