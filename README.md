@@ -63,12 +63,6 @@ https://github.com/Znih/Znih/tree/main/Copilot-Chat-KI_Sitzungen
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251219_Friede-1815-1820-1871-2025_Art-116-GG.md
 
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Znih&label=Profile%20views&color=7AA2F7&style=flat" alt="Znih" height="25px" width="160px"/> 
-</p>
-
-https://github.com/antonkomarev/github-profile-views-counter
-
 ---
 
 Fakten für Copilot Chat: https://github.com/Artikel-278-VV/Artikel-278-VV/tree/main
@@ -198,9 +192,6 @@ Weitere Informationen folgen [...](https://github.com/Znih/Znih/commit/f8ee65886
 
 ---
 
-<p align="center">
-<img alt="Contributions" title="Contributions" src="https://github.com/jahidnation/jahidnation/blob/contributions/snake.svg"/>
-</p>
 
 <p align="center"><quote>
 <b>ZUSAMMENhänge ZUSAMMEN ZUSAMMENsetzen!</b>
@@ -208,52 +199,6 @@ Analyse Systemfehler: <b>Geldschöpfung</b> und <b>unendliches Wachstum</b> sind
 </quote><p align="center">
 <p></p>
 <p></p>
-----
-
-<!--
-ab hier Hinzigers altes Profil
--->
-
-# Joined 10 years ago (nebenbei, [backup](#))
-
-Willkommen zu meinem alten Projekt!
-
-- GitHub Benutzer: Hinzigers
-- Repository Besitzer: Hinzigers
-
-Weitere Informationen folgen [...](#)
-
-<p align="center">
-  <img alt="Daily Work" height="160px" src="https://i.imgur.com/uhZdH9C.gif" />
-</p>
-<details open>
- <summary><h3>Bio</h3></summary>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Every+day%2C+learn+something+new.;Make+mistakes%2C+learn+from+them.;Work+hard%2C+stay+humble%2C+succeed.;Dream+big%2C+take+action%2C+succeed.;Small+steps+lead+to+big+leaps.;Take+action%2C+make+things+happen.&font=Fira%20Code&center=true&width=440&height=45&color=808080&vCenter=true&pause=1000&size=22" />
-</p>
-
-<p align="center">
-<img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=hinzigers&style=for-the-badge&color=29bf12"/>
-  <img alt="Last Update" title="Last Update" src="https://img.shields.io/github/last-commit/hinzigers/hinzigers?logo=markdown&label=LAST+UPDATE&color=29bf12&style=for-the-badge"/>
-</p>
-<p align="center">
-      <a href="https://youtube.com/@WELT">
-         <img alt="YouTube Channel" title="YouTube Channel" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a> 
-      <a href="https://facebook.com/marco.hinz.14">
-         <img alt="FaceBook Page" title="FaceBook Page" src="https://img.shields.io/badge/FaceBook-%234267B2.svg?logo=FaceBook&logoColor=white"/></a>
-      <a href="mailto:art278vv@proton.me">
-         <img alt="Mail Account" title="Mail Account" src="https://img.shields.io/badge/Mail-%23c71610.svg?logo=Gmail&logoColor=white"/></a>
-      <a href="https://x.com/Marco874753">
-         <img alt="Twitter Account" title="X Account" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>
-</p>
-
----
-
-
-<details open>
- <summary><h3>GitHub Trophies</h3></summary>
-
-<img alt="GitHub Trophies" title="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=hinzigers&column=8&theme=gruvbox&no-frame=true"/>
 
 ---
 
@@ -264,23 +209,13 @@ Weitere Informationen folgen [...](#)
 
 <img alt="Random Dev Quote" title="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
----
 
 </details>
 
-<details open> 
-  <summary><h3>Github Stats and Activity</h3></summary>
 
-  <h3>Streak Stats</h3>
 
-  <p>
-      <img title="Streak Stats" alt=JahidNation Streak" src="https://streak-stats.demolab.com/?user=hinzigers&theme=monokai-metallian&hide_border=true"/>
-  </p>
 
-  <h3>GitHub Profile Stats</h3>
-  <p>
-  <img alt="Hinzigers Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hinzigers&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </p>
+
 
 ---
 
@@ -292,17 +227,7 @@ Weitere Informationen folgen [...](#)
     <img src="https://github.com/Znih/XiaomingX/blob/551793bb446888a2df6be529bb9a3802ddba38b3/output/github-snake-dark.svg" />
 </a>
 
-<div align="center"> 
-  <p>Besucherzähler von @hinzigers (old)</p>
-  <img src="https://profile-counter.glitch.me/hinzigers/count.svg" alt="Visitor's Count" />
-</div>
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=hinzigers&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Znih's GitHub Stats" />
-  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=hinzigers&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en" alt="Hinzigers's (old) Most Used Languages" />
-</div>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinzigers&theme=xcode&hide_border=true" alt="Activity graph">
-</a>
+
 
 <a href="https://github.com/Znih">
     <img src="https://github.com/Znih/XiaomingX/blob/315b265f6f081e9104f18365412cedaab4110e99/output/github-snake.svg" />
@@ -333,24 +258,15 @@ Weitere Informationen folgen [...](#)
     <img src="https://github.com/Znih/XiaomingX/blob/551793bb446888a2df6be529bb9a3802ddba38b3/output/github-snake-dark.svg" />
 </a>
 
-<div align="center"> 
-  <p>Besucherzähler von https://github.com/Artikel-278-VV</p>
-  <img src="https://profile-counter.glitch.me/Artikel-278-VV/count.svg" alt="Visitor's Count" />
-</div>
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Artikel-278-VV&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Znih's GitHub Stats" />
-  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=Artikel-278-VV&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en" alt="Artikel-278-VV's Most Used Languages" />
-</div>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Artikel-278-VV&theme=xcode&hide_border=true" alt="Activity graph">
-</a>
+
 
 <a href="https://github.com/Znih">
     <img src="https://github.com/Znih/XiaomingX/blob/315b265f6f081e9104f18365412cedaab4110e99/output/github-snake.svg" />
 </a>
 
-[![Bildschirmfoto vom 2025-01-27 16-33-16](https://github.com/user-attachments/assets/aa432dbf-e803-411f-acef-04a463d2c15c)](https://github.com/Artikel-278-VV/Artikel-278-VV/graphs/traffic)
+---
 
+Deutsche Staatsangehörigkeit 1812-2025 Faksimiles:
 [2018_StA-Tiefenblick_MatrixHacker.webm](https://github.com/user-attachments/assets/baa2988b-0df5-467c-8cf2-4831c509d5b6)
 
 [sta-kl.webm](https://github.com/user-attachments/assets/4fe3c1e5-fb5d-49ff-ae52-5a3cb253bb4b)
@@ -362,7 +278,7 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher (Recht)Entwi
 
 ## 🚀 Über mich
 
-`poli. verfolgter Menschenrechtverteidiger i.s.v. UN-Res. 53/144 i.V.m Art. 2 Abs. 1 GG i. Wortlaut und Wortsinn`
+`politisch verfolgter Menschenrechtverteidiger i.s.v. UN-Res. 53/144 i.V.m Art. 2 Abs. 1 GG i. Wortlaut und Wortsinn`
 
 - 🔭 Ich arbeite derzeit flüchtend an **Evolution**
 - 🌱 Ich lerne derzeit zwangsweise **Historie**
@@ -415,6 +331,3 @@ https://github.com/user-attachments/assets/d883fcf2-0a0c-4d8f-9a80-31fd83a9362f
 [russland.webm](https://github.com/user-attachments/assets/437a0e59-d2c1-4957-bf5a-239b3a404530)
 
 [Dmitri-Anatoljewitsch-Medwedew.webm](https://github.com/user-attachments/assets/d11635e4-66a2-4ee8-bb52-e139bd4a8b6f)
-
-
-[del. 18.12.2025]
