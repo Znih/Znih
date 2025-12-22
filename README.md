@@ -121,8 +121,8 @@ Boykott selbst bei web.archive.org!!!
 
 Willkommen zu meinem Projekt!
 
-- GitHub Benutzer: Znih
-- Repository Besitzer: Znih
+- GitHub Benutzer: {{GITHUB_USER}}
+- Repository Besitzer: {{GITHUB_OWNER}}
 
 Weitere Informationen folgen [...](https://github.com/Znih/Znih/commit/f8ee65886f60fbec9a7b57c1d72b8b14c4457cf0)
 
@@ -172,8 +172,6 @@ Weitere Informationen folgen [...](https://github.com/Znih/Znih/commit/f8ee65886
 
 <img alt="Random Dev Quote" title="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
----
-
 </details>
 
 <details open> 
@@ -199,8 +197,6 @@ Analyse Systemfehler: <b>Geldschöpfung</b> und <b>unendliches Wachstum</b> sind
 </quote><p align="center">
 <p></p>
 <p></p>
-
----
 
 </details>
 
