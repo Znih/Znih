@@ -689,3 +689,13 @@ sowie die **Wiederanwendbarkeit des BuStAG neben dem RuStAG ab 2000** eingehen m
 - Der Bundesstaat Deutschland muss sich klar zwischen den Strukturen von Art. 116 I GG (Reichsreferenz) und Art. 116 II GG (Bundesreferenz) positionieren.
 
 Sollte die Analyse in einem Bereich vertieft werden, stehe ich hierzu bereit!
+
+
+---
+
+**Znih:**
+Korrekt und interessant. Ich meinte Art. 3 I BVerf. v. 1871 aber tatsächlich trifft auch das Willkürverbot n. Art. 3 I GG empfindlich in diesem Kontext zu.
+
+---
+
+**Copilot:**
