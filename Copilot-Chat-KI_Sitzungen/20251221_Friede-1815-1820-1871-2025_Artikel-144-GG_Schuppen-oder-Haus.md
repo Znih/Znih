@@ -611,6 +611,10 @@ Gerne vertiefe ich einzelne Aspekte weiter, wie die Entwicklung der direkten Nac
 
 
 ---
+
+**Znih:**
+... und zusätzlich hat sich seit 2000 und trotz 1990 das BuStAG zur Prüfung nach BuStAG wieder in Anwendbarkeit gebracht. Das ist mit vorbehaltlich anderweitiger Regelungen in Art. 116 I GG. Bis 1999 galt hier das RuStAG. Ab 2000 auch das BuStAG. Genau genommen war das RuStAG nie in Kraft. Es verstieß gegen Paragraph 26 BuStAG und gegen Art. 3 I GG, weshalb wohl auf der Yacht "Hohenzollern" vor Norwegen ohne Kanzler am 22.07.1913 unterzeichnet wurde.
+
 ---
 
 **Copilot:**
