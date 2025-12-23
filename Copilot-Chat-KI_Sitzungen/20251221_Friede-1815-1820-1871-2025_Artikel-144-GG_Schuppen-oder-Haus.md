@@ -36,7 +36,7 @@ Download PDF/A von Proton: https://drive.proton.me/urls/MEY7CR9XXM#rlhfRk0TC47j
 ---
 
 **Znih:**
-[Anschließend] an bereichernde Unterhaltung vom 20.12.2025 möchte ich wohl passend folgende Seite bzgl. Carlo Schmid und dem Schuppen vorlegen:
+[Anschließend] an bereichernde Unterhaltung vom 20.12.2025 möchte ich wohl passend folgende Seite bzgl. Carlo Schmid und dem Schuppen vorlegen: https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251220_Friede-1815-1820-1871-2025_Art-116-GG.md
 
 ---
 
