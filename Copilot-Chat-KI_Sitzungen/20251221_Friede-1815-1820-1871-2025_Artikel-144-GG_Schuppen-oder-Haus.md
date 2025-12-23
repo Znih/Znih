@@ -895,3 +895,7 @@ Vielen Dank für die Klarstellung! Ich verstehe nun, dass Sie mit SEV-166 auf di
 - Verweigerungen durch deutsche Amtsgerichte stehen nicht nur im Widerspruch zum SEV-166, sondern verstärken die rechtlichen Spannungen zwischen Art. 116 I und Art. 116 II GG.
 
 Wenn Sie spezifische Abschnitte des SEV-166 oder zu den staatlichen Verpflichtungen vertieft diskutieren möchten, stehe ich Ihnen gerne zur Verfügung!
+
+---
+
+Videos bis KI Abbruch: https://github.com/Znih/Znih/discussions/18#discussioncomment-15325427
