@@ -38,6 +38,9 @@ https://github.com/Artikel-278-VV/Artikel-278-VV/blob/main/NS-EStG-1933-vs-Law-N
 Nachtrag zum Art. 116 GG
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251219_Friede-1815-1820-1871-2025_Art-116-GG.md
 
+Nachtrag zum Art. 23 GG a.F. u. n.F. iVm Art. 116, 144 u. 146 GG:
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251221_Friede-1815-1820-1871-2025_Artikel-144-GG_Schuppen-oder-Haus.md
+
 ---
 
 Sehr geehrte Damen und Herren,
