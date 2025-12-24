@@ -23,3 +23,30 @@ Wir sehen uns und rechnen dann ernsthaft umfassend ab.
 Marco Hinz
 
 https://github.com/Znih/Znih/blob/main/2025_Grundsteuer-Enteignungen_AG-Rendsburg_Stadt-Buedelsdorf.md
+
+---
+
+Zugang zum gesamten Landesnetz SH (554) und zur Stadt Büdelsdorf (577) verweigert!!! Straftat im Amt des Jumi und der Staatskanzlei Kiel gegen ihren ehemaligen besten Mann in Justiz SH!!! Spambürger bei Strafantrag. 
+
+This is the mail system at Proton Mail.
+
+Your email could not be delivered to one or more recipients.
+See below for the delivery error and email.
+
+The most common reasons for undelivered email are wrong recipient address or wrong configuration on the recipient mail server.
+
+Learn more about delivery errors in our knowledge base: https://proton.me/support/smtp-errors
+
+
+<grundbuch@ag-rendsburg.landsh.de>: host mx1.landsh.de[141.91.18.36] said: 554
+    5.7.0 Reject, id=292461-15 - spam (in reply to end of DATA command)
+
+<verwaltung@staki.landsh.de>: host mx1.landsh.de[141.91.18.36] said: 554 5.7.0
+    Reject, id=292174-16 - spam (in reply to end of DATA command)
+
+<geesch@buedelsdorf.de>: host mx2.landsh.de[141.91.18.37] said: 577 5.1.1
+    <geesch@buedelsdorf.de>: Recipient address rejected: undeliverable address:
+    host 10.65.110.220[10.65.110.220] said: 577 5.1.1 <geesch@buedelsdorf.de>:
+    Recipient address rejected: undeliverable address: host
+    10.33.130.240[10.33.130.240] said: 550 No such recipient (in reply to RCPT
+    TO command) (in reply to RCPT TO command) (in reply to RCPT TO command)
