@@ -21,3 +21,5 @@ In diesem Sinne
 Wir sehen uns und rechnen dann ernsthaft umfassend ab.
 
 Marco Hinz
+
+https://github.com/Znih/Znih/blob/main/2025_Grundsteuer-Enteignungen_AG-Rendsburg_Stadt-Buedelsdorf.md
