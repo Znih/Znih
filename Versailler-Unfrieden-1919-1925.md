@@ -48,6 +48,17 @@ Artikel 279. Die alliierten und assoziierten Mächte dürfen in den Städten und
 
 ```
 
+---
+
+**Znih:**
+OK. Dann helfe ich beim Artikel 278. "Deutschland verpflichtet sich, | die neue [deutsche] Staatsangehörigkeit, die von seinen Angehörigen gemäß den Gesetzen der alliierten und assoziierten Mächte | und | gemäß den Entscheidungen der zuständigen Behörden dieser Mächte, | sei es auf dem Wege der Einbürgerung, sei es auf Grund einer Vertragsbestimmung etwa erworben ist oder erworben wird, | anzuerkennen | und | auf Grund der neuerworbenen [deutschen] Staatsangehörigkeit diese [neue unmittelbaren] Reichsangehörigen in jeder Richtung von jeder Pflicht gegenüber ihrem ursprünglichen [föderalen] Heimatstaate [im Bundesgebiete] zu entbinden."
+
+---
+
+**Copilot:**
+
+
+---
 
 Anfrage an Standard Copilot Chat anhand der Goldenen Triade im Vergleich zu Frieden und Unfrieden. Neutrale KI Antwort geleert (Copilot wurde bewusst um bereits erlerntes entleert, z.B. Art. 278, 292 VV o. Friede 1871):
 
