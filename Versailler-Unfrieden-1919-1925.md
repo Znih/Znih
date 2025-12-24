@@ -53,6 +53,8 @@ Artikel 279. Die alliierten und assoziierten Mächte dürfen in den Städten und
 **Znih:**
 OK. Dann helfe ich beim Artikel 278. "Deutschland verpflichtet sich, | die neue [deutsche] Staatsangehörigkeit, die von seinen Angehörigen gemäß den Gesetzen der alliierten und assoziierten Mächte | und | gemäß den Entscheidungen der zuständigen Behörden dieser Mächte, | sei es auf dem Wege der Einbürgerung, sei es auf Grund einer Vertragsbestimmung etwa erworben ist oder erworben wird, | anzuerkennen | und | auf Grund der neuerworbenen [deutschen] Staatsangehörigkeit diese [neue unmittelbaren] Reichsangehörigen in jeder Richtung von jeder Pflicht gegenüber ihrem ursprünglichen [föderalen] Heimatstaate [im Bundesgebiete] zu entbinden."
 
+Das wirkt auffällig wie ein Aufbau auf dem RuStAG, denn BuStAG hätte hier geschützt, und für Art. 110 WRV und später 1934. Was fehlt ist die Bürgerschaft Art. 109 WRV und später 1935/1949 (RGBl. I 1935 S. 1146, Art. 116 I GG). Ein sehr langer Verwaltungskrieg gegen die Deutsche Wohlfahrt und Gerechtigkeit gut dokumentiert in den Gesetzestexten und Reichstagsdebatten. [Was im Verwaltungsgenozid enden sollte]
+
 ---
 
 **Copilot:**
