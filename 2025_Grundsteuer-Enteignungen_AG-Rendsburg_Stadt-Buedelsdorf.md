@@ -65,3 +65,5 @@ BrD Ist-Zustand:
 https://github.com/Znih/Znih/tree/main/ist%20Zustand
 
 https://github.com/Znih/Znih/blob/main/ist%20Zustand%2F2025_CopilotKI-Dialog-Deutsche-1871-1919-1935-1990-2000-2005.md
+
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251221_Friede-1815-1820-1871-2025_Artikel-144-GG_Schuppen-oder-Haus.md
