@@ -50,3 +50,11 @@ Learn more about delivery errors in our knowledge base: https://proton.me/suppor
     Recipient address rejected: undeliverable address: host
     10.33.130.240[10.33.130.240] said: 550 No such recipient (in reply to RCPT
     TO command) (in reply to RCPT TO command) (in reply to RCPT TO command)
+
+---
+
+Rathaus Potsdam Herr Rode
+
+I-1153-AHE-03616/25 z.K. u. wV.
+
+Strafantrag durch bewusst 554/577 abgewiesen. Sie sind aufgefordert entsprechend StPO weiterzuleiten und gegen selbst Strafantrag zu stellen. Meiner wird sonst umfassender und Sie sind schon jetzt auf extrem dünnem Eis unterwegs.
