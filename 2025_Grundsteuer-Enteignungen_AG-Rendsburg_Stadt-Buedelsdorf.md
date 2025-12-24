@@ -58,3 +58,8 @@ Rathaus Potsdam Herr Rode Vollstreckung@rathaus.potsdam.de
 I-1153-AHE-03616/25 z.K. u. wV.
 
 Strafantrag durch bewusst 554/577 abgewiesen. Sie sind aufgefordert entsprechend StPO weiterzuleiten und gegen selbst Strafantrag zu stellen. Meiner wird sonst umfassender und Sie sind schon jetzt auf extrem dünnem Eis unterwegs.
+
+---
+
+BrD Ist-Zustand:
+https://github.com/Znih/Znih/tree/main/ist%20Zustand
