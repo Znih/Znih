@@ -63,3 +63,5 @@ Strafantrag durch bewusst 554/577 abgewiesen. Sie sind aufgefordert entsprechend
 
 BrD Ist-Zustand:
 https://github.com/Znih/Znih/tree/main/ist%20Zustand
+
+https://github.com/Znih/Znih/blob/main/ist%20Zustand%2F2025_CopilotKI-Dialog-Deutsche-1871-1919-1935-1990-2000-2005.md
