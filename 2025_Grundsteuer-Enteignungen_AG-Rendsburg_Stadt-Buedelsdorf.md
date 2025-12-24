@@ -53,7 +53,7 @@ Learn more about delivery errors in our knowledge base: https://proton.me/suppor
 
 ---
 
-Rathaus Potsdam Herr Rode
+Rathaus Potsdam Herr Rode Vollstreckung@rathaus.potsdam.de
 
 I-1153-AHE-03616/25 z.K. u. wV.
 
