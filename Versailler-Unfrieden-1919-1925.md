@@ -1,3 +1,54 @@
+```
+
+Chapitre IV. Traitement des ressortissants des puissances alliées et associées.
+
+Chapter IV. Treatment of nationals of allied and associated powers.
+
+Kapitel 4. Behandlung der Staatsangehörigen der alliierten und assoziierten Mächte.
+
+Article 276.
+
+L'Allemagne s'engage : a) à n'imposer aux ressortissants des puissances alliées et associées en ce qui concerne l'exercice des métiers, professions, commerces et industries, aucune exclusion qui ne serait pas également applicable à tous les étrangers sans exception ; b) à ne soumettre les ressortissants des puissances alliées et associées à aucun règlement ou restrictions, en ce qui concerne les droits visés au paragraphe a) qui pourraient porter directement ou indirectement atteinte aux stipulations dudit paragraphe, ou qui seraient autres ou plus désavantageux que ceux qui s'appliquent aux étrangers ressortissants de la nation la plus favorisée ; c) à ne soumettre les ressortissants des puissances alliées et associées, leurs biens, droits ou intérêts, y compris les sociétés ou associations dans lesquelles ils sont intéressés, à aucune charge, taxe ou impôts directs ou indirects, autres ou plus élevés que ceux qui sont ou pourront être imposés à ses ressortissants ou à leurs biens, droits ou intérêts ; d) à ne pas imposer aux ressortissants de l'une quelconque des puissances alliées et associées une restriction quelconque qui n'était pas applicable aux ressortissants de ces puissances à la date du 1er juillet 1914, à moins que la même restriction ne soit également imposée à ses propres nationaux.
+
+Article 276.
+
+Germany undertakes: (a) Not to subject the nationals of the Allied and Associated Powers to any prohibition in regard to the exercise of occupations, professions, trade and industry, which shall not be equally applicable to all aliens without exception; (b) Not to subject the nationals of the Allied and Associated Powers in regard to the rights referred to in paragraph (a) to any regulation or restriction which might contravene directly or indirectly the stipulations of the said paragraph, or which shall be other or more disadvantageous than those which are applicable to nationals of the most favoured nation; (c) Not to subject the nationals of the Allied and Associated Powers, their property, rights or interests, including companies and associations in which they are interested, to any charge, tax or impost, direct or indirect, other or higher than those which are or may be imposed on her own nationals or their property, rights or interests; (d) Not to subject the nationals of anyone of the Allied and Associated Powers to any restriction which was not applicable on July 1, 1914, to the nationals of such Powers unless such restriction is likewise imposed on her own nationals.
+
+Artikel 276. Deutschland verpflichtet sich: a) die Staatsangehörigen der alliierten und assoziierten Mächte hinsichtlich der Ausübung von Handwerk, Beruf, Handel und Gewerbe keiner Ausschlußmaßregel zu unterwerfen, die nicht in gleicher Weise und ausnahmslos für alle Ausländer gilt; b) die Staatsangehörigen der alliierten und assoziierten Mächte keinen Vorschriften oder Beschränkungen hinsichtlich der in Absatz a) bezeichneten Rechte zu unterwerfen, soweit sie unmittelbar oder mittelbar den Bestimmungen des genannten Absatzes widersprechen oder soweit sie von anderer Art oder ungünstiger sind als diejenigen, die für die der meistbegünstigten Nation angehörenden Ausländer gelten; c) die Staatsangehörigen der alliierten und assoziierten Mächte, deren Güter, Rechte oder Interessen, einschließlich der Gesellschaften oder Vereinigungen, an denen sie beteiligt sind, keinen anderen oder höheren direkten oder indirekten Gebühren, Abgaben oder Steuern zu unterwerfen, als sie den eigenen Angehörigen oder deren Gütern, Rechten oder Interessen auferlegt sind oder etwa auferlegt werden; d) den Staatsangehörigen irgendeiner der alliierten und assoziierten Mächte keinerlei Beschränkung aufzuerlegen, die nicht am 1. Juli 1914 auf die Staatsangehörigen dieser Mächte anwendbar war, sofern nicht seinen eigenen Angehörigen dieselbe Beschränkung gleichfalls auferlegt wird.
+
+Article 277.
+
+Les ressortissants des puissances alliées et associées jouiront, sur le territoire allemand, d'une constante protection, pour leur personne, leurs biens, droits et intérêts et auront libre accès devant les tribunaux.
+
+Article 277.
+
+The nationals of the Allied and Associated Powers shall enjoy in German territory a constant protection for their persons and for their property, rights and interests, and shall have free access to the courts of law.
+
+Artikel 277. Die Staatsangehörigen der alliierten und assoziierten Mächte sollen auf deutschem Gebiete für ihre Person, Güter, Rechte und Interessen ständigen Schutz genießen und freien Zutritt zu den Gerichten haben.
+
+Article 278.
+
+L'Allemagne s'engage à reconnaître la nouvelle nationalité qui aurait été ou serait acquise par ses ressortissants d'après les lois des puissances alliées ou associées et conformément aux décisions des autorités compétentes de ces puissances, soit par voie de naturalisation, soit par l'effet d'une clause d'un traité et à dégager à tous les points de vue ces ressortissants, en raison de cette acquisition de nouvelle nationalité, de toute allégeance vis-à-vis de leur État d'origine.
+
+Article 278.
+
+Germany undertakes to recognise any new nationality which has been or may be acquired by her nationals under the laws of the Allied and Associated Powers and in accordance with the decisions of the competent authorities of these Powers pursuant to naturalisation laws or under treaty stipulations, and to regard such persons as having, in consequence of the acquisition of such new nationality, in all respects severed their allegiance to their country of origin.
+
+Artikel 278. Deutschland verpflichtet sich, die neue Staatsangehörigkeit, die von seinen Angehörigen gemäß den Gesetzen der alliierten und assoziierten Mächte und gemäß den Entscheidungen der zuständigen Behörden dieser Mächte, sei es auf dem Wege der Einbürgerung, sei es auf Grund einer Vertragsbestimmung etwa erworben ist oder erworben wird, anzuerkennen und auf Grund der neuerworbenen Staatsangehörigkeit diese Reichsangehörigen in jeder Richtung von jeder Pflicht gegenüber ihrem ursprünglichen Heimatstaate zu entbinden.
+
+Article 279.
+
+Les puissances alliées et associées pourront nommer des consuls généraux, consuls, vice-consuls et agents consulaires dans les villes et ports d'Allemagne. L'Allemagne s'engage approuver la désignation de ces consuls généraux, consuls, vice-consuls et agents consulaires, dont les noms lui seront notifiés, et à les admettre à l'exercice de leurs fonctions conformément aux règles et usages habituels.
+
+Article 279.
+
+The Allied and Associated Powers may appoint consuls-general, consuls, vice-consuls, and consular agents in German towns and ports. Germany undertakes to approve the designation of the consuls-general, consuls, viceconsuls, and consular agents, whose names shall be notified to her, and to admit them to the exercise of their functions in conformity with the usual rules and customs.
+
+Artikel 279. Die alliierten und assoziierten Mächte dürfen in den Städten und Häfen Deutschlands Generalkonsuln, Konsuln, Vizekonsuln und Konsularagenten ernennen. Deutschland verpflichtet sich, die Ernennung dieser Generalkonsuln, Konsuln, Vizekonsuln und Konsularagenten, deren Namen ihm bekanntgegeben werden, gutzuheißen und sie zur Ausübung ihrer Tätigkeit nach Maßgabe der üblichen Regeln und Gebräuche zuzulassen.
+
+```
+
+
 Anfrage an Standard Copilot Chat anhand der Goldenen Triade im Vergleich zu Frieden und Unfrieden. Neutrale KI Antwort geleert (Copilot wurde bewusst um bereits erlerntes entleert, z.B. Art. 278, 292 VV o. Friede 1871):
 
 ---
