@@ -70,3 +70,27 @@ b) ein bei Erklärung des Belagerungszustandes oder während desselben vom Milit
 c) zu dem Verbrechen des Aufruhrs, der thätlichen Widersetzlichkeit, der Befreiung eines Gefangenen, oder zu anderen § 8 vorgesehenen Verbrechen, wenn auch ohne Erfolg auffordert oder anreizt, oder
 d) Personen des Soldatenstandes zu Verbrechen gegen die Subordination oder Vergehungen gegen die militairische Zucht und Ordnung zu verleiten sucht,
 soll, wenn die bestehenden Gesetze keine höhere Freiheitsstrafe bestimmen, mit Gefängniß bis zu Einem Jahr bestraft werden.
+
+Durch Reichsgesetz vom 11. Dezember 1915 wurde zum § 9 lit. b) bestimmt:
+"§ 1. Bei Zuwiderhandlungen gegen § 9b des preußischen Gesetzes über den Belagerungszustand vom 4. Juni 1851 (Gesetz-Samml. 1851, S. 451) kann, wenn der Kriegszustand vom Kaiser erklärt ist (Artikel 68 der Reichsverfassung), bei Vorliegen mildernder Umstände auf Haft oder auf Geldstrafe bis zu fünfzehnhundert Mark erkannt werden."
+
+§ 10. Wird unter Suspension des Artikels 7 der Verfassungs-Urkunde zur Anordnung von Kriegsgerichten geschritten, so gehört vor dieselben die Untersuchung und Aburtheilung der Verbrechen des Hochverraths, des Landesverraths, des Mordes, des Aufruhrs, der thätlichen Widersetzung, der Zerstörung von Eisenbahnen und Telegraphen, der Befreiung von Gefangenen, der Meuterei, des Raubes, der Plünderung, der Erpressung, der Verleitung der Soldaten zur Untreue, und der in den §§ 8 und 9 mit Strafe bedrohten Verbrechen und Vergehen, insofern alle genannten Verbrechen und Vergehen nach der Erklärung und Bekanntmachung des Belagerungszustandes begangen oder fortgesetzte Verbrechen sind.
+
+Als Hochverrath und Landesverrath sind, bis zur rechtlichen Geltung eines Strafgesetzbuchs für die ganze Monarchie, in dem Bezirke des Rheinischen Appellationshofes zu Köln die Verbrechen und Vergehen wider die innere und äußere Sicherheit des Staats (Artikel 75 bis 108 des Rheinischen Strafgesetzbuchs) anzusehen.
+
+Ist die Suspension des Art. 7 der Verfassungs-Urkunde nicht vom Staatsministerium erklärt, so bleibt in Friedenszeiten bei den von dem Kriegsgerichte eingeleiteten Untersuchungen die Vollstreckung des Urtheils ausgesetzt, bis die Suspension vom Staatsministerium genehmigt ist.
+
+§ 11. Die Kriegsgerichte bestehen aus fünf Mitgliedern, unter denen zwei von dem Vorstande des Civilgerichtes des Ortes zu bezeichnende richterliche Civilbeamte, und drei von dem Militairbefehlshaber, welcher am Orte den Befehl führt, zu ernennende Offiziere sein müssen. Die Offiziere sollen mindestens Hauptmannsrang haben; fehlt es an Offizieren dieses höheren Ranges, so ist die Zahl aus Offizieren des nächsten Grades zu ergänzen.
+
+Sofern in einer vom Feinde eingeschlossenen Festung die erforderliche Zahl von richterlichen Civilbeamten nicht vorhanden ist, soll dieselbe von dem kommandirenden Militairbefehlshaber aus den Mitgliedern der Gemeindevertretung ergänzt werden. Ist kein richterlicher Civilbeamte in der Festung vorhanden, so ist stets ein Auditeur Civilmitglied des Kriegsgerichts.
+
+Die Zahl der Kriegsgerichte richtet sich, wenn eine ganze Provinz oder ein Theil derselben in Belagerungszustand erklärt ist, nach dem Bedürfniß, und den Gerichtssprengel eines jeden dieser Gerichte bestimmt in derartigen Fällen der kommandirende General.
+
+§ 12. Den Vorsitz in den Sitzungen der Kriegsgerichte führt ein richterlicher Beamter.
+
+Von dem Vorsitzenden werden, bevor das Gericht seine Geschäfte beginnt, die iu Mitgliedern desselben bestimmten Offiziere und eintretenden Falls diejenigen Civilmitglieder, welche dem Richterstande nicht angehören, dahin vereidigt, daß sie die Obliegenheiten des ihnen übertragenen Richteramtes mit Gewissenhaftigkeit und Unparteilichkeit, den Gesetzen gemäß, erfüllen wollen.
+
+Der Militairbefehlshaber, welcher die dem Offizierstande angehörigen Mitglieder des Kriegsgerichts ernennt, beauftragt als Berichterstatter einen Auditeur, oder in dessen Ermangelung einen Offizier. Dem Berichterstatter liegt ob, über die Anwendung und Handhabung des Gesetzes zu wachen, und durch Anträge die Ermittelung der Wahrheit zu fördern. Stimmrecht hat derselbe nicht.
+
+Als Gerichtsschreiber wird zur Führung des Protokolls ein von dem Vorsitzenden des Kriegsgerichts zu bezeichnender und von ihm zu vereidigender Beamter der Civilverwaltung zugezogen.
+
