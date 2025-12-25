@@ -108,3 +108,30 @@ Der Freigesprochene wird sofort der Haft entlassen. Die Verweisung an den ordent
 7. Alle Strafen mit Ausnahme der Todesstrafe, werden binnen 24 Stunden nach der Verkündigung des Erkenntnisses, Todesstrafen binnen gleicher Frist nach Bekanntmachung der erfolgten Bestätigung an den Angeschuldigten zum Vollzug gebracht.
 8. Die Todesstrafe wird durch Erschießen vollstreckt. Sind Erkenntnisse, welche auf Todesstrafe lauten, bei Aufhebung des Belagerungszustandes noch nicht vollzogen, so wird diese Strafe von den ordentlichen Gerichten in diejenige Strafe umgewandelt, welche, abgesehen von dem Belagerungszustande, die gesetzliche Folge der von dem Kriegsgerichte als erwiesen angenommenen That gewesen sein würde.
 
+Durch Reichsgesetz vom 4. Dezember 1916 wurde zu den §§ 8 bis 13 ergänzend bestimmt:
+"§ 1. Gegen einen Deutschen ist die Anordnung der Haft oder einer Aufenthaltsbeschränkung durch die vollziehende Gewalt auf Grund des Kriegs- oder Belagerungszustandes nur dann zulässig, wenn sie zur Abwendung einer Gefahr für die Sicherheit des Reichs erforderlich ist.
+§ 2. Der Haftbefehl ist schriftlich zu erlassen und dem Verhafteten bei der Verhaftung und, falls dies nicht möglich ist, unverzüglich nach der Verhaftung bekannt zu geben, auf Verlangen ist ihm eine Abschrift zu erteilen. Im Haftbefehl sind die der Verhaftung zugrunde liegenden Tatsachen anzugeben.
+§ 3. Gegen die Verhaftung steht dem Verhafteten jederzeit das Rechtsmittel der Beschwerde an das Reichsmilitärgericht zu. Bei Zustellung des Haftbefehls ist der Verhaftete hierüber zu belehren. Das Reichsmilitärgericht entscheidet in der Besetzung von vier richterlichen und drei militärischen Mitgliedern.
+Das Reichsmilitärgericht kann eine mündliche Verhandlung anordnen und muß dies tun, falls der Verhaftete es beantragt. Es kann den Verhafteten durch einen beauftragten oder ersuchten Richter vernehmen lassen.
+§ 4. Der Verhaftete muß spätestens am Tage nach seiner Verhaftung durch einen Richter darüber vernommen werden, ob und welche Einwendungen er gegen seine Verhaftung zu erheben hat.
+§ 5. Der Haftbefehl ist aufzuheben, wenn sein Grund oder Zweck hinfällig geworden oder der Kriegs- oder Belagerungszustand aufgehoben ist, oder wenn 3 Monate nach dem Tage der Verhaftung verflossen sind.
+Die Fortdauer der Haft nach Ablauf von je 3 Monaten kann nur auf Grund einer erneuten Sachprüfung und eines neuen Haftbefehls angeordnet werden. Überdies muß, auch wenn eine Beschwerde nicht eingelegt ist, eine Entscheidung des  Reichsmilitärgerichts (§ 3) über die Fortdauer der Haft herbeigeführt werden.
+§ 6. Auf die Vollstreckung der Haft finden die Vorschriften des § 116 der Strafprozeßordnung entsprechende Anwendung.
+§ 7. Der Verhaftete kann jederzeit einen Verteidiger zuziehen. Die Vorschriften der §§ 137 Abs. 2 und 138 der Strafprozeßordnung finden entsprechende Anwendung.
+§ 8. Der Amtsrichter, in dessen Bezirk die Verhaftung erfolgt ist oder der Verhaftete sich befindet, kann dem Verhafteten auf Antrag oder von Amts wegen einen Verteidiger bestellen. Die Bestellung muß erfolgen, wenn der Verhaftete sie nach zweiwöchiger Dauer der Haft beantragt, über dieses Antragsrecht ist der Verhaftete bei seiner Vernehmung zu belehren. Die Bestellung ist zurückzunehmen, wenn demnächst ein anderer Verteidiger gewählt wird und dieser die Wahl annimmt.
+§ 9. Dem Verteidiger ist die Einsicht der über die Verhaftung erwachsenden Akten zu gestatten.
+§ 10. Der gesetzliche Vertreter des Verhafteten ist schriftlicher und mündlicher Verkehr mit dem Verteidiger gestattet.
+§ 11. Die Bestimmungen der §§ 2 bis 5 und 7 bis 10 dieses Gesetzes finden auch auf die Aufenthaltsbeschränkungen entsprechende Anwendung.
+§ 12. Eine auf Grund dieses Gesetzes erlittene Haft kann in einem auf Strafe lautenden Urteil ganz oder teilweise zur Anrechnung gebracht werden.
+§ 13. Hebt das Reichsmilitärgericht die Haft oder Aufenthaltsbeschränkung auf, weil die Voraussetzungen ihrer Anordnung oder Aufrechthaltung nicht gegeben waren, so hat es dem Geschädigten einen Entschädigungsanspruch zuzuerkennen.
+Das Reichsmilitärgericht kann einen Entschädigungsanspruch auf Antrag auch in anderen Fällen zuerkennen, auch wenn es nicht selbst die Haft oder die Aufenthaltsbeschränkung aufgehoben hat.
+Der Anspruch richtet sich, wenn die Anordnung der Haft oder Aufenthaltsbeschränkung durch einen militärischen Befehlshaber oder einen Reichsbeamten erfolgt ist, gegen das Reich, in anderen Fällen gegen denjenigen Bundesstaat, dessen Beamter die Anordnung getroffen hat. Im übrigen gelten für diesen Anspruch und seine Durchführung die Bestimmungen des Reichsgesetzes vom 14. Juli 1904. Die erforderlichen Ausführungsbestimmungen erläßt der Bundesrat."
+
+§ 14. Die Wirksamkeit der Kriegsgerichte hört mit der Beendigung des Belagerungszustandes auf.
+
+§ 15. Nach aufgehobenem Belagerungszustande werden alle vom Kriegsgerichte erlassenen Urtheile sammt Belagstücken und dazu gehörenden Verhandlungen, sowie die noch schwebenden Untersuchungssachen an die ordentlichen Gerichte abgegeben; diese haben in den von dem Kriegsgerichte noch nicht abgeurtheilten Sachen nach den ordentlichen Strafgesetzen, und nur in den Fällen des § 9 nach den in diesem getroffenen Strafbestimmungen zu erkennen.
+
+§ 16. Auch wenn der Belagerungszustand nicht erklärt ist, können im Falle des Krieges oder Aufruhrs, bei dringender Gefahr für die öffentliche Sicherheit die Artikel 5, 6, 27, 28, 29, 30 und 36 der Verfassungs-Urkunde oder einzelne derselben vom Staatsministerium zeit- und distriktweise außer Kraft gesetzt werden.
+
+§ 17. Ueber die Erklärung des Belagerungszustandes, sowie über jede, sei es neben derselben (§ 5) oder in dem Falle des § 16 erfolgte Suspension auch nur eines der §§ 5 und 16 genannten Artikel der Verfassungs-Urkunde muß den Kammern sofort, beziehungsweise bei ihrem nächsten Zusammentreten, Rechenschaft gegeben werden.
+
