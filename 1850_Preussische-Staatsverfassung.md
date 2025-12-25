@@ -102,3 +102,6 @@ Friedrich Wilhelm
 
 Graf v. Brandenburg.         v. Ladenberg.         v. Manteuffel.         v. Strotha.
 v. d. Heydt.        v. Rabe.         Simons.         v. Schleinitz.
+
+
+https://www.verfassungen.de/preussen/preussen50-index.htm
