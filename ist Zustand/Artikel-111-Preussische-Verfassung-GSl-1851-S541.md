@@ -135,3 +135,18 @@ Der Anspruch richtet sich, wenn die Anordnung der Haft oder Aufenthaltsbeschrän
 
 § 17. Ueber die Erklärung des Belagerungszustandes, sowie über jede, sei es neben derselben (§ 5) oder in dem Falle des § 16 erfolgte Suspension auch nur eines der §§ 5 und 16 genannten Artikel der Verfassungs-Urkunde muß den Kammern sofort, beziehungsweise bei ihrem nächsten Zusammentreten, Rechenschaft gegeben werden.
 
+§ 18. Alle diesem Gesetze entgegenstehenden Vorschriften werden aufgehoben.
+
+Das gegenwärtige Gesetz tritt an die Stelle der Verordnung vom 10. Mai 1849 und der Deklaration vom 4. Juli 1849 (Gesetz-Sammlung Seite 165 und 250).
+
+    Urkundlich unter Unserer Höchsteigenhändigen Unterschrift und beigedrucktem Königlichen Insiegel.
+
+    Gegeben Potsdam-Magdeburger Eisenbahn, den 4. Juni 1851
+
+Friedrich Wilhelm
+
+v. Manteuffel.         v. d. Heydt.         v. Rabe.         Simons.         v. Stockhausen.
+v. Raumer.        v. Westphalen.
+ 
+
+Der Geltungsbereich des preußischen Gesetzes über den Belagerungszustand wurde durch den Artikel 68 der Verfassung des Deutschen Reiches von 1870/71 auf das gesamte Reich (außer Bayern) ausgedehnt; aufgrund dessen wurde am 31. Juli 1914 der Belagerungszustand über das Deutsche Reich (alle Bundesstaaten außer Bayern) verhängt. Das Gesetz wurde durch den Artikel 48 der Verfassung des Deutschen Reichs vom 14. August 1919 abgelöst.
