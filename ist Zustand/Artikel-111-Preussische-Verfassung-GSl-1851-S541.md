@@ -94,3 +94,17 @@ Der Militairbefehlshaber, welcher die dem Offizierstande angehörigen Mitglieder
 
 Als Gerichtsschreiber wird zur Führung des Protokolls ein von dem Vorsitzenden des Kriegsgerichts zu bezeichnender und von ihm zu vereidigender Beamter der Civilverwaltung zugezogen.
 
+§ 13. Für das Verfahren vor den Kriegsgerichten gelten folgende Bestimmungen:
+1. Das Verfahren ist mündlich und öffentlich; die Oeffentlichkeit kann vom Kriegsgerichte durch einen öffentlich zu verkündigenden Beschluß ausgeschlossen werden, wenn es dies aus Gründen des öffentlichen Wohls für angemessen erachtet.
+2. Der Beschuldigte kann sich eines Vertheidigers bedienen. - Wählt er keinen Vertheidiger, so muß ihm ein solcher von Amts wegen von dem Vorsitzenden des Gerichts bestellt werden, insofern es sich um solche Verbrechen oder Ver-geben handelt, bei welchen nach dem allgemeinen Strafrecht eine höhere Strafe als Gefängniß bis zu Einem Jahre eintritt.
+3. Der Berichterstatter trägt in Anwesenheit des Beschuldigten die demselben zur Last gelegte Thatsache vor.
+Der Beschuldigte wird aufgefordert, sich darüber zu erklären, demnächst wird zur Erhebung der anderweiten Beweismittel geschritten.
+Sodann wird dem Berichterstatter zur Aeußerung über die Resultate der Vernehmungen und die Anwendung des Gesetzes, und zuletzt dem Beschuldigten und seinem Vertheidiger das Wort gestattet.
+Das Urtheil wird bei sofortiger nicht öffentlicher Berathung des Gerichts nach Stimmenmehrheit gefaßt und unmittelbar darauf dem Beschuldigten verkündigt.
+4. Das Gericht erkennt auf die gesetzliche Strafe, oder auf Freisprechung, oder Verweisung an den ordentlichen Richter.
+Der Freigesprochene wird sofort der Haft entlassen. Die Verweisung an den ordentlichen Richter findet statt, wenn das Kriegsgericht sich für nicht kompetent erachtet; es erläßt in diesem Falle über die Fortdauer oder Aufhebung der Haft im Urtheile zugleich besondere Verfügung.
+5. Das Urtheil, welches den Tag der Verhandlung, die Namen der Richter, die summarische Erklärung des Beschuldigten über die ihm vorgehaltene Beschuldigung, die Erwähnung der Beweisaufnahme und die Entscheidung über die Thatfrage und den Rechtspunkt, sowie das Gesetz, auf welches das Urtheil begründet ist, enthalten muß, wird von den sämmtlichen Richtern und dem Gerichtsschreiber unterzeichnet.
+6. Gegen die Urtheile der Kriegsgerichte findet kein Rechtsmittel statt. Die auf Todesstrafe lautenden Erkenntnisse unterliegen jedoch der Bestätigung des in § 7 bezeichneten Militairbefehlshabers, und zwar in Friedenszeiten der Bestätigung des kommandirenden Generals der Provinz.
+7. Alle Strafen mit Ausnahme der Todesstrafe, werden binnen 24 Stunden nach der Verkündigung des Erkenntnisses, Todesstrafen binnen gleicher Frist nach Bekanntmachung der erfolgten Bestätigung an den Angeschuldigten zum Vollzug gebracht.
+8. Die Todesstrafe wird durch Erschießen vollstreckt. Sind Erkenntnisse, welche auf Todesstrafe lauten, bei Aufhebung des Belagerungszustandes noch nicht vollzogen, so wird diese Strafe von den ordentlichen Gerichten in diejenige Strafe umgewandelt, welche, abgesehen von dem Belagerungszustande, die gesetzliche Folge der von dem Kriegsgerichte als erwiesen angenommenen That gewesen sein würde.
+
