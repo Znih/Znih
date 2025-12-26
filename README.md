@@ -137,7 +137,7 @@ und zur Quellenangabe, um Transparenz und biophile Verbreitung zu fördern.
 <details open>
       <summary><h3>Bio</h3>
             <p align="center">
-            <b>Für alle Preußischen Staatsangehörigen</b> mit der Eigenschaft als Preuße, wenn auch weiterhin mit vakantem Status (Art. 1 BVerf. vs. Art. 2 WRV) UND <b>für alle Bundesangehörigen</b> mit der Eigenschaft als Deutsche gemäß Art. 1 bis 3 I-III BVerf. iVm. <b>§ 1 BuStAG</b>, Art. 2 I, 3 I, 20 IV, 123 I iVm. Art. 68 BVerf. u. Art. 111 Sz. 2 PreußV., 116 II, <b>139 iVm. BefrG v. 05.03.1946</b> und 146 GG!!!.
+            <b>Für alle Preußischen Staatsangehörigen</b> mit der Eigenschaft als Preuße, wenn auch weiterhin mit vakantem Status (Art. 1 BVerf. vs. Art. 2 WRV) UND <b>für alle Bundesangehörigen</b> mit der Eigenschaft als Deutsche gemäß Art. 1 bis 3 I-III BVerf. iVm. <b>§ 1 BuStAG</b>, Art. 2 I, 3 I, 20 IV, 123 I iVm. Art. 68 BVerf. u. Art. 111 Sz. 2 PreußV., 116 II, <b>139 iVm. BefrG v. 05.03.1946</b> und 146 GG!!!. https://github.com/Znih/Znih/discussions/20#discussioncomment-15340691
              </p>
       </summary>
 <p align="center">
