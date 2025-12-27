@@ -295,6 +295,52 @@ Deutsche Bank und 2+4 im Londoner Schuldenabkommen v. 1953 iVm 1924!!! Unrecht g
 
 ![Screenshot_20251227-133110_Samsung Notes.jpg](https://github.com/user-attachments/assets/5a58de8d-8201-4c6e-a897-a9d4d0ff6450) 1
 
+DEUTSCHE BUNDESBANK
+
+Mitteilung Oder 2/K2 Nr. 9001/91 29. August 1991
+
+Wertpapiere
+
+Abkommen über deutsche Auslandsschulden
+
+Ausgabe von Fundierungsschuld-verschreibungen
+
+Bekanntmachung
+
+über die Ausgabe von 3% Fundierungsschuldverschreibungen der Bundesrepublik Deutschland für **Zinsrückstände aus Auslandsschulden des Deutschen Reichs nach dem Londoner Schuldenabkommen vom 27. Februar 1953** ("***Schattenquoten***")
+
+I. Grundlagen
+
+Das Londoner Abkommen über deutsche Auslandsschulden (LSchA) vom 27. Februar 1953 (BGBI II S. 331) sieht vor, daß im Falle der „***Wiedervereinigung Deutschlands***" Zinsrückstände der Jahre 1945 bis 1952 aus folgenden Anleihen des Deutschen Reichs zu bedienen sind:
+
+7% Deutsche Äußere Anleihe von 1924 (Dawes-Anleihe)
+
+52% Internationale Anleihe des Deutschen Reichs von 1930 (Young-Anleihe)
+
+6% Deutsche Äußere Anleihe von 1930 (Zündholz- oder Kreuger-Anleihe)
+
+Die Bundesregierung sieht die im Londoner Schuldenabkommen genannten Voraussetzungen für die Bedienung der Zinsansprüche mit dem Wirksamwer-den der Einheit Deutschlands am 3. Oktober 1990 als erfüllt an.
+
+Darüber hinaus wird der Bund neben den vorgenannten Zinsrückständen auch die in der Zeit von 1937 bis 1951 bzw. 1952 aufgelaufenen Zinsrückstände aus der
+
+62% Äußere Anleihe des Freistaates Preußen von 1926 und der
+
+6% Äußere Anleihe des Freistaates Preußen von 1927
+
+(vgl. Anlage I B Nr. 7, Abs. (2 a) LSchA) ohne besondere Verhandlungen wie die Zinsrückstände aus der Dawes-Anleihe bedienen.
+
+Zur Abgeltung der zum ermäßigten Zinssatz von 5% (Dawes- und Preußen-An-leihen) bzw. 4,5% (Young-Anleihe) bzw. 4% (Kreuger-Anleihe) neu berechneten Zinsrückstände werden - jeweils in Höhe des Fundierungswertes- 15 Tran-chen von Fundierungsschuldverschreibungen ausgegeben. Eine Übersicht über die Emissionsvolumina, die Stückelung, die Ausgaben-Kennzeichnungen sowie die Wertpapier-Kenn-Nummern ist als Anlage 1 beigefügt.
+
+Fernsprecher (069) 158-38 50 oder 158-1
+
+Veröffentlicht im Bundesanzeiger Nr. 163 vom 31. August 1991
+
+1/46
+
+---
+
+
+
 ![Screenshot_20251227-133121_Samsung Notes.jpg](https://github.com/user-attachments/assets/9eec7110-7642-46e8-9dc9-f82e2b778629) 2
 
 ![Screenshot_20251227-133129_Samsung Notes.jpg](https://github.com/user-attachments/assets/86880f13-70e3-4633-87c3-bcd9535c306f) 3
