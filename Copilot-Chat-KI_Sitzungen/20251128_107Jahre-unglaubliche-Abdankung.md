@@ -65,7 +65,7 @@ https://github.com/Znih/Znih/discussions/20#discussioncomment-15352716
 ---
 
 
-gelöscht HAL 9000 IBM 9001
+gelöscht HAL 9000 IBM 9001 https://github.com/Znih/Znih/commit/892a74a1c5f81e929f4adcb7959787ae19b92fe5
 
 
 ---
