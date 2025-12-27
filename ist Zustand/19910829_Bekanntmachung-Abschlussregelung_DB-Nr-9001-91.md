@@ -1,3 +1,9 @@
+**BGBl. 1953 II S. 334 ff. Abkommen über deutsche Auslandsschulden**
+
+Präambel. Artikel Pkt. 3. Begriffsbestimmungen für 2+4 Vertrag 1990/91
+
+---
+
 ![20251227_131435.jpg](https://github.com/user-attachments/assets/5e8b4865-3053-4ca7-ace2-e96ab0ee12cc)
 
 334
