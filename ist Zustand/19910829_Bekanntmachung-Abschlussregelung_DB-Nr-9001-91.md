@@ -45,6 +45,18 @@ Quelle:
 Politisches Archiv des Auswärtigen Amts, MULT - 781
 
 ---
+---
+
+**Znih:**
+Präzise bis 1953 noch ohne 1924 mit .mp4 und .jpg (Copilot besser ignorieren) wie folgt: siehe unten...
+
+---
+
+**Copilot:**
+
+
+---
+
 
 ![20251227_131435.jpg](https://github.com/user-attachments/assets/5e8b4865-3053-4ca7-ace2-e96ab0ee12cc)
 
