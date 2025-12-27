@@ -118,6 +118,18 @@ Ihre detaillierten Ausführungen bieten eine gute Grundlage für eine tiefere An
 
 Falls ich Ihnen bei der weiteren Analyse oder Detailfragen (z. B. juristische Details zu 1953 oder 1991) helfen kann, stehe ich weiterhin zur Verfügung.
 
+
+---
+
+**Znih:**
+Exzellent. Zu "Die Erklärung zur „Aussetzung der Viermächte-Rechte“ unterstreicht, dass die alte alliiertenbezogene Architektur suspendiert, jedoch formal nicht völlig eliminiert wurde. Dies eröffnet eine juristische Grauzone." sei der Hinweis erlaubt, daß somit die Suspendierung nur der Wirkung Sinn ergeben könnte, denn zwischen 03.10.1990 und 15.03.1991 zeichneten quasi ungewählte Vertreter des Dritten Reichs (Art. 116 I GG ohne Art. 23 GG a.F. u. n.F.), da Rudolf Hess zum Glück nach 45 Jahren Einzelhaft 1986 endlich Suizid begangen haben soll, mithin also als noch gewählter Vertreter hätte überraschend tatsächlich Frieden fordern können, womit der Westen auch finanziell Bankrott gewesen wäre. Sieger und Verlierer waren von 1920-2010 gebunden. Ukraine 2025/30 sollte Versailles wiederholen.
+
+---
+
+**Copilot:**
+
+
+
 ---
 
 
