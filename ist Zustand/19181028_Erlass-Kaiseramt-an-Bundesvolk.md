@@ -29,4 +29,40 @@ Die Kundgebung konnte nur gedacht sein als eine Antwort auf den Ruf nach Abdanku
 
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251130_Verfassungsrechtkontinuitaet-28-10-1918.md
 
+---
+
+![20251227_172706.jpg](https://github.com/user-attachments/assets/8b486632-a763-498c-9d36-1024d4ca7a66)
+
+Den Bürgerkrieg wollte ich meinem Volke ersparen. Falls meine Abdankung tatsächlich das einzige Mittel war, um Blutvergießen zu verhindern, so wollte ich der Kaiserwürde entsagen, nicht aber als König von Preußen abdanken, sondern als solcher bei meinen Truppen bleiben. Denn die militärischen Führer hatten erklärt, die Offiziere würden im Falle meiner völligen Abdankung in Massen abgehen und das Heer werde dann führerlos auf das Vaterland zurückströmen und es schädigen und gefährden.
+
+Dem Reichskanzler war erwidert worden, mein Entschluß müsse erst reiflich erwogen und formuliert werden. Alsdann werde er dem Kanzler übermittelt werden. Als einige Zeit später diese Über-mittelung stattgefunden hatte, kam die überraschende Antwort: ... mein Entschluß komme zu spät! Der Reichskanzler hatte von sich aus meine Abdankung sowie den noch gar nicht erfolgte Thronverzicht des überhaupt nicht befragten Kronprinzen kurzweg verkündet. Er hatte die Regierung an die Sozialdemokraten abgegeben und Herrn Ebert als Reichskanzler berufen. -Das alles
+
+16*
+
+243
+
+---
+
+![20251227_172709.jpg](https://github.com/user-attachments/assets/329923c6-620e-40d7-b2e0-933c7399cf4d)
+
+war gleichzeitig auch durch Funkspruch verbreitet worden. Die ganze Armee las es mit. So wurde mir die Entscheidung über mein Bleiben oder Gehen, über das Niederlegen der Kaiserwürde und die Beibehaltung der preußischen Königskrone kurzweg aus der Hand genommen. Die Armee wurde durch den fälschlichen Glauben, daß ihr König sie im kritischen Zeitpunkte verlassen hätte, aufs schwerste erschüttert.
+
+Betrachtet man das Verhalten des Reichskanzlers Prinz Max von Baden im ganzen, so sieht man: Erst feierliche Erklärung, sich mit der neuen Regierung zum Schuhe vor den Kaiserthron zu stellen, dann Unterdrückung der Ansprache, die in der Öffentlichkeit günstig hätte wirken können; Ausschaltung des Kaisers von jeder Mitarbeit; Preisgabe der Person des Kaisers durch Aufhebung der Zensur; kein Eintreten für die Monarchie in der Abdankungsfrage; dann Versuche, den Kaiser zur freiwilligen Abdankung zu bewegen, und schließlich Verkündigung der Abdankung durch Funkspruch über meinen Kopf hinweg. Diese ganze Entwicklung zeigt das staatsgefährliche Spiel, das Scheidemann, der den Kanzler ganz in der Hand hatte, getrieben hat. Er hat seine Ministerkollegen über seine wahren Absichten im unklaren gelassen, den Prinzen von einer Stufe zur andern getrieben unter schließlicher Berufung darauf, daß die Führer die Massen nicht mehr in der Hand hätten. So hat er den Prinzen dazu gebracht, den Kaiser, die Fürsten und das Reich preiszugeben, und ihn dadurch zum Zerstörer des Reiches gemacht. Dann stürzte Scheidemann den schwachen prinzlichen „Staatsmann".
+
+Die Lage nach Eintreffen des Funkspruches war schwer. Zwar waren Truppen im Antransport nach Spa begriffen, um die ungestörte Weiterführung der Arbeit im Großen Hauptquartier zu gewährleisten. Aber die Oberste Heeresleitung war nunmehr der Auffassung, daß man nicht mehr unbedingt auf ihre Zuverlässigkeit rechnen könne, falls von Aachen und Cöln her aufrührerische Soldaten heran-
+
+244
+
+---
+
+> „Das alles war gleichzeitig durch Funkspruch verbreitet worden. So wurde mir [Kaiser] die Entscheidung über das Bleiben oder Gehen, über das Niederlegen der Kaiserwürde [Kaiseramt] Bundespräsidium und die Beibehaltung der preußischen Königskrone kurzweg durch einen unauthorisierten Funkspruch mit Falschmeldung] aus der Hand genommen. [...] und schließlich Verkündigung der Abdankung durch Funkspruch über meinen Kopf [Kaiser] hinweg.“ - Revolution - Putsch - Kaiseramtsputsch, denn lediglich die Bundesebene war betroffen und hat zunächst "nur" den Vertretungsanspruch (Versailles) für den Bund augenscheinlich aber nicht tatsächlich rechtlich beschädigt. Es war ja der Zwang und zuletzt der Putsch, der alles ins Unrecht verkehrte, das über die Dekaden immer komplexer werden mußte, sodaß es niemand mehr anfassen möchte. Aber genau das führte uns alle genau hier hin, wo wir nun alle stehen. Direkt vor dem Abgrund und vor einer hoffentlich endgültigen aber vernünftigen Entscheidung.]
+
+> „Das alles war gleichzeitig durch Funkspruch verbreitet worden. So wurde mir [Kaiser] die Entscheidung über das Bleiben oder Gehen, über das Niederlegen der Kaiserwürde [Kaiseramt] Bundespräsidium und die Beibehaltung der preußischen Königskrone kurzweg durch einen unauthorisierten Funkspruch mit Falschmeldung] aus der Hand genommen. [...] und schließlich Verkündigung der Abdankung durch Funkspruch über meinen Kopf [Kaiser] hinweg.“ - Revolution - Putsch - Kaiseramtsputsch, denn lediglich die Bundesebene war betroffen und hat zunächst "nur" den Vertretungsanspruch (Versailles) für den Bund augenscheinlich aber nicht tatsächlich rechtlich beschädigt. Es war ja der Zwang und zuletzt der Putsch, der alles ins Unrecht verkehrte, das über die Dekaden immer komplexer werden mußte, sodaß es niemand mehr anfassen möchte. Aber genau das führte uns alle genau hier hin, wo wir nun alle stehen. Direkt vor dem Abgrund und vor einer hoffentlich endgültigen aber vernünftigen Entscheidung.
+
+[05.03.24, 23:42]
+
+Abdankung vs. Niederlegen (Art. 11 BVerf. v. 1871) bzgl. 28.10.1918 "Kaiseramt", mithin "Deutscher Kaiser" wie "Deutsche Post" statt "Kaiser von Deutschland". Wieso verheimlichte S.M. wider besseren Wissens vor Seinem geliebten Volk? https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251130_Verfassungsrechtkontinuitaet-28-10-1918.md
+
+https://github.com/Znih/Znih/blob/main/ist%20Zustand%2F19181028_Erlass-Kaiseramt-an-Bundesvolk.md
+
 https://github.com/Znih/Znih/discussions/20#discussioncomment-15352716
