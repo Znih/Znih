@@ -25,3 +25,6 @@ Am Hofe aber schien die Thronentsagung noch gar nicht zur Erwägung zu stehen. W
 > Wilhelm I. R."
 
 Die Kundgebung konnte nur gedacht sein als eine Antwort auf den Ruf nach Abdankung, der allenthalben laut wurde, und zwar als eine Antwort, die sagte: Ich will auf meinem Posten bleiben und loyal mit der Regierung zusammenarbeiten.
+
+
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251130_Verfassungsrechtkontinuitaet-28-10-1918.md
