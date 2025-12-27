@@ -1,7 +1,3 @@
-**Besprechung des Chefs des Bundeskanzleramtes Seiters**
-Last active 6 years ago
-Clone this repository at https://gist.github.com/hinzigers/419fad60dd851b6e0ed82d459fd11c45
-
 Notizen und Faksimileabschriften zur Deutschen Geschichte und der Deutschen Frage
 asymptotischen Friedenszustand
 Schreiben Botschaftsrat a.D. Theodor Kordt
@@ -93,80 +89,59 @@ Die von mir Mai 1945 befohlene Kapitulation war lediglich die
 militärische Kapitulation der Deutschen Wehrmacht.
 
 Beweis:
-die von mir den Unterzeichnern ausgestellte Vollmacht, welche
-auch von den Alliierten gefordert und vor der Unterzeichnung ge-
-prüft und zu Recht befunden wurde, lautet:
+die von mir den Unterzeichnern ausgestellte Vollmacht, welche auch von den Alliierten gefordert und vor der Unterzeichnung geprüft und zu Recht befunden wurde, lautet:
 
 „Der Oberste Befehlshaber der Wehrmacht
 
 Ich bevollmächtige
 
 Generalfeldmarschall K E I T E L
-als Chef des Oberkommandos der Wehrmacht und
-zugleich als Oberbefehlshaber des Heeres,
+als Chef des Oberkommandos der Wehrmacht und zugleich als Oberbefehlshaber des Heeres,
 
-Generaladmiral von F R I E D E B U R G als Ober-
-befehlshaber der Kriegsmarine,
+Generaladmiral von F R I E D E B U R G als Oberbefehlshaber der Kriegsmarine,
 
-Generaloberst S T U M P F
-als Vertreter des Oberbefehlshabers der Luftwaffe
+Generaloberst S T U M P F als Vertreter des Oberbefehlshabers der Luftwaffe
 
-zur Ratifizierung der bedingungslosen Kapitulation der
-deutschen Streitkräfte gegenüber dem Oberbefehlshaber
-der alliierte n Expeditionsstreitkräfte und dem Sowjet-
-Oberkommando.
+zur Ratifizierung der bedingungslosen Kapitulation der deutschen Streitkräfte gegenüber dem Oberbefehlshaberder alliierten Expeditionsstreitkräfte und dem Sowjet-Oberkommando.
 
 Dönitz
 Grossadmiral.“
 
-Entsprechend lauten Überschrift und der erste Absatz der allge-
-meinen Kapitulationsurkunde vom 8. Mai:
+Entsprechend lauten Überschrift und der erste Absatz der allgemeinen Kapitulationsurkunde vom 8. Mai:
 
 „Act of Military Surrender“
-1.) We the undersigned, acting by authority of the
-German High Command, hereby surrender unconditionally
-and simultaneously to the Supreme High Command of the
+1.) We the undersigned, acting by authority of the German High Command, hereby surrender unconditionally and simultaneously to the Supreme High Command of the
 
 - 2 -
 
-Red Army all forces on land, at sea, and in
-the air who are at this date under German control.“
+Red Army all forces on land, at sea, and in the air who are at this date under German control.“
 
-Ebenso ist der entsprechende Wortlaut der Teil-Kapitulation
-gegenüber den englischen Streitkräften vom 4. Mai:
+Ebenso ist der entsprechende Wortlaut der Teil-Kapitulation gegenüber den englischen Streitkräften vom 4. Mai:
 
-„Instrument of Surrender of All German
-armed forces ....“
+„Instrument of Surrender of All German armed forces ....“
 
-„1.) The German Command agress to the surrender of all
-German armed forces ...“
+„1.) The German Command agress to the surrender of all German armed forces ...“
 
-Diese Urkunden sind in Faksimile veröffentlicht in National Ar
--chives Publication No. 46-4 Washington 1945.
+Diese Urkunden sind in Faksimile veröffentlicht in National Archives Publication No. 46-4 Washington 1945.
 
-Die von mir befohlene Kapitulation der Deutschen Wehrmacht war
-also lediglich ein militärischer Akt und kein politischer Ver-
-zicht auf die Suveränität des Deutschen Reiches. Der Hamburger
-Völkerrechtler, Professor Rolf Stödter, sagt hierzu in „Deutsch-
-lands Rechtslage“ (Hamburg 1948, Seite 34-35) :
+Die von mir befohlene Kapitulation der Deutschen Wehrmacht war also lediglich ein militärischer Akt und kein politischer Verzicht auf die Suveränität des Deutschen Reiches. Der Hamburger Völkerrechtler, Professor Rolf Stödter, sagt hierzu in „Deutschlands Rechtslage“ (Hamburg 1948, Seite 34-35):
 
-„Eine bedingungslose Kapitulation des Deutschen Reiches, des
-deutschen Volkes, Deutschlands oder wie immer man sich ausdrük-
-ken mag, ist von keiner deutschen Seite ausgesprochen worden.
+„Eine bedingungslose Kapitulation des Deutschen Reiches, des deutschen Volkes, Deutschlands oder wie immer man sich ausdrücken mag, ist von keiner deutschen Seite ausgesprochen worden.
+
 Die Wehrmachtskapitulation hat rein militärischen Charakter.
-Aus der bedingungslosen Kapitulation der deutschen Streitkräfte
-können keine Schlußfolgerungen für die gegenwärtige völkerrecht-
-liche Lage Deutschlands gezogen werden.“
 
-Wenn andere Völkerrechtler seinerzeit nach Kriegsende anders ge-
-urteilt haben, so wurde hierbei von der irrtümlichen Ansicht aus-
-gegangen, dass die Regierung Dönitz für Deutschland kapituliert
-habe, weil die vorstehend genannten Kapitulationsdokumente damals
+Aus der bedingungslosen Kapitulation der deutschen Streitkräfte können keine Schlußfolgerungen für die gegenwärtige völkerrechtliche Lage Deutschlands gezogen werden.“
+
+Wenn andere Völkerrechtler seinerzeit nach Kriegsende anders geurteilt haben, so wurde hierbei von der irrtümlichen Ansicht ausgegangen, dass die Regierung Dönitz für Deutschland kapitulierthabe, weil die vorstehend genannten Kapitulationsdokumente damals
 noch nicht bekannt waren.
 
 Quelle:
 http://matrixhacker.de/pdf/20170618_Offener-Brief_Bundesregierung_Bundesministerien_Final.pdf (Seiten 29-30)
+
+---
+
 Genehmigungsschreiben der Militärgouverneure zum Grundgesetz
+
 Genehmigungsschreiben der Militärgouverneure zum Grundgesetz
 an Dr. Konrad Adenauer Präsident des Parlamentarischen Rates
 
@@ -201,7 +176,11 @@ PA 5/Umdruck Nr. S. 71a. Maschinenschr. verfielf. Drucks. eines von Robertson, K
 
 Quellen:
 Rechtsstellung Deutschlands (dtv 5552 Ausgabe 1985) Rauschning, Die Gesamtverfassung Deutschlands, S. 69-70 Amtsblatt der Militärregierung Deutschlands, Britisches Kontrollgebiet, Nr. 35, Teil 2 B
+
+---
+
 Gespräch des Bundeskanzlers Kohl mit Mitgliedern der Rüstungskontroll-Beobachtungsgruppe
+
 Gespräch des Bundeskanzlers Kohl mit Mitgliedern
 der Rüstungskontroll-Beobachtungsgruppe des amerikanischen Senats
 
@@ -230,73 +209,9 @@ BK, 212 – 30132 A 5 Am 23 Bd. 4. - Undatierter Vermerk des VLR Westdickenberg.
     Als Ursachen für dieses Entwicklungstempo, das der, Bundeskanzler, nicht vorgegeben habe, nannte er u.a., daß MP Modrow sich nicht an seine Zusagen vom Dresdner Gespräch vor Weihnachte gehalten haben: Ein Wahlgesetz sei z. B. erst vor 10 Tagen verabschiedet worden [GBl. DDR 1990 I, 60-65 vom 20.02.1990], und die Wirtschaftsreformen seien nicht bzw. mit falschem Inhalt (z. B. Beteiligungsanteil für Firmen von 49%, Gewerkschaftsgesetz [GBl. DDR 1990 I, 110f. vom 06.03.1990]) eingeleitet worden.
     Psychologisch besonders abträglich – so der Bundeskanzler – sei die zunächst geplante Gehaltsfortzahlung für Stasi-Mitarbeiter infolge der Stasi-Auflösung gewesen.
 
-[Anm.: Bei allem Verständnis der Verachtung gegenüber des STAPO-Nachfolgers MfS, heute BND und BfV, so lag die Handhabung hierzu in den Händen der DDR, die noch existierte und gemäß dem Grundsatz der Unschuldsvermutung, muss jedem einzeln zunächst ein Verbrechen nachgewiesen werden. Ein Entzug jedweder Lebensgrundlage von einem Tag auf den anderen, führt unweigerlich und ohne wirkliche Verurteilung des Einzelnen, zu weiterem Unrecht, denn eine Grundversorgung, wie ein Arbeitsamt oder Sozialamt gab es in der DDR nicht. Die BRD, in Verantwortung des Herrn Kohl, hat hier den Bruch des Völkerrechts gefordert.]
+---
 
-    Auch habe MP Modrow bisher nicht den Gerüchten widersprochen, bei seinem Moskau-Besuch habe er der SU u. a. die Übergabe des westlichen Auslandsspionagedienstes der Stasi angeboten. Exkurs (ohne Namensnennung des DA-Vorsitzenden [+Wolfgang] Schnur): Es sei bekannt, welch probates Mittel Verunglimpfungen kurz vor Wahlen seien, so daß der Beschuldigte sich nicht rechtzeitig rehabilitieren könne.
 
-[Anm.: Wie dereinst Ziehvater Kohl Gerüchte, also ohne Beweise, nutzte um sein Gegenüber zum Beschuldigten zu degradieren und von selbigen dann Beweise für die dessen Unschuld zu fordern, so handhabt es heute auch das Merkel-Regime in bezug auf ihre Gegner und die, die sie dazu generieren, wie Russland oder die AfD. Das hier die am 18.03.1990 stattfindende Wahl natürlich eine Rolle spielte, ist zudem ebenfalls ersichtlich, wurde zitiert und hätte auch einem Herrn Kohl klar sein dürfen.]
-
-    Der Bundeskanzler unterstrich, die habe die Hektik, die sich in der DDR-Entwicklung zeige, nicht ausgelöst, und verwies auf über 132.000 Menschen, die seit Jahresanfang aus der DDR in die Bundesrepublik Deutschland gekommen seien. Angesichts einer solchen Entwicklung habe die Bundesregierung Maßnahmen ergreifen müssen, um sie zu stoppen. Aus diesem Grund habe sie die Wirtschafts- und Währungsunion [BGBl. 1990 II, S. 518 vom 25.06.1990] angeboten. Die Bundesregierung werde selbstverständlich Hilfe leisten. Dies sei z. B. bei der Rentenversicherung, bei der Schaffung einer Arbeitslosenversicherung erforderlich. Auch beim Umweltschutz, im Bereich der Reaktorsicherheit sei schnell Unterstützung nötig.
-    Er – der Bundeskanzler – vertraue nicht auf die bisher veröffentlichten Umfrageergebnisse über den Wahlausgang in der DDR (keine Vergleichsmaßstäbe!) und rechne mit einer Koalitionsregierung nach der Wahl, was auch gut sei. [Anm.: Der „Wunsch“ des Herrn Kohl sollte wenig später in Erfüllung gehen.] Die PDS werde weit abgeschlagen enden: Die Menschen in der DDR hätten den Sozialismus „satt“.
-    Der Bundeskanzler ging dann im einzelnen auf Vor- und Nachteile eines Weges über Art. 23 bzw. Art. 146 des GG ein und unterstrich u. a., daß ein Verfahren nach Art. 146 [GG] zeitaufwendig (ca. 1 ½ Jahre) sei und u. a. auch zur Folge habe, daß unser bewährtes Grundgesetz von einer Verfassungsgebenden Versammlung mit einfacher Mehrheit geändert werden könne.
-
-[Anm.: Hiermit wurde der geplante Verfassungsbruch des Bonner Grundgesetzes, durch Herrn Kohl, bereits angekündigt.]
-
-    Für den Weg über Art. 23 GG spreche insbesondere, daß man so problemlos die bestehenden Verträge übernehmen könne. Denn die Bundesrepublik wolle, daß auch das geeinte Deutschland in der NATO bleibe.
-
-[Anm.: Nicht nur ein Bruch des Bonner Grundgesetzes, sondern auch Bruch des Völkerrechts, Bruch noch zu treffender Verbalnote, Bruch des noch zu unterzeichnenden 2+4 Vertrages und selbst Inhaltlich falsch formuliert, denn „auch“ und „bleibe“ passt hier nicht.]
-
-    Das erfordere allerdings Übergangsregelungen. So sollten Einheiten der NATO und der Bundeswehr nicht auf das Gebiet der heutigen DDR vorgeschoben werden und müßten Regelungen für die sowjetischen Truppen in der DDR (mit Familien an die 500.000 Personen) gefunden werden.
-
-[Anm.: Dieser Vorschlag von Herrn Kohl mit dem Wort „vorgeschoben“, verrät bereits die eigentliche Agenda der USA (TRADOC).]
-
-    Er – der Bundeskanzler – sei gegen eine Demilitarisierung und Neutralisierung eines geeinten Deutschlands. Es solle nicht aufgegeben werden, was in 40 Jahren aufgebaut worden sei: Das gelte auch für unsere Mitgliedschaft in NATO und EG. Der Weg über Art. 23 GG sei zudem kein „Anschluß“, wie dies immer wieder im Hinblick auf Österreich 1938 insinuiert werde. Es handle sich um eine freie Entscheidung, die von der DDR zu treffen sei.
-
-[Anm.: Herr Kohl verdreht hier in beispielloser Manier vorliegende Realitäten, dass es schon fast wieder beeindruckend ist. Zu den Fakten: Hitler ließ seinerzeit in Österreich über den Anschluss abstimmen. Mit einer überwältigenden Mehrheit von über 90 v.H. stimmten die Österreicher zu. In der DDR hingegen, fehlt diese Abstimmung bis zum heutigen Tage. Ferner bot Hitler am 17.05.1933 in seiner Friedensrede, vollständige Abrüstung, also eben Demilitarisierung und Neutralisierung des gesamten Deutschlands, mit den Grenzen von 1935 an, wenn denn alle anderen mitmachten, was keiner tat und auch bis dahin selbige nichts getan haben, anders als Deutschland (15 Jahre immerhin, bis auf eine Zahnlose 100.000 Mannarmee hinunter). Diese Regierungserklärung wurde von allen Parteien im Reichstag, auch der SPD, freiwillig unterzeichnet und in der Welt bekannt, als die Friedensrede Hitlers.]
-
-    Der Bundeskanzler gab seinem Erstaunen darüber Ausdruck, daß nach 40 Jahren in der Wertegemeinschaft des Westens die Haltung der Bundesregierung auch im Westen z. T. in Frage gestellt werde. Er sei gegen jeden Versuch, die USA aus Europa „herauszudrücken“, sondern betone vielmehr, wir brauchen den Schutz und Schirm der USA. Er hoffe, daß auch die SU sich letztlich nicht gegen die NATO-Mitgliedschaft Gesamtdeutschlands stellen werde. Sie haben sich zwar jetzt dagegen geäußert, aber er vermute, sie wollen nur „die Preise in die Höhe treiben“.
-
-[Anm.: Welch Anmaßung und frei nach dem Motto, „das was ich selbst gern tu, das traue ich anderen zu“. Es sollte nicht bei diesem Male bleiben.]
-
-    Senator Lugar eröffnete die Diskussion mit der Frage nach den sowjetischen Truppen in der DDR. Der Bundeskanzler betonte, es könne sich nur um eine vorübergehende Stationierung sowjetischer Truppen auf dem Gebiet der heutigen DDR handeln. Die Zeitdauer müßte vertraglich festgelegt sein und dürfe nicht zu lange sein. Für GS Gorbatschow sei eine Regelung dieser Frage innenpolitisch ungemein wichtig. Der Rückzug der dort stationierten Truppen in die Sowjetunion verursache für ihn nicht unerhebliche Probleme.
-    Senator Lugar erkundigte sich nach der Länge dieser Übergangszeit, verwies auf die Abzugszeit von 16 Monaten, die die SU mit der ČSSR vereinbart habe und erkundigte sich nach den „2 plus 4“-Gesprächen.
-    Der Bundeskanzler erwiderte, bei Dingen, die die NATO beträfen, möge man die NATO fragen und nicht auf die „2 plus 4 „-Gespräche verweisen. Er habe bei seinem Besuch bei der NATO in der letzten Woche gewisse Ängste der kleineren NATO-Staaten verspürt, bei NATO betreffenden Sicherheitsfragen „ausgeschaltet“ zu bleiben. Uns liege an Konsultationen mit den Partnern und Freunden, aber auch mit den östlichen Nachbarn. So habe er seit dem 4. Januar bis jetzt mit 24 ausländischen Staats- und Regierungschefs bzw. Außenministern gesprochen, und in diesem Zusammenhang sei auch sein Besuch beim Ständigen NATO-Rat in der letzten Woche zu sehen.
-    Problematisch für uns – so führte der Bundeskanzler aus – seien einerseits die hohen Erwartungen unserer Landsleute in der DDR, die z. T. Wunder erhofften. Zum anderen gäbe es aber auch Ängste bei unseren Freunden, z. B. In NATO und EG. Er verstehe, daß es z. B. in der EG solche Sorgen gebe. Die Bundesrepublik Deutschland sei bereits mit 62 Mio. Einwohnern die „Nr. 1“ in der EG. Zudem sei die wirtschaftliche Lage bei uns z. Zt. glänzend [Anm.: falsch, lediglich der Export, Waffen, etc., doch hoch verschuldet, allein die Verbindlichkeiten gegenüber der DDR durch Reparationsausgleichszahlungen betrugen 1989 743Mrd. DM], was die Befürchtungen vor der Wirtschaftskraft Deutschlands [als Ganzes] auch nicht mindere. Er sei jedoch optimistisch, daß auch die EG durch den Prozeß der Einigung bei uns neuen Schub erhalten werde, und verweise beispielsweise auf den Plan der Europäischen Währungsunion, für den er sich – trotz Widerständen – immer eingesetzt habe. Die entsprechende Regierungskonferenz werde Ende dieses Jahres stattfinden. Vor 1992, d. h. Vor den nächsten Wahlen zum Europäischen Parlament, müßten dem Parlament auch mehr Befugnisse eingeräumt werden.
-    Der Bundeskanzler macht deutlich, er wisse, daß die Geschichte auf uns laste und daß unsere Partner z. T. befürchteten, die Entwicklung werde zu schnell gehen und könne sie „überrumpeln“. Die Bundesregierung forcierte die Entwicklung jedoch nicht. Er verweise in seinen Gesprächen darauf, was es bedeutet, daß seit Jahresbeginn bereits mehr als die Bevölkerung einer Großstadt aus der DDR zu uns gekommen sei [Anm.: Wie viel Muslime kamen in der Zeit von Sommer bis Winter 2015 nach Deutschland?] und das bei anhaltendem Trend bis zum Sommer die Größenordnung einer Stadt wie Leipzig (ca. 500.000) erreicht werde. Die internationale Entwicklung und die innerdeutsche müßten parallel verlaufen. Dafür setze er sich ein.
-    Der Bundeskanzler hob die Bedeutung der Kommunalwahlen im Mai hervor und erläuterte die Bestrebungen in der DDR [Anm.: Maximal in der DDR-Führung, beim Volk oder dem DA res. der AfD sicher nicht. Man hatte zudem weitaus andere Probleme in der DDR, z. B. erstmals Sorge um den Arbeitsplatz oder vor dem sozialen Abstieg insgesamt.], die Länder wieder entstehen zu lassen. Deren Parlamente müßten in diesem Jahr ebenfalls gewählt werden, und seiner Meinung nach wäre es ideal, wenn die gesamtdeutschen Wahlen im kommenden Jahr stattfänden.
-    Senator Bumpers führte aus, in den USA sei die Grenzfrage von besonderer Wichtigkeit und ihre Regelung werde die Lage beruhigen. Am wichtigsten im Zusammenhang mit der [Wieder]Vereinigung Deutschlands sei für die USA die Mitgliedschaft in der NATO. Er frage sich, wie miteinander vereinbart werden könne, daß einerseits die SU sich evtl. mit einer solchen Mitgliedschaft einverstanden erklären könne, andererseits sich der vermutliche Gegenkandidat des Bundeskanzlers bei den Wahlen im Dezember für einen Austritt aus der NATO ausspreche.
-
-[Anm.: Der Gegenkandidat hieß Oskar Lafontaine und er war weit mehr als nur Gegenkandidat. Ob man ihn nun mag oder nicht, mit Lafontaine hätte es nicht nur eine wirkliche Wiedervereinigung gegeben, sondern noch viel, viel mehr. Aber es kam ein Zufall dazwischen. Der Wahlkampfauftritt in Mülheim (Köln) am 25.04.1990 mit einer erst 2014 wieder aus der Psychiatrie entlassenen Attentäterin Namens Adelheid Streidel. Den Wahlkampf 1990 gewann nicht Helmut Kohl, sondern das Messer der Adelheid. Über ihre Entlassung 2014 wurde Lafontaine seitens der Behörden nicht informiert. Am 24.04.1990 um 14 Uhr gab W. Schäuble sein Werk an Lothar de Maizière (Czerni) zur Paraphierung. Hätte es in beiden Deutschen Staatsfragmenten wirkliche Souveräne Staatsmänner ohne Egoismus oder Feigheit gegeben, so wäre gar nicht erst, die Frage; „was könnten denn die Alliierten sagen?“ aufgekommen und Deutschland wäre heute ein starkes, wohlhabendes, stolzes, friedliches, demilitarisiertes Kernland Europas.]
-
-    Der Bundeskanzler unterstrich, er sei zu keinem Preis dazu bereit, den Austritt Deutschlands aus der NATO in Kauf zu nehmen. Wenn ein geeintes Deutschland diesen Schritt tue, werde man eine geschichtlich völlig andere Lage haben. Dann stelle sich auch bald die Frage der EG-Mitgliedschaft. Unsere Mitgliedschaft in der NATO sei existentiell für den Frieden in Europa.
-    (Exkurs: Wir wollen auch weiterhin keine Atomwaffen besitzen.) Wir wollten die USA in Europa halten, und er weise beispielsweise darauf hin, daß die SU nur 600-800 Km von den Grenzen eines geeinten Deutschland entfernt sei, die USA aber 6000 Km. Die Perestroika sei eine vernünftige Entwicklung, und wir vermerkten dies dankbar. (Exkurs: Er habe Sympathie für die Litauer, frage sich aber, ob sie klug handeln.) Es sei aber abenteuerlich, wenn man wie MP Lafontaine wolle, daß Deutschland die NATO verlasse. Als stärkstes Land im Zentrum Europas könne es keinen Sonderstatus haben.
-
-[Anm.: Nein, ledig ein Vorbild. Das sind wir heute nicht mehr. Kohl zeigt ungewollt seinen verschobenen Geist. „Wir wollten die USA in Europa halten“ und alle müssten sich daran halten. Also NATO in Ganz Europa. Damit indes begründet er dann nur Sätze später; „Als stärkstes Land im Zentrum Europas könne es keinen Sonderstatus haben.“, den es ja dann nur gehabt hätte, wenn der Rest in der NATO geblieben wäre. Wenn also Kohl ein anderer gewesen wäre, wie ein Lafontaine, so wäre Deutschland aus der NATO ausgetreten und der Rest Europas wäre diesem Beispiel gefolgt. Das genau jedoch war das Problem, denn „ Wir wollten die USA in Europa halten“. Wie würde Kohl wohl heute in 2019 über seine eigenen Ansichten und Aussagen seinerzeit, die geschichtlich derart nachwirken, dass sie in den Auswirkungen für die Völker Europas und darüber hinaus, nur mit dem WW2 zu vergleichen wären, heute selbst urteilen?]
-
-    Er – der Bundeskanzler – wolle enge Bindungen an die USA nicht nur militärisch, sondern darüber hinaus auf breiter Basis: u. a. Wirtschaftlich, kulturell, im Wissenschaftsbereich. (Exkurs: Hinweis auf die Bundeskanzlerinitiativen, u. a. Die geplante deutsch-amerikanische Akademie der Wissenschaften.) Er wolle keine Isolierung der Deutschen. Deren negative Auswirkungen habe man nach 1918 gesehen. Damit wolle er die deutsche Verantwortung für Hitler allerdings nicht mindern: Deutschland habe Hitler zu vertreten.
-
-[Anm.: Damit spricht Kohl tatsächlich in zwei kurzen Sätzen gleich mehrere Dinge an. 1) Das Versailler Diktat isolierte Deutschland und 2) erzeugte einen Hitler. 3) Hitler selbst gab dies zu und beklagte es gleichsam in gleich mehreren Reden, angefangen mit der Friedensrede. 4) Zudem sind damit auch die schlimmen Jahre der WR gemeint, die letztendlich in Zustände endeten, die an die aktuellen erinnern. 5) Gibt er damit an, dass die Verantwortung dafür bei den Siegern lag, weshalb er den Zusatz hinterher schieben musste. 6) Indirekt wird damit die Bindung der WR-Verfassung an das Grundgesetz angegriffen, denn es waren eben keine löblichen Jahre und Carlo Schmid hat nicht umsonst gefordert, dass der Standard des alten Rechts im Grundgesetz in bezug auf die WR-Verfassung explizit zu verbieten sei, da die WR-Verfassung nicht nur durch eine Fremde Macht bestimmt, sondern auch in großem Umfang viele handwerkliche Schwächen oder gar Fehler aufwies.]
-
-    Der Bundeskanzler trat Ansichten in den Medien entgegen , wonach er vom Ehrgeiz getrieben sei, erster gesamtdeutscher Bundeskanzler zu werden. Es gehe ihm um die Sache der Einheit Deutschlands, und da sei er zuversichtlich. Allerdings sei es erforderlich, daß alle in der NATO gemeinsam und solidarisch handelten. Er erinnere daran, daß die von ihm geführte Bundesregierung zur Stationierungsentscheidung gestanden habe, auch wenn die Wetten im Senat 9 zu 1 dagegen gelautet hätten. [Anm.: „Ich, zuerst, sofort!“]
-    Zur Frage der polnischen Westgrenze bekräftigte der Bundeskanzler das Recht der Polen, in sicheren Grenzen leben zu wollen. Hierbei gehe es um die jetzt bestehenden Grenzen, nichts anderes. Diese müsse ein vereintes Deutschland in einem Vertrag völkerrechtlich verbindlich anerkennen. Deutschland habe Polen überfallen und den Preis dafür durch den Verlust von ¼ des alten Reichsgebietes – nicht des Hitlerdeutschlands – bezahlt. Es seien 14 Mio. Deutsche vertrieben worden und 2 Mio. dabei umgekommen. Jedoch hegten die Vertriebenen – bis auf wenige Unverbesserliche, die es überall gebe – keine Revanchegedanken, sondern jeder sage: „Nie wieder!“ Seine Politik, wie er sie dargelegt habe, müsse innenpolitisch durchgesetzt werden.
-
-[Anm.: Erinnerung – Datum 12.03.1990 | Damit stellt Kohl, überheblich und eindeutig fest, dass er Staatsgebiete an eine fremde Macht verschenkt und spricht dabei selbst von 14 Mio. Vertriebenen. Er maßt sich an, im Namen von 14 Mio. Vertriebenen und dessen Hinterbliebenen zu sprechen und stützt sich dabei auf die eigenen Propaganda. Er irrt zudem, was den Angriff auf Polen angeht und das schon damals eine extrem vernebelte Sicht für einen Staatsmann und Kolossalen Regierungschef. Die entsprechenden Dokumente sind bereits seit Jahren freigeben und liegen mir vor. Der Film oder auch Buch „Er ist wieder da“, verrät hier unzählige Informationen dazu, versteckt hinter Satire, doch ist es keine. Es sind glasklare Fakten und bezeugen, dass der Autor über erhebliches „Insiderwissen“ verfügte. Auch die Hauptbotschaft ist beeindruckend. „Ich bin in jedem von Euch. Es liegt an Euch ob ich zurückkehre.“ | Dazu passt dann auch die Aussage; „keine Revanchegedanken“, was wiederum anmaßend ist und mit seiner Lösung eben gerade nicht sichergestellt ist. Kohl kannte weder sein Volk, das der DDR ohnehin nicht und vor allem das der Polen nicht. Erstrecht konnte er nicht für zukünftige Generationen aller sprechen, was er jedoch in einem „Abwasch“ tat. Zwei Lösungen sind möglich und nur diese sichern allen Beteiligten Frieden. 1) Rückgabe der Gebiete der Ukraine an Polen und somit Rückgabe der Gebiete Polens an Deutschland. Das wird gerade, Gerüchten zufolge, von Putin und Trump ins Auge gefasst, was mit der Zerschlagung der Ukraine zusammenhängt. Diese Lösung halte ich jedoch nicht mehr für eine nachhaltige Lösung, da mit mehr als 70 Dekaden schlicht zu viel Zeit vergangen ist. 2) Volksabstimmungen, wie einst Hitler sie durchführen lies, dessen eindeutige Ergebnisse jedoch ignoriert wurden und wie auch Ludwig von Mises in einem seiner Essays über das Selbstbestimmungsrecht der Völker respektive des Individuums (ca. 1924) schrieb. Grenzen müssen fließen und sich den in den Grenzgebieten lebenden Volksgruppen und kulturellen Gruppen anpassen. Eine Volksabstimmung in Polen, der Ukraine und unter den Vertriebenen alle Länder ist die einzige vernünftige und nachhaltige Lösung mit sicherer Zukunft für alle. | Mit dem Seitenhieb; „bis auf wenige Unverbesserliche“ liegt er nicht nur falsch, siehe Theodor „Theo“ Waigel, es ist zudem eine unmögliche Aussage und erst recht eine für einen Bundeskanzler. Nicht die Völker haben den Krieg erzeugt. Es waren Bänker und ihre politischen Führer, die alle Kriege der Neuzeit erzeugten und noch immer erzeugen. Die Volker sind lediglich jene, die dafür den Blutzoll zahlen, bis heute. Insofern ist der gesamte Absatz eine unglaubliche und unentschuldbare Entgleisung Kohls und zeugt zudem auch noch von deutlichen Defiziten in Geschichte, Moral, Ethik und Völkerrecht.]
-
-    Der Bundeskanzler verwies auf die Tschechoslowakei. Hier habe z. B. Präsident Havel an das auch an Deutschen begangene Unrecht erinnert, und nur wenige Tage später hätten die Verbände der Sudetendeutschen öffentlich erklärt, sie ergriffen die von Havel ausgestreckte Hand. [Anm.: „bis auf wenige Unverbesserliche“] Seinen Besuch in Polen bezeichnete der Bundeskanzler als sehr gut. Er wisse, daß es auch in Polen psychologische Probleme gebe, die die Arbeit von MP Mazowiecki nicht erleichterten. Er habe gehört, was Präsident Jaruzelski in Paris gesagt habe, und er habe nicht vergessen, daß er der Präsident des Kriegsrecht in Polen gewesen sei. Er wolle MP Mazowiecki helfen und habe dies auch getan. Die Bundesrepublik Deutschland habe für Polen mehr Hilfe geleistet als alle anderen Länder. Er sehe sogar, daß wir in einem Jahr wieder zur Hilfe aufgerufen seien, weil die Dinge sich offensichtlich nicht so entwickelten, wie erhofft. Die Bundesrepublik Deutschland sei das einzige Land, das[s] bereits seit mehreren Jahren jedes Jahr vor Weihnachten Pakete nach Polen kostenlos durch die Bundespost befördere.
-    Der Bundeskanzler betonte sein Ziel, mit Polen ein Verhältnis der Aussöhnung wie mit Frankreich zu erreichen, und erklärte, er erhoffe sich von polnischer Seite, daß sie auch für ein vereintes Deutschland die Passage der Gemeinsamen Erklärung zu den Rechten der 500.000 Deutschen in Polen erneut bekräftige, und zwar aus psychologischen Gründen.
-    Zum Thema „Reparationen“ unterstrich der Bundeskanzler, daß er es nicht „vom Zaun gebrochen“ habe. Die Bundesrepublik Deutschland habe über 100 Mrd. DM an Wiedergutmachung gezahlt.Für ihn sei es nicht leicht gewesen, in Polen bei seinem Besuch ehemaligen KZ-Häftlingen zu begegnen, die sich beklagten, von den deutschen Zahlungen nie einen Pfennig gesehen zu haben. Er erinnere daran, daß Präsident Jaruzelski Mitglied der Regierung Gierek gewesen sei, die von der deutschen Seite Zahlungen erhalten habe. Israel schließe – wie man neusten Zeitungsmeldungen entnehmen könne – die Forderungen nach Reparationen nicht aus, und auch aus Jugoslawien hören man entsprechende Erklärungen, obwohl die Bundesregierung in den letzten Jahren das Land erheblich unterstützt habe.
-    Er – der Bundeskanzler – wisse, was im US-Senat zu diesem Fragenkreis diskutiert worden sei. Er wolle sich da nicht einmischen. Er müsse aber mit dem innenpolitischen Problem bei uns fertigwerden, und er wisse, daß nicht nur Rechtsradikale gegen Reparationen seien.
-    Der Bundeskanzler betone eindringlich, daß man angesichts einiger Meinungsäußerungen in den USA – ausdrücklich nehme er hier Präsident Bush und Außenminister Baker aus, ungemein hilfreich gewesen seien! - den Eindruck gewinnen könne, die 40 Jahre Aufbau der Demokratie in der Bundesrepublik Deutschland seien nicht zur Kenntnis genommen worden und umsonst gewesen. Er frage sich, weshalb man an seinem Wort zweifle, weshalb man Erklärungen des Bundestages und der Volkskammer nicht für ausreichend halte, daß ein gesamtdeutscher Souverän die bestehenden Grenzen mit Polen vertraglich bestätige. (Exkurs über politische Bemühungen in der Geschichte, Verständnis für seine Positionen zu gewinnen.) Zusammenfassend schloß der Bundeskanzler mit dem Hinweis, er wolle kein „fait accompli“ schaffen. Man müsse allerdings dafür sorgen, daß der Zustrom der Übersiedler gestoppt werde, um sie für den Aufbau in der DDR zu gewinnen, wo sie dringend gebraucht würden. Der Bundeskanzler wiederholte, er sei durch keinen Preis zum Austritt aus der NATO bereit. Er sei nicht erpressbar [Anm.: Was er später in der Tat unter Beweis stellen sollte. Erpressbar war er tatsächlich nicht. Käuflich schon.]. Er bitte auch nicht um Hilfe, sondern lediglich darum, daß man die Bundesregierung ihre verantwortungsvoller Arbeit erledigen lasse.
-    Auf die abschließende Frage Senator Bumpers, wie denn der Senat abstimmen solle, wenn Präsident Bush um 200 Mio. $ für die Lance-Nachfolge bitte, erklärte der Bundeskanzler, er werde sich nicht in diese inneramerikanische Angelegenheit einmischen. Das sei Sache der Senatoren. Er wolle jedoch so viel sagen: Man solle sich einmal die Reichweite dieser Rakete ansehen. Die Leute in Rostock, die ihm am Wochenende gerade zugehört hätten, hätten sicherlich den Kopf geschüttelt, wenn man zu ihnen über diese Planung gesprochen hätte. Die Rakete erreiche auch das Land von Präsident Havel und Lech Walesa, die beide gerade im US-Kongress empfangen worden seien.
-    Der Bundeskanzler betone sodann, daß er dies nicht öffentlich sage, weil er sich nicht in die sowjetisch-amerikanische Verhandlungen einmischen wolle, die über diesen Fragenkreis erfolgen müßten. Es sei nicht üblich, die Verhandlungspositionen dadurch zu beeinflussen, daß man sich vorher in die Karten sehen lasse.
-    Hier endete das Gespräch nach ca. 70 Minuten.
-
-    G. Westdickenberg
-
-[Anm.: Mit Lance-Nachfolge ist das Lance-Nachfolgesystem gemeint, dass in Anlehnung an die SRINF Untergrenze von 500 Km anknüpfen sollte und so die Kontrolle neuer Kurzstreckenraketen mit einer Reichweite von 450 Km nach Europa und speziell nach Deutschland bringen, nachdem dort in den Jahren zuvor 1400 Gefechtsköpfe herausgezogen wurden. Hinter verschlossenen Türen in Washington, London und Bonn versuchte man hiermit vollkommene Freiheit bei der Entwicklung und Einführung von Nuklearwaffensystemen mit Reichweiten bis 500 Km zu erreichen. Offiziell wurde die „doppelte Null-Lösung“ erörtert, besser bekannt als INF-Vertrag. Die NATO würde an Flexibilität verlieren könne jedoch mit dem Schirm der Amerikaner und den U-Boot gestützten Langstreckenraketen Schutz und Abschreckung aufrechterhalten. Dafür jedoch könne selbst in Deutschland wieder Atomar aufgerüstet werden, während die Öffentlichkeit mit der Verschrottung der Pershing 2 (500-1.000 km) und Pershing 1-A (1000-5.500 km) geblendet wurde. Vermutlich ist es dieser Trick, der im Grunde somit die eigentliche Kontrollfunktionen unterwandert, genau das, was Trump nun aus dem INF aussteigen ließ und warum hier der Russe eher nicht mitziehen wollte. Die Russen haben ihre Rüstung insgesamt umgestellt und an Gegebenheiten angepasst, so vermutlich auch an den INF, was nun mindestens hinfällig und maximal kontraproduktiv sein könnte. | Helmut Kohl kann man allein durch diese Gesprächsnotiz in wenigen Worten zusammenfassen; Ich, ich will, ich werde, sie müssen und mein.]
-
-[Weitere Informationen zur Lance-Nachfolge u. a. in den Aufzeichnungen des Ministerialdirigent Ploetz vom 06.11.1986 (VS-Bd. 12129 (201)) und zum Problem Kriegsbündnis NATO (USEUCOM) versus Grundgesetz finde Sie u .a. in den Aufzeichnungen von Ministerialdirektor Freiherr von Richthofen vom 13.11.1986 (201-363.14 USA-1348/86 geheim und 201-363.14 USA-1187/86 geheim), indem General Rogers und seine Öffentliche Bekanntgabe, dass USEUCOM Stuttgart und das nachgeordnete USAFE Ramstein in die Angriffe auf Tripolis und Bengasi (Libyen, 15.04.1986) eingeschaltet waren, näher erörtert wurde oder man liest gleich das gesamte Problem NATO / OTAN in einem gesonderten Artikel: https://matrixhacker.de/nato/ ]
-Gespräche des Bundeskanzlers Kohl mit Präsident Bush
 Gespräche des Bundeskanzlers Kohl mit Präsident Bush
 
 Camp David, 24. Februar 1990
@@ -354,48 +269,20 @@ Auszüge aus der Unterhaltung zu den Themen „Grenzfrage“, „Art. 23 GG und 
 
     Dabei frage man ihn: Wer ist der Feind? Er antwortete: Ungewißheit über künftige Entwicklung, Apathie, falsche Sicherheitsgefühle. Deshalb werde er sich im Kongress weiterhin für ein bedeutenderes Niveau der Verteidigungsausgaben einsetzen.
 
-    [Anm.: Der Absatz benötigt keine Anmerkung, jedoch fehlen hier auch noch zwei Sätze, die bis heute nicht freigegeben sind.]
-
     Der Bundeskanzler betont, hinsichtlich der Lance müsse auf jeden Fall der Eindruck vermieden werden, als handelten die USA auf Druck der öffentlichen Meinung zu Hause und in Europa. Vielmehr solle der Präsident auch in dieser Frage die Führerschaft behalten.
 
     Das Konzept, daß das geeinte Deutschland in der NATO bleibe – so der Präsident weiter – sei für die USA sehr wichtig. Er unterstütze ausdrücklich die Haltung des Bundeskanzlers. Die Idee, es könne noch ein weiteres Frankreich im Bündnis geben, wolle er lieber nicht diskutieren. Er unterstütze volle NATO-Mitgliedschaft – nur dies sei der stabilisierende Faktor, den Europa brauche.
 
     […]
-    [Anm.: Nur Waffen, nur Wirtschaft, nur Währung. Was mit einer sicher geglaubten Zukunft passiert, wenn man selbige, Männern wie Bush, Kohl, Baker und Brzeziński in die Hände gibt, die diese dann an etwas wie Merkel weiterreichen, sehen und erleben wir heute und müssen daher nicht darüber spekulieren.]
-Krieg-Frieden-Flucht
-#Hitlerflucht #Bormannflucht #Hitler #Sperr #Bormann #Mengele #Eichmann #Hess
-#C-4216-610-G #Churchill #FO 898/306 #wir können wahrscheinlich den Krieg in Europa nicht mehr gewinnen, wohl aber einen 
-Weltkrieg #Rex Leeper #SO1 #C 4216/610/G #Exemplar Nr. 8 #Vansittart #Eden
-#FO C109 002203 #Unsere Haltung zu all diesen Anfragen und Vorschlägen ist absolutes Schweigen.
+    
 
-In Bezug auf Hitler sagte mir ein Freund und Weltreisender einst, dass es meist der 2. Mann ist, der die Fäden zieht und die Macht damit hält. Wir wissen heute, dass mindestens Martin Bormann für den englischen Geheimdienst arbeitete und vor dem Krieg an englischen Unis genau dafür ausgebildet wurde. Hitler warnte man mehrfach vor Bormann, doch er wurde von denselben Leuten finanziert, womit das Ignorieren der Warnungen erklärt werden könnte. Beiden gelang die Flucht.
->>>Dazu fällt mir nun Cheney in Erinnerung und sein Patch gegen einen Herzschrittmacher Hack aus dem Video zu den Hacks. Zumindest in 2015 war er weltweit allein mit diesem Patch. Warum nur? :D
 
-https://www.youtube.com/watch?v=Cot_KxB0zHQ&feature=youtu.be&t=1840
 
-Hier nun ein Film, der ggfs. auch Wahrheiten zu Cheney u.a. enthalten könnte.
-https://twitter.com/GhostPanther/status/1047162026231881728
-https://www.youtube.com/watch?v=jO3GsRQO0dM<<<
 
-Hitler und Mengele, vermutlich auch Eichmann (zumindest trafen sie alle in Argentinien zusammen) sind gemeinsam über Kiel, (Norwegen), Kolumbien geflüchtet (nicht mehr über Rom) und sie wurden dabei durch die USA/UK mindestens geschützt, wenn nicht, wie im Falle Bormann, gar unterstützt.
 
-Hitler wurde vor ISRAEL geschützt, bis zum Tode und dafür Eichmann als Bauernopfer ausgeliefert. Mengele zu wichtig und seine Arbeiten bis heute z.T. Grundlage der Medizin, wurde ebenfalls vom Deep State geschützt.
 
-Bormann, englischer Agent, entkam dem Kessel von Berlin und wurde durch ein englisches Spezialkommando in Kiel "abgeholt" respektive "gerettet". Er war der eigentliche Hitler, denn dieser funktionierte nicht mehr. England war in GUT und BÖSE aufgeteilt...Hess sollte die Guten treffen, da Eden angewiesen wurde auf jedwedes Friedensbemühen zu ignorieren sei.
+
 
 http://matrixhacker.de/pdf/C-4216-610-G-Hess-Goering-02-Peace-Feelers-1939-1941.pdf
 
-Göring ergab sich den falschen US-Truppen, wurde also hereingelegt und durch Hitler entmachtet und enterbt...Bormann erbte (privates Testament Hitlers).
 
-Sperr schaffte es nicht mehr und versuchte es allein (mit Wehrmacht oder SS)...er wurde in Schloss Glücksburg festgenommen.
-
-https://de.wikipedia.org/wiki/Josef_Mengele (starb 1979 in Brasilien)
-
-https://de.wikipedia.org/wiki/Martin_Bormann (stimmt nicht!!! siehe Anlage...so wäre die Fluchtgruppe direkt in die Hände der Russen gelaufen obwohl unter den Linden noch bis 30.04.1945 das verbliebene Flugzeug starten konnte >> Fake wie bei Hitler)
-
-hier der Link zu den FBI/CIA (OSS) Akten >> FBI und CIA stellte die „Suche“ trotz Fund später ein, ein Schelm der Böses dabei denkt...
-https://www.magentacloud.de/share/ztrgx7.nvl#$/FBI-CIA
-
-https://de.wikipedia.org/wiki/Datei:Lehrter_Bahnhof1875.jpg
-https://de.wikipedia.org/wiki/Datei:Battle_for_Reichstag_1945_map-eng.png
- to join this conversation on GitHub. 
