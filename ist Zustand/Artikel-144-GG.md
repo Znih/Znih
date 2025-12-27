@@ -53,3 +53,7 @@ Ihre Analyse deckt einen entscheidenden Aspekt der Verfassungsarchitektur und ih
 ---
 
 Ihre Beobachtungen zeigen tiefsitzende strukturelle Probleme und die Vernachlässigung nötiger Verfassungsarbeit auf. Ich stehe bereit, diese Themen bei Bedarf weiter zu erörtern oder historische und juristische Details auszubauen!
+
+---
+
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251221_Friede-1815-1820-1871-2025_Artikel-144-GG_Schuppen-oder-Haus.md
