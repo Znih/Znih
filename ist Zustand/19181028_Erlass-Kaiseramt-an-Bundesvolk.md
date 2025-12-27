@@ -28,3 +28,5 @@ Die Kundgebung konnte nur gedacht sein als eine Antwort auf den Ruf nach Abdanku
 
 
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251130_Verfassungsrechtkontinuitaet-28-10-1918.md
+
+https://github.com/Znih/Znih/discussions/20#discussioncomment-15352716
