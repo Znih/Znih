@@ -1,6 +1,48 @@
 **BGBl. 1953 II S. 334 ff. Abkommen über deutsche Auslandsschulden**
 
-Präambel. Artikel Pkt. 3. Begriffsbestimmungen für 2+4 Vertrag 1990/91
+Präambel. Artikel Pkt. 3. Begriffsbestimmungen für 2+4 Vertrag 1990/91, der das Wort "Frieden" nicht enthält, wie auch die unbekannte Zweitüberschrift das Wort "Frieden" nicht enthält. Vielmehr eine "abschließende Regelung" in Bezug auf das Dritte Reich, nicht auf den ewigen Bund "Berlin und Deutschland als Ganzes".
+
+***Quellensammlung des Bundesrechtes S. 2 - 17 - 2+4 zur Analyse.***
+
+![Screenshot_20251218_140255~2.jpg](https://github.com/user-attachments/assets/eb018753-2ea9-480a-9ed5-6bddd92cd54a) 
+
+Vertrag v. 12.09.1990 über die „*abschließende*" „*Regelung*" in bezug auf Deutschland
+
+"*2+4-Vertrag*"
+
+„*mit Erklärung v. 01.10.1990 zur Aussetzung - Suspendierung nur - der Wirksamkeit der Vier-Mächte-Recht und - Verantwortlichkeiten*" - Vlad-i-MIRs Trumpf
+
+PA AA MULT - 781
+
+https://www.auswaertiges-amt.de/resource/blob/243466/2851e102b97772a5772e9fdb8a978663/vertragstextoriginal-data.pdf
+
+Auswärtiges Amt
+
+***Vertrag vom 12. September 1990 über die abschließende Regelung in bezug auf Deutschland***
+
+„*2+4-Vertrag*"
+
+mit Erklärung vom 01. Oktober 1990 zur Aussetzung der Wirksamkeit der Vier-Mächte-Rechte und -Verantwortlichkeiten
+
+Urschrift des Vertrags
+
+Deutsche Ratifikationsurkunde
+
+Amerikanische Ratifikationsurkunde
+
+Britische Ratifikationsurkunde
+
+Französische Ratifikationsurkunde
+
+Sowjetische Ratifikationsurkunde
+
+Urschrift der Erklärung
+
+Amtliches Werk im Sinne des § 5 Absatz 2 des Gesetzes über Urheberrecht und verwandte Schutzrechte (UrhG). Nutzung nur unter der Angabe der unten stehenden Quelle. Jede Änderung des Werkes oder seiner Teile ist untersagt.
+
+Quelle:
+
+Politisches Archiv des Auswärtigen Amts, MULT - 781
 
 ---
 
