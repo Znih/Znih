@@ -203,7 +203,79 @@ oder f) der Begriff „handelbare Wertpapiere“ bezeichnet Aktien, Anleihen und
 
 ---
 
+
+
 ![20251227_131441.jpg](https://github.com/user-attachments/assets/025075cc-926b-424c-8dd3-958b38e0bfa4)
+
+Nr. 15-Tag der Ausgabe: Bonn, den 27. August 1953
+
+(g) Regelungsangebot" (bei Anwendung in Bezug auf verbriefte Schulden): ein Angebot des Schuldners über Zahlungs- und sonstige Bedingungen, die für die betreffende Schuld gemäß diesem Abkommen und seinen Anlagen durch Verhandlungen zwischen dem Schuldner und der zuständigen Gläubigervertretung, durch rechtskräftiges Urteil oder rechtskräftigen Beschluß eines Gerichts oder durch rechtskräftige Entschei dung einer Schiedsinstanz festgesetzt worden sind;
+
+(b) Partei dieses Abkommens": jede Regierung, für die dieses Abkommen gemäß den Bestimmungen seiner Artikel 35 oder 36 in Kraft getreten ist;
+
+(i) Person": natürliche Personen, Personenvereinigungen, juristische Personen des öffentlichen oder privaten Rechts sowie Regierungen einschließlich staatlicher oder kommunaler Gliederungen und sonstiger Körperschaften des öffent-lichen Rechts nebst den für sie handelnden Dienststellen, Perso-nen und Organen;
+
+(j) ansässig in": mit gewöhnlichem Aufenthalt in; eine juristische Person oder eine Gesellschaft gilt als in dem Staate ansässig, nach dessen Recht sie errichtet ist, oder, falls sich ihre Hauptniederlassung nicht in diesem Staate befindet, als in dem Staate ansässig, in dessen Registern ihre Hauptniederlassung eingetragen ist;
+
+(k) "***geregelt***" (in Bezug auf eine Schuld): daß Zahlungs- und sonstige Bedingungen für eine solche Schuld gemäß den Bestimmungen dieses Abkommens und seiner Anlagen durch Vereinbarung zwischen dem Gläubiger und dem Schuldner oder in einem Verfahren zwischen dem Gläubiger und dem Schuldner durch rechtskräftiges Urteil oder rechtskräftigen Beschluß eines Gerichts oder rechtskräftige Entscheidung einer Schiedsinstanz festgesetzt worden sind;
+
+(1) "***Regelung***": (in Bezug auf eine Schuld): die Festsetzung von Zahlungs- und sonstigen Bedingungen gemäß Buchstabe k.
+
+Artikel 4 Zu regelnde Schulden (1) Die gemäß diesem Abkommen und seinen Anlagen zu regelnden Schulden sind
+
+(a) nichtvertragliche Geldverbindlichkeiten, die der Höhe nach vor dem 8. Mai 1945 festgestellt und fällig waren;
+
+(b) Geldverbindlichkeiten aus Anleihe- und Kreditverträgen, die vor dem 8. Mai 1945 abgeschlossen wurden;
+
+(c) Geldverbindlichkeiten aus anderen Verträgen als Anleihe- oder Kreditverträgen, sofern diese Verbindlichkeiten vor dem 8. Mai 1945 fällig waren.
+
+Schulden WWI
+
+(g) Vergleichsangebot. Im Zusammenhang mit einer Schuldverschreibung bedeutet dies ein Angebot des Schuldners über Zahlungsbedingungen und sonstige Bedingungen, die für diese Schuld gemäß diesem Abkommen und seinen Anhängen durch Verhandlungen zwischen dem Schuldner und dem zuständigen Gläubigervertreter, durch ein rechtskräftiges Urteil oder eine rechtskräftige Anordnung eines Gerichts oder durch eine rechtskräftige Entscheidung eines Schiedsgerichts festgelegt wurden:
+
+339
+
+(h) „Vertragspartei dieses Abkommens“ bezeichnet jede Regierung, für die dieses Abkommen gemäß den Bestimmungen von Artikel 35 oder Artikel 36 in Kraft getreten ist;
+
+(i) „Person“ bezeichnet jede natürliche, kollektive oder juristische Person des öffentlichen oder privaten Rechts sowie jede Regierung, einschließlich aller politischen Untergliederungen, Körperschaften des öffentlichen Rechts, einschließlich ihrer Behörden und Einrichtungen, und Einzelpersonen, die in ihrem Namen handeln;
+
+(j) **„wohnt in“ oder „aufrecht in“ bedeutet, seinen gewöhnlichen Aufenthalt in zu haben; eine juristische Person oder eine Personengesellschaft gilt als in dem Land ansässig, nach dessen Gesetzen sie organisiert ist, oder, wenn sich ihr Hauptsitz nicht in diesem Land befindet, in dem Land, in dem ihr Hauptsitz registriert ist;**
+
+(k) „beglichen“ bedeutet in Bezug auf eine Schuld, dass Zahlungsbedingungen und sonstige Bedingungen für diese Schuld gemäß den Bestimmungen dieses Abkommens und seiner Anhänge durch Vereinbarung zwischen Gläubiger und Schuldner oder, in Verfahren zwischen Gläubiger und Schuldner, durch ein rechtskräftiges Urteil oder einen rechtskräftigen Beschluss eines Gerichts oder durch eine rechtskräftige Entscheidung eines Schiedsgerichts festgelegt wurden;
+
+(1) „Begleichung“ bedeutet in Bezug auf eine Schuld die Festlegung von Zahlungsbedingungen und sonstigen Bedingungen gemäß Absatz (k).
+
+Artikel 4 Zu begleichende Schulden
+
+(1) Die nach diesem Abkommen und seinen Anhängen zu begleichenden Schulden sind:
+
+(a) außervertragliche finanzielle Verpflichtungen, deren Höhe vor dem 8. Mai 1945 festgelegt und fällig war;
+
+(b) finanzielle Verpflichtungen aus Darlehens- oder Kreditverträgen, die vor dem 8. Mai 1945 abgeschlossen wurden;
+
+(c) finanzielle Verpflichtungen aus anderen Verträgen als Darlehens- oder Kreditverträgen, die vor dem 8. Mai 1945 fällig waren;
+
+g) Der Begriff „Vergleichsangebot“ im Zusammenhang mit einer Anleiheschuld bezeichnet das Angebot des Schuldners über Zahlungsbedingungen und sonstige Konditionen, die für die betreffende Schuld gemäß den Bestimmungen dieses Abkommens und seiner Anhänge durch Verhandlungen zwischen dem Schuldner und den Bevollmächtigten der Gläubiger oder durch eine rechtskräftige gerichtliche oder schiedsgerichtliche Entscheidung festgelegt wurden;
+
+h) Der Begriff „Vertragspartei“ bezeichnet jede Regierung, für die dieses Abkommen gemäß den Bestimmungen seines Artikels 35 oder Artikels 36 in Kraft getreten ist;
+
+(i) Der Begriff „Person“ bezeichnet jede natürliche oder juristische Person, ob öffentlich oder privat, sowie jede Regierung und jede politische Gemeinschaft, jede öffentliche Einrichtung einschließlich jeder von ihr abhängigen Behörde oder Dienstleistung und jede Person, die in ihrem Namen handelt;
+
+(j) Die Begriffe „wohnen“ und „ansässig“ bedeuten gewöhnlichen Aufenthalt; eine juristische Person gilt als in dem Land ansässig, nach dessen Gesetzen sie gegründet wurde, oder, wenn sich ihr eingetragener Sitz nicht in diesem Land befindet, in dem sie ihren Sitz hat;
+
+k) Der Begriff „festgelegte Vergleichsbedingungen in Bezug auf eine Schuld“ bezeichnet die Zahlungsbedingungen und sonstigen Bedingungen, die für diese Schuld gemäß den Bestimmungen dieses Abkommens und seiner Anhänge entweder durch eine Vereinbarung zwischen dem Gläubiger und dem Schuldner oder durch eine rechtskräftige gerichtliche oder schiedsgerichtliche Entscheidung in einem Verfahren zwischen dem Gläubiger und dem Schuldner festgelegt wurden;
+
+(1) Der Begriff „Festlegung von Vergleichsbedingungen“ bezeichnet im Zusammenhang mit einer Schuld die Festlegung von Zahlungsbedingungen und sonstigen Konditionen gemäß Absatz k.
+
+Artikel 4 Zu begleichende Schulden (1) Die nach diesem Abkommen und seinen Anhängen zu begleichenden Schulden sind folgende:
+
+a) außervertragliche Geldverpflichtungen, die vor dem 8. Mai 1945 fällig wurden;
+
+b) finanzielle Verpflichtungen aus Darlehens- oder Kreditverträgen, die vor dem 8. Mai 1945 abgeschlossen wurden;
+
+c) finanzielle Verpflichtungen aus anderen Verträgen als Darlehens- oder Kreditverträgen, die vor dem 8. Mai 1945 fällig wurden;
+
+---
 
 ![20251227_131608.jpg](https://github.com/user-attachments/assets/a1741ff7-2c22-462c-a1aa-f90da15c360b)
 
