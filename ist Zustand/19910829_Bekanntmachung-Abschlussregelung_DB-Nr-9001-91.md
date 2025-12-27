@@ -1,5 +1,99 @@
 ![20251227_131435.jpg](https://github.com/user-attachments/assets/5e8b4865-3053-4ca7-ace2-e96ab0ee12cc)
 
+334
+
+Bundesgesetzblatt, Jahrgang 1953, Teil II
+
+Abkommen über deutsche Auslandsschulden
+
+Inhaltsverzeichnis
+
+Präambel.
+
+Artikel
+
+1. Billigung der Regelungsbedingungen und der Verfahren.
+
+2. Durchführung des Abkommens durch die Bundesrepublik Deutschland.
+
+3. Begriffsbestimmungen.
+
+4. Zu regelnde Schulden.
+
+5. Nicht unter das Abkommen fallende Forderungen.
+
+6. Zahlung und Transfer nach dem Abkommen.
+
+7. Zahlung und Transfer für bestimmte nach dem Jahre 1945 fällig gewordene Verbindlichkeiten.
+
+8. Verbot unterschiedlicher Behandlung.
+
+9. Behandlung von Transferleistungen als Zahlungen für laufende Transaktionen.
+
+10. Beschränkung und Ausschließung von Zahlungen.
+
+11. Währung der zu zahlenden Beträge.
+
+12. Behandlung von Goldklauseln.
+
+13. Umrechnungskurse.
+
+14. Bestimmungen über Schulden in deutscher Währung.
+
+15. Annahme durch die Gläubiger.
+
+16. Erlöschen der Schuld.
+
+17. Durchsetzung der Rechte der Gläubiger.
+
+18. Verjährungsfristen.
+
+19. Ergänzende Abkommen.
+
+20. Reichsschulden aus mehrseitigen Abkommen.
+
+21. Erneuerung des in Anlage III enthaltenen Kreditabkommens.
+
+22. Sozialversicherungsansprüche.
+
+23. Schulden aus der Privatversicherung.
+
+24. Anwendung des Abkommens auf Berlin.
+
+25. Verfahren bei der Wiedervereinigung Deutschlands.
+
+26. Frühere Abkommen.
+
+27. Vorrang des Abkommens gegenüber seinen Anlagen.
+
+28. Schiedsgerichtshof.
+
+29. Schiedsverfahren nach Anlage I.
+
+30. Beteiligung der Anleihetreuhänder nach Anlage II.
+
+31. Gemischte Kommission nach Anlage IV.
+
+32. Schiedsgericht für Streitigkeiten aus Anlage IV.
+
+33. Streitigkeiten im Zusammenhang mit Entflechtungsverfahren.
+
+34. Konsultation.
+
+35. Inkrafttreten.
+
+36. Beitritt.
+
+37. Ausdehnung des Abkommens auf bestimmte Gebietsteile.
+
+38. Vorbehalte und Einschränkungen.
+
+Anmerkung.
+
+Die Uberschriften zu den Artikeln des Abkommens haben für den Inhalt des Abkommens keine Bedeulung.
+
+---
+
 ![20251227_131438.jpg](https://github.com/user-attachments/assets/ba23b457-ee93-49b9-bd2d-32f5ff38659e)
 
 ![20251227_131441.jpg](https://github.com/user-attachments/assets/025075cc-926b-424c-8dd3-958b38e0bfa4)
