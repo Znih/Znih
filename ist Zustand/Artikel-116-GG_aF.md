@@ -11,6 +11,8 @@ Art. 116 [Wiedereinbürgerung]
 
 ---
 
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251219_Friede-1815-1820-1871-2025_Art-116-GG.md
+
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251220_Friede-1815-1820-1871-2025_Art-116-GG.md
 
 ---
