@@ -96,6 +96,113 @@ Die Uberschriften zu den Artikeln des Abkommens haben für den Inhalt des Abkomm
 
 ![20251227_131438.jpg](https://github.com/user-attachments/assets/ba23b457-ee93-49b9-bd2d-32f5ff38659e)
 
+338
+
+Bundesgesetzblatt, Jahrgang 1953, Teil II
+
+heutigen Tage zweiseitige Abkommen unterzeichnet haben, in denen ihre ge-änderten Rechte und Prioritäten in Be-zug hierauf niedergelegt sind;
+
+FOLGENDES VEREINBART:
+
+Artikel 1
+
+und Prioritäten in Bezug darauf:
+
+Billigung der Regelungsbedingungen und der Verfahren
+
+Die Parteien dieses Abkommens betrachten die Bestimmungen des Abkommens und seiner Anlagen als angemessen im Hinblick auf die allgemeine Lage der Bundesrepublik Deutschland sowie als befriedigend und gerecht für die beteiligten Interessen. Sie billigen die in seinen Anlagen niedergelegten Regelungsbedingungen und Verfahren.
+
+Artikel 2
+
+Durchführung des Abkommens durch die Bundesrepublik Deutschland
+
+Die Bundesrepublik Deutschland wird die Rechtsvorschriften erlassen und die Verwaltungsmaßnahmen treffen, die zur Durchführung dieses Ab-kommens und seiner Anlagen erforderlich sind; sie wird auch die Rechts-vorschriften und die Verwaltungsmaß-nahmen ändern oder aufheben, die mit diesem Abkommen und seinen Anlagen unvereinbar sind.
+
+
+Artikel 3
+
+Begriffsbestimmungen
+
+In diesem Abkommen und in seinen Anlagen IX und X bedeutet, soweit nicht der Zusammenhang eine andere Auslegung erfordert,
+
+(a) Gläubiger: eine Person ausgenommen die Regierung der Bundesrepublik Deutschland gegenüber eine Schuld besteht;
+
+(b)(Gläubigerstaat: einen Staat ausgenommen die Bundesrepublik Deutschland dessen Regierung Partei dieses Abkommens wird, mit allen Gebieten, auf die dieses Abkommen gemäß Artikel 37 ausgedehnt wird;
+
+(c) Währungsoption": eine Vertragsbestimmung, nach der ein Gläubiger das Recht hat, Zahlung in einer von zwei oder mehr Währungen zu verlangen;
+
+(d) Schuld": eine Schuld im Sinne des Artikels 4;
+
+(e) festgestellt" (in Bezug auf die Höhe einer Schuld): festgesetzt durch Vereinbarung, durch rechts-kräftiges Urteil oder rechtskräfti-gen Beschluß eines Gerichts oder durch rechtskräftige Entscheidung einer Schiedsinstanz oder durch Rechtsvorschrift;
+
+(f) marktfähige Wertpapiere": Ak-tien, Anteile, Schuldverschreibun-gen sowie Obligationen und Pfand-briefe, die zur öffentlichen Zeich-nung aufgelegt worden sind oder Teil einer Emission bilden, die an einer anerkannten Börse im Handel ist oder war;
+
+HABEN FOLGENDES VEREINBART:
+
+Artikel 1
+
+Genehmigung der Vergleichsbedingungen und -verfahren
+
+Die Parteien dieses Abkommens und seiner Anhänge halten die Bestimmungen dieses Abkommens und seiner Anhänge im Lichte der allgemeinen Lage der Bundesrepublik Deutschland für angemessen und für die betroffenen Interessen zufriedenstellend und gerecht. Sie genehmigen die in den genannten Anhängen enthaltenen Vergleichsbedingungen und -verfahren.
+
+Artikel 2
+
+Umsetzung durch die Bundesrepublik Deutschland
+
+Die Bundesrepublik Deutschland wird die zur Umsetzung dieses Abkommens und seiner Anhänge erforderlichen Rechtsvorschriften erlassen und Verwaltungsmaßnahmen ergreifen und die damit unvereinbaren Rechtsvorschriften und Verwaltungsmaßnahmen ändern oder aufheben.
+
+Artikel 3 Begriffsbestimmungen
+
+Nur für die Zwecke dieses Abkommens und seiner Anhänge IX und X gelten, sofern der Kontext nichts anderes erfordert, folgende Begriffsbestimmungen:
+
+(a) „Gläubiger“ bezeichnet eine andere Person als die Regierung der Bundesrepublik Deutschland, der eine Schuld geschuldet wird:
+
+(b) Gläubigerland bezeichnet einen Staat, der nicht die Bundesrepublik Deutschland ist und dessen Regierung Vertragspartei dieses Abkommens wird; dazu gehören auch alle Gebiete, auf die dieses Abkommen gemäß Artikel 37 ausgedehnt wird.
+
+(c) „Währungsoption“ bezeichnet eine Vertragsklausel, nach der ein Gläubiger das Recht hat, die Zahlung in einer von zwei oder mehr Währungen zu verlangen.
+
+(d) „Schuld“ bezeichnet eine Schuld im Sinne von Artikel 4.
+
+(e) „fest“ bedeutet in Bezug auf die Höhe einer Schuld, dass sie durch Vereinbarung, durch rechtskräftiges Urteil oder Beschluss eines Gerichts oder durch rechtskräftige Entscheidung eines Schiedsgerichts oder kraft Gesetzes festgelegt ist.
+
+(f) „marktgängige Wertpapiere“ bezeichnet Aktien, Anteile, Anleihen und Schuldverschreibungen, die zur öffentlichen Zeichnung ausgegeben wurden oder Teil einer Emission sind, die an einer anerkannten Börse gehandelt wird oder wurde.
+
+Die Prioritäten wurden hinsichtlich dieser Schulden angepasst.
+
+FOLGENDES WURDE VEREINBART:
+
+Artikel 1
+
+Genehmigung der Bedingungen und Verfahren für die Abwicklung
+
+Die Vertragsparteien sind der Ansicht, dass die Bestimmungen dieses Abkommens und seiner Anhänge im Hinblick auf die allgemeine Lage der Bundesrepublik Deutschland angemessen und für die beteiligten Interessen fair und zufriedenstellend sind. Sie billigen die in den Anhängen dieses Abkommens enthaltenen Bedingungen und Verfahren zur Streitbeilegung.
+
+Artikel 2
+
+Durchführung der der Bundesrepublik Deutschland obliegenden Maßnahmen
+
+Die Bundesrepublik Deutschland erlässt die zur Umsetzung dieses Abkommens und seiner Anhänge erforderlichen Rechtsvorschriften und Verwaltungsmaßnahmen und ändert oder hebt alle mit seinen Bestimmungen unvereinbaren Rechtsvorschriften und Verwaltungsmaßnahmen auf.
+
+Artikel 3
+
+Definitionen
+
+Nur für die Zwecke dieses Abkommens und seiner Anhänge IX und X, sofern der Kontext nichts anderes erfordert:
+
+(a) Der Begriff Gläubiger bezeichnet jede Person (mit Ausnahme der Regierung der Bundesrepublik Deutschland), der eine Schuld geschuldet wird;
+
+b) Der Begriff „Gläubigerland“ bezeichnet jedes Land außer der Bundesrepublik Deutschland, dessen Regierung Vertragspartei dieses Abkommens ist, und gilt für jedes Gebiet, auf das dieses Abkommen gemäß Artikel 37 ausgedehnt wird;
+
+c) Der Begriff „Währungsoption“ bezeichnet jede Vertragsklausel, die dem Gläubiger das Recht einräumt, die Zahlung in einer von zwei oder mehr Währungen zu verlangen;
+
+die die in Artikel 4 festgelegten Bedingungen erfüllen; d) der Begriff „Schulden“ bezeichnet jegliche Schulden
+
+e) Der Begriff „liquid“ bedeutet im Zusammenhang mit einer Forderung, dass die Höhe der Forderung durch eine Vereinbarung, eine rechtskräftige gerichtliche oder schiedsgerichtliche Entscheidung oder eine Rechtsvorschrift festgelegt wurde;
+
+oder f) der Begriff „handelbare Wertpapiere“ bezeichnet Aktien, Anleihen und Staatsfonds, die durch öffentliche Zeichnung ausgegeben werden und zu einer Emission gehören, die an einem anerkannten Wertpapiermarkt gehandelt wird oder wurde;
+
+---
+
 ![20251227_131441.jpg](https://github.com/user-attachments/assets/025075cc-926b-424c-8dd3-958b38e0bfa4)
 
 ![20251227_131608.jpg](https://github.com/user-attachments/assets/a1741ff7-2c22-462c-a1aa-f90da15c360b)
