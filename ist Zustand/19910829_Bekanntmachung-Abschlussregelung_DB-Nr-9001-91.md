@@ -297,15 +297,16 @@ Deutsche Bank und 2+4 im Londoner Schuldenabkommen v. 1953 iVm 1924!!! Unrecht g
 
 DEUTSCHE BUNDESBANK
 
-Mitteilung Oder 2/K2 Nr. 9001/91 29. August 1991
+Mitteilung Or 2/K2 Wertpapiere Nr. 9001/91
+29. August 1991
 
-Wertpapiere
 
-Abkommen über deutsche Auslandsschulden
 
-Ausgabe von Fundierungsschuld-verschreibungen
+**Abkommen über deutsche Auslandsschulden**
 
-Bekanntmachung
+Ausgabe von Fundierungsschuldverschreibungen
+
+**Bekanntmachung**
 
 über die Ausgabe von 3% Fundierungsschuldverschreibungen der Bundesrepublik Deutschland für **Zinsrückstände aus Auslandsschulden des Deutschen Reichs nach dem Londoner Schuldenabkommen vom 27. Februar 1953** ("***Schattenquoten***")
 
