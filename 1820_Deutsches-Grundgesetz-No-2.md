@@ -1,7 +1,7 @@
 # Wiener Schluß-Akte v. 1820
 (transk. aus [Sammlung d. Deutschen Bundesrechtes mvwN u. Faksimiles (aktuelle Fassung v. 20.12.2024)](https://drive.proton.me/urls/MEY7CR9XXM#rIhfRk0TC47j) S. 294-304 o. [Quellensammlung zur Geschichte der Deutschen Reichsverfassung in Mittelalter und Neuzeit](https://de.wikisource.org/wiki/Quellensammlung_zur_Geschichte_der_Deutschen_Reichsverfassung_in_Mittelalter_und_Neuzeit))
 
-[![alt text](https://upload.wikimedia.org/wikipedia/commons/7/76/De_Zeumer_V2_545.jpg)
+[![alt text](https://upload.wikimedia.org/wikipedia/commons/7/76/De_Zeumer_V2_545.jpg)]
 
 Source: [Quellensammlung zur Geschichte der deutschen Reichsverfassung](https://commons.wikimedia.org/w/index.php?title=Category:Quellensammlung_zur_Geschichte_der_deutschen_Reichsverfassung&filefrom=De+Zeumer+V2+401.jpg#mw-category-media)
 
@@ -15,7 +15,7 @@ Beschluß der Plenarversammlung vom 8. Juni 1820.
 
        Die souverainen Fürsten und freien Städte Deutschlands, eingedenk ihrer bey Stiftung des deutschen Bundes übernommenen Verpflichtung, den Bestimmungen der Bundes-Acte durch ergänzende und erläuternde Grundgesetze eine zweckgemäße Entwickelung, und hiemit dem Bundes-Verein selbst die erforderliche Vollendung zu sichern, überzeugt, dass sie, um das Band, welches das gesammte Deutschland in Friede und Eintracht verbindet, unauflöslich zu befestigen, nicht länger anstehen durften, jener Verpflichtung und einem allgemein gefühlten Bedürfnisse durch gemeinschaftliche Berathungen Genüge zu leisten, haben zu diesem Ende nachstehende Bevollmächtigte ernannt, nämlich: (Folgen die Namen und Titel der Bevollmächtigten.), welche zu Wien, nach geschehner Auswechslung ihrer richtig befundenen Vollmachten, in Cabinets-Conferenzen zusammengetreten, und, nach sorgfältiger Erwägung und Ausgleichung der wechselseitigen Ansichten, Wünsche und Vorschläge ihrer Regierungen, zu einer definitiven Vereinbarung über folgende Artikel gelangt sind:
        
-       Art. I. Der deutsche Bund ist ein völkerrechtlicher Verein der deutschen souverainen Fürsten [Fürstenbund 1815] und freien Städte, zur Bewahrung der Unabhängigkeit und Unverletzbarkeit ihrer im Bunde begriffenen Staaten und zur Erhaltung der innern und äußern Sicherheit Deutschlands,
+       Art. I. Der deutsche Bund ist ein völkerrechtlicher Verein der deutschen souverainen Fürsten und freien Städte, zur Bewahrung der Unabhängigkeit und Unverletzbarkeit ihrer im Bunde begriffenen Staaten und zur Erhaltung der innern und äußern Sicherheit Deutschlands,
        
        Art. II. Dieser Verein besteht in seinem Innern als eine Gemeinschaft selbständiger unter sich unabhängiger Staaten, mit wechselseitigen gleichen Vertrags-Rechten und Vertrags-Obliegenheiten in seinen äußern Verhältnissen aber als eine in politischer Einheit verbundene Gesammtmacht.
        
@@ -40,9 +40,13 @@ Beschluß der Plenarversammlung vom 8. Juni 1820.
        Art. XII. Nur in den in der Bundes-Acte ausdrücklich bezeichneten Fällen, und, wo es auf eine Kriegs-Erklärung oder Friedens-Schluß-Bestätigung von Seiten des Bundes ankömmt, wie auch, wenn über die Aufnahme eines neuen Mitgliedes in den Bund entschieden werden soll, bildet sich die Versammlung zu einem Plenum. Ist in einzelnen Fällen die Frage, ob ein Gegenstand vor das Plenum gehört, zweifelhaft, so steht die Entscheidung derselben dem engern Rathe zu. Im Plenum findet keine Erörterung noch Berathung Statt, sondern es wird nur darüber abgestimmt, ob ein im engern Rathe vorbereiteter Beschluß angenommen oder verworfen werden soll. Ein gültiger Beschluß im Plenum setzt eine Mehrheit von zwei Drittheilender Stimmen voraus.
        
        Art. XIII. Ueber folgende Gegenstände:
+
     1) Annahme neuer Grundgesetze, oder Abänderung der bestehenden;
+
     2) Organische Einrichtungen, das heisst bleibende Anstalten, als Mittel zur Erfüllung der ausgesprochenen Bundeszwecke;
+
     3) Aufnahme neuer Mitglieder in den Bund;
+
     4) Religions-Angelegenheiten;
     
 findet kein Beschluß durch Stimmenmehrheit Statt; jedoch kann eine definitive Abstimmung über Gegenstände dieser Art nur nach genauer Prüfung und Erörterung der den Widerspruch einzelner Bundes-Glieder bestimmenden Gründe, deren Darlegung in keinem Falle verweigert werden darf, erfolgen.
@@ -64,6 +68,7 @@ findet kein Beschluß durch Stimmenmehrheit Statt; jedoch kann eine definitive A
        Art. XXI. Die Bundes-Versammlung hat in allen, nach Vorschrift der Bundes-Acte bey ihr anzubringenden Streitigkeiten der Bundes-Glieder die Vermittlung durch einen Auschuß zu versuchen. Können die entstandenen Streitigkeiten auf diesem Wege nicht beygelegt werden, so hat sie die Entscheidung der selben durch eine Austrägal-Instanz zu veranlassen, und dabey, so lange nicht wegen der Austrägal-Gerichte überhaupt eine anderweitige Uebereinkunft zwischen den Bundes-Gliedern Statt gefunden hat, die in dem Bundes-Tags-Beschlusse vom sechzehnten Juny achtzehn-hundert und siebenzehn enthaltnen Vorschriften, so wie den, in Folge gleichzeitig an die Bundes-Tags-Gesandten ergehender Instructionen, zu fassenden besondern Beschluß zu beobachten.
        
        Art. XXII. Wenn nach Anleitung des ob gedachten Bundes-Tags-Beschlusses der oberste Gerichtshof eines Bundes-Staats zur Austrägal-Instanz gewählt ist, so steht demselben die Leitung des Processes und die Entscheidung des Streits in allen seinen Haupt- und Neben-Punkten uneingeschränkt und ohne alle weitere Einwirkung der Bundes-Versammlung oder der Landesregierung zu. Letztere wird jedoch, auf Antrag der Bundes-Versammlung, oder der streiten den Theile im Fall einer Zögerung von Seiten des Gerichts, die zur Beförderung der Entscheidung nöthigen Verfügungen erlassen.
+
        Art. XXIII. Wo keine besonderen Entscheidungs-Normen vorhanden sind, hat das Austrägal-Gericht nach den in Rechts-Streitigkeiten derselben Art vormals von den Reichs-Gerichten subsidiarisch befolgten Rechtsquellen, in so fern solche auf die jetzigen Verhältnisse der Bundes-Glieder noch anwendbar sind, zu erkennen.
        
        Art. XXIV. Es steht übrigens den Bundes-Gliedern frey, sowohl bey einzelnen vorkommenden Streitigkeiten, als für alle künftige Fälle, wegen besonderer Austräge oder Compromisse übereinzukommen, wie denn auch frühere Familien- oder Vertrags-Austräge durch Errichtung der Bundes-Austrägal-Instanz nicht aufgehoben, noch abgeändert werden.
@@ -112,26 +117,37 @@ Wenn der Auftrag an mehrere Regierungen ergangen ist, so bestimmt die Bundes-Ver
        Art. XLIV. Bei ausgebrochnem Kriege steht jedem Bundes-Staate frei, zur gemeinsamen Vertheidigung eine größere Macht zu stellen, als sein Bundes-Contingent beträgt; es kann jedoch in dieser Hinsicht keine Forderung an den Bund Statt finden.
        
        Art. XLV. Wenn in einem Kriege zwischen auswärtigen Mächten, oder in andern Fällen Verhältnisse eintreten, welche die Besorgniß einer Verletzung der Neutralität des Bundes-Gebiets veranlassen, so hat die Bundes-Versammlung ohne Verzug im engern Rathe die zur Behauptung dieser Neutralität erforderlichen Maßregeln zu beschließen.
+
        Art. XLVI. Beginnt ein Bundes-Staat, der zugleich außerhalb des Bundesgebiets Besitzungen hat, in seiner Eigenschaft als Europäische Macht einen Krieg, so bleibt ein solcher, die Verhältnisse und Verpflichtungen des Bundes nicht berührender Krieg dem Bunde ganz fremd.
        
        Art. XLVII. In den Fällen, wo ein solcher Bundesstaat in seinen außerdem Bunde belegenen Besitzungen bedroht oder angegriffen wird, tritt für den Bund die Verpflichtung zu gemeinschaftlichen Vertheidigungs-Maßregeln, oder zur Theilnahme und Hülfsleistung nur in so fern ein, als derselbe nach vorgängiger Berathung durch Stimmenmehrheit in der engern Versammlung Gefahr für das Bundes-Gebieter erkennt. Im letztern Falle finden die Vorschriften der vorhergehenden Artikel ihre gleichmäßige Anwendung.
        
        Art. XLVIII. Die Bestimmung der Bundes-Acte, vermöge welcher, nach einmahl erklärtem Bundes-Kriege, kein Mitglied des Bundes einseitige Unterhandlungen mit dem Feinde eingehen, noch einseitig Waffenstillstand oder Frieden schließen darf, ist für sämmtliche Bundesstaaten, sie mögen außerhalb des Bundes Besitzungen haben oder nicht, gleich verbindlich.
+
        Art. XLIX. Wenn von Seiten des Bundes Unterhandlungen über Abschluß des Friedens oder eines Waffenstillstandes Statt finden, so hat die Bundes-Versammlung zu spezieller Leitung derselben einen Ausschuß zu bestellen, zu dem Unterhandlungs-Geschäft selbst aber eigne Bevollmächtigte zu ernennen, und mit gehörigen Instructionen zu versehen. — Die Annahme und Bestätigung eines Friedens-Vertrags kann nur in der vollen Versammlung geschehen.
        
        Art. L. In Bezug auf die auswärtigen Verhältnisse überhaupt liegt der Bundes-Versammlung ob:
+
     1) Als Organ der Gesammtheit des Bundes für die Aufrechthaltung friedlicher und freundschaftlicher Verhältnisse mit den auswärtigen Staaten Sorge zu tragen;
+
     2) Die von fremden Mächten bey dem Bunde beglaubigten Gesandten anzunehmen, und wenn es nöthig befunden werden sollte, im Nahmen des Bundes Gesandte an fremde Mächte abzuordnen;
+
     3) In eintretenden Fällen Unterhandlungen für die Gesammtheit des Bundes zu führen, und Verträge für denselben abzuschließen;
+
     4) Auf Verlangen einzelner Bundes-Regierungen, für dieselben die Verwendung des Bundes bei fremden Regierungen, und in gleicher Art, auf Verlangen fremder Staaten die Dazwischenkunft des Bundes bei einzelnen Bundesgliedern eintreten zu lassen.
     
        Art. LI. Die Bundes-Versammlung ist ferner verpflichtet, die auf das Militairwesen des Bundes Bezug habenden organischen Einrichtungen, und die zur Sicherstellung seines Gebiets erforderlichen Vertheidigungs-Anstalten zu beschließen.
        
        Art. LII. Da zur Erreichung der Zwecke und Besorgung der Angelegenheiten des Bundes, von der Gesammtheit der Mitglieder Geld-Beiträge zu leisten sind, so hat die Bundes-Verammlung
+
     1) den Betrag der gewöhnlichen verfassungsmäßigen Ausgaben; so weit solches im Allgemeinen geschehen kann, festzusetzen;
+
     2) in vorkommenden Fällen die zur Ausführung besondrer, in Hinsicht auf anerkannte Bundeszwecke gefaßten Beschlüsse erforderlichen ausserordentlichen Ausgaben und die zur Bestreitung derselben zu leistenden Beiträge zu bestimmen;
+
     3) das matrikelmäßige Verhältniß, nach welchem von den Mitgliedern des Bundes beizutragen ist, festzusetzen;
+
     4) die Erhebung, Verwendung und Verrechnung der Beiträge anzuordnen und darüber die Aufsicht zu führen.
+
        Art. LIII. Die durch die Bundes-Acte den einzelnen Bundes-Staaten garantirte Unabhängigkeit schließt zwar im Allgemeinen jede Einwirkung des Bundes in die innere Staats-Einrichtung und Staats-Verwaltung aus. Da aber die Bundes-Glieder sich in dem zweiten Abschnitt der Bundes-Acte über einige besondere Bestimmungen vereinigt haben, welche sich theils auf Gewährleistung zugesicherter Rechte, theils auf bestimmte Verhältnisse der Unterthanen beziehen, so liegt der Bundes-Versammlung ob, die Erfüllung der durch diese Bestimmungen übernommenen Verbindlichkeiten, wenn sich aus hinreichend begründeten Anzeigen der Betheiligten ergibt, daß solche nicht Statt gefunden habe, zu bewirken.— Die Anwendung der in Gemäßheit dieser Verbindlichkeiten getroffenen allgemeinen Anordnungen auf die einzelnen Fälle bleibt jedoch den Regierungen allein überlassen.
        
        Art. LIV. Da nach dem Sinne des dreizehnten Artikels der Bundes-Acte, und den darüber erfolgten spätern Erklärungen, in allen Bundes-Staaten landständische Verfassungen Statt finden sollen, so hat die Bundes-Versammlung darüber zu wachen, daß diese Bestimmung in keinem Bundesstaate unerfüllt bleibe.
@@ -156,11 +172,17 @@ Wenn der Auftrag an mehrere Regierungen ergangen ist, so bestimmt die Bundes-Ver
        
        Art. LXIV. Wenn Vorschläge zu gemeinnützigen Anordnungen, deren Zweck nur durch: die zusammenwirkende Theilnahme aller Bundesstaaten vollständig erreicht werden kann, von einzelnen Bundes-Gliedern an die Bundes-Versammlung gebracht werden, und diese sich von der Zweckmäßigkeit und Ausführbarkeit solcher Vorschläge im Allgemeinen überzeugt, so liegt ihr ob, die Mittel zur Vollführung derselben in sorgfältige Erwägung zu ziehen, und ihr anhaltendes Bestreben dahin zu richten, die zu dem Ende erforderliche freiwillige Vereinbarung unter den sämmtlichen Bundes-Gliedern zu bewirken.
        
-       Art. LXV. Die in den besondern Bestimmungen der Bundes-Acte, Artikel 16, 18, 19 zur Berathung der Bundes-Versammlung gestellten Gegenstände bleiben derselben, um durch gemeinschaftliche Uebereinkunft zu möglichst gleichförmigen Verfügungen darüber zu gelangen, zur ferneren Bearbeitung vorbehalten.       Die vorstehende Acte wird als das Resultat einer unabänderlichen Vereinbarung zwischen den Bundes-Gliedern, mittelst Präsidial-Vortrags an den Bundestag gebracht, und dort, in Folge gleichlautender Erklärungen der Bundes-Regierungen, durch förmlichen Bundes-Beschluß zu einem Grund-Gesetz erhoben werden, welches die nämliche Kraft und Gültigkeit wie die Bundes-Acte selbst haben und der Bundes-Versammlung zur unabweichlichen Richtschnur dienen soll.
+       Art. LXV. Die in den besondern Bestimmungen der Bundes-Acte, Artikel 16, 18, 19 zur Berathung der Bundes-Versammlung gestellten Gegenstände bleiben derselben, um durch gemeinschaftliche Uebereinkunft zu möglichst gleichförmigen Verfügungen darüber zu gelangen, zur ferneren Bearbeitung vorbehalten.
+
+       Die vorstehende Acte wird als das Resultat einer unabänderlichen Vereinbarung zwischen den Bundes-Gliedern, mittelst Präsidial-Vortrags an den Bundestag gebracht, und dort, in Folge gleichlautender Erklärungen der Bundes-Regierungen, durch förmlichen Bundes-Beschluß zu einem Grund-Gesetz erhoben werden, welches die nämliche Kraft und Gültigkeit wie die Bundes-Acte selbst haben und der Bundes-Versammlung zur unabweichlichen Richtschnur dienen soll.
+
        Zur Urkunde dessen haben sämmtliche hier versammelte Bevollmächtigte die gegenwärtige Acte unterzeichnet und mit ihren Wappen untersiegelt.
+
        So geschehen zu Wien, den fünfzehnten des Monats May im Fahr Ein tausend Achthundert und Zwanzig. (Folgen die Unterschriften.)
 
-----------------------
+---
+---
+
 
 [![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/De_Zeumer_V2_552.jpg/800px-De_Zeumer_V2_552.jpg)](https://drive.proton.me/urls/MEY7CR9XXM#rIhfRk0TC47j)
 
