@@ -1045,6 +1045,58 @@ Nach.
 
 ![Screenshot_20251228_162416~2.jpg](https://github.com/user-attachments/assets/b8ce173c-f1fa-4aae-aa7a-d66a28eec339) 240
 
+-240-
+
+Nachdem diese drei Dokumente vorgelesen, haben die drei Süddeutschen Bevollmächtigten den Inhalt derselben, unter Bezugnahme auf die von dem Grafen von von Bray. Bray-Steinburg, dem Freiherrn von Wächter, dem Minister Mittnacht acht und dem Minister Jolly bei der Unterzeichnung des Präliminar Friedens d. d. Versailles, den 26. Februar d. J. abgegebene Erklärung, genehmigt, wie wenn die bezeichneten drei Schriftstücke Wort für Wort dem gegenwärtigen Protokolle eingerückt wären.
+
+Zu Urkund dessen ist dieses Protokoll nach erfolgter Vorlesung und Ge nehmigung von den Anwesenden unter Beidrückung ihrer Siegel wie folgt unterzeichnet worden.
+
+(L. S.) Arnim.
+
+(L. S.) Quadt.
+
+(L. S.) v. Uxkull
+
+(L. S.) Schweizer.
+
+Geschehen Frankfurt am Main, den 20. Mai 1871.
+
+Ausgefertigt zu Frankfurt am Main am 20. Mai 1871.
+
+Die Unterzeichneten,
+
+der Fürst v. Bismarck, Kanzler des Deutschen Reichs,
+
+der Kaiserlich Deutsche außerordent. liche Gesandte und bevollmächtigte Minister am Päpstlichen Stuhle, Graf Harry v. Arnim,
+
+einerseits, und
+
+der Minister der auswärtigen Angelegenheiten der Französischen Republik, Jules Favre,
+
+der Finanzminister der Französischen Republik, Augustin Thomas Joseph Pouyer Quertier,
+
+das Mitglied der Französischen National-Versammlung Marc Thomas Eugène de Goulard,
+
+andererseits,
+
+Der Unterzeichner,
+
+Herr Jules Favre, Außenminister der Französischen Republik,
+
+Herr Augustin Thomas Joseph Pouyer-Quertier, Finanzminister der Französischen Republik, und
+
+Herr Marc Thomas Eugène de Goulard, Mitglied der Nationalversammlung,
+
+auf der einen Seite,
+
+auf der anderen Seite
+
+Fürst Bismarck, Kanzler des Heiligen Römischen Reiches,
+
+Graf Harry von Arnim, außerordentlicher Gesandter und bevollmächtigter Minister Seiner Majestät des Kaisers von Deutschland beim Heiligen Stuhl,
+
+---
+
 ![Screenshot_20251228_162420~2.jpg](https://github.com/user-attachments/assets/16d9ee08-8a18-4cd8-b41d-229834f5595e) 241
 
 ![Screenshot_20251228_162425~2.jpg](https://github.com/user-attachments/assets/e72e2705-442d-4841-8180-92dcfd7b27b9) 242
