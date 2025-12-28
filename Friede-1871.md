@@ -1,3 +1,5 @@
+https://github.com/Znih/Znih/discussions/16#discussioncomment-15357251
+
 ![Screenshot_20251120_094358~2.jpg](https://github.com/user-attachments/assets/eb525960-63bf-4b84-ab96-291fd76f0750)
 
 ```
