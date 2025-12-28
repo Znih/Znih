@@ -99,7 +99,7 @@ westlichen Grenze dieses Kantons, schließt die Gemeinden Saales, Bourg-Bruche, 
 
 Das Deutsche Reich wird diese Gebiete für immer mit vollem Souverainetäts und Eigenthumsrechte besißen. Eine internationale Kommission, welche beider. seits aus der gleichen Zahl von Vertretern der Hohen vertragenden Theile gebildet wird, soll unmittelbar nach dem Austausche der Ratifikationen des gegenwärtigen Vertrages beauftragt werden, an Ort und Stelle die neue Grenzlinie in Gemäßheit der vorstehenden Verabredungen festzustellen.
 
-Diese Kommission wird die Vertheilung des Grundbesikes und der Kapitalien leiten, welche bis jest Distrikten oder Gemeinden, die durch die neue Grenze getrennt werden, gemeinschaftlich angehört haben; im Falle einer Meinungsverschiedenheit über die Grenze und die Ausführungs-Bestimmungen werden die Kommissionsmitglieder die Entscheidung ihrer Regierungen einholen.
+Diese Kommission wird die Vertheilung des Grundbesikes und der Kapitalien leiten, welche bis jetzt Distrikten oder Gemeinden, die durch die neue Grenze getrennt werden, gemeinschaftlich angehört haben; im Falle einer Meinungsverschiedenheit über die Grenze und die Ausführungs-Bestimmungen werden die Kommissionsmitglieder die Entscheidung ihrer Regierungen einholen.
 
 Die Grenze, wie sie vorstehend festgesetzt ist, findet sich mit grüner Farbe auf zwei übereinstimmenden Exemplaren der Karte von den Gebietstheilen, welche das General-Gouvernement des Elsaß bilden",
 
@@ -141,7 +141,7 @@ Mindestens Eine Milliarde Franks wird im Laufe des Jahres 1871. und der ganze Re
 
 Artikel III.
 
-Die Räumung der Französischen, durch die Deutschen Truppen besesten Gebiete wird nach der Ratifikation des gegenwärtigen Vertrages durch die in Bordeaux tagende National Versammlung beginnen. Die Deutschen Truppen werden unmittelbar nach dieser Ratifikation das Innere der Stadt Paris, sowie die am linken Ufer der Seine belegenen Forts verlassen und in möglichst kurzer, durch ein Einvernehmen zwischen den Militairbehör den beider Länder festgesekter Frist die Departements Calvados, Orne, Sarthe, Eure et Loir, Loiret, Loir et Cher, Indre
+Die Räumung der Französischen, durch die Deutschen Truppen besesten Gebiete wird nach der Ratifikation des gegenwärtigen Vertrages durch die in Bordeaux tagende National Versammlung beginnen. Die Deutschen Truppen werden unmittelbar nach dieser Ratifikation das Innere der Stadt Paris, sowie die am linken Ufer der Seine belegenen Forts verlassen und in möglichst kurzer, durch ein Einvernehmen zwischen den Militairbehör den beider Länder festgesetzter Frist die Departements Calvados, Orne, Sarthe, Eure et Loir, Loiret, Loir et Cher, Indre
 
 
 ---
@@ -1098,6 +1098,20 @@ Graf Harry von Arnim, außerordentlicher Gesandter und bevollmächtigter Ministe
 ---
 
 ![Screenshot_20251228_162420~2.jpg](https://github.com/user-attachments/assets/16d9ee08-8a18-4cd8-b41d-229834f5595e) 241
+
+-241-
+
+waren heute zusammengetreten, um den Austausch der Ratifikationen des am 10. d. M. Hierselbst unterzeichneten defi nitiven Friedensvertrages zwischen dem Deutschen Reich und der Französischen Republik zu bewirken. Der Fürst v. Bismarck und der Graf v. Arnim legten die von Seiner Majestät dem Deutschen Kaiser und Könige von Preußen am 16. d. M. vollzogene Ratifikations-Urkunde vor, sowie die Ausfertigung des Protokolls, d. d. Berlin, den 15. d. M., welches der Deutschen Ratifikations-Urkunde einverleibt ist und Inhalts dessen Seine Majestät der König von Bayern, Seine Majestät der König von Württemberg und Seine Königliche Hoheit der Großherzog von Baden durch Ihre Bevollmächtigten ausdrücklich dem Friedensvertrage vom 10. d. M. beige treten sind, die Minister Jules Favre und Pouyer Quertier die von dent Chef du Pouvoir exécutif der Französischen Republik am 18. d. M. vollzogene Ratifikations-Urkunde vor, sowie eine in gehöriger Form erfolgte Ausfertigung des am 18. d. M. von der National Versammlung angenommenen, den Friedensvertrag ratifizirenden Gesezes, durch dessen zweiten Artikel die National Versammlung der Grenzberichtigung zu stimunt, welche in dem dritten dritten Absatz des Artikels 1. des Friedensvertrages vor. geschlagen ist als Gegenleistung für die Erweiterung des im zweiten Absatz des genannten Artikels und in dem dritten Additional Artikel bezeichneten Rayons um Belfort.
+
+Nachdem beide Dokumente vorgelesen waren, nahmen die Deutschen Bevoll mächtigten Akt von dem oben bezeichne ten, durch die National Versammlung votirten Geseze, die Französischen Bevoll mächtigten von dem Beitritt zu dem Vertrage, welchen die Bevollmächtigten Seiner Majestät des Königs von Bayern,
+
+trafen sich heute, um den Austausch der Ratifikationsurkunden des endgültigen Friedensvertrags zwischen der Französischen Republik und dem Deutschen Kaiserreich fortzusetzen, der am 10. Mai dieses Jahres in dieser Stadt unterzeichnet wurde.
+
+Herr Jules Favre und Herr Pouyer-Quertier legten die vom Präsidenten der Exekutive der Französischen Republik am 18. Mai unterzeichnete Ratifikationsurkunde sowie eine ordnungsgemäß ausgestellte Kopie des Gesetzes zur Ratifizierung des Vertrags vor, das von der Nationalversammlung am 18. Mai verabschiedet wurde. Gemäß Artikel 2 dieses Gesetzes stimmt die Nationalversammlung der in Artikel 1 Absatz 3 des Vertrags vorgeschlagenen Grenzkorrektur im Austausch für die in Absatz 3 des genannten Artikels und im dritten Zusatzartikel vorgesehene Erweiterung des Radius um Belfort zu.
+
+Fürst Bismarck und Graf Arnim überreichten ihrerseits die Ratifikationsurkunde, die Seine Majestät der Kaiser des Deutschen Reiches und der König von Preußen am 16. dieses Monats unterzeichnet hatten, sowie die Abschrift des Protokolls vom 15. Mai aus Berlin, das der deutschen Ratifikationsurkunde beigefügt war. Kraft dieses Protokolls traten Seine Majestät der König von Bayern, Seine Majestät der König von Württemberg und Seine Königliche Hoheit der Großherzog von Baden durch ihre jeweiligen Bevollmächtigten dem Friedensvertrag vom 10. dieses Monats ausdrücklich bei. Nachdem diese beiden Dokumente verlesen worden waren, nahmen die französischen Bevollmächtigten den Beitritt des Vertrags durch die Bevollmächtigten Ihrer Majestäten, der Könige von Bayern und Württemberg, und Seiner Königlichen Hoheit, des Großherzogs von Baden, im Namen ihrer Herrscher zur Kenntnis.
+
+---
 
 ![Screenshot_20251228_162425~2.jpg](https://github.com/user-attachments/assets/e72e2705-442d-4841-8180-92dcfd7b27b9) 242
 
