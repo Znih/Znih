@@ -198,6 +198,45 @@ Die Interessen der Einwohner in dem von Frankreich abgetretenen Gebiete werden i
 
 ![Screenshot_20251228_162238~2.jpg](https://github.com/user-attachments/assets/08010c65-41db-49c1-9eda-13db52d47803) 221
 
+-221-
+
+Sie könnten dadurch ihre Personen oder ihr Eigentum verletzen.
+
+
+ARTICLE VI.
+
+Kriegsgefangene, die noch nicht im Rahmen eines Gefangenenaustauschs freigelassen wurden, werden unmittelbar nach Ratifizierung dieser Vorbestimmungen zurückgeführt. Um den Transport französischer Gefangener zu beschleunigen, stellt die französische Regierung den deutschen Behörden auf deutschem Gebiet einen Teil ihres Eisenbahnwagenbestands zur Verfügung, in einem Umfang, der durch Sondervereinbarungen festgelegt wird, und zu den Preisen, die die französische Regierung in Frankreich für Militärtransporte zahlt.
+
+ARTICLE VII.
+
+Die Aufnahme der Verhandlungen über den endgültigen Friedensvertrag, der auf der Grundlage dieser Vorbemerkungen geschlossen werden soll, erfolgt in Brüssel unmittelbar nach der Ratifizierung dieser Vorbemerkungen durch die Nationalversammlung und durch Seine Majestät den Kaiser des Deutschen Reiches.
+
+ARTICLE VIII.
+
+Nach Abschluss und Ratifizierung des endgültigen Friedensvertrags wird die Verwaltung der noch von deutschen Truppen besetzten Departements an die französischen Behörden übergeben. Diese sind jedoch verpflichtet, allen Befehlen Folge zu leisten, die die Befehlshaber der deutschen Truppen für notwendig erachten, ungeachtet der Sicherheit, Versorgung und des Einsatzes der Truppen.
+
+In den besetzten Departements erfolgt die Erhebung der Steuern nach Ratifizierung dieses Vertrags.
+
+---
+
+ergreifen dürfen, welche deren Person oder Eigenthum antastet.
+
+Artikel VI.
+
+Die Kriegsgefangenen, welche nicht bereits auf dem Wege der Auswechselung in Freiheit gesetzt worden sind, werden unverzüglich nach der Ratifikation der gegenwärtigen Präliminarien zurückgegeben werden. Um den Transport der Französischen Gefangenen zu beschleunigen, wird die Französische Regierung einen Theil des Fahrmaterials ihrer Eisenbahnen innerhalb des Deutschen Gebiets zur Verfügung der Deutschen Behörden stellen, und zwar in einer, durch besondere Verabredung festzustellenden Ausdehnung, sowie zu denjenigen Preisen, welche in Frankreich von der Französischen Regierung für Militairtransporte gezahlt werden.
+
+Artikel VII.
+
+Die Eröffnung der Verhandlungen über den auf Grundlage der gegenwärtigen Präliminarien abzuschließenden endgültigen Frieden wird in Brüssel unverzüglich nach Ratifikation der ersteren durch die Natio nalversammlung und durch Seine Majestät den Deutschen Kaiser stattfinden.
+
+Artikel VIII.
+
+Nach Abschluß und Ratifikation des endgültigen Friedensvertrages wird die Verwaltung der Departements, welche noch von Deutschen Truppen besest bleiben sollen, den Französischen Behörden wieder übergeben werden. Doch sollen diese lekteren gehalten sein, den Befehlen, welche die Befehlshaber der Deutschen Truppen im Interesse der Sicherheit, des Unterhalts und der Vertheilung ihrer Truppen erlassen zu müssen glauben, Folge zu leisten.
+
+Die Erhebung der Steuern in den besetzten Departements wird nach Rati fikation des gegenwärtigen Vertrages für
+
+---
+
 ![Screenshot_20251228_162243~2.jpg](https://github.com/user-attachments/assets/acf200e2-86ce-4d90-ba3d-bb34ee3c1964) 222
 
 ---
