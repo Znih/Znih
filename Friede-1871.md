@@ -933,6 +933,50 @@ E. de Goulard.
 
 ![Screenshot_20251228_162402~2.jpg](https://github.com/user-attachments/assets/b63e121d-0206-4b2d-b09c-352563b96300) 238
 
+-238-
+
+Ausgefertigt zu Frankfurt am Main am 10. Mai 1871.
+
+Der Unterzeichnete hat die Verlesung des endgültigen Friedensvertrags mitverfolgt und festgestellt, dass dieser mit den zwischen ihnen getroffenen Vereinbarungen übereinstimmt.
+
+Kraft dessen brachten sie ihre Unterschriften darauf an.
+
+Die drei zusätzlichen Artikel wurden separat unterzeichnet. Es wird davon ausgegangen, dass sie einen integralen Bestandteil des Friedensvertrags bilden werden.
+
+Der unterzeichnete Reichskanzler des Deutschen Reiches erklärte, er werde sich verpflichten, den Vertrag den Regierungen von Bayern, Württemberg und Baden zu übermitteln und deren Beitritt zu erwirken.
+
+v. Bismarck. Arnim.
+
+Jules Favre
+
+Pouyer-Quertier. E. de Goulard.
+
+---
+
+Geschehen zu Frankfurt a. M., den 10. Mai 1871.
+
+Die Unterzeichneten, nachdem sie die Vorlesung des endgültigen Friedens-Vertrages angehört haben, finden denselben in Uebereinstimmung mit dem, was zwischen ihnen verabredet worden ist.
+
+In Folge dessen haben sie denselben mit ihren Unterschriften versehen.
+
+Die drei Zusaz Artikel sind besonders unterzeichnet worden. Es ist vereinbart worden, daß sie einen integrirenden Theil des Friedens Vertrages bilden.
+
+Der unterzeichnete Kanzler des Deutschen Reichs erklärte, daß er es übernehme, den Vertrag den Regierungen von Bayern, Württemberg und Baden mitzutheilen und ihren Beitritt zu bewirken.
+
+von Bismarck. Arnim.
+
+Jules Favre. Pouyer Quertier. E. de Goulard.
+
+Protokoll, betreffend den Beitritt Bayerns, Württembergs und Badens zu dem Friedens-Vertrage vom 10. Mai 1871. Vom 15. Mai 1871.
+
+Geschehen Berlin, den 15. Mai 1871.
+
+Der Kaiserlich Deutsche außerordentliche Gesandte und bevollmächtigte Minister am Päpstlichen Hofe Graf Harry von Arnim, der Königlich Bayerische be vollmächtigte Minister Graf Friedrich Wilhelm von Quadt, Wykrad Jsny, der Königlich Württembergische Geheime Legationsrath Graf August von Urkull und der Großherzoglich Badische Geheime Rath Freiherr Allesina von Schweizer waren heute zusammengetreten, als Bevollmächtigte, beziehungsweise Seiner Majestät des Deutschen Kaisers und Königs von Preußen, Seiner Majestät des Königs von Bayern, Seiner Majestät des Königs von Württemberg und Seiner Königlichen Hoheit des Großherzogs von Baden, durch die theils bei den Friedensverhandlungen in Brüssel, theils heute vorgelegten und allerseits gut und richtig befundenen Vollmachten legitimirt, um die nachträgliche Vollziehung des am 10. d. Mts. in Frankfurt a. M. unterzeichneten Friedensvertrages zwischen Deutschland und Frankreich durch die genannten drei Süddeutschen Bevollmächtigten zu bewirken.
+
+Der
+
+---
+
 ![Screenshot_20251228_162410~2.jpg](https://github.com/user-attachments/assets/33834539-dd56-41d7-a906-6063bc46ad54) 239
 
 ![Screenshot_20251228_162416~2.jpg](https://github.com/user-attachments/assets/b8ce173c-f1fa-4aae-aa7a-d66a28eec339) 240
