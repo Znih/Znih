@@ -150,6 +150,24 @@ Die Räumung der Französischen, durch die Deutschen Truppen besesten Gebiete wi
 
 ![Screenshot_20251228_162227~2.jpg](https://github.com/user-attachments/assets/b6377777-6ab0-4f80-ab8b-d8c14219a6b2) 219
 
+-219-
+
+Die Départements Orne, Sarthe, Eure-et-Loir, Loiret, Loir-et-Cher, Indre-et-Loire und Yonne sowie die Départements Seine-Inférieure, Eure, Seine-et-Oise, Seine-et-Marne, Aube und Côte-d’Or bis zum linken Seineufer werden zurückgezogen. Gleichzeitig ziehen sich die französischen Truppen hinter die Loire zurück, die sie vor Unterzeichnung des endgültigen Friedensvertrags nicht überqueren dürfen. Die Garnison von Paris, deren Stärke 40.000 Mann nicht überschreiten darf, und die für die Sicherheit befestigter Städte unerlässlichen Garnisonen sind von dieser Bestimmung ausgenommen.
+
+Die Evakuierung der zwischen dem rechten Seineufer und der Ostgrenze gelegenen Départements durch deutsche Truppen erfolgt schrittweise nach Ratifizierung des endgültigen Friedensvertrags und Zahlung der ersten halben Milliarde des in Artikel II festgelegten Beitrags, beginnend mit den Paris am nächsten gelegenen Départements, und wird mit der Zahlung des Beitrags fortgesetzt; nach der ersten Zahlung einer halben Milliarde erfolgt diese Evakuierung in den folgenden Départements: Somme, Oise und den Teilen der Départements Seine-Inférieure, Seine-et-Oise, Seine-et-Marne, die am rechten Seineufer liegen, sowie dem Teil des Départements Seine und den am rechten Ufer gelegenen Festungen.
+
+Nach der Zahlung von zwei Milliarden wird die deutsche Besatzung nur noch die Départements Marne, Ardennen, Haute-Marne, Maas, Vogesen, Meurthe sowie die Festung Belfort mit ihrem Territorium umfassen.
+
+---
+
+et Loire und Yonne vollständig, sowie die Departements Seine inferieure, Eure, Seine et Dise, Seine et Marne, Aube und Cote d'or bis zum linken Ufer der Seine räumen. Die Französischen Truppen werden sich gleichzeitig hinter die Loire zurückziehen, welche sie vor Unterzeichnung des endgültigen Friedensvertrages nicht überschreiten dürfen. Ausgenommen von dieser Bestimmung sind die Garnison von Paris, deren Stärke die Zahl von 40,000 Mann nicht überschreiten darf, und die zur Sicherheit der festen Plätze unerläßlichen Garnisonen.
+
+Die Räumung der zwischen dem rechten Ufer der Seine und der Ostgrenze gelegenen Departements durch die Deutschen Truppen soll nach der Ratifikation des endgültigen Friedensvertrages und der Zahlung der ersten halben Milliarde der im Artikel II. verabredeten Kontribu tion allmälig erfolgen, indem sie mit den Paris am nächsten gelegenen Departements beginnt, und je nachdem die Zahlungen der Kontribution bewirkt sein werden, fortgesest wird. Nach der ersten Zahlung einer halben Milliarde wird diese Räumung in folgenden Departements stattfinden: Somme, Dise und den Theilen der De partements Seine inferieure, Seine et Dise, Seine et Marne, welche auf dem rechten Seine Ufer gelegen sind, sowie in dem Theile des Departements Seine und in den Forts auf dem rechten Seine-Ufer.
+
+Nach der Zahlung von zwei Milliarden wird die Deutsche Besetzung nur noch die Departements Marne, Ardennes, Haute Marne, Meuse, Vosges, Meurthe, sowie die Festung Belfort mit ihrem Gebiete umfassen, die als Pfand für die rückständigen drei Milliarden dienen sollen.
+
+---
+
 ![Screenshot_20251228_162233~2.jpg](https://github.com/user-attachments/assets/b95ac4a8-e2b3-4d3a-8efe-a1d96c533f26) 220
 
 ![Screenshot_20251228_162238~2.jpg](https://github.com/user-attachments/assets/08010c65-41db-49c1-9eda-13db52d47803) 221
