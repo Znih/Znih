@@ -19,7 +19,7 @@ II Allgemeine Bestimmungen.
 
        Art. I. Die souverainen Fürsten und freien Städte Deutschlands mit Einschluß Ihrer Majestäten des Kaisers von Oesterreich und der Könige von Preußen, von Dänemark [Nordische Könige] und der Niederlande, und zwar
        
-       Der Kaiser von Oesterreich, der König von Preußen, beyde für ihre gesammten vormals zum deutschen Reich [I. Reich] gehörigen Besitzungen,
+       Der Kaiser von Oesterreich, der König von Preußen, beyde für ihre gesammten vormals zum deutschen Reich gehörigen Besitzungen,
        
        der König von Dänemark für Holstein, der König der Niederlande für das Großherzogthum Luxemburg, vereinigen sich zu einem beständigen Bunde, welcher der deutsche Bund heißen soll.
        
@@ -96,7 +96,7 @@ Alle nähern die Vertagung und die Besorgung der etwa während derselben vorkomm
        
        Art. XI. Alle Mitglieder des Bundes versprechen sowohl ganz Deutschland als jeden einzelnen Bundesstaat gegen jeden Angriff in Schutz zunehmen und garantiren sich gegenseitig ihre sämmtlichen unter dem Bunde begriffenen Besitzungen.
 
-Bey einmal erklärtem Bundeskrieg darf kein Mitglied einseitige Unterhandlungen mit dem Feinde eingehen, noch einseitig Waffenstillstand oder Frieden schließen. [wie Österreich 1918]
+Bey einmal erklärtem Bundeskrieg darf kein Mitglied einseitige Unterhandlungen mit dem Feinde eingehen, noch einseitig Waffenstillstand oder Frieden schließen.
        Die Bundes-Glieder behalten zwar das Recht der Bündnisse aller Art; verpflichten sich jedoch in keine Verbindungen einzugehen, welche gegen die Sicherheit des Bundes oder einzelner Bundesstaaten gerichtet wären.
        
        Die Bundesglieder machen sich ebenfalls verbindlich einander unter keinerley Vorwand zu bekriegen, noch ihre Streitigkeiten mit Gewalt zu verfolgen, sondern sie bey der Bundesversammlung anzubringen. Dieser liegt alsdann ob die Vermittlung durch einen Ausschuß zu versuchen; falls dieser Versuch fehlschlagen sollte, und demnach eine richterliche Entscheidung nothwendig würde, solche durch eine wohlgeordnete Austrägal Instanz zu bewirken, deren Ausspruch die streitenden Theile sich sofort zu unterwerfen haben.
@@ -107,7 +107,7 @@ Außer den in den vorhergehenden Artikeln bestimmten auf die Feststellung des Bu
 
 # [263]    Nr. 218. Deutsche Bundes-Akte. 1815, Art.XII—XIV.   543
 
-       Art. XII. Diejenigen Bundesglieder, deren Besitzungen nicht eine Volkszahl von 300,000 Seelen erreichen, werden sich mit den ihnen verwandten Häusern oder andern Bundes-Gliedern mit welchen sie wenigstens eine solche Volkszahl ausmachen zu Bildung eines gemeinschaftlichen Obersten-Gerichts vereinigen. [Selbstbestimmungsrecht d. Völker]
+       Art. XII. Diejenigen Bundesglieder, deren Besitzungen nicht eine Volkszahl von 300,000 Seelen erreichen, werden sich mit den ihnen verwandten Häusern oder andern Bundes-Gliedern mit welchen sie wenigstens eine solche Volkszahl ausmachen zu Bildung eines gemeinschaftlichen Obersten-Gerichts vereinigen.
 
        In den Staaten von solcher Volksmenge, wo schon jetzt dergleichen Gerichte dritter Instanz vorhanden sind, werden jedoch diese in ihrer bisherigen Eigenschaft erhalten, wofern nur die Volkszahl, über welche sie sich erstrecken, nicht unter 150,000 Seelen ist.
        
@@ -120,14 +120,11 @@ Außer den in den vorhergehenden Artikeln bestimmten auf die Feststellung des Bu
        Art. XIV. Um den im Jahr 1806 und seit dem mittelbar gewordenen ehemaligen Reichsständen und Reichs-Angehörigen in Gemäßheit der gegenwärtigen Verhältnisse in allen Bundesstaaten einen gleichförmig bleibenden Rechts-Zustand zu verschaffen, so vereinigen die Bundesstaaten sich dahin:
        
 a) Daß diese Fürstlichen und gräflichen Häuser fortan nichtsdestoweniger zu dem hohen Adel in Deutschland gerechnet werden, und ihnen das Recht der Ebenbürtigkeit, in dem bisher damit verbundenen Begriff verbleibt;
-b) sind die Häupter dieser Häuser die ersten Standesherrn in dem Staate zudem sie gehören; Sie und ihre Familien bilden die privilegirteste Klasse in demselben, insbesondere in Ansehung der Besteuerung; [Reuß ist der Staat, kein Unterthan o. Staatsunterthan.]
+b) sind die Häupter dieser Häuser die ersten Standesherrn in dem Staate zudem sie gehören; Sie und ihre Familien bilden die privilegirteste Klasse in demselben, insbesondere in Ansehung der Besteuerung;
 c) es sollen ihnen überhaupt in Rücksicht ihrer Personen, Familien und Besitzungen alle diejenigen Rechte und Vorzüge zugesichert werden oder bleiben, welche aus ihrem Eigenthum und dessen ungestörten Genusse herrühren, und nicht zu der Staatsgewalt und den höheren Regierungsrechten gehören. Unter vorerwähnten Rechten sind insbesondere und namentlich begriffen:
-
         1) die unbeschränkte Freyheit ihren Aufenthalt in jedem zu dem Bunde gehörenden, oder mit demselben im Frieden lebenden Staat zunehmen;
         2) werden nach den Grundsätzen der früheren deutschen Verfassung die noch bestehenden Familien Verträge aufrecht erhalten, und ihnen die Befugniß zugesichert über ihre Güter und Familien-Verhältnisse verbindliche Verfügungen zu treffen, welche jedoch dem Souverain vorgelegt und bey den höchsten Landesstellen zur allgemeinen Kenntniß und Nachachtung gebracht werden müssen. Alle bisher dagegen erlassenen Verordnungen sollen für künftige Fälle nicht weiter anwendbar seyn;
-	
         3) privilegirter Gerichtsstand und Befreyung von aller Militairpflichtigkeit für sich und ihre Familien;
-	
         4) die Ausübung der bürgerlichen und peinlichen Gerechtigkeitspflege in erster, und wo die Besitzung groß genug ist, in zweyter Instanz, der Forstgerichtbarkeit, Orts-Polizei und Aufsicht in Kirchen und Schulsachen, auch über milde Stiftungen, jedoch nach Vorschrift der Landesgesetze, welchen sie so, wie der Militärverfassung und der Oberaufsicht der Regierungen über jene Zuständigkeiten unterworfen bleiben.
 
        Bey der näheren Bestimmung der angeführten Befugnisse sowohl, wie überhaupt und in allen übrigen Punkten wird zur weitern Begründung und Feststellung eines in allen [3] deutschen Bundes-Staaten übereinstimmenden Rechtszustandes der mittelbar gewordenen Fürsten, Grafen und Herren die in dem Betreff erlassene Königliche Bayrische Verordnung vom Jahr 1807 als Basis und Norm unterlegt werden.
@@ -158,16 +155,12 @@ In den durch den Frieden von Lunneville vom 9. Februar 1801 von Deutschland abge
        
 Dieses soll auch da Statt finden, wo die Aufhebung der Posten seit 1803 gegen den Inhalt des Reichsdeputationshauptschlusses bereits geschehen wäre, in sofern diese Entschädigung durch Verträge nicht schon definitiv festgesetzt ist.
 
-       Art. XVIII. Die verbündeten Fürsten und freyen Städte kommen überein den Unterthanen der deutschen Bundesstaaten folgende Rechte zuzusichern:
-       
+       Art. XVIII. Die verbündeten Fürsten und freyen Städte kommen überein den Unterthanen der deutschen Bundesstaaten folgende Rechte zuzusichern:  
     a) Grundeigenthum ausserhalb des Staates, den sie bewohnen, zu erwerben und zu besitzen, ohne deshalb in dem fremden Staate mehreren Abgaben und Lasten unterworfen zu seyn, als dessen eigene Unterthanen.
-    
     b) Die Befugniß
 1tens des freyen Wegziehens aus einem deutschen Bundesstaat in den andern, derer weißlich sie zu Unterthanen annehmen will, auch
-2tens in Civil und Militärdienste desselben zu treten, beydes jedoch nur in so fern feine Verbindlichkeit zu Militärdiensten gegen das bisherige Vaterland im Wege stehe; und damit wegen der dermalen vorwaltenden Verschiedenheit der gesetzlichen Vorschriften über Militärpflichtigkeit hierunter nicht ein ungleichartiges für einzelne [der 3] Bundes-Staaten nachtheiliges Verhältniß entstehen möge, so wird bey der Bundesversammlung die Einführung möglichst gleichförmiger Grundsätze über diesen Gegenstand in Berathung genommen werden. 
-
+2tens in Civil und Militärdienste desselben zu treten, beydes jedoch nur in so fern feine Verbindlichkeit zu Militärdiensten gegen das bisherige Vaterland im Wege stehe; und damit wegen der dermalen vorwaltenden Verschiedenheit der gesetzlichen Vorschriften über Militärpflichtigkeit hierunter nicht ein ungleichartiges für einzelne Bundes-Staaten nachtheiliges Verhältniß entstehen möge, so wird bey der Bundesversammlung die Einführung möglichst gleichförmiger Grundsätze über diesen Gegenstand in Berathung genommen werden.
     c) Die Freyheit von aller Nachsteuer (jus detractus, gabella emigrationis), in sofern das Vermögen in einen andern deutschen Bundesstaat übergeht und mit diesem nicht besondere Verhältnisse durch Freyzügigkeits Verträge bestehen.
-    
     d) Die Bundesversammlung wird sich bey ihrer ersten Zusammenkunft mit Abfassung gleichförmiger Verfügungen über die Preßfreyheit und die Sicherstellung der Rechte der Schriftsteller und Verleger gegen den Nachdruck beschäftigen.
     
        Art. XIX. Die Bundesglieder behalten sich vorbey der ersten Zusammenkunft der Bundesversammlung in Frankfurth wegen des Handels und Verkehrs zwischen den verschiedene Bundesstaaten, so wie wegen der Schifffahrt nach Anleitung der auf dem Kongreß zu Wien angenommenen Grundsätze in Berathung zu treten.
