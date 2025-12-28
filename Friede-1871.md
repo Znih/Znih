@@ -307,9 +307,63 @@ Der Austausch der Ratifikationen ist am 2. März 1871. zu Versailles erfolgt.
 
 ---
 
-Friede 1871 mit 18 Artikeln 
+Frankfurter Friede 1871 mit 18 Artikeln Gesetz-Nr. 657 ab S. 223 
 
 ![Screenshot_20251228_162248~2.jpg](https://github.com/user-attachments/assets/d10736cd-287c-48b2-9699-51934b9bcbbd) 223
+
+-223-
+
+(Nr. 657.) Friedensvertrag zwischen dem Deutschen Reich und Frankreich. 10. Mai 1871.
+
+Prinz Otto von Bismarck-Schönhausen, Reichskanzler des Deutschen Reiches,
+
+Graf Harry von Arnim, außerordentlicher Gesandter und bevollmächtigter Minister Seiner Majestät des Kaisers von Deutschland beim Heiligen Stuhl,
+
+im Namen Seiner Majestät des Kaisers von Deutschland einerseits und andererseits
+
+Herr Jules Favre, Außenminister der Französischen Republik,
+
+Herr Augustin Thomas Joseph Pouyer-Quertier, Finanzminister der Französischen Republik, und
+
+Herr Marc Thomas Eugene von
+
+Goulard, Mitglied der Versammlung
+
+national,
+
+im Namen der Französischen Republik, die sich darauf geeinigt hat, den vorläufigen Friedensvertrag vom 26. Februar des laufenden Jahres in der durch folgende Bestimmungen geänderten Fassung in einen endgültigen Friedensvertrag umzuwandeln,
+
+haben aufgehört:
+
+ARTIKEL 1
+
+Die Entfernung von der Stadt Belfort zur Grenzlinie, wie sie erstmals während der Verhandlungen von Versailles vorgeschlagen und auf der Karte an-Reichs Gesezbl. 1871 eingezeichnet wurde.
+
+---
+
+(Nr. 657.) (Uebersehung.) Friedens Vertrag zwischen dem Deutschen Reich und Frankreich. Vom 10. Mai 1871.
+
+Der Furst Otto von Bismarck. Schönhausen, Kanzler des Deut. schen Reichs,
+
+der Graf Harry von Arnim, außer ordentlicher Gesandter und bevoll. mächtigter Minister Sr. Majestät des Deutschen Kaisers bei dem Päpstlichen Stuhle,
+
+handelnd im Namen Sr. Majestät des Deutschen Kaisers, einerseits, andererseits
+
+Herr Jules Favre, Minister der auswärtigen Angelegenheiten der Französischen Republik,
+
+Herr Augustin Thomas Joseph Pouyer Quertier, Finanzminister der Französischen Republik, und
+
+Herr Marc Thomas Eugen de Goulard, Mitglied der National. versammlung,
+
+handelnd im Namen der Französischen Republik,
+
+sind übereingekommen, den Präliminar Friedensvertrag vom 26. Februar d. J. mit den durch die nachfolgenden Bestinunungen vorzunehmenden Abände rungen in einen endgültigen Friedensvertrag zu verwandeln und haben festgesetzt, was folgt:
+
+Artikel 1.
+
+Die Entfernung zwischen der Stadt Belfort und derjenigen Grenzlinie, welche ursprünglich bei den Unterhandlungen von Versailles vorgeschlagen und auf der, der ratifizirten Urkunde des Präli 42
+
+---
 
 ![Screenshot_20251228_162252~2.jpg](https://github.com/user-attachments/assets/29bc8019-21d2-476a-9b97-bee0f716c76a) 224
 
