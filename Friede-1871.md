@@ -6,7 +6,7 @@ Erste Seite des Friedensvertrages zwischen dem Deutschen Reich und Frankreich, F
 
 ---
 
-**Faksimile Vorfrieden Versailles 1870 und Frankfurter Frieden 1871 (Friedenswerk, BGBl. 1871 Aktenstück Nr. 26 Gesetz-Nrn. 656-656 S. 215-244) aus den Gesetzestexten**
+**Faksimile Vorfrieden Versailles 1870 und Frankfurter Frieden 1871 (Friedenswerk, BGBl. 1871 Aktenstück Nr. 26 Gesetz-Nrn. 656-657 S. 215-244) aus den Gesetzestexten**
 
 ![Screenshot_20251228_162107~2.jpg](https://github.com/user-attachments/assets/9505ca70-a58e-4f2e-8821-826363acccdd) 215
 
@@ -174,7 +174,7 @@ Nach der Zahlung von zwei Milliarden wird die Deutsche Besetzung nur noch die De
 
 <!--
 
-Das Gebiet, das als Sicherheit für die verbleibenden drei Milliarden dient und in dem die Zahl der deutschen Truppen fünfzigtausend Mann nicht übersteigen wird, ist von Seiner Majestät dem Kaiser als Sicherheit vorgesehen. Seine Majestät der Kaiser ist bereit, die territoriale Garantie in Form einer Teilbesetzung französischen Territoriums durch eine finanzielle Garantie zu ersetzen, sofern diese von der französischen Regierung unter Bedingungen angeboten wird, die Seine Majestät der Kaiser und König für die Interessen Deutschlands als ausreichend erachtet. Die drei Milliarden, deren Zahlung aufgeschoben wurde, werden ab dem Datum der Ratifizierung dieses Abkommens mit fünf Prozent verzinst.
+Das Gebiet, das als Sicherheit für die verbleibenden drei Milliarden dient und in dem die Zahl der deutschen Truppen fünfzigtausend Mann nicht übersteigen wird, ist von Seiner Majestät dem Kaiser als Sicherheit vorgesehen. Se. Majestät der Kaiser ist bereit, die territoriale Garantie in Form einer Teilbesetzung französischen Territoriums durch eine finanzielle Garantie zu ersetzen, sofern diese von der französischen Regierung unter Bedingungen angeboten wird, die Seine Majestät der Kaiser und König für die Interessen Deutschlands als ausreichend erachtet. Die drei Milliarden, deren Zahlung aufgeschoben wurde, werden ab dem Datum der Ratifizierung dieses Abkommens mit fünf Prozent verzinst.
 
 ARTIKEL IV.
 
@@ -186,11 +186,11 @@ Die Interessen der Bewohner der von Frankreich abgetretenen Gebiete werden in al
 
 -->
 
-Die Zahl der in denselben befindlichen Deutschen Truppen wird 50,000 Mann nicht überschreiten. Se. Majestät der Kaiser wird geneigt sein, an die Stelle der in der theilweisen Besetzung des Französischen Gebietes bestehenden Terri torialgarantie eine finanzielle Garantie treten zu lassen, wenn dieselbe von der Französischen Regierung unter Bedingun gen angeboten wird, welche von Sr. Ma. jestät dem Kaiser und König als für die Interessen Deutschlands ausreichend anerfannt werden. Die drei Milliarden, deren Zahlung verschoben sein wird, sollen vom Tage der Ratifikation der gegenwärtigen Uebereinkunft ab mit fünf Prozent verzinst werden.
+Die Zahl der in denselben befindlichen Deutschen Truppen wird 50,000 Mann nicht überschreiten. Se. Majestät der Kaiser wird geneigt sein, an die Stelle der in der theilweisen Besetzung des Französischen Gebietes bestehenden Terri torialgarantie eine finanzielle Garantie treten zu lassen, wenn dieselbe von der Französischen Regierung unter Bedingun gen angeboten wird, welche von Sr. Majestät dem Kaiser und König als für die Interessen Deutschlands ausreichend anerfannt werden. Die drei Milliarden, deren Zahlung verschoben sein wird, sollen vom Tage der Ratifikation der gegenwärtigen Uebereinkunft ab mit fünf Prozent verzinst werden.
 
 Artikel IV.
 
-Die Deutschen Truppen werden in den besetzten Departements Requisitionen, sei es in Geld, sei es in Naturalien, nicht vornehmen. Dafür wird die Verpflegung der Deutschen Truppen, welche in Frank reich zuruckbleiben, auf Kosten der Französischen Regierung erfolgen, und zwar in dem mit der Deutschen Militair.In. tendantur vereinbarten Maaße.
+Die Deutschen Truppen werden in den besetzten Departements Requisitionen, sei es in Geld, sei es in Naturalien, nicht vornehmen. Dafür wird die Verpflegung der Deutschen Truppen, welche in Frank reich zuruckbleiben, auf Kosten der Französischen Regierung erfolgen, und zwar in dem mit der Deutschen Militair-Intendantur vereinbarten Maaße.
 
 Artikel V.
 
