@@ -86,6 +86,29 @@ Frankreich verzichtet zu Gunsten des Deutschen Reichs auf alle seine Rechte und 
 
 ![Screenshot_20251228_162217~2.jpg](https://github.com/user-attachments/assets/f22684fd-6d12-407a-8059-d6008fee46ea) 217
 
+
+217
+
+Sie verläuft von der Vezouze bis zur Grenze des Kantons Schirmeck entlang der westlichen Grenze dieses Kantons, durchfließt die Gemeinden Saales, Bourg Bruche, Colroy-la-Roche, Plaine, Ranrupt, Saulxures und St. Blaise-la-Roche des Kantons Saales und fällt mit der westlichen Grenze der Départements Bas-Rhin und Haut-Rhin bis zum Kanton Belfort zusammen, von wo sie unweit von Vour-venans die südliche Grenze verlässt, um den Kanton Delle an der südlichen Grenze der Gemeinden Bourogne und Froide Fontaine zu durchqueren und die Schweizer Grenze zu erreichen, indem sie entlang der östlichen Grenzen der Gemeinden Jonchery und Delle verläuft.
+
+Das Deutsche Reich soll diese Gebiete auf Dauer in voller Souveränität und Eigentum besitzen. Eine internationale Kommission, bestehend aus gleich großen Vertretern der Hohen Vertragsparteien beider Seiten, wird unmittelbar nach dem Austausch der Ratifikationsurkunden dieses Vertrags mit der Durchführung der Grenzziehung vor Ort gemäß den vorstehenden Bestimmungen beauftragt.
+
+Diese Kommission wird die Übertragung von Land und Kapital überwachen, die bisher gemeinsam Bezirken oder Gemeinden gehörten, die durch die neue Grenze getrennt sind; im Falle von Meinungsverschiedenheiten über die Abgrenzung und die Umsetzungsmaßnahmen werden die Mitglieder der Kommission die Angelegenheit ihren jeweiligen Regierungen vorlegen.
+
+Die soeben beschriebene Grenze ist auf zwei identischen Exemplaren der Karte des Gebiets der Generalregierung Elsass grün markiert.
+
+westlichen Grenze dieses Kantons, schließt die Gemeinden Saales, Bourg-Bruche, Colroy la Roche, Plaine, Ranrupt, Saulgures und St. Blaise-la-Roche im Kanton Saales ein und fällt dann mit der westlichen Grenze der Departements Nieder und Oberrhein bis zum Kanton Belfort zusammen. Sie verläßt dessen Südgrenze unweit von Vourvenans, durchschneidet den Kanton Delle an den Südgrenzen der Gemeinden Bourogne und Froide Fontaine und erreicht die Schweizergrenze, indem sie längs der Ost. grenzen der Gemeinden Jonchery und Delle hinläuft.
+
+Das Deutsche Reich wird diese Gebiete für immer mit vollem Souverainetäts und Eigenthumsrechte besißen. Eine internationale Kommission, welche beider. seits aus der gleichen Zahl von Vertretern der Hohen vertragenden Theile gebildet wird, soll unmittelbar nach dem Austausche der Ratifikationen des gegenwärtigen Vertrages beauftragt werden, an Ort und Stelle die neue Grenzlinie in Gemäßheit der vorstehenden Verabredungen festzustellen.
+
+Diese Kommission wird die Vertheilung des Grundbesikes und der Kapitalien leiten, welche bis jest Distrikten oder Gemeinden, die durch die neue Grenze getrennt werden, gemeinschaftlich angehört haben; im Falle einer Meinungsverschiedenheit über die Grenze und die Ausführungs-Bestimmungen werden die Kommissionsmitglieder die Entscheidung ihrer Regierungen einholen.
+
+Die Grenze, wie sie vorstehend festgesetzt ist, findet sich mit grüner Farbe auf zwei übereinstimmenden Exemplaren der Karte von den Gebietstheilen, welche das General-Gouvernement des Elsaß bilden",
+
+41*
+
+---
+
 ![Screenshot_20251228_162222~2.jpg](https://github.com/user-attachments/assets/14a6abf1-6713-4a92-a8ec-13265fcbad22) 218
 
 ![Screenshot_20251228_162227~2.jpg](https://github.com/user-attachments/assets/b6377777-6ab0-4f80-ab8b-d8c14219a6b2) 219
