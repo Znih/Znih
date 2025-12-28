@@ -868,6 +868,24 @@ Die Deutsche Regierung wird der Französischen Regierung auf deren Verlangen all
 
 ![Screenshot_20251228_162350~2.jpg](https://github.com/user-attachments/assets/7b70712f-cf6b-42d3-a4a2-a3de7f820ec6) 236
 
+-236-
+
+Dieser Betrag wird von der in Artikel 7 festgelegten Kriegsentschädigung abgezogen. Da sich die Situation, die den zwischen der Ostbahngesellschaft und der Königlich Großherzoglichen Wilhelm-Luxemburgischen Eisenbahngesellschaft am 6. Juni 1857 und 21. Januar 1868 geschlossenen Abkommen sowie dem zwischen der Regierung des Großherzogtums Luxemburg und der Wilhelm-Luxemburgischen und der Französischen Ostbahngesellschaft am 5. Dezember 1868 geschlossenen Abkommen zugrunde lag, wesentlich geändert hat, sodass diese auf den durch die Bestimmungen in § 1 geschaffenen Sachverhalt nicht anwendbar sind, erklärt sich die deutsche Regierung bereit, die Rechte und Pflichten der Ostbahngesellschaft aus diesen Abkommen zu übernehmen.
+
+Für den Fall, dass die französische Regierung durch den Kauf der Konzession der Compagnie de l'Est oder durch eine Sondervereinbarung in die von diesem Unternehmen gemäß den vorgenannten Übereinkommen erworbenen Rechte eintritt, verpflichtet sie sich, diese Rechte innerhalb von sechs Wochen unentgeltlich an die deutsche Regierung abzutreten.
+
+Für den Fall, dass die genannte Subrogation nicht zustande kommt, wird die französische Regierung Konzessionen für Eisenbahnstrecken der Compagnie de l'Est, die sich auf französischem Gebiet befinden, nur unter der ausdrücklichen Bedingung erteilen, dass der Konzessionsnehmer keine Eisenbahnstrecken im Großherzogtum Luxemburg betreibt.
+
+Diese Summe wird von der im Artikel 7. festgesetzten Kriegsentschädigung in Abzug gebracht.
+
+In Erwägung, daß die Lage, auf welcher die zwischen der Ostbahngesellschaft und der Königlich Großherzoglichen Ge sellschaft der Wilhelm-Luxemburg-Bahnen am 6. Juni 1857. und am 21. Januar 1868. abgeschlossenen Konventionen, sowie diejenige Konvention beruht, welche zwischen der Regierung des Großherzogthunis Luxemburg und den Gesellschaften der Wilhelm Luxemburg-Bahnen und der Französischen Ostbahn unter dem 5. Dezember 1868. abgeschlossen ist, eine so wesentliche Veränderung erfahren hat, daß diese Konventionen zu der Sachlage nicht mehr passen, wie solche durch die im §. 1. enthaltenen Verabredungen geschaffen ist, erklärt die Deutsche Regierung sich bereit, ihrerseits für die aus diesen Konventionen für die Ostbahngesellschaft erwachsenden Rechte und Pflichten einzutreten.
+
+Die Französische Regierung verpflichtet sich, für den Fall, daß sie, sei es durch Rückkauf der Konzession der Ostbahn gesellschaft, sei es durch eine besondere Uebereinkunft in die von dieser Gesell schaft auf Grund der vorgedachten Konzessionen erworbenen Rechte eintritt, diese Rechte innerhalb einer Frist von sechs Wochen unentgeltlich an die Deutsche Regierung abzutreten.
+
+Für den Fall, daß dieser Eintritt in die Rechte der Ostbahngesellschaft nicht erfolgt, wird die Französische Regierung Konzessionen für die der Ostbahngesell schaft gehörigen und auf Französischem Boden gelegenen Linien nur unter der ausdrücklichen Bedingung ertheilen, daß der Konzessionar nicht die im Großherzogthum Luxemburg gelegenen Linien ausbeute.
+
+---
+
 ![Screenshot_20251228_162355~2.jpg](https://github.com/user-attachments/assets/e6298e8f-b1b5-4f54-a47c-0028eb5ec9ee) 237
 
 ![Screenshot_20251228_162402~2.jpg](https://github.com/user-attachments/assets/b63e121d-0206-4b2d-b09c-352563b96300) 238
