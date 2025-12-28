@@ -546,6 +546,40 @@ Die Bestimmungen des Vertrages vom 26. Februar über die Besekung Französischen
 
 ![Screenshot_20251228_162314~2.jpg](https://github.com/user-attachments/assets/553cba56-46e0-4a39-a22c-1a3e808c4c9c) 229
 
+-229-
+
+ARTIKEL 8.
+
+Die deutschen Truppen werden weiterhin auf Natural- und Geldforderungen in den besetzten Gebieten verzichten; diese Verpflichtung ihrerseits entspricht den Verpflichtungen, die die französische Regierung zu ihrem Unterhalt eingegangen ist. Sollte die französische Regierung trotz wiederholter Aufforderungen der deutschen Regierung die genannten Verpflichtungen nicht erfüllen, haben die deutschen Truppen das Recht, sich das für ihren Bedarf Notwendige durch die Erhebung von Steuern und Forderungen in den besetzten Departements und sogar außerhalb dieser zu beschaffen, falls ihre eigenen Mittel nicht ausreichen.
+
+Hinsichtlich der Versorgung der deutschen Truppen wird das derzeitige System bis zur Evakuierung der Pariser Festungen beibehalten.
+
+Gemäß den Bestimmungen der Konvention von Ferrières vom 11. März 1871 werden die in dieser Konvention vorgesehenen Reduzierungen nach der Evakuierung der Festungen umgesetzt.
+
+Sobald die Stärke der deutschen Armee unter fünfhunderttausend Mann gesunken ist, werden die unter diese Zahl fallenden Reduzierungen berücksichtigt, um eine proportionale Senkung der von der französischen Regierung zu zahlenden Kosten für die Aufrechterhaltung der Truppen zu ermitteln.
+
+ARTIKEL 9
+
+Die derzeitige Sonderbehandlung von Industrieprodukten aus abgetretenen Gebieten für die Einfuhr nach Frankreich wird für einen Zeitraum von sechs Monaten ab dem 1. März aufrechterhalten.
+
+---
+
+Artikel 8.
+
+Die Deutschen Truppen werden auch ferner in den besetzten Gebieten sich der Requifitionen in Naturalien und in Geld ent halten; da aber dieser ihrer Verpflichtung die von der Französischen Regierung wegen ihrer Verpflegung übernommenen Verpflichtungen gegenüberstehen, so sollen die Deutschen Truppen, wenn die Französische Regierung ungeachtet wiederholter Auf forderungen der Deutschen Regierung in Ausführung der gedachten Verpflichtungen zurückbleiben sollte, das Recht haben, sich das Nöthige für ihre Bedürfnisse durch Erhebung von Steuern und Requisitionen in den besetzten Departements und, wenn deren Hülfsmittel nicht hinreichen sollten, selbst außerhalb derselben zu beschaffen.
+
+Bezüglich der Verpflegung der Deutschen Truppen werden die gegenwärtig in Kraft stehenden Anordnungen bis zur Räumung der Forts von Paris aufrecht erhalten.
+
+Kraft der Uebereinkunft von Ferrières vom 11. März 1871. werden die durch diese Uebereinkunst angegebenen Reduktionen nach Räumung der Forts zur Ausführung kommen.
+
+Sobald der Effektivstand des Deute schen Heeres unter die Zahl von 500,000 Mann gesunken sein wird, sollen die unter diese Zahl eingetretenen Verminderungen in Anrechnung gebracht werden, um eine verhältnißmäßige Verminderung der von der Französischen Regierung für die Truppen bezahlten Unterhaltungskosten festzustellen.
+
+Artikel 9.
+
+Die gegenwärtig den Gewerbs Erzeugnissen der abgetretenen Gebiete bei der Einfuhr nach Frankreich gestattete Ausnahmebehandlung wird für einen Zeitraum von sechs Monaten, vom 1. März an gerechnet, unter den mit den Delegirten des
+
+---
+
 ![Screenshot_20251228_162319~2.jpg](https://github.com/user-attachments/assets/c67189ea-eb07-4fcd-b7a3-c10da0657b65) 230
 
 ![Screenshot_20251228_162323~2.jpg](https://github.com/user-attachments/assets/253916a2-fc59-4199-8027-7c3a38d69191) 231
