@@ -795,8 +795,50 @@ Jules Favre. (L. S.) Pouyer Quertier. (L. S.) E. de Goulard. (L.S.)
 43
 
 ---
+---
+
+Zusätzliche Artikel. BGBl. 1871 Nr. 26 (Nr. 667) S. 234-244
 
 ![Screenshot_20251228_162341~2.jpg](https://github.com/user-attachments/assets/96a36239-19e2-4260-8c4a-58979e8e873d) 234
+
+
+-234-
+
+Zusätzliche Artikel.
+
+ARTIKEL 1
+
+Abschnitt 1. Bis zum Zeitpunkt des Austauschs der Ratifikationsurkunden dieses Vertrags übt die französische Regierung ihr Recht aus, die der Ostbahngesellschaft gewährte Konzession zurückzukaufen. Die deutsche Regierung tritt in alle Rechte ein, die die französische Regierung durch den Rückkauf der Konzessionen an den in den abgetretenen Gebieten befindlichen Eisenbahnstrecken, ob fertiggestellt oder im Bau, erworben hat.
+
+Abschnitt 2. Folgendes ist in dieser Konzession enthalten:
+
+1. Sämtliches der Gesellschaft gehörendes Land, gleich aus welchem ​​Grund, sowie: Bahnhöfe und Bahnhofseinrichtungen, Schuppen, Werkstätten und Lager, Gleiswärterhäuser usw. usw.;
+
+2. alle Gebäude, die davon abhängen, sowie: Schranken, Zäune, Gleiswechsel, Weichen, Drehscheiben, Wasserentnahmestellen, Hydraulikkräne, fest installierte Maschinen usw. usw.;
+
+3. sämtliche Materialien, Brennstoffe und Vorräte aller Art, Bahnhofsmöbel, Werkstatt- und Bahnhofswerkzeuge usw.
+
+4. Beträge, die der Eastern Railway Company als Subvention von Unternehmen oder Personen mit Wohnsitz in den abgetretenen Gebieten geschuldet werden.
+
+---
+
+Zusatz - Artikel.
+
+Artikel 1.
+
+§. 1. Die Französische Regierung wird innerhalb der für den Austausch der Ratifikationen des gegenwärtigen Vertrages festgesetzten Frist von dem ihr zustehenden Rechte zum Rückfauf der der Ostbahn. gesellschaft ertheilten Konzession Gebrauch machen. Die Deutsche Regierung wird, soweit es sich um die in den abgetretenen Gebieten gelegenen, vollendeten oder im Bau begriffenen Eisenbahnen handelt, in alle Rechte eintreten, welche die Französische Regierung durch den Rückfauf der Konzessionen erworben haben wird.
+
+§. 2. In diese Konzession sind einbegriffen:
+
+1) alle der gedachten Gesellschaft zuge hörigen Grundstücke, ohne Unterschied ihrer Bestimmung, z. B. Bahnhofs und Stationsgebäude, Schuppen, Werkstätten und Niederlagen, Bahnwärterhäuser u. s. w.;
+
+2) alle dazu gehörigen festen Pertinenz. stücke, wie: Barrièren, Zäune, Weichen, Weichenstellungen, Drehschei ben, Pumpen, hydraulische Krahnen, feste Maschinen u. s. w.j
+
+3) alle Materialien, Brennstoffe und Vorräthe aller Art, Bahnhofs. Mobiliar, Werkzeuge in den Werkstätten und Bahnhöfen u. f. w.j
+
+4) die Forderungen der Ostbahngesellschaft an Korporationen oder Personen, welche in den abgetretenen Gebieten ihren Wohnsitz haben, auf Zahlung von Subventionen.
+
+---
 
 ![Screenshot_20251228_162345~2.jpg](https://github.com/user-attachments/assets/4fc2f349-1c25-4c46-b997-dca1be22399a) 235
 
