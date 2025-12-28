@@ -392,6 +392,46 @@ Die internationale Kommission, deren im Artikel I. der Präliminarien erwähnt i
 
 ![Screenshot_20251228_162257~2.jpg](https://github.com/user-attachments/assets/542889cc-845d-458e-b35f-46f8bdbffe51) 225
 
+-225-
+
+ARTIKEL 2.
+
+Französische Staatsangehörige aus den abgetretenen Gebieten, die sich derzeit in diesem Gebiet aufhalten und ihre französische Staatsangehörigkeit behalten möchten, haben bis zum 1. Oktober 1872 nach vorheriger Erklärung gegenüber der zuständigen Behörde das Recht, ihren Wohnsitz nach Frankreich zu verlegen und sich dort niederzulassen. Dieses Recht wird nicht durch Gesetze zum Wehrdienst beeinträchtigt; in diesem Fall bleibt ihr Status als französische Staatsbürger erhalten. Sie können ihre im an Deutschland annektierten Immobilien behalten.
+
+Kein Bewohner der abgetretenen Gebiete darf wegen seiner politischen oder militärischen Handlungen während des Krieges strafrechtlich verfolgt, belästigt oder in Bezug auf Person oder Eigentum gesucht werden.
+
+ARTIKEL 3.
+
+Die französische Regierung wird der deutschen Regierung die Archive, Dokumente und Register bezüglich der zivilen, militärischen und justiziellen Verwaltung der abgetretenen Gebiete übergeben. Sollten diese Dokumente entfernt worden sein, werden sie von der französischen Regierung auf Verlangen der deutschen Regierung zurückgegeben.
+
+ARTIKEL 4
+
+Die französische Regierung wird innerhalb von sechs Monaten nach dem Austausch der Ratifikationsurkunden dieses Vertrags an die Regierung des Deutschen Reiches zurückkehren:
+
+1. die Höhe der von den Abteilungen eingezahlten Beträge, die com-
+
+---
+
+Artikel 2.
+
+Den aus den abgetretenen Gebieten herstammenden, gegenwärtig in diesem Gebiete wohnhaften Französischen Unterthanen, welche beabsichtigen, die Französische Nationalität zu behalten, steht bis zum 1. Oktober 1872. und vermöge einer vorgängigen Erklärung an die zuständige Behörde die Befugniß zu, ihren Wohnsitz nach Frankreich zu verlegen und sich dort niederzulassen, ohne daß dieser Befugniß durch die Gesetze über den Militairdienst Eintrag geschehen könnte, in welchem Falle ihnen die Eigenschaft als Französische Bürger erhalten bleiben wird. Es steht ihnen frei, ihren auf den mit Deutschland vereinigten Gebieten belegenen Grundbesitz zu behalten.
+
+Kein Bewohner der abgetretenen Gebiete darf in seiner Person oder seinem Vermögen wegen seiner politischen oder militairischen Handlungen während des Krieges verfolgt, gestört oder zur Untersuchung gezogen werden.
+
+Artikel 3.
+
+Die Französische Regierung wird der Deutschen Regierung die Archive, Dokumente und Register übergeben, welche die bürgerliche, militairische oder gerichtliche Verwaltung der abgetretenen Gebiete betreffen. Sollten einige dieser Aktenstücke fortgeschafft worden sein, so wird die Französische Regierung dieselben auf Verlangen der Deutschen Regierung wieder zuruckgeben.
+
+Artikel 4.
+
+Die Französische Regierung wird der Regierung des Deutschen Reiches innerhalb einer Frist von sechs Monaten, von der Auswechselung der Ratifikationen dieses Vertrages an gerechnet, übergeben:
+
+1) den Betrag der von den Departe ments, Gemeinden und öffentlichen
+
+42*
+
+---
+
 ![Screenshot_20251228_162301~2.jpg](https://github.com/user-attachments/assets/8b50c33f-1acb-4062-a945-7996e1a0d3b3) 226
 
 ![Screenshot_20251228_162305~2.jpg](https://github.com/user-attachments/assets/2f76561d-02d7-4c4a-97ae-7e5743cb8fae) 227
