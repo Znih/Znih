@@ -64,7 +64,7 @@ Ausgegeben zu Berlin den 19. Juni 1871,
 
 ![Screenshot_20251228_162211~2.jpg](https://github.com/user-attachments/assets/ad705e4f-0cd4-4137-9d5a-3e3f10af5d71) 216
 
-216
+-216-
 
 Nachdem festgestellt wurde, dass die Vollmachten beider Vertragsparteien in gutem und ordnungsgemäßem Zustand waren, wurde Folgendes vereinbart, das als vorläufige Grundlage für den später abzuschließenden endgültigen Frieden dienen sollte.
 
@@ -87,7 +87,7 @@ Frankreich verzichtet zu Gunsten des Deutschen Reichs auf alle seine Rechte und 
 ![Screenshot_20251228_162217~2.jpg](https://github.com/user-attachments/assets/f22684fd-6d12-407a-8059-d6008fee46ea) 217
 
 
-217
+-217-
 
 Sie verläuft von der Vezouze bis zur Grenze des Kantons Schirmeck entlang der westlichen Grenze dieses Kantons, durchfließt die Gemeinden Saales, Bourg Bruche, Colroy-la-Roche, Plaine, Ranrupt, Saulxures und St. Blaise-la-Roche des Kantons Saales und fällt mit der westlichen Grenze der Départements Bas-Rhin und Haut-Rhin bis zum Kanton Belfort zusammen, von wo sie unweit von Vour-venans die südliche Grenze verlässt, um den Kanton Delle an der südlichen Grenze der Gemeinden Bourogne und Froide Fontaine zu durchqueren und die Schweizer Grenze zu erreichen, indem sie entlang der östlichen Grenzen der Gemeinden Jonchery und Delle verläuft.
 
@@ -96,6 +96,8 @@ Das Deutsche Reich soll diese Gebiete auf Dauer in voller Souveränität und Eig
 Diese Kommission wird die Übertragung von Land und Kapital überwachen, die bisher gemeinsam Bezirken oder Gemeinden gehörten, die durch die neue Grenze getrennt sind; im Falle von Meinungsverschiedenheiten über die Abgrenzung und die Umsetzungsmaßnahmen werden die Mitglieder der Kommission die Angelegenheit ihren jeweiligen Regierungen vorlegen.
 
 Die soeben beschriebene Grenze ist auf zwei identischen Exemplaren der Karte des Gebiets der Generalregierung Elsass grün markiert.
+
+---
 
 westlichen Grenze dieses Kantons, schließt die Gemeinden Saales, Bourg-Bruche, Colroy la Roche, Plaine, Ranrupt, Saulgures und St. Blaise-la-Roche im Kanton Saales ein und fällt dann mit der westlichen Grenze der Departements Nieder und Oberrhein bis zum Kanton Belfort zusammen. Sie verläßt dessen Südgrenze unweit von Vourvenans, durchschneidet den Kanton Delle an den Südgrenzen der Gemeinden Bourogne und Froide Fontaine und erreicht die Schweizergrenze, indem sie längs der Ost. grenzen der Gemeinden Jonchery und Delle hinläuft.
 
@@ -110,6 +112,41 @@ Die Grenze, wie sie vorstehend festgesetzt ist, findet sich mit grüner Farbe au
 ---
 
 ![Screenshot_20251228_162222~2.jpg](https://github.com/user-attachments/assets/14a6abf1-6713-4a92-a8ec-13265fcbad22) 218
+
+-218-
+
+gebunden in Berlin im September 1870 von der geographischen und statistischen Abteilung des Generalstabs, und von der jeder der beiden Sendungen des vorliegenden Vertrags eine Kopie beigefügt wird.
+
+Die angegebene Route wurde jedoch im Einvernehmen zwischen den beiden Vertragsparteien wie folgt geändert: Im ehemaligen Département Moselle werden die Ortschaften Sainte-Marie-aux-Chênes bei Saint-Privat-la-Montagne und Vionville westlich von Rezonville an Deutschland abgetreten. Im Gegenzug verbleiben die Stadt Belfort und ihre Befestigungsanlagen innerhalb eines später festzulegenden Radius bei Frankreich.
+
+ARTIKEL II.
+
+Frankreich wird Seiner Majestät dem Kaiser von Deutschland die Summe von fünf Milliarden Francs zahlen.
+
+Die Zahlung von mindestens einer Milliarde Franken soll im Jahr 1871 erfolgen, die Zahlung des Restbetrags der Schulden innerhalb eines Zeitraums von drei Jahren ab Ratifizierung dieses Dokuments.
+
+ARTIKEL III
+
+Die Evakuierung der von deutschen Truppen besetzten französischen Gebiete beginnt nach Ratifizierung dieses Vertrags durch die Nationalversammlung in Bordeaux. Unmittelbar nach dieser Ratifizierung werden die deutschen Truppen das Stadtgebiet von Paris sowie die Festungen am linken Seineufer verlassen und innerhalb kürzester, von den Militärbehörden beider Länder vereinbarter Zeit die Départements Cal-
+
+---
+
+eingetragen, welche im September 1870. in Berlin durch die geographische und statistische Abtheilung des Großen Generalstabes herausgegeben worden ist. Ein Exemplar derselben wird jeder der beiden Ausfertigungen des gegenwärtigen Vertrages angefügt.
+
+Die angegebene Grenzlinie hat in dessen mit Uebereinstimmung beider vertragenden Theile folgende Abänderungen erfahren: Im ehemaligen Mosel Departement werden die Dörfer St. Marie-aux-Chênes bei St. Privat-la-Montagne und Vionville, westlich von Rezonville, an Deutschland abgetreten. Dagegen werden die Stadt und die Festungswerke von Belfort mit einem später festzusehenden Rayon bei Frankreich verbleiben.
+
+Artikel II.
+
+Frankreich wird Seiner Majestät dem Deutschen Kaiser die Summe von fünf Milliarden Franks zahlen.
+
+Mindestens Eine Milliarde Franks wird im Laufe des Jahres 1871. und der ganze Rest der Schuld wird im Laufe dreier Jahre, von der Ratifikation des gegenwärtigen Vertrages abgezahlt werden.
+
+Artikel III.
+
+Die Räumung der Französischen, durch die Deutschen Truppen besesten Gebiete wird nach der Ratifikation des gegenwärtigen Vertrages durch die in Bordeaux tagende National Versammlung beginnen. Die Deutschen Truppen werden unmittelbar nach dieser Ratifikation das Innere der Stadt Paris, sowie die am linken Ufer der Seine belegenen Forts verlassen und in möglichst kurzer, durch ein Einvernehmen zwischen den Militairbehör den beider Länder festgesekter Frist die Departements Calvados, Orne, Sarthe, Eure et Loir, Loiret, Loir et Cher, Indre
+
+
+---
 
 ![Screenshot_20251228_162227~2.jpg](https://github.com/user-attachments/assets/b6377777-6ab0-4f80-ab8b-d8c14219a6b2) 219
 
