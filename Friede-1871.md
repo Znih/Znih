@@ -170,6 +170,32 @@ Nach der Zahlung von zwei Milliarden wird die Deutsche Besetzung nur noch die De
 
 ![Screenshot_20251228_162233~2.jpg](https://github.com/user-attachments/assets/b95ac4a8-e2b3-4d3a-8efe-a1d96c533f26) 220
 
+-220-
+
+Das Gebiet, das als Sicherheit für die verbleibenden drei Milliarden dient und in dem die Zahl der deutschen Truppen fünfzigtausend Mann nicht übersteigen wird, ist von Seiner Majestät dem Kaiser als Sicherheit vorgesehen. Seine Majestät der Kaiser ist bereit, die territoriale Garantie in Form einer Teilbesetzung französischen Territoriums durch eine finanzielle Garantie zu ersetzen, sofern diese von der französischen Regierung unter Bedingungen angeboten wird, die Seine Majestät der Kaiser und König für die Interessen Deutschlands als ausreichend erachtet. Die drei Milliarden, deren Zahlung aufgeschoben wurde, werden ab dem Datum der Ratifizierung dieses Abkommens mit fünf Prozent verzinst.
+
+ARTIKEL IV.
+
+Deutsche Truppen werden in den besetzten Departements weder Geld noch Güter beschlagnahmen. Die Lebensmittelversorgung der in Frankreich verbleibenden deutschen Truppen wird jedoch auf Kosten der französischen Regierung sichergestellt, soweit dies mit der deutschen Militärverwaltung vereinbart wurde.
+
+ARTIKEL V.
+
+Die Interessen der Bewohner der von Frankreich abgetretenen Gebiete werden in allen Fragen ihres Handels und ihrer bürgerlichen Rechte nach Abschluss des endgültigen Friedens so günstig wie möglich geregelt. Zu diesem Zweck wird ein Zeitraum festgelegt, in dem sie besondere Privilegien für den Warenverkehr genießen. Die deutsche Regierung wird die freie Auswanderung der Bewohner der abgetretenen Gebiete nicht behindern und darf keine Maßnahmen gegen sie ergreifen.
+
+---
+
+Die Zahl der in denselben befindlichen Deutschen Truppen wird 50,000 Mann nicht überschreiten. Se. Majestät der Kaiser wird geneigt sein, an die Stelle der in der theilweisen Besetzung des Französischen Gebietes bestehenden Terri torialgarantie eine finanzielle Garantie treten zu lassen, wenn dieselbe von der Französischen Regierung unter Bedingun gen angeboten wird, welche von Sr. Ma. jestät dem Kaiser und König als für die Interessen Deutschlands ausreichend anerfannt werden. Die drei Milliarden, deren Zahlung verschoben sein wird, sollen vom Tage der Ratifikation der gegenwärtigen Uebereinkunft ab mit fünf Prozent verzinst werden.
+
+Artikel IV.
+
+Die Deutschen Truppen werden in den besetzten Departements Requisitionen, sei es in Geld, sei es in Naturalien, nicht vornehmen. Dafür wird die Verpflegung der Deutschen Truppen, welche in Frank reich zuruckbleiben, auf Kosten der Französischen Regierung erfolgen, und zwar in dem mit der Deutschen Militair.In. tendantur vereinbarten Maaße.
+
+Artikel V.
+
+Die Interessen der Einwohner in dem von Frankreich abgetretenen Gebiete werden in Allem, was ihren Handel und ihre Privatrechte angeht, so günstig als möglich geregelt werden, sobald die Bedingungen des endgültigen Friedens festgestellt sein werden. Zu diesem Zwecke wird ein Zeitraum festgesetzt werden, innerhalb dessen sie besondere Erleichterungen für den Verkehr mit ihren Erzeugnissen genießen sollen. Die Deutsche Regierung wird der ungehinderten Auswanderung der Einwohner der abgetretenen Gebietstheile nichts in den Weg legen und keine Maaßregel gegen dieselben
+
+---
+
 ![Screenshot_20251228_162238~2.jpg](https://github.com/user-attachments/assets/08010c65-41db-49c1-9eda-13db52d47803) 221
 
 ![Screenshot_20251228_162243~2.jpg](https://github.com/user-attachments/assets/acf200e2-86ce-4d90-ba3d-bb34ee3c1964) 222
