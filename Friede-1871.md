@@ -6,7 +6,7 @@ Erste Seite des Friedensvertrages zwischen dem Deutschen Reich und Frankreich, F
 
 ---
 
-**Faksimile Vorfrieden Versailles 1870 und Frankfurter Frieden 1871 (Friedenswerk, BGBl. 1871 Nr. 26 S. 215-244) aus den Gesetzestexten**
+**Faksimile Vorfrieden Versailles 1870 und Frankfurter Frieden 1871 (Friedenswerk, BGBl. 1871 Aktenstück Nr. 26 Gesetz-Nrn. 656-656 S. 215-244) aus den Gesetzestexten**
 
 ![Screenshot_20251228_162107~2.jpg](https://github.com/user-attachments/assets/9505ca70-a58e-4f2e-8821-826363acccdd) 215
 
@@ -15,6 +15,8 @@ Erste Seite des Friedensvertrages zwischen dem Deutschen Reich und Frankreich, F
 Reichs-Gesezblatt.
 
 № 26.
+
+<!--
 
 (Nr. 656.) Friedenspräliminarien zwischen dem Deutschen Reich und Frankreich. 26. Februar 1871.
 
@@ -34,7 +36,7 @@ der Chef der Exekutive der französischen Republik, Herr Thiers, und
 
 Der französische Außenminister, Herr Jules Favre,
 
----
+-->
 
 (Nr. 656.) (Uebersetzung.) Friedens-Präliminarien zwischen dem Deutschen Reich und Frankreich. Vom 26. Februar 1871.
 
@@ -66,6 +68,8 @@ Ausgegeben zu Berlin den 19. Juni 1871,
 
 -216-
 
+<!--
+
 Nachdem festgestellt wurde, dass die Vollmachten beider Vertragsparteien in gutem und ordnungsgemäßem Zustand waren, wurde Folgendes vereinbart, das als vorläufige Grundlage für den später abzuschließenden endgültigen Frieden dienen sollte.
 
 ARTIKEL I
@@ -74,13 +78,13 @@ Frankreich verzichtet zugunsten des Deutschen Reiches auf alle seine Rechte und 
 
 Die Demarkationslinie beginnt an der nordwestlichen Grenze des Kantons Cattenom in Richtung Großherzogtum Luxemburg, folgt südwärts den westlichen Grenzen der Kantone Cattenom und Thionville, durchquert den Kanton Briey entlang der westlichen Grenzen der Gemeinden Montois-la-Montagne und Roncourt sowie der östlichen Grenzen der Gemeinden Saint-Marie-aux-Chênes, Saint-Aie und Habonville, erreicht die Grenze des Kantons Gorze, die sie entlang der Gemeindegrenzen von Vionville, Buxières und Onville überschreitet, folgt der südwestlichen und/oder südlichen Grenze des Arrondissements Metz, der westlichen Grenze des Arrondissements Château-Salins bis zur Gemeinde Pettoncourt, deren westliche und südliche Grenzen sie umfasst, um dem Gebirgskamm zwischen Seille und Moncel bis zur Grenze des südlich gelegenen Arrondissements Sarrebourg zu folgen. Garde. Die Grenzlinie verläuft dann entlang der Grenze dieses Bezirks bis zur Gemeinde Tanconville, deren nördliche Grenze sie erreicht; von dort folgt sie dem Kamm der Berge zwischen den Quellen der Saar.
 
----
+-->
 
 ist, nachdem die Vollmachten der beiden vertragenden Theile in guter und regelrechter Form befunden worden, nachstehende Vereinbarung getroffen worden, welche als vorläufige Grundlage für den später abzuschließenden endgültigen Frieden dienen soll.
 
 Artikel I.
 
-Frankreich verzichtet zu Gunsten des Deutschen Reichs auf alle seine Rechte und Ansprüche auf diejenigen Gebiete, welche östlich von der nachstehend verzeichneten Grenze belegen sind. Die Demarkationslinie beginnt an der nordwestlichen Grenze des Kantons Cattenom gegen das Großherzogthum Luxemburg, folgt südwärts den westlichen Grenzen der Kantons Cattenom und Thionville, durchschneidet den Kanton Briey, indem sie längs der westlichen Grenzen der Gemeinden Montois-la-Montagne und Roncourt, sowie der östlichen Grenzen der Gemeinden St. Marie. aux Chênes, St. Ail, Habonville hin läuft, berührt die Grenze des Kantons Gorze, welche sie längs der Grenzen der Gemeinden Vionville, Burières und Onville durchschneidet, folgt der Süd-west beziehungsweise Südgrenze des Arrondissements Meß, der Westgrenze des Arrondissements Chateau-Salins bis zur Gemeinde Pettoncourt, von der sie die West- und Südgrenze einschließt, und folgt dann dem Kamme der zwischen der Seille und dem Moncel gelegenen Berge bis zur Grenze des Arrondissements Saarburg südlich von Garde. Sodann fällt die Demarkationslinie mit der Grenze dieses Arrondissements bis zur Gemeinde Tanconville zusammen, deren Nordgrenze sie berührt, von dort folgt sie dem Kamme der zwischen den Quellen der weißen Saar und der Vezouze befindlichen Bergzüge bis zur Grenze des Kantons Schirmeck, geht entlang der
+Frankreich verzichtet zu Gunsten des Deutschen Reichs auf alle seine Rechte und Ansprüche auf diejenigen Gebiete, welche östlich von der nachstehend verzeichneten Grenze belegen sind. Die Demarkationslinie beginnt an der nordwestlichen Grenze des Kantons Cattenom gegen das Großherzogthum Luxemburg, folgt südwärts den westlichen Grenzen der Kantons Cattenom und Thionville, durchschneidet den Kanton Briey, indem sie längs der westlichen Grenzen der Gemeinden Montois-la-Montagne und Roncourt, sowie der östlichen Grenzen der Gemeinden St. Marie. aux Chênes, St. Ail, Habonville hin läuft, berührt die Grenze des Kantons Gorze, welche sie längs der Grenzen der Gemeinden Vionville, Burières und Onville durchschneidet, folgt der Südwest beziehungsweise Südgrenze des Arrondissements Meß, der Westgrenze des Arrondissements Chateau-Salins bis zur Gemeinde Pettoncourt, von der sie die West- und Südgrenze einschließt, und folgt dann dem Kamme der zwischen der Seille und dem Moncel gelegenen Berge bis zur Grenze des Arrondissements Saarburg südlich von Garde. Sodann fällt die Demarkationslinie mit der Grenze dieses Arrondissements bis zur Gemeinde Tanconville zusammen, deren Nordgrenze sie berührt, von dort folgt sie dem Kamme der zwischen den Quellen der weißen Saar und der Vezouze befindlichen Bergzüge bis zur Grenze des Kantons Schirmeck, geht entlang der
 
 ---
 
@@ -88,6 +92,8 @@ Frankreich verzichtet zu Gunsten des Deutschen Reichs auf alle seine Rechte und 
 
 
 -217-
+
+<!--
 
 Sie verläuft von der Vezouze bis zur Grenze des Kantons Schirmeck entlang der westlichen Grenze dieses Kantons, durchfließt die Gemeinden Saales, Bourg Bruche, Colroy-la-Roche, Plaine, Ranrupt, Saulxures und St. Blaise-la-Roche des Kantons Saales und fällt mit der westlichen Grenze der Départements Bas-Rhin und Haut-Rhin bis zum Kanton Belfort zusammen, von wo sie unweit von Vour-venans die südliche Grenze verlässt, um den Kanton Delle an der südlichen Grenze der Gemeinden Bourogne und Froide Fontaine zu durchqueren und die Schweizer Grenze zu erreichen, indem sie entlang der östlichen Grenzen der Gemeinden Jonchery und Delle verläuft.
 
@@ -97,7 +103,7 @@ Diese Kommission wird die Übertragung von Land und Kapital überwachen, die bis
 
 Die soeben beschriebene Grenze ist auf zwei identischen Exemplaren der Karte des Gebiets der Generalregierung Elsass grün markiert.
 
----
+-->
 
 westlichen Grenze dieses Kantons, schließt die Gemeinden Saales, Bourg-Bruche, Colroy la Roche, Plaine, Ranrupt, Saulgures und St. Blaise-la-Roche im Kanton Saales ein und fällt dann mit der westlichen Grenze der Departements Nieder und Oberrhein bis zum Kanton Belfort zusammen. Sie verläßt dessen Südgrenze unweit von Vourvenans, durchschneidet den Kanton Delle an den Südgrenzen der Gemeinden Bourogne und Froide Fontaine und erreicht die Schweizergrenze, indem sie längs der Ost. grenzen der Gemeinden Jonchery und Delle hinläuft.
 
@@ -115,6 +121,8 @@ Die Grenze, wie sie vorstehend festgesetzt ist, findet sich mit grüner Farbe au
 
 -218-
 
+<!--
+
 gebunden in Berlin im September 1870 von der geographischen und statistischen Abteilung des Generalstabs, und von der jeder der beiden Sendungen des vorliegenden Vertrags eine Kopie beigefügt wird.
 
 Die angegebene Route wurde jedoch im Einvernehmen zwischen den beiden Vertragsparteien wie folgt geändert: Im ehemaligen Département Moselle werden die Ortschaften Sainte-Marie-aux-Chênes bei Saint-Privat-la-Montagne und Vionville westlich von Rezonville an Deutschland abgetreten. Im Gegenzug verbleiben die Stadt Belfort und ihre Befestigungsanlagen innerhalb eines später festzulegenden Radius bei Frankreich.
@@ -129,7 +137,7 @@ ARTIKEL III
 
 Die Evakuierung der von deutschen Truppen besetzten französischen Gebiete beginnt nach Ratifizierung dieses Vertrags durch die Nationalversammlung in Bordeaux. Unmittelbar nach dieser Ratifizierung werden die deutschen Truppen das Stadtgebiet von Paris sowie die Festungen am linken Seineufer verlassen und innerhalb kürzester, von den Militärbehörden beider Länder vereinbarter Zeit die Départements Cal-
 
----
+-->
 
 eingetragen, welche im September 1870. in Berlin durch die geographische und statistische Abtheilung des Großen Generalstabes herausgegeben worden ist. Ein Exemplar derselben wird jeder der beiden Ausfertigungen des gegenwärtigen Vertrages angefügt.
 
@@ -152,13 +160,15 @@ Die Räumung der Französischen, durch die Deutschen Truppen besesten Gebiete wi
 
 -219-
 
+<!--
+
 Die Départements Orne, Sarthe, Eure-et-Loir, Loiret, Loir-et-Cher, Indre-et-Loire und Yonne sowie die Départements Seine-Inférieure, Eure, Seine-et-Oise, Seine-et-Marne, Aube und Côte-d’Or bis zum linken Seineufer werden zurückgezogen. Gleichzeitig ziehen sich die französischen Truppen hinter die Loire zurück, die sie vor Unterzeichnung des endgültigen Friedensvertrags nicht überqueren dürfen. Die Garnison von Paris, deren Stärke 40.000 Mann nicht überschreiten darf, und die für die Sicherheit befestigter Städte unerlässlichen Garnisonen sind von dieser Bestimmung ausgenommen.
 
 Die Evakuierung der zwischen dem rechten Seineufer und der Ostgrenze gelegenen Départements durch deutsche Truppen erfolgt schrittweise nach Ratifizierung des endgültigen Friedensvertrags und Zahlung der ersten halben Milliarde des in Artikel II festgelegten Beitrags, beginnend mit den Paris am nächsten gelegenen Départements, und wird mit der Zahlung des Beitrags fortgesetzt; nach der ersten Zahlung einer halben Milliarde erfolgt diese Evakuierung in den folgenden Départements: Somme, Oise und den Teilen der Départements Seine-Inférieure, Seine-et-Oise, Seine-et-Marne, die am rechten Seineufer liegen, sowie dem Teil des Départements Seine und den am rechten Ufer gelegenen Festungen.
 
 Nach der Zahlung von zwei Milliarden wird die deutsche Besatzung nur noch die Départements Marne, Ardennen, Haute-Marne, Maas, Vogesen, Meurthe sowie die Festung Belfort mit ihrem Territorium umfassen.
 
----
+-->
 
 et Loire und Yonne vollständig, sowie die Departements Seine inferieure, Eure, Seine et Dise, Seine et Marne, Aube und Cote d'or bis zum linken Ufer der Seine räumen. Die Französischen Truppen werden sich gleichzeitig hinter die Loire zurückziehen, welche sie vor Unterzeichnung des endgültigen Friedensvertrages nicht überschreiten dürfen. Ausgenommen von dieser Bestimmung sind die Garnison von Paris, deren Stärke die Zahl von 40,000 Mann nicht überschreiten darf, und die zur Sicherheit der festen Plätze unerläßlichen Garnisonen.
 
@@ -172,6 +182,8 @@ Nach der Zahlung von zwei Milliarden wird die Deutsche Besetzung nur noch die De
 
 -220-
 
+<!--
+
 Das Gebiet, das als Sicherheit für die verbleibenden drei Milliarden dient und in dem die Zahl der deutschen Truppen fünfzigtausend Mann nicht übersteigen wird, ist von Seiner Majestät dem Kaiser als Sicherheit vorgesehen. Seine Majestät der Kaiser ist bereit, die territoriale Garantie in Form einer Teilbesetzung französischen Territoriums durch eine finanzielle Garantie zu ersetzen, sofern diese von der französischen Regierung unter Bedingungen angeboten wird, die Seine Majestät der Kaiser und König für die Interessen Deutschlands als ausreichend erachtet. Die drei Milliarden, deren Zahlung aufgeschoben wurde, werden ab dem Datum der Ratifizierung dieses Abkommens mit fünf Prozent verzinst.
 
 ARTIKEL IV.
@@ -182,7 +194,7 @@ ARTIKEL V.
 
 Die Interessen der Bewohner der von Frankreich abgetretenen Gebiete werden in allen Fragen ihres Handels und ihrer bürgerlichen Rechte nach Abschluss des endgültigen Friedens so günstig wie möglich geregelt. Zu diesem Zweck wird ein Zeitraum festgelegt, in dem sie besondere Privilegien für den Warenverkehr genießen. Die deutsche Regierung wird die freie Auswanderung der Bewohner der abgetretenen Gebiete nicht behindern und darf keine Maßnahmen gegen sie ergreifen.
 
----
+-->
 
 Die Zahl der in denselben befindlichen Deutschen Truppen wird 50,000 Mann nicht überschreiten. Se. Majestät der Kaiser wird geneigt sein, an die Stelle der in der theilweisen Besetzung des Französischen Gebietes bestehenden Terri torialgarantie eine finanzielle Garantie treten zu lassen, wenn dieselbe von der Französischen Regierung unter Bedingun gen angeboten wird, welche von Sr. Ma. jestät dem Kaiser und König als für die Interessen Deutschlands ausreichend anerfannt werden. Die drei Milliarden, deren Zahlung verschoben sein wird, sollen vom Tage der Ratifikation der gegenwärtigen Uebereinkunft ab mit fünf Prozent verzinst werden.
 
@@ -199,6 +211,8 @@ Die Interessen der Einwohner in dem von Frankreich abgetretenen Gebiete werden i
 ![Screenshot_20251228_162238~2.jpg](https://github.com/user-attachments/assets/08010c65-41db-49c1-9eda-13db52d47803) 221
 
 -221-
+
+<!--
 
 Sie könnten dadurch ihre Personen oder ihr Eigentum verletzen.
 
@@ -217,7 +231,7 @@ Nach Abschluss und Ratifizierung des endgültigen Friedensvertrags wird die Verw
 
 In den besetzten Departements erfolgt die Erhebung der Steuern nach Ratifizierung dieses Vertrags.
 
----
+-->
 
 ergreifen dürfen, welche deren Person oder Eigenthum antastet.
 
@@ -240,6 +254,8 @@ Die Erhebung der Steuern in den besetzten Departements wird nach Rati fikation d
 ![Screenshot_20251228_162243~2.jpg](https://github.com/user-attachments/assets/acf200e2-86ce-4d90-ba3d-bb34ee3c1964) 222
 
 -222-
+
+<!--
 
 im Namen der französischen Regierung und durch ihre Mitarbeiter.
 
@@ -267,7 +283,7 @@ Comte de Bray-Steinburg.
 
 Baron de Wächter. Mittnacht. Jolly.
 
----
+-->
 
 Rechnung der Französischen Regierung und durch deren Beamte bewirkt werden.
 
