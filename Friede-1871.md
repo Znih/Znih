@@ -979,6 +979,70 @@ Der
 
 ![Screenshot_20251228_162410~2.jpg](https://github.com/user-attachments/assets/33834539-dd56-41d7-a906-6063bc46ad54) 239
 
+-239-
+
+Der Graf Arnim legte die Originalien
+
+1) des Vertrages, welcher also anfängt:
+
+Prinz Otto von Bismarck-Schönhausen, Reichskanzler des Deutschen Reiches, Graf Harry von Arnim, außerordentlicher Gesandter und bevollmächtigter Minister Seiner Majestät des Kaisers von Deutschland, und schließt damit:
+
+Artikel 18.
+
+auf einer Seite
+
+Die Ratifikationsurkunden dieses Vertrags durch Seine Majestät den Kaiser des Deutschen Reiches, durch die Nationalversammlung und durch das Oberhaupt der Exekutive der Französischen Republik werden in Frankfurt innerhalb von zehn Tagen oder, wenn möglich, auch früher ausgetauscht.
+
+und auf der anderen Seite
+
+Zu Urkund dessen haben die jeweiligen Bevollmächtigten es unterzeichnet und das Siegel ihres Wappens angebracht.
+
+Geschehen zu Frankfurt am 10. Mai 1871.
+
+(L. S.) gegen Bismarck.
+
+(L. S.) Jules Favre.
+
+(L. S.) Arnim.
+
+(L. S.) Pouyer-Quertier.
+
+(L. S.) E. de Goulard.
+
+2) der Articles additionnels, welche also anfangen:
+
+Artikel 1
+
+§ 1. Bis zu dem für den Austausch der Ratifikationsurkunden dieses Vertrags festgelegten Zeitpunkt
+
+und also schließen:
+
+wird als Grenze dienen, da es außerhalb des Kantons Giromagny liegt.
+
+Fait à Francfort le 10 Mai 1871. folgen dieselben Unterschriften wie oben,
+
+3) des Protokolls, welches also anfängt:
+
+Geschehen zu Frankfurt am 10. Mai 1871.
+
+Der Unterzeichnete, nachdem er die Verlesung des endgültigen Friedensvertrags gehört hat
+
+und also schließt:
+
+um ihre Beförderungen zu erhalten.
+
+folgen dieselben Unterschriften wie oben,
+
+vor.
+
+Reichs Gesezbl. 1871.
+
+44
+
+Nach.
+
+---
+
 ![Screenshot_20251228_162416~2.jpg](https://github.com/user-attachments/assets/b8ce173c-f1fa-4aae-aa7a-d66a28eec339) 240
 
 ![Screenshot_20251228_162420~2.jpg](https://github.com/user-attachments/assets/16d9ee08-8a18-4cd8-b41d-229834f5595e) 241
