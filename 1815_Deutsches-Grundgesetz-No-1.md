@@ -120,8 +120,11 @@ Außer den in den vorhergehenden Artikeln bestimmten auf die Feststellung des Bu
        Art. XIII. In allen Bundesstaaten wird eine Landständische Verfassung stattfinden.
        
        Art. XIV. Um den im Jahr 1806 und seit dem mittelbar gewordenen ehemaligen Reichsständen und Reichs-Angehörigen in Gemäßheit der gegenwärtigen Verhältnisse in allen Bundesstaaten einen gleichförmig bleibenden Rechts-Zustand zu verschaffen, so vereinigen die Bundesstaaten sich dahin:
+
 a) Daß diese Fürstlichen und gräflichen Häuser fortan nichtsdestoweniger zu dem hohen Adel in Deutschland gerechnet werden, und ihnen das Recht der Ebenbürtigkeit, in dem bisher damit verbundenen Begriff verbleibt;
+
 b) sind die Häupter dieser Häuser die ersten Standesherrn in dem Staate zudem sie gehören; Sie und ihre Familien bilden die privilegirteste Klasse in demselben, insbesondere in Ansehung der Besteuerung;
+
 c) es sollen ihnen überhaupt in Rücksicht ihrer Personen, Familien und Besitzungen alle diejenigen Rechte und Vorzüge zugesichert werden oder bleiben, welche aus ihrem Eigenthum und dessen ungestörten Genusse herrühren, und nicht zu der Staatsgewalt und den höheren Regierungsrechten gehören. Unter vorerwähnten Rechten sind insbesondere und namentlich begriffen:
 
         1) die unbeschränkte Freyheit ihren Aufenthalt in jedem zu dem Bunde gehörenden, oder mit demselben im Frieden lebenden Staat zunehmen;
