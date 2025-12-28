@@ -40,17 +40,7 @@ Der französische Außenminister, Herr Jules Favre,
 
 (Nr. 656.) (Uebersetzung.) Friedens-Präliminarien zwischen dem Deutschen Reich und Frankreich. Vom 26. Februar 1871.
 
-Zwischen dem Kanzler des Deutschen Reichs, Herrn Grafen Otto v. Bismarck-Schönhausen, der mit Vollmacht SeitensSeiner Majestät des Deutschen Kaisers und Königs von Preußen versehen ist,
-
-dem Staatsminister des Aeußeren Seiner Majestät des Königs von Bayern, Herrn Grafen Otto v. Bray-Steinburg, dem Minister der auswärtigen An
-
-gelegenheiten Seiner Majestät des
-
-Königs von Württemberg, Herrn
-
-Freiherrn August v. Wächter,
-
-dem Staatsminister, Präsidenten des Staats Ministeriums Seiner Königlichen Hoheit des Großherzogs von Baden, Herrn Julius Jolly,
+Zwischen dem Kanzler des Deutschen Reichs, Herrn Grafen Otto v. Bismarck-Schönhausen, der mit Vollmacht SeitensSeiner Majestät des Deutschen Kaisers und Königs von Preußen versehen ist, dem Staatsminister des Aeußeren Seiner Majestät des Königs von Bayern, Herrn Grafen Otto v. Bray-Steinburg, dem Minister der auswärtigen Angelegenheiten Seiner Majestät des Königs von Württemberg, Herrn Freiherrn August v. Wächter, dem Staatsminister, Präsidenten des Staats Ministeriums Seiner Königlichen Hoheit des Großherzogs von Baden, Herrn Julius Jolly,
 
 welche das Deutsche Reich vertreten,
 
