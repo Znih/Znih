@@ -622,6 +622,42 @@ Da die Handelsverträge mit den verschiedenen Staaten Deutschlands durch den Kri
 
 ![Screenshot_20251228_162323~2.jpg](https://github.com/user-attachments/assets/253916a2-fc59-4199-8027-7c3a38d69191) 231
 
+-231-
+
+Französische Unternehmen werden ihre Handelsbeziehungen auf dem System der Gegenseitigkeitsbehandlung nach dem Prinzip der Meistbegünstigung gründen.
+
+Diese Regelung umfasst Ein- und Ausreiserechte, Transit, Zollformalitäten, die Zulassung und Behandlung von Staatsangehörigen beider Nationen sowie deren Vertretern.
+
+Ausnahmen von der obigen Regel gelten jedoch für alle Vergünstigungen, die eine der Vertragsparteien anderen Staaten als den folgenden durch Handelsverträge gewährt hat oder gewähren wird: England, Belgien, die Niederlande, die Schweiz, Österreich, Russland.
+
+Die Schifffahrtsverträge sowie das Übereinkommen über den internationalen Eisenbahnverkehr in seinen Beziehungen zum Zoll und das Übereinkommen über die gegenseitige Gewährleistung des Eigentums an Werken des Geistes und der Kunst werden wieder in Kraft gesetzt.
+
+Dennoch behält sich die französische Regierung das Recht vor, Tonnage- und Flaggenabgaben für deutsche Schiffe und deren Ladungen zu erheben, vorausgesetzt, dass diese Abgaben nicht höher sind als diejenigen, die für Schiffe und Ladungen der vorgenannten Nationen erhoben werden.
+
+ARTIKEL 12
+
+Alle ausgewiesenen Deutschen behalten das volle und uneingeschränkte Nutzungsrecht an ihrem in Frankreich erworbenen Eigentum.
+
+Diejenigen Deutschen, die die nach französischem Recht erforderliche Genehmigung zur Begründung ihres Wohnsitzes in Frankreich erhalten hatten, werden in all ihren Rechten wiederhergestellt und können, in con-Reichs Gesezbl. 1871.
+
+Regierung den Grundsas der gegenseitigen Behandlung auf dem Fuße der meistbe. günstigten Nation ihren Handelsbezie hungen zu Grunde legen.
+
+Diese Regel umfaßt die Eingangs- und Ausgangsabgaben, den Durchgangs-Verkehr, die Zollförmlichkeiten, die Zulassung und Behandlung der Angehörigen beider Nationen und der Vertreter derselben.
+
+Jedoch sind ausgenommen von der vorgedachten Regel die Begünstigungen, welche einer der vertragenden Theile durch Handelsverträge anderen Ländern gewährt hat oder gewähren wird, als den folgenden: England, Belgien, Niederland, Schweiz, Desterreich, Rußland.
+
+Die Schiffahrtsverträge und die Uebereinkunft, betreffend die Zollabfertigung des internationalen Verkehrs auf den Eisenbahnen, sowie die Uebereinkunft wegen gegenseitigen Schutzes der Rechte an literarischen Erzeugnissen und Werken der Kunst sollen wieder in Kraft treten.
+
+Indessen behält sich die Französische Regierung die Befugniß vor, von den Deutschen Schiffen und deren Ladungen Tonnen und Flaggengebühren zu er heben, mit dem Vorbehalte, daß diese Gebühren die von den Schiffen und Ladungen der vorerwähnten Nationen erhobenen nicht übersteigen.
+
+Artikel 12.
+
+Alle ausgewiesene Deutsche bleiben im vollen Genusse alles Eigenthums, welches sie in Frankreich erworben haben.
+
+Diejenigen Deutschen, welche die von den Französischen Gesezen verlangte Ermächtigung erhalten haben, ihren Wohnsitz in Frankreich aufzuschlagen, werden in alle ihre Rechte wieder eingesezt und können in 43
+
+---
+
 ![Screenshot_20251228_162330~2.jpg](https://github.com/user-attachments/assets/d0e966c6-c74c-4e45-96bb-050671f68b95) 232
 
 ![Screenshot_20251228_162335~2.jpg](https://github.com/user-attachments/assets/10d723fa-0da3-40db-9a76-ad7cc0b5f75a) 233
