@@ -582,6 +582,44 @@ Die gegenwärtig den Gewerbs Erzeugnissen der abgetretenen Gebiete bei der Einfu
 
 ![Screenshot_20251228_162319~2.jpg](https://github.com/user-attachments/assets/c67189ea-eb07-4fcd-b7a3-c10da0657b65) 230
 
+-230-
+
+die mit den Delegierten aus dem Elsass getroffenen Vereinbarungen.
+
+ARTIKEL 10.
+
+Die deutsche Regierung wird in Absprache mit der französischen Regierung weiterhin Kriegsgefangene repatriieren. Die französische Regierung wird die liberalen Kriegsgefangenen in ihre Heimat zurückschicken. Diejenigen, die ihre Dienstzeit noch nicht abgeleistet haben, werden hinter die Loire zurückgezogen. Es ist vereinbart, dass die Armee von Paris und Versailles nach der Wiederherstellung der Autorität der französischen Regierung in Paris und bis zur Evakuierung der Festungen durch die deutschen Truppen nicht mehr als achtzigtausend Mann umfassen wird.
+
+Bis zu dieser Evakuierung wird die französische Regierung keine Truppen am rechten Ufer der Loire konzentrieren können, sie wird jedoch die regulären Garnisonen der in diesem Gebiet gelegenen Städte entsprechend den Erfordernissen der Aufrechterhaltung von Ordnung und öffentlichem Frieden bereitstellen.
+
+Während die Evakuierung stattfindet, werden sich die Korpskommandeure auf eine neutrale Zone zwischen den Armeen der beiden Nationen einigen.
+
+Zwanzigtausend Gefangene werden unverzüglich nach Lyon geschickt, unter der Bedingung, dass sie nach ihrer Organisation sofort nach Algerien verschifft werden, um dort in der Kolonie eingesetzt zu werden.
+
+ARTIKEL 11
+
+Da die Handelsverträge mit den verschiedenen deutschen Staaten kriegsbedingt gekündigt worden waren, …
+
+---
+
+Elsaß vereinbarten Bedingungen aufrechterhalten.
+
+Artikel 10.
+
+Die Deutsche Regierung wird forte fahren, im Einvernehinen mit der Französischen Regierung, die Kriegsgefangenen zurückkehren zu lassen. Die Französische Regierung wird diejenigen dieser Gefan genen, welche verabschiedet werden können, in ihre Heimath zurücksenden. Diejenigen, welche ihre Dienstzeit noch nicht zurück gelegt haben, sollen sich hinter die Loire zurückziehen. Es ist vereinbart, daß die Armee von Paris und von Versailles, nach Herstellung der Autorität der Fran zösischen Regierung in Paris und bis zur Räumung der Forts durch die Deutschen Truppen, 80,000 Mann nicht übersteigen soll.
+
+Bis zu dieser Räumung darf die Französische Regierung eine Truppenzusammen ziehung auf dem rechten Ufer der Loire nicht vornehmen, jedoch wird sie für die regelmäßigen Besatzungen der in dieser Zone gelegenen Städte, nach. Maßgabe des Bedarfs für die Aufrechthaltung der Ordnung und der öffentlichen Ruhe, Sorge tragen.
+
+Nach Maßgabe des Fortschritts der Räumung werden sich die Befehlshaber der Truppen über eine neutrale Zone zwischen den Armeen der beiden Nationen verständigen.
+
+20,000 Gefangene sollen ohne Verzug nach Lyon dirigirt werden, unter der Bedingung, daß sie sie nach ihrer Organisirung sofort nach Algerien geschickt werden, um in dieser Kolonie zur Verwendung zu kommen.
+
+Artikel 11.
+
+Da die Handelsverträge mit den verschiedenen Staaten Deutschlands durch den Krieg aufgehoben sind, so werden die Deutsche Regierung und die Französische
+
+---
+
 ![Screenshot_20251228_162323~2.jpg](https://github.com/user-attachments/assets/253916a2-fc59-4199-8027-7c3a38d69191) 231
 
 ![Screenshot_20251228_162330~2.jpg](https://github.com/user-attachments/assets/d0e966c6-c74c-4e45-96bb-050671f68b95) 232
