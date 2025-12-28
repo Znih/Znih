@@ -306,12 +306,15 @@ Der Austausch der Ratifikationen ist am 2. März 1871. zu Versailles erfolgt.
 (Nr. 657.)
 
 ---
+---
 
 Frankfurter Friede 1871 mit 18 Artikeln Gesetz-Nr. 657 ab S. 223 
 
 ![Screenshot_20251228_162248~2.jpg](https://github.com/user-attachments/assets/d10736cd-287c-48b2-9699-51934b9bcbbd) 223
 
 -223-
+
+<!--
 
 (Nr. 657.) Friedensvertrag zwischen dem Deutschen Reich und Frankreich. 10. Mai 1871.
 
@@ -339,7 +342,7 @@ ARTIKEL 1
 
 Die Entfernung von der Stadt Belfort zur Grenzlinie, wie sie erstmals während der Verhandlungen von Versailles vorgeschlagen und auf der Karte an-Reichs Gesezbl. 1871 eingezeichnet wurde.
 
----
+-->
 
 (Nr. 657.) (Uebersehung.) Friedens Vertrag zwischen dem Deutschen Reich und Frankreich. Vom 10. Mai 1871.
 
@@ -370,6 +373,8 @@ Die Entfernung zwischen der Stadt Belfort und derjenigen Grenzlinie, welche ursp
 
 -224-
 
+<!--
+
 Die dem ratifizierten Vorvertrag vom 26. Februar beigefügte Anlage wird als Angabe des Radius betrachtet, der gemäß der entsprechenden Klausel des ersten Artikels der Vorbemerkungen mit der Stadt und den Befestigungsanlagen von Belfort bei Frankreich verbleiben muss.
 
 Die deutsche Regierung ist bereit, diesen Radius so auszudehnen, dass er die Kantone Belfort, Delle und Giromagny sowie den westlichen Teil des Kantons Fontaine westlich einer Linie umfasst, die von dem Punkt, an dem der Rhein-Rhône-Kanal den Kanton Delle südlich von Montreux-Château verlässt, bis zur Nordgrenze des Kantons zwischen Bourg und Félon gezogen werden soll, wo diese Linie auf die Ostgrenze des Kantons Giromagny treffen würde.
@@ -378,7 +383,7 @@ Die deutsche Regierung wird die vorgenannten Gebiete jedoch nur unter der Beding
 
 Die in Artikel 1 der Präliminären genannte Internationale Kommission begibt sich unverzüglich nach dem Austausch der Ratifikationsurkunden dieses Vertrags in das Gebiet, um die ihr obliegende Arbeit auszuführen und die neue Grenze gemäß den vorstehenden Bestimmungen festzulegen.
 
----
+-->
 
 minar Vertrages vom 26. Februar beigefügten Karte eingetragen ist, soll als Bezeichnung des Maßes für den Rayon angesehen werden, welcher zufolge der bezüglichen Verabredung im ersten Artikel der Präliininarien mit der Stadt und den Befestigungen von Belfort bei Frankreich bleiben soll.
 
@@ -393,6 +398,8 @@ Die internationale Kommission, deren im Artikel I. der Präliminarien erwähnt i
 ![Screenshot_20251228_162257~2.jpg](https://github.com/user-attachments/assets/542889cc-845d-458e-b35f-46f8bdbffe51) 225
 
 -225-
+
+<!--
 
 ARTIKEL 2.
 
@@ -410,7 +417,7 @@ Die französische Regierung wird innerhalb von sechs Monaten nach dem Austausch 
 
 1. die Höhe der von den Abteilungen eingezahlten Beträge, die com-
 
----
+-->
 
 Artikel 2.
 
@@ -436,6 +443,8 @@ Die Französische Regierung wird der Regierung des Deutschen Reiches innerhalb e
 
 -226-
 
+<!--
+
 Gemeinden und öffentliche Einrichtungen der abgetretenen Gebiete;
 
 2. die Höhe der Anwerbungs- und Ersatzprämien für Militärangehörige und Seeleute aus den abgetretenen Gebieten, die sich für die deutsche Staatsangehörigkeit entschieden haben;
@@ -454,7 +463,7 @@ Die Hohen Vertragsparteien sind der Ansicht, dass die Bistumsbezirke der an das 
 
 Gemeinden, die entweder der Reformierten Kirche oder der Augsburger Konfession angehören und auf von Frankreich abgetretenen Gebieten gegründet wurden, unterstehen nicht mehr der französischen Kirchengewalt.
 
----
+-->
 
 Anstalten der abgetretenen Gebiete deponirten Summen;
 
@@ -480,6 +489,8 @@ Die der reformirten Kirche oder der Augsburger Konfession angehörigen, auf den 
 
 -227-
 
+<!--
+
 Die in französischen Gebieten gegründeten Gemeinden der Kirche des Augsburger Bekenntnisses unterstehen nicht mehr der Autorität des Oberkonsistoriums und des in Straßburg ansässigen Direktors.
 
 Die jüdischen Gemeinden in den Gebieten östlich der neuen Grenze werden nicht mehr vom zentralen jüdischen Konsistorium in Paris abhängig sein.
@@ -494,7 +505,7 @@ Alle Zahlungen dürfen nur in den wichtigsten Handelsstädten Deutschlands erfol
 
 Die deutsche Regierung hat den Wert des Talers in Frankreich festgelegt.
 
----
+-->
 
 Die zur Kirche der Augsburger Konfession gehörigen, auf Französischem Gebiete bestehenden Gemeinden werden aufhören, von dem Ober-Konsistorium und von dem Direktor in Straßburg abhängig zu sein.
 
@@ -516,6 +527,8 @@ Da die Deutsche Regierung in Frankreich den Werth des Preußischen Thalers
 
 -228-
 
+<!--
+
 Der preußische Peso steht bei drei Francs und fünfundsiebzig Centimes; die französische Regierung akzeptiert den Währungsumtausch der beiden Länder zu dem oben genannten Kurs.
 
 Die französische Regierung wird die deutsche Regierung drei Monate im Voraus über jede Zahlung informieren, die sie an die Kasse des Deutschen Reiches leisten will.
@@ -528,7 +541,7 @@ Den deutschen Truppen steht im Interesse ihrer Sicherheit die neutrale Zone zwis
 
 Die Bestimmungen des Vertrags vom 26. Februar über die Besetzung französischer Gebiete nach Zahlung von zwei Milliarden bleiben in Kraft. Keiner der Abzüge, zu denen die französische Regierung möglicherweise berechtigt ist, darf auf die Zahlung der ersten fünfhundert Millionen angewendet werden.
 
----
+-->
 
 auf 3 Frks. 75 Cts. festgestellt hat, so ninımt die Französische Regierung die Um rechnung der Münzen beider Länder zu oben bezeichnetem Kurse an.
 
@@ -548,6 +561,8 @@ Die Bestimmungen des Vertrages vom 26. Februar über die Besekung Französischen
 
 -229-
 
+<!--
+
 ARTIKEL 8.
 
 Die deutschen Truppen werden weiterhin auf Natural- und Geldforderungen in den besetzten Gebieten verzichten; diese Verpflichtung ihrerseits entspricht den Verpflichtungen, die die französische Regierung zu ihrem Unterhalt eingegangen ist. Sollte die französische Regierung trotz wiederholter Aufforderungen der deutschen Regierung die genannten Verpflichtungen nicht erfüllen, haben die deutschen Truppen das Recht, sich das für ihren Bedarf Notwendige durch die Erhebung von Steuern und Forderungen in den besetzten Departements und sogar außerhalb dieser zu beschaffen, falls ihre eigenen Mittel nicht ausreichen.
@@ -562,7 +577,7 @@ ARTIKEL 9
 
 Die derzeitige Sonderbehandlung von Industrieprodukten aus abgetretenen Gebieten für die Einfuhr nach Frankreich wird für einen Zeitraum von sechs Monaten ab dem 1. März aufrechterhalten.
 
----
+-->
 
 Artikel 8.
 
@@ -584,6 +599,8 @@ Die gegenwärtig den Gewerbs Erzeugnissen der abgetretenen Gebiete bei der Einfu
 
 -230-
 
+<!--
+
 die mit den Delegierten aus dem Elsass getroffenen Vereinbarungen.
 
 ARTIKEL 10.
@@ -600,7 +617,7 @@ ARTIKEL 11
 
 Da die Handelsverträge mit den verschiedenen deutschen Staaten kriegsbedingt gekündigt worden waren, …
 
----
+-->
 
 Elsaß vereinbarten Bedingungen aufrechterhalten.
 
@@ -624,6 +641,8 @@ Da die Handelsverträge mit den verschiedenen Staaten Deutschlands durch den Kri
 
 -231-
 
+<!--
+
 Französische Unternehmen werden ihre Handelsbeziehungen auf dem System der Gegenseitigkeitsbehandlung nach dem Prinzip der Meistbegünstigung gründen.
 
 Diese Regelung umfasst Ein- und Ausreiserechte, Transit, Zollformalitäten, die Zulassung und Behandlung von Staatsangehörigen beider Nationen sowie deren Vertretern.
@@ -640,7 +659,7 @@ Alle ausgewiesenen Deutschen behalten das volle und uneingeschränkte Nutzungsre
 
 Diejenigen Deutschen, die die nach französischem Recht erforderliche Genehmigung zur Begründung ihres Wohnsitzes in Frankreich erhalten hatten, werden in all ihren Rechten wiederhergestellt und können, in con-Reichs Gesezbl. 1871.
 
----
+-->
 
 Regierung den Grundsatzes der gegenseitigen Behandlung auf dem Fuße der meistbegünstigten Nation ihren Handelsbeziehungen zu Grunde legen.
 
@@ -664,6 +683,8 @@ Diejenigen Deutschen, welche die von den Französischen Gesezen verlangte Ermäc
 
 -232-
 
+<!--
+
 in dieser Reihenfolge ihren Wohnsitz wieder auf französischem Gebiet nehmen.
 
 Die in französischem Recht festgelegte Frist für den Erhalt der Einbürgerung gilt für Personen, die von der oben genannten Möglichkeit Gebrauch machen, innerhalb von sechs Monaten nach dem Austausch der Ratifikationsurkunden dieses Vertrags nach Frankreich zurückzukehren, als durch den Kriegszustand nicht unterbrochen; die zwischen ihrer Ausweisung und ihrer Rückkehr auf französisches Gebiet verstrichene Zeit wird so angerechnet, als hätten sie ihren Wohnsitz nie in Frankreich aufgegeben.
@@ -683,6 +704,8 @@ Beide Parteien werden die Arbeiten zur Kanalisierung der Mosel in ihrem jeweilig
 ARTIKEL 15
 
 Die Hohen Vertragsparteien verpflichten sich gegenseitig, die Maßnahmen auf ihre jeweiligen Untertanen auszudehnen.
+
+-->
 
 Folge dessen auf Französischem Gebiete von Neuem ihren Wohnsis nehmen.
 
@@ -707,6 +730,71 @@ Die Hohen vertragenden Theile verpflichten sich gegenseitig, auf die beiderseiti
 ---
 
 ![Screenshot_20251228_162335~2.jpg](https://github.com/user-attachments/assets/10d723fa-0da3-40db-9a76-ad7cc0b5f75a) 233
+
+
+-233-
+
+<!--
+
+dass sie es für nützlich erachten könnten, dies zugunsten derjenigen ihrer Staatsangehörigen zu erlassen, die infolge der Ereignisse des Krieges nicht in der Lage gewesen wären, die Sicherung oder Wahrung ihrer Rechte rechtzeitig zu erreichen.
+
+ARTIKEL 16.
+
+Die beiden Regierungen, die deutsche und die französische, verpflichten sich gegenseitig, die Gräber der auf ihrem jeweiligen Territorium begrabenen Soldaten zu achten und zu pflegen.
+
+ARTIKEL 17.
+
+Die Regelung der Nebenfragen, über die infolge dieses Vertrags und des Vorvertrags eine Einigung erzielt werden muss, wird Gegenstand weiterer Verhandlungen in Frankfurt sein.
+
+ARTIKEL 18.
+
+Die Ratifizierung dieses Vertrags durch Seine Majestät den Kaiser von Deutschland
+
+Magne auf einer Seite,
+
+und auf der anderen Seite
+
+Die von der Nationalversammlung und dem Oberhaupt der Exekutive der Französischen Republik unterzeichneten Dokumente werden innerhalb von zehn Tagen oder, wenn möglich, auch früher in Frankfurt ausgetauscht.
+
+Zu Urkund dessen haben die jeweiligen Bevollmächtigten es unterzeichnet und das Siegel ihres Wappens angebracht.
+
+Erledigt in Frankfurt am 10. Mai 1871.
+
+v. Bismarck. (LS) Arnim. (L.S.)
+
+Jules Favre. (L. S.)
+
+Pouyer-Quertier. (L. S.)
+
+E. de Goulard. (L. S.)
+
+-->
+
+zudehnen, welche sie zu Gunsten derjenigen ihrer Angehörigen zu treffen für nützlich erachten möchten, die in Folge der Kriegs. ereignisse in die Unmöglichkeit versetzt worden waren, die Wahrnehmung oder Aufrechterhaltung ihrer Rechte rechtzeitig zu bewirken.
+
+Artikel 16.
+
+Beide Regierungen, die Deutsche und die Französische, verpflichten sich gegen seitig, die Gräber der auf ihren Gebieten beerdigten Soldaten respektiren und unterhalten zu lassen.
+
+Artikel 17.
+
+Die Regulirung der nebensächlichen Punkte, über welche in Folge dieses Ver trages und des Prätiminar-Vertrages eine Verständigung zu erfolgen hat, wird der Gegenstand weiterer Verhandlungen sein, welche in Frankfurt stattfinden werden.
+
+Artikel 18.
+
+Die Ratifikationen des gegenwärtigen Vertrages durch Seine Majestät den Deutschen Kaiser einerseits und anderer seits durch die Nationalversammlung und durch das Oberhaupt der vollziehenden Gewalt der Französischen Republik werden in Frankfurt binnen zehn Tagen oder wo möglich früher ausgetauscht werden.
+
+Zur Beglaubigung dessen haben die beiderseitigen Bevollmächtigten denselben vollzogen und unterſiegelt.
+
+Geschehen zu Frankfurt, den 10. Mai 1871.
+
+von Bismarck. (LS) Arnim. (L.S.)
+
+Jules Favre. (L. S.) Pouyer Quertier. (L. S.) E. de Goulard. (L.S.)
+
+43
+
+---
 
 ![Screenshot_20251228_162341~2.jpg](https://github.com/user-attachments/assets/96a36239-19e2-4260-8c4a-58979e8e873d) 234
 
