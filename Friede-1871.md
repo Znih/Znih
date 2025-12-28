@@ -343,9 +343,9 @@ Die Entfernung von der Stadt Belfort zur Grenzlinie, wie sie erstmals während d
 
 (Nr. 657.) (Uebersehung.) Friedens Vertrag zwischen dem Deutschen Reich und Frankreich. Vom 10. Mai 1871.
 
-Der Furst Otto von Bismarck. Schönhausen, Kanzler des Deut. schen Reichs,
+Der Furst Otto von Bismarck. Schönhausen, Kanzler des Deutschen Reichs,
 
-der Graf Harry von Arnim, außer ordentlicher Gesandter und bevoll. mächtigter Minister Sr. Majestät des Deutschen Kaisers bei dem Päpstlichen Stuhle,
+der Graf Harry von Arnim, außer ordentlicher Gesandter und bevollmächtigter Minister Sr. Majestät des Deutschen Kaisers bei dem Päpstlichen Stuhle,
 
 handelnd im Namen Sr. Majestät des Deutschen Kaisers, einerseits, andererseits
 
@@ -357,7 +357,7 @@ Herr Marc Thomas Eugen de Goulard, Mitglied der National. versammlung,
 
 handelnd im Namen der Französischen Republik,
 
-sind übereingekommen, den Präliminar Friedensvertrag vom 26. Februar d. J. mit den durch die nachfolgenden Bestinunungen vorzunehmenden Abände rungen in einen endgültigen Friedensvertrag zu verwandeln und haben festgesetzt, was folgt:
+sind übereingekommen, den Präliminar Friedensvertrag vom 26. Februar d. J. mit den durch die nachfolgenden Bestimmungen vorzunehmenden Abänderungen in einen endgültigen Friedensvertrag zu verwandeln und haben festgesetzt, was folgt:
 
 Artikel 1.
 
@@ -366,6 +366,29 @@ Die Entfernung zwischen der Stadt Belfort und derjenigen Grenzlinie, welche ursp
 ---
 
 ![Screenshot_20251228_162252~2.jpg](https://github.com/user-attachments/assets/29bc8019-21d2-476a-9b97-bee0f716c76a) 224
+
+
+-224-
+
+Die dem ratifizierten Vorvertrag vom 26. Februar beigefügte Anlage wird als Angabe des Radius betrachtet, der gemäß der entsprechenden Klausel des ersten Artikels der Vorbemerkungen mit der Stadt und den Befestigungsanlagen von Belfort bei Frankreich verbleiben muss.
+
+Die deutsche Regierung ist bereit, diesen Radius so auszudehnen, dass er die Kantone Belfort, Delle und Giromagny sowie den westlichen Teil des Kantons Fontaine westlich einer Linie umfasst, die von dem Punkt, an dem der Rhein-Rhône-Kanal den Kanton Delle südlich von Montreux-Château verlässt, bis zur Nordgrenze des Kantons zwischen Bourg und Félon gezogen werden soll, wo diese Linie auf die Ostgrenze des Kantons Giromagny treffen würde.
+
+Die deutsche Regierung wird die vorgenannten Gebiete jedoch nur unter der Bedingung abtreten, dass die Französische Republik ihrerseits einer Grenzkorrektur entlang der westlichen Grenzen der Kantone Cattenom und Thionville zustimmt. Deutschland würde das Land östlich einer Linie, die von der luxemburgischen Grenze zwischen Hussigny und Redingen beginnt, überlassen, Frankreich hingegen die Dörfer Thil und Villerupt, die sich zwischen Erronville und Aumetz, zwischen Beuvillers und Boulange, zwischen Trieux und Lommeringen erstrecken und an die alte Grenzlinie zwischen Avril und Moyeuvre angrenzen.
+
+Die in Artikel 1 der Präliminären genannte Internationale Kommission begibt sich unverzüglich nach dem Austausch der Ratifikationsurkunden dieses Vertrags in das Gebiet, um die ihr obliegende Arbeit auszuführen und die neue Grenze gemäß den vorstehenden Bestimmungen festzulegen.
+
+---
+
+minar Vertrages vom 26. Februar beigefügten Karte eingetragen ist, soll als Bezeichnung des Maßes für den Rayon angesehen werden, welcher zufolge der bezüglichen Verabredung im ersten Artikel der Präliininarien mit der Stadt und den Befestigungen von Belfort bei Frankreich bleiben soll.
+
+Die Deutsche Regierung ist bereit, diesen Rayon dergestalt zu erweitern, daß derselbe umfaßt: die Kantons Belfort, Delle und Giromagny und den westlichen Theil des Kantons von vor Fontaine, westlich einer Linie von dem Punkte, wo der Rhein-Rhône-Kanal aus dem Kanton von Delle austritt, im Süden von Montreux. Château bis zur Nordgrenze des Kantons zwischen Bourg und Félon, wo diese Linie die Ostgrenze des Kantons von Giromagny erreicht.
+
+Die Deutsche Regierung wird indessen die vorerwähnten Gebietstheile nur unter der Bedingung abtreten, daß die Französische Republik ihrerseits in eine Grenzberichtigung längs den westlichen Grenzen der Kantone von Cattenom und Thion ville willigt, welche an Deutschland das Gebiet östlich einer Linte überläßt, die von der Grenze gegen Luxemburg zwischen Hussigny und Redingen ausgeht, die Dörfer Thil und Villerupt bei Frankreich läßt, sich zwischen Erronville und Aumek, zwischen Beuvillers und Boulange, zwischen Tricug und Lomeringen fortjent die alte Grenzlinie Gr zwischen Avril und Moyeuvre erreicht.
+
+Die internationale Kommission, deren im Artikel I. der Präliminarien erwähnt ist, wird sich sogleich nach der Auswech selung der Ratifikationen des gegenwärtigen Vertrages an Ort und Stelle be geben, um die ihr obliegenden Arbeiten auszuführen und die Linie der neuen Grenze gemäß der vorstehenden Bestimmungen zu ziehen.
+
+---
 
 ![Screenshot_20251228_162257~2.jpg](https://github.com/user-attachments/assets/542889cc-845d-458e-b35f-46f8bdbffe51) 225
 
