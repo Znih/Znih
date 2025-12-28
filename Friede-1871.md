@@ -239,6 +239,66 @@ Die Erhebung der Steuern in den besetzten Departements wird nach Rati fikation d
 
 ![Screenshot_20251228_162243~2.jpg](https://github.com/user-attachments/assets/acf200e2-86ce-4d90-ba3d-bb34ee3c1964) 222
 
+-222-
+
+im Namen der französischen Regierung und durch ihre Mitarbeiter.
+
+ARTIKEL IX.
+
+Es versteht sich von selbst, dass die gegenwärtigen Umstände der deutschen Militärbehörde keine Rechte an Teilen des Territoriums einräumen können, die sie derzeit nicht besetzt hält.
+
+ARTIKEL X
+
+Dieses Dokument ist unverzüglich Seiner Majestät dem Kaiser des Deutschen Reiches und der französischen Nationalversammlung in Bordeaux zur Ratifizierung vorzulegen.
+
+Zu Urkund dessen haben die Unterzeichneten ihre Unterschriften und Siegel unter diesen Vorvertrag gesetzt.
+
+Erledigt in Versailles am 26. Februar 1871.
+
+v. Bismarck. (L. S.)
+
+A. Thiers. (L. S.) Jules Favre. (L.S.)
+
+Da die Königreiche Bayern und Württemberg sowie das Großherzogtum Baden am gegenwärtigen Krieg als Verbündete Preußens teilgenommen haben und nun Teil des Deutschen Reiches sind, unterzeichnen die Unterzeichneten die vorliegende Konvention im Namen ihrer jeweiligen Herrscher.
+
+Versailles, 26. Februar 1871.
+
+Comte de Bray-Steinburg.
+
+Baron de Wächter. Mittnacht. Jolly.
+
+---
+
+Rechnung der Französischen Regierung und durch deren Beamte bewirkt werden.
+
+Artikel IX.
+
+Es ist ausgemacht, daß durch Gegenwärtiges der Deutschen Militairbehörde keinerlei Recht auf die zur Zeit nicht von ihr besesten Gebietstheile gegeben werden kann.
+
+Artikel X.
+
+Gegenwärtiges soll der Ratifikation Sr. Majestät des Deutschen Kaisers, so wie der Französischen Nationalversammlung, welche ihren Sitz in Bordeaux hat, unverzüglich unterbreitet werden.
+
+Zu Urkund dessen haben die Unterzeichneten den gegenwärtigen Präliminar Vertrag mit ihren Unterschriften und ihren Siegeln versehen.
+
+Geschehen Versailles, den 26. Februar 1871.
+
+v. Bismarck. A. Thiers. (L.S.)
+
+(L. S.) Jules Favre. (L. S.)
+
+Da die Königreiche Bayern und Württemberg und das Großherzogthum Baden als Verbündete Preußens an dem gegenwärtigen Kriege theilgenommen haben und jetzt zum Deutschen Reiche gehören, so treten die Unterzeichneten der gegenwärtigen Uebereinkunft im Namen ihrer Souveraine bei.
+
+Versailles, den 26. Februar 1871.
+
+Graf v. Bray-Steinburg.
+
+Freiherr v. Wächter. Mittnacht. Jolly.
+
+Der Austausch der Ratifikationen ist am 2. März 1871. zu Versailles erfolgt.
+
+(Nr. 657.)
+
 ---
 
 Friede 1871 mit 18 Artikeln 
