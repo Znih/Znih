@@ -640,7 +640,9 @@ Alle ausgewiesenen Deutschen behalten das volle und uneingeschränkte Nutzungsre
 
 Diejenigen Deutschen, die die nach französischem Recht erforderliche Genehmigung zur Begründung ihres Wohnsitzes in Frankreich erhalten hatten, werden in all ihren Rechten wiederhergestellt und können, in con-Reichs Gesezbl. 1871.
 
-Regierung den Grundsas der gegenseitigen Behandlung auf dem Fuße der meistbe. günstigten Nation ihren Handelsbezie hungen zu Grunde legen.
+---
+
+Regierung den Grundsatzes der gegenseitigen Behandlung auf dem Fuße der meistbegünstigten Nation ihren Handelsbeziehungen zu Grunde legen.
 
 Diese Regel umfaßt die Eingangs- und Ausgangsabgaben, den Durchgangs-Verkehr, die Zollförmlichkeiten, die Zulassung und Behandlung der Angehörigen beider Nationen und der Vertreter derselben.
 
@@ -659,6 +661,50 @@ Diejenigen Deutschen, welche die von den Französischen Gesezen verlangte Ermäc
 ---
 
 ![Screenshot_20251228_162330~2.jpg](https://github.com/user-attachments/assets/d0e966c6-c74c-4e45-96bb-050671f68b95) 232
+
+-232-
+
+in dieser Reihenfolge ihren Wohnsitz wieder auf französischem Gebiet nehmen.
+
+Die in französischem Recht festgelegte Frist für den Erhalt der Einbürgerung gilt für Personen, die von der oben genannten Möglichkeit Gebrauch machen, innerhalb von sechs Monaten nach dem Austausch der Ratifikationsurkunden dieses Vertrags nach Frankreich zurückzukehren, als durch den Kriegszustand nicht unterbrochen; die zwischen ihrer Ausweisung und ihrer Rückkehr auf französisches Gebiet verstrichene Zeit wird so angerechnet, als hätten sie ihren Wohnsitz nie in Frankreich aufgegeben.
+
+Die oben genannten Bedingungen gelten in voller Gegenseitigkeit auch für französische Staatsangehörige, die in Deutschland wohnen oder dort wohnen möchten.
+
+ARTIKEL 13.
+
+Deutsche Gebäude, die vor dem 2. März 1871 von den Preiskommissionen für unbrauchbar erklärt wurden, gelten als endgültig unbrauchbar.
+
+Diejenigen, die bis zum genannten Datum nicht verurteilt wurden, erhalten die Ladung in ihrem jetzigen Zustand zurück. Sollte die Rückgabe der Gebäude und der Ladung nicht mehr möglich sein, wird deren Wert, ermittelt anhand des Verkaufspreises, an die Eigentümer zurückerstattet.
+
+ARTIKEL 14.
+
+Beide Parteien werden die Arbeiten zur Kanalisierung der Mosel in ihrem jeweiligen Gebiet fortsetzen. Die gemeinsamen Interessen der getrennten Teile der beiden Départements Meurthe und Moselle werden geregelt.
+
+ARTIKEL 15
+
+Die Hohen Vertragsparteien verpflichten sich gegenseitig, die Maßnahmen auf ihre jeweiligen Untertanen auszudehnen.
+
+Folge dessen auf Französischem Gebiete von Neuem ihren Wohnsis nehmen.
+
+Für diejenigen Personen, welche von der vorerwähnten Befugniß, nach Frankreich zurückzukehren, binnen sechs Monaten nach Austausch der Ratifikationen dieses Vertrages Gebrauch machen, wird die durch die Französischen Gesebe festgestellte Frist zur Erlangung der Naturalisation als durch den Kriegszustand nicht unterbrochen betrachtet, und die zwischen ihrer Ausweisung und ihrer Rückkehr auf Französischen Boden verflossene Zeit soll dergestalt gerechnet werden, als ob sie nie aufgehört hätten, in Frankreich zu wohnen.
+
+Vorstehende Bedingungen sind in voller Gegenseitigkeit auf die Französischen Unterthanen anwendbar, welche in Deutschland wohnen oder zu wohnen wünschen.
+
+Artikel 13.
+
+Die Deutschen Schiffe, welche durch Prisengerichte vor dem 2. März 1871. fondemnirt waren, sollen als endgültig kondemnirt angesehen werden.
+
+Diejenigen, welche an besagten Tage nicht kondemnirt waren, sollen mit der Ladung, soweit solche noch vorhanden, zurückgegeben werden. Wenn die Rückgabe der Schiffe und Ladungen nicht mehr möglich ist, so soll ihr nach dem Verkaufspreise bemessener Werth ihren Eigenthümern erstattet werden.
+
+Artikel 14.
+
+Jeder der vertragenden Theile wird auf seinem Gebiete die zur Kanalisirung der Mosel unternommenen Arbeiten fortführen. Die gemeinsamen Interessen der getrennten Theile der beiden Departements Meurthe und Mosel sollen liquidirt werden.
+
+Artikel 15.
+
+Die Hohen vertragenden Theile verpflichten sich gegenseitig, auf die beiderseitigen Unterthanen die Maßregeln aus.
+
+---
 
 ![Screenshot_20251228_162335~2.jpg](https://github.com/user-attachments/assets/10d723fa-0da3-40db-9a76-ad7cc0b5f75a) 233
 
