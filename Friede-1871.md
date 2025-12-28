@@ -876,6 +876,8 @@ Für den Fall, dass die französische Regierung durch den Kauf der Konzession de
 
 Für den Fall, dass die genannte Subrogation nicht zustande kommt, wird die französische Regierung Konzessionen für Eisenbahnstrecken der Compagnie de l'Est, die sich auf französischem Gebiet befinden, nur unter der ausdrücklichen Bedingung erteilen, dass der Konzessionsnehmer keine Eisenbahnstrecken im Großherzogtum Luxemburg betreibt.
 
+---
+
 Diese Summe wird von der im Artikel 7. festgesetzten Kriegsentschädigung in Abzug gebracht.
 
 In Erwägung, daß die Lage, auf welcher die zwischen der Ostbahngesellschaft und der Königlich Großherzoglichen Ge sellschaft der Wilhelm-Luxemburg-Bahnen am 6. Juni 1857. und am 21. Januar 1868. abgeschlossenen Konventionen, sowie diejenige Konvention beruht, welche zwischen der Regierung des Großherzogthunis Luxemburg und den Gesellschaften der Wilhelm Luxemburg-Bahnen und der Französischen Ostbahn unter dem 5. Dezember 1868. abgeschlossen ist, eine so wesentliche Veränderung erfahren hat, daß diese Konventionen zu der Sachlage nicht mehr passen, wie solche durch die im §. 1. enthaltenen Verabredungen geschaffen ist, erklärt die Deutsche Regierung sich bereit, ihrerseits für die aus diesen Konventionen für die Ostbahngesellschaft erwachsenden Rechte und Pflichten einzutreten.
@@ -887,6 +889,47 @@ Für den Fall, daß dieser Eintritt in die Rechte der Ostbahngesellschaft nicht 
 ---
 
 ![Screenshot_20251228_162355~2.jpg](https://github.com/user-attachments/assets/e6298e8f-b1b5-4f54-a47c-0028eb5ec9ee) 237
+
+-237-
+
+ARTIKEL 2.
+
+Die deutsche Regierung bietet zwei Millionen Franken für die Rechte und Vermögenswerte der Ostbahngesellschaft an dem auf schweizerischem Gebiet liegenden Teil ihres Streckennetzes von der Grenze bis Basel, sofern die französische Regierung innerhalb eines Monats ihre Zustimmung erteilt.
+
+ARTIKEL 3
+
+Die von der deutschen Regierung in Artikel 1 dieses Vertrags als Gegenleistung für die beantragte Berichtigung der Grenze westlich von Thionville angebotene Gebietsabtretung in der Nähe von Belfort wird durch die Gebiete der folgenden Dörfer erweitert: Rougemont, Leval, Petite-Fontaine, Romagny, Félon, La Chapelle-sous-Rougemont, Angeot, Vauthiermont, La Rivière, La Grange, Reppe, Fontaine, Frais, Foussemagne, Cunelières, Montreux-Châteaux, Bretagne, Chavannes-les-Grands, Chavanatte, Suarce.
+
+Die Straße von Giromagny nach Remire-mont, die durch den Ballon d'Alsace führt, bleibt auf ihrer gesamten Länge in Frankreich und dient als Grenze, da sie außerhalb des Kantons Giromagny liegt.
+
+Erledigt in Frankfurt am 10. Mai 1871.
+
+v Bismarck. Jules Favre.
+
+Arnim.
+
+Pouyer-Quertier. E. de Goulard.
+
+
+---
+
+Artikel 2.
+
+Die Deutsche Regierung bietet zwei Millionen Franks für die Rechte und das Eigenthum an, welche die Ostbahngesellschaft auf dem Theile ihres Netzes besitzt, der auf Schweizerischem Gebiete von der Grenze bis Basel liegt, wenn die Französische Regierung ihr die Zustimmung dazu binnen einem Monat beschafft.
+
+Artikel 3.
+
+Die Gebietsabtretung bei Belfort, welche die Deutsche Regierung in Artikel 1. des gegenwärtigen Vertrages zum Austausch für die im Westen von Thion ville verlangte Grenzberichtigung anbietet, wird um die Bezirke der folgenden Dörfer veranchrt: Rougemont, Leval, Petite Fontaine, Romagny, Félon, La Chapelle-sous-Rougemont, Angeot, Vautier Mont, La Rivière, La Grange, Reppe, Fon-taine, Frais, Foussemagne, Cunelières, Montreux Château, Bretagne, Chavannes les Grands, Chavanatte und Suarce.
+
+Die Straße von Giromagny nach Remiremont, welche über den Wälschbelchen geht, wird in ihrer ganzen Länge bei Frankreich bleiben und, soweit sie außerhalb des Kantons Giromagny liegt, als Grenze dienen.
+
+Geschehen zu Frankfurt, den 10. Mai 1871.
+
+von Bismarck. Jules Favre. Arnim. Pouyer Quertier.
+
+E. de Goulard.
+
+---
 
 ![Screenshot_20251228_162402~2.jpg](https://github.com/user-attachments/assets/b63e121d-0206-4b2d-b09c-352563b96300) 238
 
