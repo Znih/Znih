@@ -34,6 +34,8 @@ der Chef der Exekutive der französischen Republik, Herr Thiers, und
 
 Der französische Außenminister, Herr Jules Favre,
 
+---
+
 (Nr. 656.) (Uebersetzung.) Friedens-Präliminarien zwischen dem Deutschen Reich und Frankreich. Vom 26. Februar 1871.
 
 Zwischen dem Kanzler des Deutschen Reichs, Herrn Grafen Otto v. Bismarck-Schönhausen, der mit Vollmacht SeitensSeiner Majestät des Deutschen Kaisers und Königs von Preußen versehen ist,
@@ -61,6 +63,26 @@ Ausgegeben zu Berlin den 19. Juni 1871,
 ---
 
 ![Screenshot_20251228_162211~2.jpg](https://github.com/user-attachments/assets/ad705e4f-0cd4-4137-9d5a-3e3f10af5d71) 216
+
+216
+
+Nachdem festgestellt wurde, dass die Vollmachten beider Vertragsparteien in gutem und ordnungsgemäßem Zustand waren, wurde Folgendes vereinbart, das als vorläufige Grundlage für den später abzuschließenden endgültigen Frieden dienen sollte.
+
+ARTIKEL I
+
+Frankreich verzichtet zugunsten des Deutschen Reiches auf alle seine Rechte und Ansprüche an den östlich der nachstehend bezeichneten Grenze gelegenen Gebieten.
+
+Die Demarkationslinie beginnt an der nordwestlichen Grenze des Kantons Cattenom in Richtung Großherzogtum Luxemburg, folgt südwärts den westlichen Grenzen der Kantone Cattenom und Thionville, durchquert den Kanton Briey entlang der westlichen Grenzen der Gemeinden Montois-la-Montagne und Roncourt sowie der östlichen Grenzen der Gemeinden Saint-Marie-aux-Chênes, Saint-Aie und Habonville, erreicht die Grenze des Kantons Gorze, die sie entlang der Gemeindegrenzen von Vionville, Buxières und Onville überschreitet, folgt der südwestlichen und/oder südlichen Grenze des Arrondissements Metz, der westlichen Grenze des Arrondissements Château-Salins bis zur Gemeinde Pettoncourt, deren westliche und südliche Grenzen sie umfasst, um dem Gebirgskamm zwischen Seille und Moncel bis zur Grenze des südlich gelegenen Arrondissements Sarrebourg zu folgen. Garde. Die Grenzlinie verläuft dann entlang der Grenze dieses Bezirks bis zur Gemeinde Tanconville, deren nördliche Grenze sie erreicht; von dort folgt sie dem Kamm der Berge zwischen den Quellen der Saar.
+
+---
+
+ist, nachdem die Vollmachten der beiden vertragenden Theile in guter und regelrechter Form befunden worden, nachstehende Vereinbarung getroffen worden, welche als vorläufige Grundlage für den später abzuschließenden endgültigen Frieden dienen soll.
+
+Artikel I.
+
+Frankreich verzichtet zu Gunsten des Deutschen Reichs auf alle seine Rechte und Ansprüche auf diejenigen Gebiete, welche östlich von der nachstehend verzeichneten Grenze belegen sind. Die Demarkationslinie beginnt an der nordwestlichen Grenze des Kantons Cattenom gegen das Großherzogthum Luxemburg, folgt südwärts den westlichen Grenzen der Kantons Cattenom und Thionville, durchschneidet den Kanton Briey, indem sie längs der westlichen Grenzen der Gemeinden Montois-la-Montagne und Roncourt, sowie der östlichen Grenzen der Gemeinden St. Marie. aux Chênes, St. Ail, Habonville hin läuft, berührt die Grenze des Kantons Gorze, welche sie längs der Grenzen der Gemeinden Vionville, Burières und Onville durchschneidet, folgt der Süd-west beziehungsweise Südgrenze des Arrondissements Meß, der Westgrenze des Arrondissements Chateau-Salins bis zur Gemeinde Pettoncourt, von der sie die West- und Südgrenze einschließt, und folgt dann dem Kamme der zwischen der Seille und dem Moncel gelegenen Berge bis zur Grenze des Arrondissements Saarburg südlich von Garde. Sodann fällt die Demarkationslinie mit der Grenze dieses Arrondissements bis zur Gemeinde Tanconville zusammen, deren Nordgrenze sie berührt, von dort folgt sie dem Kamme der zwischen den Quellen der weißen Saar und der Vezouze befindlichen Bergzüge bis zur Grenze des Kantons Schirmeck, geht entlang der
+
+---
 
 ![Screenshot_20251228_162217~2.jpg](https://github.com/user-attachments/assets/f22684fd-6d12-407a-8059-d6008fee46ea) 217
 
