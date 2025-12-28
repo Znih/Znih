@@ -514,6 +514,36 @@ Da die Deutsche Regierung in Frankreich den Werth des Preußischen Thalers
 
 ![Screenshot_20251228_162310~2.jpg](https://github.com/user-attachments/assets/d901f8e0-6916-4988-adf0-137a265e4ff1) 228
 
+-228-
+
+Der preußische Peso steht bei drei Francs und fünfundsiebzig Centimes; die französische Regierung akzeptiert den Währungsumtausch der beiden Länder zu dem oben genannten Kurs.
+
+Die französische Regierung wird die deutsche Regierung drei Monate im Voraus über jede Zahlung informieren, die sie an die Kasse des Deutschen Reiches leisten will.
+
+Nach Zahlung der ersten halben Milliarde Francs und Ratifizierung des endgültigen Friedensvertrags werden die Départements Somme, Seine-Inférieure und Eure evakuiert, sofern sie noch von deutschen Truppen besetzt sind. Die Evakuierung der Départements Oise, Seine-et-Oise, Seine-et-Marne und Seine sowie der Pariser Festungen erfolgt, sobald die deutsche Regierung die Wiederherstellung der Ordnung in Frankreich und Paris für ausreichend hält, um die Erfüllung der von Frankreich übernommenen Verpflichtungen zu gewährleisten.
+
+Die Evakuierung wird in jedem Fall nach Zahlung der dritten halben Milliarde erfolgen.
+
+Den deutschen Truppen steht im Interesse ihrer Sicherheit die neutrale Zone zwischen der deutschen Demarkationslinie und der Pariser Stadtmauer am rechten Seineufer zur Verfügung.
+
+Die Bestimmungen des Vertrags vom 26. Februar über die Besetzung französischer Gebiete nach Zahlung von zwei Milliarden bleiben in Kraft. Keiner der Abzüge, zu denen die französische Regierung möglicherweise berechtigt ist, darf auf die Zahlung der ersten fünfhundert Millionen angewendet werden.
+
+---
+
+auf 3 Frks. 75 Cts. festgestellt hat, so ninımt die Französische Regierung die Um rechnung der Münzen beider Länder zu oben bezeichnetem Kurse an.
+
+Die Französische Regierung wird die Deutsche Regierung drei Monate zuvor von jeder Zahlung benachrichtigen, welche sie den Kassen des Deutschen Reichs zu leisten beabsichtigt.
+
+Nach Zahlung der ersten halben Mil-liarde und der Ratifikation des definitiven Friedensvertrages werden die Departe ments Somme, Seine Inférieure und Eure, soweit sie noch von den Deutschen Truppen besetzt sind, geräumt. Die Räumung der Departements Dise, Seine et Dise, Seine et Marne und Seine, sowie der Forts von Paris wird stattfinden, sobald die Deutsche Regierung die Herstellung der Ordnung sowohl in Frankreich als in Paris für genügend erachtet, um die Ausführung der von Frankreich übernommenen Verpflichtungen sicher zu stellen.
+
+In allen Fällen wird diese Räumung bei Zahlung der dritten halben Milliarde stattfinden.
+
+Die Deutschen Truppen behalten im Interesse ihrer Sicherheit die Verfügung über die neutrale Zone zwischen der Deut. schen Demarkationslinie und der Umwallung von Paris auf dem rechten Ufer der Seine.
+
+Die Bestimmungen des Vertrages vom 26. Februar über die Besekung Französischen Gebietes nach Zahlung von zwei Milliarden bleiben in Kraft. Von der Zahlung der ersten fünfhundert Millionen können Abzüge, zu welchen die Franzősische Regierung berechtigt sein könnte, nicht gemacht werden.
+
+---
+
 ![Screenshot_20251228_162314~2.jpg](https://github.com/user-attachments/assets/553cba56-46e0-4a39-a22c-1a3e808c4c9c) 229
 
 ![Screenshot_20251228_162319~2.jpg](https://github.com/user-attachments/assets/c67189ea-eb07-4fcd-b7a3-c10da0657b65) 230
