@@ -842,6 +842,30 @@ Artikel 1.
 
 ![Screenshot_20251228_162345~2.jpg](https://github.com/user-attachments/assets/4fc2f349-1c25-4c46-b997-dca1be22399a) 235
 
+-235-
+
+Abschnitt 3. Schienenfahrzeuge sind von dieser Übertragung ausgenommen. Die deutsche Regierung übergibt der französischen Regierung sämtliche in ihrem Besitz befindlichen Schienenfahrzeuge und Zubehörteile.
+
+Abschnitt 4. Die französische Regierung verpflichtet sich, die abgetretenen Eisenbahnen und zugehörigen Anlagen vom Deutschen Reich vollständig von allen Rechten Dritter, insbesondere den Rechten der Anleihegläubiger, zu entbinden. Sie verpflichtet sich ferner, gegebenenfalls die Rechte der deutschen Regierung hinsichtlich etwaiger Ansprüche der Gläubiger der betreffenden Eisenbahnen gegen die deutsche Regierung zu übernehmen.
+
+Abschnitt 5. Die französische Regierung übernimmt die Verantwortung für alle Ansprüche, die die Ostbahngesellschaft gegen die deutsche Regierung oder deren Beauftragte im Zusammenhang mit dem Betrieb der genannten Eisenbahnen und der Verwendung der in Abschnitt 2 aufgeführten Gegenstände sowie des Rollmaterials geltend macht. Die deutsche Regierung stellt der französischen Regierung auf deren Verlangen alle Dokumente und Informationen zur Verfügung, die zur Feststellung der den vorgenannten Ansprüchen zugrunde liegenden Tatsachen beitragen können.
+
+§ 6. Die deutsche Regierung zahlt der französischen Regierung für die Übertragung der in §§ 1 und 2 genannten Eigentumsrechte und als Gegenleistung für die von der französischen Regierung in § 4 eingegangene Verpflichtung den Betrag von dreihundertfünfundzwanzig Millionen (325.000.000) Franken.
+
+---
+
+§. 3. Ausgeschlossen von dieser Abtretung ist das Betriebsmaterial. Die Deutsche Regierung wird den etwa in ihrem Besitz befindlichen Theil des Betriebsmaterials nebst Zubehör der Französischen Regierung zurückgeben.
+
+§. 4. Die Französische Regierung verpflichtet sich, die abgetretenen Eisenbahnen nebst Zubehör dem Deutschen Reiche gegenüber von allen Rechtsansprüchen zu befreien, welche dritte Personen darauf geltend machen könnten, namentlich von den Ansprüchen der Darlehnsgläubiger. Gleichfalls verpflichtet sie sich, eintretenden Falls für die Deutsche Regierung in Bezug auf die Ansprüche einzutreten, welche gegen die Deutsche Regierung von Gläubigern der in Rede stehenden Bahnen erhoben werden möchten.
+
+§. 5. Die Französische Regierung übernimmt die Vertretung der Ansprüche, welche die Ostbahngesellschaft gegen die Deutsche Regierung oder deren Beauftragte in Bezug auf den Betrieb der gedachten Eisenbahnen und auf den Gebrauch der im §. 2. bezeichneten Gegenstände, sowie des Betriebsmaterials erheben könnte.
+
+Die Deutsche Regierung wird der Französischen Regierung auf deren Verlangen alle Schriftstücke und Nachrichten mittheilen, welche zur Feststellung der den vorerwähnten Ansprüchen zu Grunde liegenden Thatsachen dienen könnten.
+
+§. 6. Die Deutsche Regierung wird der Französischen Regierung für die Abtretung der in den §§. 1. und 2. erwähnten Eigenthumsrechte und als Gegenleistung für die im §. 4. von der Französischen Regierung übernominene Verpflichtung die Summe von dreihundertfünfundzwanzig Millionen (325,000,000) Frks. zahlen.
+
+---
+
 ![Screenshot_20251228_162350~2.jpg](https://github.com/user-attachments/assets/7b70712f-cf6b-42d3-a4a2-a3de7f820ec6) 236
 
 ![Screenshot_20251228_162355~2.jpg](https://github.com/user-attachments/assets/e6298e8f-b1b5-4f54-a47c-0028eb5ec9ee) 237
