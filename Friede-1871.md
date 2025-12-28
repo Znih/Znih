@@ -6,9 +6,59 @@ Erste Seite des Friedensvertrages zwischen dem Deutschen Reich und Frankreich, F
 
 ---
 
-**Faksimile Vorfrieden Versailles 1870 und Frankfurter Frieden 1871 (Friedenswerk) aus den Gesetzestexten**
+**Faksimile Vorfrieden Versailles 1870 und Frankfurter Frieden 1871 (Friedenswerk, BGBl. 1871 Nr. 26 S. 215-244) aus den Gesetzestexten**
 
 ![Screenshot_20251228_162107~2.jpg](https://github.com/user-attachments/assets/9505ca70-a58e-4f2e-8821-826363acccdd) 215
+
+-215-
+
+Reichs-Gesezblatt.
+
+№ 26.
+
+(Nr. 656.) Friedenspräliminarien zwischen dem Deutschen Reich und Frankreich. 26. Februar 1871.
+
+Zwischen dem Reichskanzler des Deutschen Reiches, Graf Otto von Bismarck-Schönhausen, ordnungsgemäß bevollmächtigt von Seiner Majestät dem Kaiser des Deutschen Reiches, König von Preußen,
+
+Der Staatsminister und Außenminister Seiner Majestät des Königs von Bayern, Graf Otto von Bray-Steinburg,
+
+Der Außenminister Seiner Majestät des Königs von Württemberg, Baron Auguste de Wächter,
+
+Der Staatsminister, Präsident des Ministerrats Seiner Königlichen Hoheit, Seiner Gnaden des Großherzogs von Baden, Herr Jules Jolly,
+
+auf der einen Seite das Germanische Reich repräsentierend
+
+und auf der anderen Seite
+
+der Chef der Exekutive der französischen Republik, Herr Thiers, und
+
+Der französische Außenminister, Herr Jules Favre,
+
+(Nr. 656.) (Uebersetzung.) Friedens-Präliminarien zwischen dem Deutschen Reich und Frankreich. Vom 26. Februar 1871.
+
+Zwischen dem Kanzler des Deutschen Reichs, Herrn Grafen Otto v. Bismarck-Schönhausen, der mit Vollmacht SeitensSeiner Majestät des Deutschen Kaisers und Königs von Preußen versehen ist,
+
+dem Staatsminister des Aeußeren Seiner Majestät des Königs von Bayern, Herrn Grafen Otto v. Bray-Steinburg, dem Minister der auswärtigen An
+
+gelegenheiten Seiner Majestät des
+
+Königs von Württemberg, Herrn
+
+Freiherrn August v. Wächter,
+
+dem Staatsminister, Präsidenten des Staats Ministeriums Seiner Königlichen Hoheit des Großherzogs von Baden, Herrn Julius Jolly,
+
+welche das Deutsche Reich vertreten,
+
+einerseits,
+
+und dem Chef der Exekutivgewalt der Französischen Republik, Herrn Thiers, und dem Minister der auswärtigen Angelegenheiten, Herrn Jules Favre, welche Frankreich vertreten, andererseits, 41
+
+Reichs Gesetzbl. 1871.
+
+Ausgegeben zu Berlin den 19. Juni 1871,
+
+---
 
 ![Screenshot_20251228_162211~2.jpg](https://github.com/user-attachments/assets/ad705e4f-0cd4-4137-9d5a-3e3f10af5d71) 216
 
