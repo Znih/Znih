@@ -478,6 +478,40 @@ Die der reformirten Kirche oder der Augsburger Konfession angehörigen, auf den 
 
 ![Screenshot_20251228_162305~2.jpg](https://github.com/user-attachments/assets/2f76561d-02d7-4c4a-97ae-7e5743cb8fae) 227
 
+-227-
+
+Die in französischen Gebieten gegründeten Gemeinden der Kirche des Augsburger Bekenntnisses unterstehen nicht mehr der Autorität des Oberkonsistoriums und des in Straßburg ansässigen Direktors.
+
+Die jüdischen Gemeinden in den Gebieten östlich der neuen Grenze werden nicht mehr vom zentralen jüdischen Konsistorium in Paris abhängig sein.
+
+ARTIKEL 7
+
+Die Zahlung von 500 Millionen Francs erfolgt innerhalb von 300 Tagen nach Wiederherstellung der Autorität der französischen Regierung in Paris. Eine Milliarde wird im Laufe des Jahres und eine halbe Milliarde am 1. Mai 1872 gezahlt. Die verbleibenden drei Milliarden sind gemäß dem vorläufigen Friedensvertrag am 2. März 1874 fällig. Ab dem 2. März dieses Jahres werden die Zinsen auf diese drei Milliarden Francs jährlich am 3. März mit fünf Prozent pro Jahr gezahlt.
+
+Für alle im Voraus gezahlten Beträge der letzten drei Milliarden fallen ab dem Tag der Zahlung keine Zinsen mehr an.
+
+Alle Zahlungen dürfen nur in den wichtigsten Handelsstädten Deutschlands erfolgen und müssen in Metall, Gold oder Silber, in Banknoten der Bank von England, Banknoten der Bank von Preußen, Banknoten der Königlichen Bank der Niederlande, Banknoten der Nationalbank von Belgien, in Schuldscheinen oder in handelbaren Wechseln erster Ordnung, Barwert, erfolgen.
+
+Die deutsche Regierung hat den Wert des Talers in Frankreich festgelegt.
+
+---
+
+Die zur Kirche der Augsburger Konfession gehörigen, auf Französischem Gebiete bestehenden Gemeinden werden aufhören, von dem Ober-Konsistorium und von dem Direktor in Straßburg abhängig zu sein.
+
+Die israelitischen Gemeinden in den Gebieten östlich der neuen Grenze werden aufhören, von dem israelitischen Central Konsistorium zu Paris abhängig zu sein.
+
+Artikel 7.
+
+Die Zahlung von 500 Millionen soll erfolgen innerhalb der dreißig Tage, welche der Wiederherstellung der Autorität der Französischen Regierung in der Stadt Paris folgen werden. Eine Milliarde soll im Laufe des Jahres und eine halbe Milliarde am 1. Mai 1872. bezahlt werden. Die lekten drei Milliarden bleiben zahlbar am 2. März 1874., so wie es durch den Präliminar Friedensvertrag vereinbart worden ist. Vom 2. März des laufenden Jahres an werden die Zinsen dieser drei Milliarden Franks jedes Jahr am 3. März mit 5 Prozent für das Jahr bezahlt werden.
+
+Jede im Voraus auf die drei letzten Milliarden abgezahlte Summe wird vom Tage der geleisteten Zahlung an auf hören, Zinsen zu tragen.
+
+Alle Zahlungen können nur in den hauptsächlichsten Handelsplägen Deutsch lands gemacht und werden in Metall, Gold oder Silber, in Noten der Bank von England, in Noten der Preußischen Bank, in Noten der Königlichen Bank der Niederlande, in Noten der National-bank von Belgien, in Anweisungen auf Order oder diskontirbaren Wechseln ersten Ranges, sofort zahlbar, geleistet werden.
+
+Da die Deutsche Regierung in Frankreich den Werth des Preußischen Thalers
+
+---
+
 ![Screenshot_20251228_162310~2.jpg](https://github.com/user-attachments/assets/d901f8e0-6916-4988-adf0-137a265e4ff1) 228
 
 ![Screenshot_20251228_162314~2.jpg](https://github.com/user-attachments/assets/553cba56-46e0-4a39-a22c-1a3e808c4c9c) 229
