@@ -434,6 +434,48 @@ Die Französische Regierung wird der Regierung des Deutschen Reiches innerhalb e
 
 ![Screenshot_20251228_162301~2.jpg](https://github.com/user-attachments/assets/8b50c33f-1acb-4062-a945-7996e1a0d3b3) 226
 
+-226-
+
+Gemeinden und öffentliche Einrichtungen der abgetretenen Gebiete;
+
+2. die Höhe der Anwerbungs- und Ersatzprämien für Militärangehörige und Seeleute aus den abgetretenen Gebieten, die sich für die deutsche Staatsangehörigkeit entschieden haben;
+
+3. die Höhe der Garantien der staatlichen Buchhalter;
+
+4. die Summe der als gerichtliche Sicherheitsleistungen gezahlten Beträge aufgrund von Maßnahmen, die von Verwaltungs- oder Justizbehörden in den abgetretenen Gebieten ergriffen wurden.
+
+ARTIKEL 5.
+
+Die beiden Nationen werden hinsichtlich der Schifffahrt auf der Mosel, dem Rhein-Marne-Kanal, dem Rhône-Rhein-Kanal, dem Saarkanal und den mit diesen Wasserstraßen verbundenen schiffbaren Gewässern gleichberechtigt behandelt. Das Recht zum Flößen von Holz bleibt bestehen.
+
+ARTIKEL 6
+
+Die Hohen Vertragsparteien sind der Ansicht, dass die Bistumsbezirke der an das Deutsche Reich abgetretenen Gebiete mit der in Artikel 1 genannten neuen Grenze übereinstimmen sollten, und beraten sich nach Ratifizierung dieses Vertrags unverzüglich über die zu diesem Zweck gemeinsam zu ergreifenden Maßnahmen.
+
+Gemeinden, die entweder der Reformierten Kirche oder der Augsburger Konfession angehören und auf von Frankreich abgetretenen Gebieten gegründet wurden, unterstehen nicht mehr der französischen Kirchengewalt.
+
+---
+
+Anstalten der abgetretenen Gebiete deponirten Summen;
+
+2) den Betrag der Anwerbungs- und Stellvertretungs Prämien, welche den aus den abgetretenen Gebieten herstammenden Soldaten und See. leuten gehören, die sich für die Deutsche Nationalität entschieden haben;
+
+3) den Betrag der Kautionen der Rech. nungsbeamten des Staates;
+
+4) den Betrag der für gerichtliche Kon signationen in Folge von Maß regeln der Verwaltungs- oder Justiz behörden in den abgetretenen Ge bieten eingezahlten Geldsummen.
+
+Artikel 5.
+
+Beide Nationen sollen in Bezug auf die Schiffahrt auf der Mosel, dem Rhein-Marne, Rhein-Rhône, dem Saar Kanal und den mit diesen Wasserwegen in Verbindung stehenden schiffbaren Ge. wässern der gleichen Behandlung genießen. Das Flößrecht wird beibehalten.
+
+Artikel 6.
+
+Da die Hohen vertragenden Theile der Meinung sind, daß die Diözesan grenzen der an das Deutsche Reich abgetretenen Gebiete mit der neuen, durch obenstehenden Artikel 1. bestimm ten Grenze zusammenfallen müssen, so werden sie sich nach der Ratifikation des gegenwärtigen Vertrages unverzüglich über die zu diesem Zwecke gemeinschaftlich zu ergreifenden Maßregeln verständigen.
+
+Die der reformirten Kirche oder der Augsburger Konfession angehörigen, auf den von Frankreich abgetretenen Gebieten bestehenden Gemeinden werden aufhören, von der Französischen kirchlichen Behörde abhängig zu sein.
+
+---
+
 ![Screenshot_20251228_162305~2.jpg](https://github.com/user-attachments/assets/2f76561d-02d7-4c4a-97ae-7e5743cb8fae) 227
 
 ![Screenshot_20251228_162310~2.jpg](https://github.com/user-attachments/assets/d901f8e0-6916-4988-adf0-137a265e4ff1) 228
