@@ -95,3 +95,18 @@ https://www.verfassungen.de/de67-18/rustag13.htm
    Angelegt 1913, realisiert 1914, institutionalisiert 1919 und absolut fixiert durch die Gesetzgebung von 1934.
 
 Soll ich dieses Bruchsystem detaillierter im Vergleich zu anderen europäischen Systemen analysieren?
+
+
+---
+
+zu den Fakten
+
+Folge dem Geld und den Gesetzestexten!
+
+![Screenshot_20251229_193554~2.jpg](https://github.com/user-attachments/assets/c3bd8332-55bf-459c-a8f4-e4d78d334720)
+
+![Screenshot_20251229_193629~2.jpg](https://github.com/user-attachments/assets/fb325360-bdea-42fb-9167-b355677f2d5e)
+
+![Screenshot_20251229_193639~2.jpg](https://github.com/user-attachments/assets/6b0f1a33-367d-4472-b5f1-7fe0fd88db94)
+
+![Screenshot_20251229_193645~2.jpg](https://github.com/user-attachments/assets/9d687fe6-8153-4462-bfc8-14b226bbb2ee)
