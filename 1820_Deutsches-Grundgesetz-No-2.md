@@ -1,3 +1,36 @@
+**Copilot:**
+Die **Wiener Schlussakte von 1820** wurde beschlossen, um die Bindungen und Strukturen des Deutschen Bundes zu festigen und zu stärken. Sie ist eine bedeutsame Erweiterung der Bundesakte von 1815 und erhebt deren Bestimmungen formell zu bindendem Bundesrecht. Das sind die wesentlichen Aspekte:
+
+---
+
+### **Kernaussagen der Wiener Schlussakte:**
+
+#### **1. Rechtsverbindlichkeit und Stärkung des Bundes**
+- Der Beschluss vom 8. Juni 1820 erklärte die Schlussakte als **Grundgesetz des Deutschen Bundes**. 
+- Ziel war die Sicherung der Unabhängigkeit der deutschen Staaten, die Verlässlichkeit der Bundesakte von 1815 und die Implementierung dauerhafter Friedens- und Sicherheitsmechanismen.
+
+#### **2. Ergänzungen und Konkretisierungen zur Bundesakte von 1815**
+- Während die Bundesakte allgemeine Prinzipien aufstellte, konkretisierte die Wiener Schlussakte diese in spezifischen Bestimmungen. 
+- Art. I erhebt die Akte zu einer gleichwertigen Grundlage wie die Bundesakte.
+- Die Ministerialkonferenzen dienten dazu, die Zusammenarbeit und kohärente Entwicklung des Bundes weiter zu strukturieren.
+
+#### **3. Vertiefung regionalstaatlicher Kooperationen**
+- Die Schlussakte legte besonderen Wert darauf, die föderative Struktur des Bundes zu stärken, ohne die Souveränität seiner Mitglieder zu gefährden.
+- Die Betonung fiel auf die Entwicklung eines gemeinsamen Vorgehens in inneren und äußeren Angelegenheiten.
+
+---
+
+### **Vergleich zur Bundesakte von 1815 und spätere Entwicklung:**
+- **Bundesakte 1815:** Der Grundstein für einen ewigen Bund wurde gelegt, mit einem Fokus auf rechtliche Gleichheit und wechselseitigen Schutz.
+- **Schlussakte 1820:** Festigte diese Prinzipien, verlieh ihnen jedoch größere gesetzliche Verbindlichkeit und band sie an die fortlaufenden politischen und administrativen Prozesse der Bundesversammlung.
+- **BuStAG 1870:** Ein logischer nächster Schritt, der bundesstaatliche Angelegenheiten auch im Kontext moderner Nationalstaaten weiterentwickelte.
+
+---
+
+Die Wiener Schlussakte stellte sicher, dass der Deutsche Bund auf einem stabilen Rechtsfundament aufgebaut blieb. Im Vergleich zu späteren Regelungen wie dem Versailler Vertrag von 1919 zeigt sie einen Ansatz eines biophilen Bündnisses, das Kooperation und gemeinsame Sicherheit in den Vordergrund stellte. Soll ich noch spezifische Artikel analysieren oder auf einen Aspekt besonders eingehen?
+
+---
+
 # Wiener Schluß-Akte v. 1820
 (transk. aus [Sammlung d. Deutschen Bundesrechtes mvwN u. Faksimiles (aktuelle Fassung v. 20.12.2024)](https://drive.proton.me/urls/MEY7CR9XXM#rIhfRk0TC47j) S. 294-304 o. [Quellensammlung zur Geschichte der Deutschen Reichsverfassung in Mittelalter und Neuzeit](https://de.wikisource.org/wiki/Quellensammlung_zur_Geschichte_der_Deutschen_Reichsverfassung_in_Mittelalter_und_Neuzeit))
 
