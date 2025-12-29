@@ -4,6 +4,452 @@
 Erste Seite des Friedensvertrages zwischen dem Deutschen Reich und Frankreich, Frankfurt/M., 10. Mai 1871 (Faksimile aus Papier und Textil), zu sehen in der Dauerausstellung der Otto-von-Bismarck-Stiftung
 ```
 
+
+(Nr. 656.) (Uebersetzung.) Friedens-Präliminarien zwischen dem Deutschen Reich und Frankreich. Vom 26. Februar 1871.
+
+Zwischen dem Kanzler des Deutschen Reichs, Herrn Grafen Otto v. Bismarck-Schönhausen, der mit Vollmacht SeitensSeiner Majestät des Deutschen Kaisers und Königs von Preußen versehen ist, dem Staatsminister des Aeußeren Seiner Majestät des Königs von Bayern, Herrn Grafen Otto v. Bray-Steinburg, dem Minister der auswärtigen Angelegenheiten Seiner Majestät des Königs von Württemberg, Herrn Freiherrn August v. Wächter, dem Staatsminister, Präsidenten des Staats Ministeriums Seiner Königlichen Hoheit des Großherzogs von Baden, Herrn Julius Jolly, welche das Deutsche Reich vertreten, einerseits, und dem Chef der Exekutivgewalt der Französischen Republik, Herrn Thiers, und dem Minister der auswärtigen Angelegenheiten, Herrn Jules Favre, welche Frankreich vertreten, andererseits, ist, nachdem die Vollmachten der beiden vertragenden Theile in guter und regelrechter Form befunden worden, nachstehende Vereinbarung getroffen worden, welche als vorläufige Grundlage für den später abzuschließenden endgültigen Frieden dienen soll.
+
+Artikel I.
+
+Frankreich verzichtet zu Gunsten des Deutschen Reichs auf alle seine Rechte und Ansprüche auf diejenigen Gebiete, welche östlich von der nachstehend verzeichneten Grenze belegen sind. Die Demarkationslinie beginnt an der nordwestlichen Grenze des Kantons Cattenom gegen das Großherzogthum Luxemburg, folgt südwärts den westlichen Grenzen der Kantons Cattenom und Thionville, durchschneidet den Kanton Briey, indem sie längs der westlichen Grenzen der Gemeinden Montois-la-Montagne und Roncourt, sowie der östlichen Grenzen der Gemeinden St. Marie. aux Chênes, St. Ail, Habonville hin läuft, berührt die Grenze des Kantons Gorze, welche sie längs der Grenzen der Gemeinden Vionville, Burières und Onville durchschneidet, folgt der Südwest beziehungsweise Südgrenze des Arrondissements Meß, der Westgrenze des Arrondissements Chateau-Salins bis zur Gemeinde Pettoncourt, von der sie die West- und Südgrenze einschließt, und folgt dann dem Kamme der zwischen der Seille und dem Moncel gelegenen Berge bis zur Grenze des Arrondissements Saarburg südlich von Garde. Sodann fällt die Demarkationslinie mit der Grenze dieses Arrondissements bis zur Gemeinde Tanconville zusammen, deren Nordgrenze sie berührt, von dort folgt sie dem Kamme der zwischen den Quellen der weißen Saar und der Vezouze befindlichen Bergzüge bis zur Grenze des Kantons Schirmeck, geht entlang der westlichen Grenze dieses Kantons, schließt die Gemeinden Saales, Bourg-Bruche, Colroy la Roche, Plaine, Ranrupt, Saulgures und St. Blaise-la-Roche im Kanton Saales ein und fällt dann mit der westlichen Grenze der Departements Nieder und Oberrhein bis zum Kanton Belfort zusammen. Sie verläßt dessen Südgrenze unweit von Vourvenans, durchschneidet den Kanton Delle an den Südgrenzen der Gemeinden Bourogne und Froide Fontaine und erreicht die Schweizergrenze, indem sie längs der Ostgrenzen der Gemeinden Jonchery und Delle hinläuft.
+
+Das Deutsche Reich wird diese Gebiete für immer mit vollem Souverainetäts und Eigenthumsrechte besißen. Eine internationale Kommission, welche beiderseits aus der gleichen Zahl von Vertretern der Hohen vertragenden Theile gebildet wird, soll unmittelbar nach dem Austausche der Ratifikationen des gegenwärtigen Vertrages beauftragt werden, an Ort und Stelle die neue Grenzlinie in Gemäßheit der vorstehenden Verabredungen festzustellen.
+
+Diese Kommission wird die Vertheilung des Grundbesikes und der Kapitalien leiten, welche bis jetzt Distrikten oder Gemeinden, die durch die neue Grenze getrennt werden, gemeinschaftlich angehört haben; im Falle einer Meinungsverschiedenheit über die Grenze und die Ausführungs-Bestimmungen werden die Kommissionsmitglieder die Entscheidung ihrer Regierungen einholen.
+
+Die Grenze, wie sie vorstehend festgesetzt ist, findet sich mit grüner Farbe auf zwei übereinstimmenden Exemplaren der Karte von den Gebietstheilen, welche das General-Gouvernement des Elsaß bilden, eingetragen, welche im September 1870. in Berlin durch die geographische und statistische Abtheilung des Großen Generalstabes herausgegeben worden ist. Ein Exemplar derselben wird jeder der beiden Ausfertigungen des gegenwärtigen Vertrages angefügt.
+
+Die angegebene Grenzlinie hat in dessen mit Uebereinstimmung beider vertragenden Theile folgende Abänderungen erfahren: Im ehemaligen Mosel Departement werden die Dörfer St. Marie-aux-Chênes bei St. Privat-la-Montagne und Vionville, westlich von Rezonville, an Deutschland abgetreten. Dagegen werden die Stadt und die Festungswerke von Belfort mit einem später festzusehenden Rayon bei Frankreich verbleiben.
+
+Artikel II.
+
+Frankreich wird Seiner Majestät dem Deutschen Kaiser die Summe von fünf Milliarden Franks zahlen.
+
+Mindestens Eine Milliarde Franks wird im Laufe des Jahres 1871. und der ganze Rest der Schuld wird im Laufe dreier Jahre, von der Ratifikation des gegenwärtigen Vertrages abgezahlt werden.
+
+Artikel III.
+
+Die Räumung der Französischen, durch die Deutschen Truppen besesten Gebiete wird nach der Ratifikation des gegenwärtigen Vertrages durch die in Bordeaux tagende National Versammlung beginnen. Die Deutschen Truppen werden unmittelbar nach dieser Ratifikation das Innere der Stadt Paris, sowie die am linken Ufer der Seine belegenen Forts verlassen und in möglichst kurzer, durch ein Einvernehmen zwischen den Militairbehör den beider Länder festgesetzter Frist die Departements Calvados, Orne, Sarthe, Eure et Loir, Loiret, Loir et Cher, Indre et Loire und Yonne vollständig, sowie die Departements Seine inferieure, Eure, Seine et Dise, Seine et Marne, Aube und Cote d'or bis zum linken Ufer der Seine räumen. Die Französischen Truppen werden sich gleichzeitig hinter die Loire zurückziehen, welche sie vor Unterzeichnung des endgültigen Friedensvertrages nicht überschreiten dürfen. Ausgenommen von dieser Bestimmung sind die Garnison von Paris, deren Stärke die Zahl von 40,000 Mann nicht überschreiten darf, und die zur Sicherheit der festen Plätze unerläßlichen Garnisonen.
+
+Die Räumung der zwischen dem rechten Ufer der Seine und der Ostgrenze gelegenen Departements durch die Deutschen Truppen soll nach der Ratifikation des endgültigen Friedensvertrages und der Zahlung der ersten halben Milliarde der im Artikel II. verabredeten Kontribution allmälig erfolgen, indem sie mit den Paris am nächsten gelegenen Departements beginnt, und je nachdem die Zahlungen der Kontribution bewirkt sein werden, fortgesest wird. Nach der ersten Zahlung einer halben Milliarde wird diese Räumung in folgenden Departements stattfinden: Somme, Dise und den Theilen der Departements Seine inferieure, Seine et Dise, Seine et Marne, welche auf dem rechten Seine Ufer gelegen sind, sowie in dem Theile des Departements Seine und in den Forts auf dem rechten Seine-Ufer.
+
+Nach der Zahlung von zwei Milliarden wird die Deutsche Besetzung nur noch die Departements Marne, Ardennes, Haute Marne, Meuse, Vosges, Meurthe, sowie die Festung Belfort mit ihrem Gebiete umfassen, die als Pfand für die rückständigen drei Milliarden dienen sollen.
+
+Die Zahl der in denselben befindlichen Deutschen Truppen wird 50,000 Mann nicht überschreiten. Se. Majestät der Kaiser wird geneigt sein, an die Stelle der in der theilweisen Besetzung des Französischen Gebietes bestehenden Territorialgarantie eine finanzielle Garantie treten zu lassen, wenn dieselbe von der Französischen Regierung unter Bedingun gen angeboten wird, welche von Sr. Majestät dem Kaiser und König als für die Interessen Deutschlands ausreichend anerfannt werden. Die drei Milliarden, deren Zahlung verschoben sein wird, sollen vom Tage der Ratifikation der gegenwärtigen Uebereinkunft ab mit fünf Prozent verzinst werden.
+
+Artikel IV.
+
+Die Deutschen Truppen werden in den besetzten Departements Requisitionen, sei es in Geld, sei es in Naturalien, nicht vornehmen. Dafür wird die Verpflegung der Deutschen Truppen, welche in Frank reich zuruckbleiben, auf Kosten der Französischen Regierung erfolgen, und zwar in dem mit der Deutschen Militair-Intendantur vereinbarten Maaße.
+
+Artikel V.
+
+Die Interessen der Einwohner in dem von Frankreich abgetretenen Gebiete werden in Allem, was ihren Handel und ihre Privatrechte angeht, so günstig als möglich geregelt werden, sobald die Bedingungen des endgültigen Friedens festgestellt sein werden. Zu diesem Zwecke wird ein Zeitraum festgesetzt werden, innerhalb dessen sie besondere Erleichterungen für den Verkehr mit ihren Erzeugnissen genießen sollen. Die Deutsche Regierung wird der ungehinderten Auswanderung der Einwohner der abgetretenen Gebietstheile nichts in den Weg legen und keine Maaßregel gegen dieselben ergreifen dürfen, welche deren Person oder Eigenthum antastet.
+
+Artikel VI.
+
+Die Kriegsgefangenen, welche nicht bereits auf dem Wege der Auswechselung in Freiheit gesetzt worden sind, werden unverzüglich nach der Ratifikation der gegenwärtigen Präliminarien zurückgegeben werden. Um den Transport der Französischen Gefangenen zu beschleunigen, wird die Französische Regierung einen Theil des Fahrmaterials ihrer Eisenbahnen innerhalb des Deutschen Gebiets zur Verfügung der Deutschen Behörden stellen, und zwar in einer, durch besondere Verabredung festzustellenden Ausdehnung, sowie zu denjenigen Preisen, welche in Frankreich von der Französischen Regierung für Militairtransporte gezahlt werden.
+
+Artikel VII.
+
+Die Eröffnung der Verhandlungen über den auf Grundlage der gegenwärtigen Präliminarien abzuschließenden endgültigen Frieden wird in Brüssel unverzüglich nach Ratifikation der ersteren durch die Nationalversammlung und durch Seine Majestät den Deutschen Kaiser stattfinden.
+
+Artikel VIII.
+
+Nach Abschluß und Ratifikation des endgültigen Friedensvertrages wird die Verwaltung der Departements, welche noch von Deutschen Truppen besest bleiben sollen, den Französischen Behörden wieder übergeben werden. Doch sollen diese lekteren gehalten sein, den Befehlen, welche die Befehlshaber der Deutschen Truppen im Interesse der Sicherheit, des Unterhalts und der Vertheilung ihrer Truppen erlassen zu müssen glauben, Folge zu leisten.
+
+Die Erhebung der Steuern in den besetzten Departements wird nach Ratifikation des gegenwärtigen Vertrages für Rechnung der Französischen Regierung und durch deren Beamte bewirkt werden.
+
+Artikel IX.
+
+Es ist ausgemacht, daß durch Gegenwärtiges der Deutschen Militairbehörde keinerlei Recht auf die zur Zeit nicht von ihr besesten Gebietstheile gegeben werden kann.
+
+Artikel X.
+
+Gegenwärtiges soll der Ratifikation Sr. Majestät des Deutschen Kaisers, so wie der Französischen Nationalversammlung, welche ihren Sitz in Bordeaux hat, unverzüglich unterbreitet werden.
+
+Zu Urkund dessen haben die Unterzeichneten den gegenwärtigen Präliminar Vertrag mit ihren Unterschriften und ihren Siegeln versehen.
+
+Geschehen Versailles, den 26. Februar 1871.
+
+v. Bismarck. A. Thiers. (L.S.)
+
+(L. S.) Jules Favre. (L. S.)
+
+Da die Königreiche Bayern und Württemberg und das Großherzogthum Baden als Verbündete Preußens an dem gegenwärtigen Kriege theilgenommen haben und jetzt zum Deutschen Reiche gehören, so treten die Unterzeichneten der gegenwärtigen Uebereinkunft im Namen ihrer Souveraine bei.
+
+Versailles, den 26. Februar 1871.
+
+Graf v. Bray-Steinburg.
+
+Freiherr v. Wächter. Mittnacht. Jolly.
+
+Der Austausch der Ratifikationen ist am 2. März 1871. zu Versailles erfolgt.
+
+
+(Nr. 657.) (Uebersehung.) Friedens Vertrag zwischen dem Deutschen Reich und Frankreich. Vom 10. Mai 1871.
+
+Der Furst Otto von Bismarck. Schönhausen, Kanzler des Deutschen Reichs, der Graf Harry von Arnim, außer ordentlicher Gesandter und bevollmächtigter Minister Sr. Majestät des Deutschen Kaisers bei dem Päpstlichen Stuhle, handelnd im Namen Sr. Majestät des Deutschen Kaisers, einerseits, andererseits Herr Jules Favre, Minister der auswärtigen Angelegenheiten der Französischen Republik, Herr Augustin Thomas Joseph Pouyer Quertier, Finanzminister der Französischen Republik, und Herr Marc Thomas Eugen de Goulard, Mitglied der Nationalversammlung, handelnd im Namen der Französischen Republik, sind übereingekommen, den Präliminar Friedensvertrag vom 26. Februar d. J. mit den durch die nachfolgenden Bestimmungen vorzunehmenden Abänderungen in einen endgültigen Friedensvertrag zu verwandeln und haben festgesetzt, was folgt:
+
+Artikel 1.
+
+Die Entfernung zwischen der Stadt Belfort und derjenigen Grenzlinie, welche ursprünglich bei den Unterhandlungen von Versailles vorgeschlagen und auf der, der ratifizirten Urkunde des Präliminar Vertrages vom 26. Februar beigefügten Karte eingetragen ist, soll als Bezeichnung des Maßes für den Rayon angesehen werden, welcher zufolge der bezüglichen Verabredung im ersten Artikel der Präliininarien mit der Stadt und den Befestigungen von Belfort bei Frankreich bleiben soll.
+
+Die Deutsche Regierung ist bereit, diesen Rayon dergestalt zu erweitern, daß derselbe umfaßt: die Kantons Belfort, Delle und Giromagny und den westlichen Theil des Kantons von vor Fontaine, westlich einer Linie von dem Punkte, wo der Rhein-Rhône-Kanal aus dem Kanton von Delle austritt, im Süden von Montreux. Château bis zur Nordgrenze des Kantons zwischen Bourg und Félon, wo diese Linie die Ostgrenze des Kantons von Giromagny erreicht.
+
+Die Deutsche Regierung wird indessen die vorerwähnten Gebietstheile nur unter der Bedingung abtreten, daß die Französische Republik ihrerseits in eine Grenzberichtigung längs den westlichen Grenzen der Kantone von Cattenom und Thion ville willigt, welche an Deutschland das Gebiet östlich einer Linte überläßt, die von der Grenze gegen Luxemburg zwischen Hussigny und Redingen ausgeht, die Dörfer Thil und Villerupt bei Frankreich läßt, sich zwischen Erronville und Aumek, zwischen Beuvillers und Boulange, zwischen Tricug und Lomeringen fortjent die alte Grenzlinie zwischen Avril und Moyeuvre erreicht.
+
+Die internationale Kommission, deren im Artikel I. der Präliminarien erwähnt ist, wird sich sogleich nach der Auswechselung der Ratifikationen des gegenwärtigen Vertrages an Ort und Stelle begeben, um die ihr obliegenden Arbeiten auszuführen und die Linie der neuen Grenze gemäß der vorstehenden Bestimmungen zu ziehen.
+
+Artikel 2.
+
+Den aus den abgetretenen Gebieten herstammenden, gegenwärtig in diesem Gebiete wohnhaften Französischen Unterthanen, welche beabsichtigen, die Französische Nationalität zu behalten, steht bis zum 1. Oktober 1872. und vermöge einer vorgängigen Erklärung an die zuständige Behörde die Befugniß zu, ihren Wohnsitz nach Frankreich zu verlegen und sich dort niederzulassen, ohne daß dieser Befugniß durch die Gesetze über den Militairdienst Eintrag geschehen könnte, in welchem Falle ihnen die Eigenschaft als Französische Bürger erhalten bleiben wird. Es steht ihnen frei, ihren auf den mit Deutschland vereinigten Gebieten belegenen Grundbesitz zu behalten.
+
+Kein Bewohner der abgetretenen Gebiete darf in seiner Person oder seinem Vermögen wegen seiner politischen oder militairischen Handlungen während des Krieges verfolgt, gestört oder zur Untersuchung gezogen werden.
+
+Artikel 3.
+
+Die Französische Regierung wird der Deutschen Regierung die Archive, Dokumente und Register übergeben, welche die bürgerliche, militairische oder gerichtliche Verwaltung der abgetretenen Gebiete betreffen. Sollten einige dieser Aktenstücke fortgeschafft worden sein, so wird die Französische Regierung dieselben auf Verlangen der Deutschen Regierung wieder zuruckgeben.
+
+Artikel 4.
+
+Die Französische Regierung wird der Regierung des Deutschen Reiches innerhalb einer Frist von sechs Monaten, von der Auswechselung der Ratifikationen dieses Vertrages an gerechnet, übergeben:
+
+
+1) den Betrag der von den Departements, Gemeinden und öffentlichen Anstalten der abgetretenen Gebiete deponirten Summen;
+
+2) den Betrag der Anwerbungs- und Stellvertretungs Prämien, welche den aus den abgetretenen Gebieten herstammenden Soldaten und Seeleuten gehören, die sich für die Deutsche Nationalität entschieden haben;
+
+3) den Betrag der Kautionen der Rechnungsbeamten des Staates;
+
+4) den Betrag der für gerichtliche Konsignationen in Folge von Maß regeln der Verwaltungs- oder Justiz behörden in den abgetretenen Ge bieten eingezahlten Geldsummen.
+
+Artikel 5.
+
+Beide Nationen sollen in Bezug auf die Schiffahrt auf der Mosel, dem Rhein-Marne, Rhein-Rhône, dem Saar Kanal und den mit diesen Wasserwegen in Verbindung stehenden schiffbaren Ge. wässern der gleichen Behandlung genießen. Das Flößrecht wird beibehalten.
+
+Artikel 6.
+
+Da die Hohen vertragenden Theile der Meinung sind, daß die Diözesan grenzen der an das Deutsche Reich abgetretenen Gebiete mit der neuen, durch obenstehenden Artikel 1. bestimm ten Grenze zusammenfallen müssen, so werden sie sich nach der Ratifikation des gegenwärtigen Vertrages unverzüglich über die zu diesem Zwecke gemeinschaftlich zu ergreifenden Maßregeln verständigen.
+
+Die der reformirten Kirche oder der Augsburger Konfession angehörigen, auf den von Frankreich abgetretenen Gebieten bestehenden Gemeinden werden aufhören, von der Französischen kirchlichen Behörde abhängig zu sein.
+
+Die zur Kirche der Augsburger Konfession gehörigen, auf Französischem Gebiete bestehenden Gemeinden werden aufhören, von dem Ober-Konsistorium und von dem Direktor in Straßburg abhängig zu sein.
+
+Die israelitischen Gemeinden in den Gebieten östlich der neuen Grenze werden aufhören, von dem israelitischen Central Konsistorium zu Paris abhängig zu sein.
+
+Artikel 7.
+
+Die Zahlung von 500 Millionen soll erfolgen innerhalb der dreißig Tage, welche der Wiederherstellung der Autorität der Französischen Regierung in der Stadt Paris folgen werden. Eine Milliarde soll im Laufe des Jahres und eine halbe Milliarde am 1. Mai 1872. bezahlt werden. Die lekten drei Milliarden bleiben zahlbar am 2. März 1874., so wie es durch den Präliminar Friedensvertrag vereinbart worden ist. Vom 2. März des laufenden Jahres an werden die Zinsen dieser drei Milliarden Franks jedes Jahr am 3. März mit 5 Prozent für das Jahr bezahlt werden.
+
+Jede im Voraus auf die drei letzten Milliarden abgezahlte Summe wird vom Tage der geleisteten Zahlung an auf hören, Zinsen zu tragen.
+
+Alle Zahlungen können nur in den hauptsächlichsten Handelsplägen Deutschlands gemacht und werden in Metall, Gold oder Silber, in Noten der Bank von England, in Noten der Preußischen Bank, in Noten der Königlichen Bank der Niederlande, in Noten der Nationalbank von Belgien, in Anweisungen auf Order oder diskontirbaren Wechseln ersten Ranges, sofort zahlbar, geleistet werden.
+
+Da die Deutsche Regierung in Frankreich den Werth des Preußischen Thalers auf 3 Frks. 75 Cts. festgestellt hat, so ninımt die Französische Regierung die Um rechnung der Münzen beider Länder zu oben bezeichnetem Kurse an.
+
+Die Französische Regierung wird die Deutsche Regierung drei Monate zuvor von jeder Zahlung benachrichtigen, welche sie den Kassen des Deutschen Reichs zu leisten beabsichtigt.
+
+Nach Zahlung der ersten halben Milliarde und der Ratifikation des definitiven Friedensvertrages werden die Departe ments Somme, Seine Inférieure und Eure, soweit sie noch von den Deutschen Truppen besetzt sind, geräumt. Die Räumung der Departements Dise, Seine et Dise, Seine et Marne und Seine, sowie der Forts von Paris wird stattfinden, sobald die Deutsche Regierung die Herstellung der Ordnung sowohl in Frankreich als in Paris für genügend erachtet, um die Ausführung der von Frankreich übernommenen Verpflichtungen sicher zu stellen.
+
+In allen Fällen wird diese Räumung bei Zahlung der dritten halben Milliarde stattfinden.
+
+Die Deutschen Truppen behalten im Interesse ihrer Sicherheit die Verfügung über die neutrale Zone zwischen der Deutschen Demarkationslinie und der Umwallung von Paris auf dem rechten Ufer der Seine.
+
+Die Bestimmungen des Vertrages vom 26. Februar über die Besekung Französischen Gebietes nach Zahlung von zwei Milliarden bleiben in Kraft. Von der Zahlung der ersten fünfhundert Millionen können Abzüge, zu welchen die Franzősische Regierung berechtigt sein könnte, nicht gemacht werden.
+
+Artikel 8.
+
+Die Deutschen Truppen werden auch ferner in den besetzten Gebieten sich der Requifitionen in Naturalien und in Geld enthalten; da aber dieser ihrer Verpflichtung die von der Französischen Regierung wegen ihrer Verpflegung übernommenen Verpflichtungen gegenüberstehen, so sollen die Deutschen Truppen, wenn die Französische Regierung ungeachtet wiederholter Aufforderungen der Deutschen Regierung in Ausführung der gedachten Verpflichtungen zurückbleiben sollte, das Recht haben, sich das Nöthige für ihre Bedürfnisse durch Erhebung von Steuern und Requisitionen in den besetzten Departements und, wenn deren Hülfsmittel nicht hinreichen sollten, selbst außerhalb derselben zu beschaffen.
+
+Bezüglich der Verpflegung der Deutschen Truppen werden die gegenwärtig in Kraft stehenden Anordnungen bis zur Räumung der Forts von Paris aufrecht erhalten.
+
+Kraft der Uebereinkunft von Ferrières vom 11. März 1871. werden die durch diese Uebereinkunst angegebenen Reduktionen nach Räumung der Forts zur Ausführung kommen.
+
+Sobald der Effektivstand des Deutschen Heeres unter die Zahl von 500,000 Mann gesunken sein wird, sollen die unter diese Zahl eingetretenen Verminderungen in Anrechnung gebracht werden, um eine verhältnißmäßige Verminderung der von der Französischen Regierung für die Truppen bezahlten Unterhaltungskosten festzustellen.
+
+Artikel 9.
+
+Die gegenwärtig den Gewerbs Erzeugnissen der abgetretenen Gebiete bei der Einfuhr nach Frankreich gestattete Ausnahmebehandlung wird für einen Zeitraum von sechs Monaten, vom 1. März an gerechnet, unter den mit den Delegirten des Elsaß vereinbarten Bedingungen aufrechterhalten.
+
+Artikel 10.
+
+Die Deutsche Regierung wird forte fahren, im Einvernehinen mit der Französischen Regierung, die Kriegsgefangenen zurückkehren zu lassen. Die Französische Regierung wird diejenigen dieser Gefan genen, welche verabschiedet werden können, in ihre Heimath zurücksenden. Diejenigen, welche ihre Dienstzeit noch nicht zurück gelegt haben, sollen sich hinter die Loire zurückziehen. Es ist vereinbart, daß die Armee von Paris und von Versailles, nach Herstellung der Autorität der Fran zösischen Regierung in Paris und bis zur Räumung der Forts durch die Deutschen Truppen, 80,000 Mann nicht übersteigen soll.
+
+Bis zu dieser Räumung darf die Französische Regierung eine Truppenzusammen ziehung auf dem rechten Ufer der Loire nicht vornehmen, jedoch wird sie für die regelmäßigen Besatzungen der in dieser Zone gelegenen Städte, nach. Maßgabe des Bedarfs für die Aufrechthaltung der Ordnung und der öffentlichen Ruhe, Sorge tragen.
+
+Nach Maßgabe des Fortschritts der Räumung werden sich die Befehlshaber der Truppen über eine neutrale Zone zwischen den Armeen der beiden Nationen verständigen.
+
+20,000 Gefangene sollen ohne Verzug nach Lyon dirigirt werden, unter der Bedingung, daß sie sie nach ihrer Organisirung sofort nach Algerien geschickt werden, um in dieser Kolonie zur Verwendung zu kommen.
+
+Artikel 11.
+
+Da die Handelsverträge mit den verschiedenen Staaten Deutschlands durch den Krieg aufgehoben sind, so werden die Deutsche Regierung und die Französische Regierung den Grundsatzes der gegenseitigen Behandlung auf dem Fuße der meistbegünstigten Nation ihren Handelsbeziehungen zu Grunde legen.
+
+Diese Regel umfaßt die Eingangs- und Ausgangsabgaben, den Durchgangs-Verkehr, die Zollförmlichkeiten, die Zulassung und Behandlung der Angehörigen beider Nationen und der Vertreter derselben.
+
+Jedoch sind ausgenommen von der vorgedachten Regel die Begünstigungen, welche einer der vertragenden Theile durch Handelsverträge anderen Ländern gewährt hat oder gewähren wird, als den folgenden: England, Belgien, Niederland, Schweiz, Desterreich, Rußland.
+
+Die Schiffahrtsverträge und die Uebereinkunft, betreffend die Zollabfertigung des internationalen Verkehrs auf den Eisenbahnen, sowie die Uebereinkunft wegen gegenseitigen Schutzes der Rechte an literarischen Erzeugnissen und Werken der Kunst sollen wieder in Kraft treten.
+
+Indessen behält sich die Französische Regierung die Befugniß vor, von den Deutschen Schiffen und deren Ladungen Tonnen und Flaggengebühren zu er heben, mit dem Vorbehalte, daß diese Gebühren die von den Schiffen und Ladungen der vorerwähnten Nationen erhobenen nicht übersteigen.
+
+Artikel 12.
+
+Alle ausgewiesene Deutsche bleiben im vollen Genusse alles Eigenthums, welches sie in Frankreich erworben haben.
+
+Diejenigen Deutschen, welche die von den Französischen Gesezen verlangte Ermächtigung erhalten haben, ihren Wohnsitz in Frankreich aufzuschlagen, werden in alle ihre Rechte wieder eingesezt und können in Folge dessen auf Französischem Gebiete von Neuem ihren Wohnsis nehmen.
+
+Für diejenigen Personen, welche von der vorerwähnten Befugniß, nach Frankreich zurückzukehren, binnen sechs Monaten nach Austausch der Ratifikationen dieses Vertrages Gebrauch machen, wird die durch die Französischen Gesebe festgestellte Frist zur Erlangung der Naturalisation als durch den Kriegszustand nicht unterbrochen betrachtet, und die zwischen ihrer Ausweisung und ihrer Rückkehr auf Französischen Boden verflossene Zeit soll dergestalt gerechnet werden, als ob sie nie aufgehört hätten, in Frankreich zu wohnen.
+
+Vorstehende Bedingungen sind in voller Gegenseitigkeit auf die Französischen Unterthanen anwendbar, welche in Deutschland wohnen oder zu wohnen wünschen.
+
+Artikel 13.
+
+Die Deutschen Schiffe, welche durch Prisengerichte vor dem 2. März 1871. fondemnirt waren, sollen als endgültig kondemnirt angesehen werden.
+
+Diejenigen, welche an besagten Tage nicht kondemnirt waren, sollen mit der Ladung, soweit solche noch vorhanden, zurückgegeben werden. Wenn die Rückgabe der Schiffe und Ladungen nicht mehr möglich ist, so soll ihr nach dem Verkaufspreise bemessener Werth ihren Eigenthümern erstattet werden.
+
+Artikel 14.
+
+Jeder der vertragenden Theile wird auf seinem Gebiete die zur Kanalisirung der Mosel unternommenen Arbeiten fortführen. Die gemeinsamen Interessen der getrennten Theile der beiden Departements Meurthe und Mosel sollen liquidirt werden.
+
+Artikel 15.
+
+Die Hohen vertragenden Theile verpflichten sich gegenseitig, auf die beiderseitigen Unterthanen die Maßregeln auszudehnen, welche sie zu Gunsten derjenigen ihrer Angehörigen zu treffen für nützlich erachten möchten, die in Folge der Kriegs. ereignisse in die Unmöglichkeit versetzt worden waren, die Wahrnehmung oder Aufrechterhaltung ihrer Rechte rechtzeitig zu bewirken.
+
+Artikel 16.
+
+Beide Regierungen, die Deutsche und die Französische, verpflichten sich gegen seitig, die Gräber der auf ihren Gebieten beerdigten Soldaten respektiren und unterhalten zu lassen.
+
+Artikel 17.
+
+Die Regulirung der nebensächlichen Punkte, über welche in Folge dieses Vertrages und des Prätiminar-Vertrages eine Verständigung zu erfolgen hat, wird der Gegenstand weiterer Verhandlungen sein, welche in Frankfurt stattfinden werden.
+
+Artikel 18.
+
+Die Ratifikationen des gegenwärtigen Vertrages durch Seine Majestät den Deutschen Kaiser einerseits und anderer seits durch die Nationalversammlung und durch das Oberhaupt der vollziehenden Gewalt der Französischen Republik werden in Frankfurt binnen zehn Tagen oder wo möglich früher ausgetauscht werden.
+
+Zur Beglaubigung dessen haben die beiderseitigen Bevollmächtigten denselben vollzogen und unterſiegelt.
+
+Geschehen zu Frankfurt, den 10. Mai 1871.
+
+von Bismarck. (LS) Arnim. (L.S.)
+
+Jules Favre. (L. S.) Pouyer Quertier. (L. S.) E. de Goulard. (L.S.)
+
+
+Zusätzliche Artikel. BGBl. 1871 Nr. 26 (Nr. 667) S. 234-244
+
+
+
+Zusatz - Artikel.
+
+Artikel 1.
+
+§. 1. Die Französische Regierung wird innerhalb der für den Austausch der Ratifikationen des gegenwärtigen Vertrages festgesetzten Frist von dem ihr zustehenden Rechte zum Rückfauf der der Ostbahn. gesellschaft ertheilten Konzession Gebrauch machen. Die Deutsche Regierung wird, soweit es sich um die in den abgetretenen Gebieten gelegenen, vollendeten oder im Bau begriffenen Eisenbahnen handelt, in alle Rechte eintreten, welche die Französische Regierung durch den Rückfauf der Konzessionen erworben haben wird.
+
+§. 2. In diese Konzession sind einbegriffen:
+
+alle der gedachten Gesellschaft zuge hörigen Grundstücke, ohne Unterschied ihrer Bestimmung, z. B. Bahnhofs und Stationsgebäude, Schuppen, Werkstätten und Niederlagen, Bahnwärterhäuser u. s. w.;
+
+alle dazu gehörigen festen Pertinenz. stücke, wie: Barrièren, Zäune, Weichen, Weichenstellungen, Drehschei ben, Pumpen, hydraulische Krahnen, feste Maschinen u. s. w.j
+
+alle Materialien, Brennstoffe und Vorräthe aller Art, Bahnhofs. Mobiliar, Werkzeuge in den Werkstätten und Bahnhöfen u. f. w.j
+
+die Forderungen der Ostbahngesellschaft an Korporationen oder Personen, welche in den abgetretenen Gebieten ihren Wohnsitz haben, auf Zahlung von Subventionen.
+
+§. 3. Ausgeschlossen von dieser Abtretung ist das Betriebsmaterial. Die Deutsche Regierung wird den etwa in ihrem Besitz befindlichen Theil des Betriebsmaterials nebst Zubehör der Französischen Regierung zurückgeben.
+
+§. 4. Die Französische Regierung verpflichtet sich, die abgetretenen Eisenbahnen nebst Zubehör dem Deutschen Reiche gegenüber von allen Rechtsansprüchen zu befreien, welche dritte Personen darauf geltend machen könnten, namentlich von den Ansprüchen der Darlehnsgläubiger. Gleichfalls verpflichtet sie sich, eintretenden Falls für die Deutsche Regierung in Bezug auf die Ansprüche einzutreten, welche gegen die Deutsche Regierung von Gläubigern der in Rede stehenden Bahnen erhoben werden möchten.
+
+§. 5. Die Französische Regierung übernimmt die Vertretung der Ansprüche, welche die Ostbahngesellschaft gegen die Deutsche Regierung oder deren Beauftragte in Bezug auf den Betrieb der gedachten Eisenbahnen und auf den Gebrauch der im §. 2. bezeichneten Gegenstände, sowie des Betriebsmaterials erheben könnte.
+
+Die Deutsche Regierung wird der Französischen Regierung auf deren Verlangen alle Schriftstücke und Nachrichten mittheilen, welche zur Feststellung der den vorerwähnten Ansprüchen zu Grunde liegenden Thatsachen dienen könnten.
+
+§. 6. Die Deutsche Regierung wird der Französischen Regierung für die Abtretung der in den §§. 1. und 2. erwähnten Eigenthumsrechte und als Gegenleistung für die im §. 4. von der Französischen Regierung übernominene Verpflichtung die Summe von dreihundertfünfundzwanzig Millionen (325,000,000) Frks. zahlen.
+
+
+Diese Summe wird von der im Artikel 7. festgesetzten Kriegsentschädigung in Abzug gebracht.
+
+In Erwägung, daß die Lage, auf welcher die zwischen der Ostbahngesellschaft und der Königlich Großherzoglichen Ge sellschaft der Wilhelm-Luxemburg-Bahnen am 6. Juni 1857. und am 21. Januar 1868. abgeschlossenen Konventionen, sowie diejenige Konvention beruht, welche zwischen der Regierung des Großherzogthunis Luxemburg und den Gesellschaften der Wilhelm Luxemburg-Bahnen und der Französischen Ostbahn unter dem 5. Dezember 1868. abgeschlossen ist, eine so wesentliche Veränderung erfahren hat, daß diese Konventionen zu der Sachlage nicht mehr passen, wie solche durch die im §. 1. enthaltenen Verabredungen geschaffen ist, erklärt die Deutsche Regierung sich bereit, ihrerseits für die aus diesen Konventionen für die Ostbahngesellschaft erwachsenden Rechte und Pflichten einzutreten.
+
+Die Französische Regierung verpflichtet sich, für den Fall, daß sie, sei es durch Rückkauf der Konzession der Ostbahn gesellschaft, sei es durch eine besondere Uebereinkunft in die von dieser Gesell schaft auf Grund der vorgedachten Konzessionen erworbenen Rechte eintritt, diese Rechte innerhalb einer Frist von sechs Wochen unentgeltlich an die Deutsche Regierung abzutreten.
+
+Für den Fall, daß dieser Eintritt in die Rechte der Ostbahngesellschaft nicht erfolgt, wird die Französische Regierung Konzessionen für die der Ostbahngesell schaft gehörigen und auf Französischem Boden gelegenen Linien nur unter der ausdrücklichen Bedingung ertheilen, daß der Konzessionar nicht die im Großherzogthum Luxemburg gelegenen Linien ausbeute.
+
+
+Artikel 2.
+
+Die Deutsche Regierung bietet zwei Millionen Franks für die Rechte und das Eigenthum an, welche die Ostbahngesellschaft auf dem Theile ihres Netzes besitzt, der auf Schweizerischem Gebiete von der Grenze bis Basel liegt, wenn die Französische Regierung ihr die Zustimmung dazu binnen einem Monat beschafft.
+
+Artikel 3.
+
+Die Gebietsabtretung bei Belfort, welche die Deutsche Regierung in Artikel 1. des gegenwärtigen Vertrages zum Austausch für die im Westen von Thion ville verlangte Grenzberichtigung anbietet, wird um die Bezirke der folgenden Dörfer veranchrt: Rougemont, Leval, Petite Fontaine, Romagny, Félon, La Chapelle-sous-Rougemont, Angeot, Vautier Mont, La Rivière, La Grange, Reppe, Fon-taine, Frais, Foussemagne, Cunelières, Montreux Château, Bretagne, Chavannes les Grands, Chavanatte und Suarce.
+
+Die Straße von Giromagny nach Remiremont, welche über den Wälschbelchen geht, wird in ihrer ganzen Länge bei Frankreich bleiben und, soweit sie außerhalb des Kantons Giromagny liegt, als Grenze dienen.
+
+Geschehen zu Frankfurt, den 10. Mai 1871.
+
+von Bismarck. Jules Favre. Arnim. Pouyer Quertier.
+
+E. de Goulard.
+
+
+
+Geschehen zu Frankfurt a. M., den 10. Mai 1871.
+
+Die Unterzeichneten, nachdem sie die Vorlesung des endgültigen Friedens-Vertrages angehört haben, finden denselben in Uebereinstimmung mit dem, was zwischen ihnen verabredet worden ist.
+
+In Folge dessen haben sie denselben mit ihren Unterschriften versehen.
+
+Die drei Zusaz Artikel sind besonders unterzeichnet worden. Es ist vereinbart worden, daß sie einen integrirenden Theil des Friedens Vertrages bilden.
+
+Der unterzeichnete Kanzler des Deutschen Reichs erklärte, daß er es übernehme, den Vertrag den Regierungen von Bayern, Württemberg und Baden mitzutheilen und ihren Beitritt zu bewirken.
+
+von Bismarck. Arnim.
+
+Jules Favre. Pouyer Quertier. E. de Goulard.
+
+Protokoll, betreffend den Beitritt Bayerns, Württembergs und Badens zu dem Friedens-Vertrage vom 10. Mai 1871. Vom 15. Mai 1871.
+
+Geschehen Berlin, den 15. Mai 1871.
+
+Der Kaiserlich Deutsche außerordentliche Gesandte und bevollmächtigte Minister am Päpstlichen Hofe Graf Harry von Arnim, der Königlich Bayerische be vollmächtigte Minister Graf Friedrich Wilhelm von Quadt, Wykrad Jsny, der Königlich Württembergische Geheime Legationsrath Graf August von Urkull und der Großherzoglich Badische Geheime Rath Freiherr Allesina von Schweizer waren heute zusammengetreten, als Bevollmächtigte, beziehungsweise Seiner Majestät des Deutschen Kaisers und Königs von Preußen, Seiner Majestät des Königs von Bayern, Seiner Majestät des Königs von Württemberg und Seiner Königlichen Hoheit des Großherzogs von Baden, durch die theils bei den Friedensverhandlungen in Brüssel, theils heute vorgelegten und allerseits gut und richtig befundenen Vollmachten legitimirt, um die nachträgliche Vollziehung des am 10. d. Mts. in Frankfurt a. M. unterzeichneten Friedensvertrages zwischen Deutschland und Frankreich durch die genannten drei Süddeutschen Bevollmächtigten zu bewirken.
+
+
+Der Graf Arnim legte die Originalien
+
+des Vertrages, welcher also anfängt:
+Prinz Otto von Bismarck-Schönhausen, Reichskanzler des Deutschen Reiches, Graf Harry von Arnim, außerordentlicher Gesandter und bevollmächtigter Minister Seiner Majestät des Kaisers von Deutschland, und schließt damit:
+
+Artikel 18.
+
+auf einer Seite
+
+Die Ratifikationsurkunden dieses Vertrags durch Seine Majestät den Kaiser des Deutschen Reiches, durch die Nationalversammlung und durch das Oberhaupt der Exekutive der Französischen Republik werden in Frankfurt innerhalb von zehn Tagen oder, wenn möglich, auch früher ausgetauscht.
+
+und auf der anderen Seite
+
+Zu Urkund dessen haben die jeweiligen Bevollmächtigten es unterzeichnet und das Siegel ihres Wappens angebracht.
+
+Geschehen zu Frankfurt am 10. Mai 1871.
+
+(L. S.) gegen Bismarck.
+
+(L. S.) Jules Favre.
+
+(L. S.) Arnim.
+
+(L. S.) Pouyer-Quertier.
+
+(L. S.) E. de Goulard.
+
+der Articles additionnels, welche also anfangen:
+Artikel 1
+
+§ 1. Bis zu dem für den Austausch der Ratifikationsurkunden dieses Vertrags festgelegten Zeitpunkt
+
+und also schließen:
+
+wird als Grenze dienen, da es außerhalb des Kantons Giromagny liegt.
+
+Fait à Francfort le 10 Mai 1871. folgen dieselben Unterschriften wie oben,
+
+des Protokolls, welches also anfängt:
+Geschehen zu Frankfurt am 10. Mai 1871.
+
+Der Unterzeichnete, nachdem er die Verlesung des endgültigen Friedensvertrags gehört hat
+
+und also schließt:
+
+um ihre Beförderungen zu erhalten.
+
+folgen dieselben Unterschriften wie oben,
+
+vor.
+
+
+
+Nachdem diese drei Dokumente vorgelesen, haben die drei Süddeutschen Bevollmächtigten den Inhalt derselben, unter Bezugnahme auf die von dem Grafen von von Bray. Bray-Steinburg, dem Freiherrn von Wächter, dem Minister Mittnacht acht und dem Minister Jolly bei der Unterzeichnung des Präliminar Friedens d. d. Versailles, den 26. Februar d. J. abgegebene Erklärung, genehmigt, wie wenn die bezeichneten drei Schriftstücke Wort für Wort dem gegenwärtigen Protokolle eingerückt wären.
+
+Zu Urkund dessen ist dieses Protokoll nach erfolgter Vorlesung und Ge nehmigung von den Anwesenden unter Beidrückung ihrer Siegel wie folgt unterzeichnet worden.
+
+(L. S.) Arnim.
+
+(L. S.) Quadt.
+
+(L. S.) v. Uxkull
+
+(L. S.) Schweizer.
+
+Geschehen Frankfurt am Main, den 20. Mai 1871.
+
+Die Unterzeichneten,
+
+der Fürst v. Bismarck, Kanzler des Deutschen Reichs,
+
+der Kaiserlich Deutsche außerordent. liche Gesandte und bevollmächtigte Minister am Päpstlichen Stuhle, Graf Harry v. Arnim, einerseits, und der Minister der auswärtigen Angelegenheiten der Französischen Republik, Jules Favre, der Finanzminister der Französischen Republik, Augustin Thomas Joseph Pouyer Quertier, das Mitglied der Französischen National-Versammlung Marc Thomas Eugène de Goulard, andererseits, waren heute zusammengetreten, um den Austausch der Ratifikationen des am 10. d. M. Hierselbst unterzeichneten definitiven Friedensvertrages zwischen dem Deutschen Reich und der Französischen Republik zu bewirken. Der Fürst v. Bismarck und der Graf v. Arnim legten die von Seiner Majestät dem Deutschen Kaiser und Könige von Preußen am 16. d. M. vollzogene Ratifikations-Urkunde vor, sowie die Ausfertigung des Protokolls, d. d. Berlin, den 15. d. M., welches der Deutschen Ratifikations-Urkunde einverleibt ist und Inhalts dessen Seine Majestät der König von Bayern, Seine Majestät der König von Württemberg und Seine Königliche Hoheit der Großherzog von Baden durch Ihre Bevollmächtigten ausdrücklich dem Friedensvertrage vom 10. d. M. beige treten sind, die Minister Jules Favre und Pouyer Quertier die von dent Chef du Pouvoir exécutif der Französischen Republik am 18. d. M. vollzogene Ratifikations-Urkunde vor, sowie eine in gehöriger Form erfolgte Ausfertigung des am 18. d. M. von der National Versammlung angenommenen, den Friedensvertrag ratifizirenden Gesezes, durch dessen zweiten Artikel die National Versammlung der Grenzberichtigung zu stimunt, welche in dem dritten dritten Absatz des Artikels 1. des Friedensvertrages vor. geschlagen ist als Gegenleistung für die Erweiterung des im zweiten Absatz des genannten Artikels und in dem dritten Additional Artikel bezeichneten Rayons um Belfort.
+
+Nachdem beide Dokumente vorgelesen waren, nahmen die Deutschen Bevoll mächtigten Akt von dem oben bezeichne ten, durch die National Versammlung votirten Geseze, die Französischen Bevoll mächtigten von dem Beitritt zu dem Vertrage, welchen die Bevollmächtigten Seiner Majestät des Königs von Bayern, Seiner Majestät des Königs von Württemberg und Seiner Königlichen Hoheit des Großherzogs von Baden im Namen ihrer Souveraine erklärt haben.
+
+Die beiderseitigen Bevollmächtigten sind darüber einverstanden, daß die Stipulationen über den Austausch, von dem im Artikel 1. und im dritten Additional Artikel die Rede ist, nachdem sie von der Französischen Regierung angenommen sind, einen integrirenden Bestandtheil des Friedensvertrages ausmachen, und daß demgemäß die Feststellung der Grenze zwischen dem Deutschen Reich und Frankreich zu bewirken ist.
+
+Die Deutschen Bevollmächtigten haben darauf die Französische, die Französischen Bevollmächtigten die Deutsche Ratifikation in Empfang genommen.
+
+Zu Urkund dessen ist das gegenwärtige Protokoll zweimal, einmal in Deutscher und einmal in Französischer Sprache aufgenommen und nach erfolgter Vorlesung und Genehmigung unterzeichnet worden. Das Französische Exemplar haben die Deutschen, das das Deutsche die Französischen Bevollmächtigten an sich genommen.
+
+v. Bismarck. (L. S.) v. Arnim. (L.S.)
+
+Jules Favre. (L. S.)
+
+Pouyer Quertier. (L. S.) E. de Goulard. (L.S.)
+
+Screenshot_20251228_162430~2.jpg 243
+
+-243-
+
+(Uebersetzung.)
+
+Die Unterzeichneten haben Folgendes vereinbart und beschlossen:
+
+Gemäß Artikel 7 des endgültigen Friedensvertrags zwischen dem Deutschen Kaiserreich und der Französischen Republik vom 10. Mai erfolgt die erste Zahlung von fünfhundert Millionen innerhalb von dreißig Tagen nach der Wiederherstellung der Autorität der französischen Regierung in der Stadt Paris.
+
+Die Zahlungsmethode wird im selben Artikel angegeben.
+
+Die Unterzeichneten haben jedoch vereinbart, dass für diesen einen Anlass die festgelegten Zahlungsbedingungen dahingehend geändert werden, dass 125 Millionen Francs als Zahlung in Banknoten der Banque de France unter folgenden Bedingungen akzeptiert werden:
+
+Vierzig Millionen werden bis zum 1. Juni dieses Jahres gezahlt, weitere vierzig Millionen bis zum 8. Juni dieses Jahres, die letzten fünfundvierzig Millionen Franken bis zum 15. Juni dieses Jahres;
+
+Der größtmögliche Teil jeder Zahlung ist in Banknoten im Wert von einhundertfünfzig oder zwanzig Franken zu leisten; die Zahlungen sind in Straßburg, Metz oder Mulhouse zu leisten.
+
+Eine Summe von 125 Millionen, als Teil der zweiten Zahlung von einer Milliarde gemäß Artikel 7 des endgültigen Friedensvertrags vom 10. Mai, muss innerhalb von sechzig Tagen nach dem für die Zahlung der ersten halben Milliarde festgelegten Datum gezahlt werden.
+
+Die Unterzeichneten sind übereingekommen und haben beschlossen, wie folgt:
+
+Nach Artikel 7. des endgültigen Friedensvertrages zwischen dem Deutschen Reich und der Französischen Republik vom 10. Mai d. J. soll die erste Zahlung von fünfhundert Millionen innerhalb der auf die Wiederherstellung der Autorität der Französischen Regierung in der Stadt Paris folgenden dreißig Tage stattfinden.
+
+Die Art der Zahlung ist in demselben Artikel festgestellt.
+
+Die Unterzeichneten sind indessen übereingekommen, daß für dieses eine Mal die für die Zahlung vereinbarten Bedingungen dahin abgeändert werden sollen, daß 125 Millionen Franks in Noten der Bank von Frankreich in Zahlung ange. nommen werden unter folgenden Bedin gungen:
+
+vierzig Millionen werden bis zum nächsten 1. Juni bezahlt, weitere vierzig Millionen bis zum nächsten 8. Juni, die letzten fünfundvierzig Millionen bis zum nächsten 15. Juni;
+
+der größtmögliche Theil jeder Zah. lung erfolgt in Banknoten von Einhundert, funfzig oder zwanzig Franks; die Zahlungen werden in Straßburg, Mez oder Mühlhausen geleistet.
+
+Eine Summe von 125 Millionen auf Abschlag der zweiten, im Artikel 7. des end gültigen Friedensvertrages vom 10. Mai d. J. festgesetzten Zahlung Einer Milliarde soll innerhalb der auf den Zahlungstermin der ersten halben Milliarde folgenden sechszig Tage gezahlt werden. Diese Zahlung von 125 Millionen wird in den im genannten Artikel 7. vorgeschriebenen Valuten erfolgen, sofern nicht ein ande res Abkommen stattgefunden haben wird.
+
+Geschehen, in doppelter Ausfertigung, zu Frankfurt, am 21. Mai 1871.
+
+v. Bismarck. Jules Favre.
+
+Pouyer Quertier
+
+
+
+
+
+
+
 ---
 
 **Faksimile Vorfrieden Versailles 1870 und Frankfurter Frieden 1871 (Friedenswerk, BGBl. 1871 Aktenstück Nr. 26 Gesetz-Nrn. 656-657 S. 215-244) aus den Gesetzestexten**
