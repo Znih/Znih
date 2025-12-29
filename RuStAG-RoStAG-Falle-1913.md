@@ -109,9 +109,9 @@ Folge dem Geld und den Gesetzestexten!
 
 -583-
 
-Reichs-Gesezblatt. Jahrgang 1913. Nr. 46.
+Reichs-Gesetzblatt. Jahrgang 1913. Nr. 46.
 
-Inhalt: Reichs und Staatsangehörigkeitsgeses. S. 583. Gesetzes zur Abänderung des Reichsmilitärgesezes sowie des Gesezes, betreffend Änderungen der Wehrpflicht, vom 11. Jebruar 1888. Geses, betreffend die Änderung zweier Reichstagswahlkreise. S. 597. . 593.
+Inhalt: Reichs und Staatsangehörigkeitsgesetzes. S. 583. Gesetzes zur Abänderung des Reichsmilitärgesetzes sowie des Gesetzes, betreffend Änderungen der Wehrpflicht, vom 11. Jebruar 1888. Geses, betreffend die Änderung zweier Reichstagswahlkreise. S. 597. . 593.
 
 (Nr. 4263.) Reichs und Staatsangehörigkeitsgeses.
 
@@ -129,7 +129,7 @@ Allgemeine Vorschriften.
 
 **§ 1.**
 
-Deutscher ist, wer die Staatsangehörigkeit in einem Bundesstaat (§§ 3 bis 32) ***oder** die unmittelbare Reichsangehörigkeit (§§ 33 bis 35) besitzt.
+**Deutscher** ist, wer die Staatsangehörigkeit in einem Bundesstaat (§§ 3 bis 32) ***oder*** die **unmittelbare Reichsangehörigkeit** (§§ 33 bis 35) besitzt.
 
 
 Elsaß-Lothringen gilt im Sinne dieses Gesezes als Bundesstaat. Die Schutzgebiete gelten im Sinne dieses Gesezes als Inland.
@@ -167,7 +167,7 @@ Die Vorschriften des § 26 Abs. 3 und des § 29 finden entsprechende Anwendung.
 
 Dritter Abschnitt.
 
-Unmittelbare Reichsangehörigkeit.
+**Unmittelbare Reichsangehörigkeit.**
 
 **§ 33.**
 
@@ -223,3 +223,43 @@ Die Landeszentralbehörden bestimmen, welche Behörden im Sinne dieses Gesezes a
 Die Zuständigkeit der Behörden und das Verfahren bestimmen sich nach den Landesgesehen und, soweit landesgesetzliche Vorschriften nicht vorhanden sind, nach den §§ 20, 21 der Gewerbeordnung.
 
 ![Screenshot_20251229_193645~2.jpg](https://github.com/user-attachments/assets/9d687fe6-8153-4462-bfc8-14b226bbb2ee)
+
+-593-
+
+§ 41.
+
+Dieses Gesek tritt am 1. Januar 1914 gleichzeitig mit einem Gesetze zur Abänderung des Reichsmilitärgesezes sowie des Gesezes, betreffend Änderungen der Wehrpflicht, vom 11. Februar 1888 in Kraft.
+
+Urkundlich unter Unserer Höchsteigenhändigen Unterschrift und beigedrucktem Saiserlichen Infiegel.
+
+**Gegeben Balholm, an Bord M. D. Hohenzollern", den 22. Juli 1913.**
+
+(L. S.)
+
+Wilhelm. Delbrück.
+
+(Nr. 4264.) Gesetz zur Abänderung des Reichsmilitärgesezes sowie des Gesezes, betreffend Änderungen des Wehrpflicht, vom 11. Jebruar 1888. Vom 22. Juli 1913.
+
+Wir Wilhelm, von Gottes Gnaden Deutscher Kaiser, König von Preußen 2c.
+
+verordnen im Namen des Reichs, nach erfolgter Zustimmung des Bundesrats und des Reichstags, was folgt:
+
+Artikel I.
+
+Das Reichsmilitärgeses wird dahin geändert:
+
+1. An die Stelle des § 11 tritt folgende Vorschrift:
+
+§ 11.
+
+Personen, die keinem Staate angehören, können, wenn sie sich im Reichsgebiet oder in einem Schutzgebiete dauernd aufhalten, zur Erfüllung der Wehrpflicht wie Deutsche herangezogen werden.
+
+2. Der § 13 wird durch folgende Vorschriften erseht:
+
+§ 13.
+
+Für die Reihenfolge, in der die Militärpflichtigen auszuheben sind, ist der Grad der Tauglichkeit zum Militärdienst maßgebend.
+
+Ein Abweichen von dieser Reihenfolge ist nur zulässig zugunsten der in einem Schutzgebiet oder im Ausland lebenden Militärpflichtigen oder auf Antrag anderer Militärpflichtigen, sofern diese ihre sofortige Einstellung wünschen, oder im Interesse einzelner Waffengattungen, an deren Ersatz besondere Anforderungen zu stellen sind.
+
+94*
