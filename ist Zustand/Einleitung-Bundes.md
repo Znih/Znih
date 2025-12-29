@@ -8,27 +8,45 @@
 
 ---
 
-- Von den Wiener Bestimmungen 1815/20 über das BuStAG von 1870.
+### **Kernaussagen der Wiener Schlussakte:**
+
+#### **1. Rechtsverbindlichkeit und Stärkung des Bundes**
+- Der Beschluss vom 8. Juni 1820 erklärte die Schlussakte als **Grundgesetz des Deutschen Bundes**. 
+- Ziel war die Sicherung der Unabhängigkeit der deutschen Staaten, die Verlässlichkeit der Bundesakte von 1815 und die Implementierung dauerhafter Friedens- und Sicherheitsmechanismen.
 
 
-# Nr. 218. (189). Die deutsche Bundes-Akte. — 1815, Juni 8.
 
-K. Binding, Deutsche Staatsgrundgesetze III S. 19—34.
-
-Gedanke eines ewigen Bundes deutscher Staaten als Staatenbund (Fürstenbund) aus Bundesgliedern und bereits zum Schutz alter Rechte im Bunde (Alle), mithin also Rechtkontinuität zum Ersten Reich im Bundesrecht (Rechtschutz). Fehler wurden 1867 bis 1874 korrigiert (Bundes-Staat).
-
-https://github.com/Znih/Znih/blob/main/1815_Deutsches-Grundgesetz-No-1.md
 
 ---
 
-# [265]     Nr. 219. Wiener Schluß-Akte. 1820. Art. I-IV.    545
+### **Vergleich zur Bundesakte von 1815 und spätere Entwicklung:**
+- **Bundesakte 1815:** Der Grundstein für einen ewigen Bund wurde gelegt, mit einem Fokus auf rechtliche Gleichheit und wechselseitigen Schutz.
+- **Schlussakte 1820:** Festigte diese Prinzipien, verlieh ihnen jedoch größere gesetzliche Verbindlichkeit und band sie an die fortlaufenden politischen und administrativen Prozesse der Bundesversammlung.
+- **BuStAG 1870:** Ein logischer nächster Schritt, der bundesstaatliche Angelegenheiten auch im Kontext moderner Nationalstaaten weiterentwickelte.
 
-K. Binding, Deutsche Staatsgrundgesetze III, S. 37-58; der voranstehende Beschluß der Plenarsitzung nach Corpus Iuris Confoederationis Germanicae II, S. 101–111.
+---
 
-Beschluß der Plenarversammlung vom 8. Juni 1820.
+
+
+- **Art. I:** Der Deutsche Bund wird als ein "völkerrechtlicher Verein" dargestellt, dessen Zweck die Bewahrung der Unabhängigkeit und Unverletzlichkeit der im Bund vereinigten souveränen Staaten ist.  
+- **Art. II:** Intern fungiert der Bund als Gemeinschaft unabhängiger Staaten, extern jedoch als politisch einheitliche Gesamtheit.  
+- **Art. III:** Die Bundesakte definiert den Umfang und die Grenzen der Wirksamkeit des Bundes, ähnlich einer Verfassung.  
+- **Art. IV:** Die Entwicklung und Erweiterung der Bundesakte ist der gemeinsamen Entscheidung aller Mitglieder vorbehalten.
+
+---
+
+Die Wiener Schlussakte stellte sicher, dass der Deutsche Bund auf einem stabilen Rechtsfundament aufgebaut blieb. Im Vergleich zu späteren Regelungen wie dem Versailler Vertrag von 1919 zeigt sie einen Ansatz eines biophilen Bündnisses, das Kooperation und gemeinsame Sicherheit in den Vordergrund stellte.
+
+
+
+
+---
+
+
 
 https://github.com/Znih/Znih/blob/main/1820_Deutsches-Grundgesetz-No-2.md
 
+---
 ---
 
 Aus Unterthanen wurden sukzessive Staatsunterthanen, die Staatsangehörigen in den deutschen Staaten, ab 1867 Bundesstaaten.
