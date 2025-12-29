@@ -1117,13 +1117,13 @@ Fürst Bismarck und Graf Arnim überreichten ihrerseits die Ratifikationsurkunde
 
 -242-
 
-Seiner Majestät des Königs von Würt temberg und Seiner Königlichen Hoheit des Großherzogs von Baden im Namen ihrer Souveraine erklärt haben.
+Seiner Majestät des Königs von Württemberg und Seiner Königlichen Hoheit des Großherzogs von Baden im Namen ihrer Souveraine erklärt haben.
 
-Die beiderseitigen Bevollmächtigten sind darüber einverstanden, daß die Sti pulationen über den Austausch, von dem im Artikel 1. und im dritten Additional Artikel die Rede ist, nachdem sie von der Französischen Regierung angenommen sind, einen integrirenden Bestandtheil des Friedensvertrages ausmachen, und daß demgemäß die Feststellung der Grenze zwischen dem Deutschen Reich und Frank. reich zu bewirken ist.
+Die beiderseitigen Bevollmächtigten sind darüber einverstanden, daß die Stipulationen über den Austausch, von dem im Artikel 1. und im dritten Additional Artikel die Rede ist, nachdem sie von der Französischen Regierung angenommen sind, einen integrirenden Bestandtheil des Friedensvertrages ausmachen, und daß demgemäß die Feststellung der Grenze zwischen dem Deutschen Reich und Frankreich zu bewirken ist.
 
-Die Deutschen Bevollmächtigten ha. ben darauf die Französische, die Fran-zösischen Bevollmächtigten die Deutsche Ratifikation in Empfang genommen.
+Die Deutschen Bevollmächtigten haben darauf die Französische, die Französischen Bevollmächtigten die Deutsche Ratifikation in Empfang genommen.
 
-Zu Urkund dessen ist das gegenwär tige Protokoll zweimal, einmal in Deut scher und einmal in Französischer Sprache aufgenommen und nach erfolgter Vor lesung und Genehmigung unterzeichnet worden. Das Französische Exemplar haben die Deutschen, das das Deutsche die Französischen Bevollmächtigten an sich genommen.
+Zu Urkund dessen ist das gegenwärtige Protokoll zweimal, einmal in Deutscher und einmal in Französischer Sprache aufgenommen und nach erfolgter Vorlesung und Genehmigung unterzeichnet worden. Das Französische Exemplar haben die Deutschen, das das Deutsche die Französischen Bevollmächtigten an sich genommen.
 
 v. Bismarck. (L. S.) v. Arnim. (L.S.)
 
@@ -1132,6 +1132,8 @@ Jules Favre. (L. S.)
 Pouyer Quertier. (L. S.) E. de Goulard. (L.S.)
 
 ---
+
+<!--
 
 jeweils die deutschen Bevollmächtigten. Anordnungen des vorgenannten Gesetzes, das von der französischen Nationalversammlung verabschiedet wurde.
 
@@ -1151,7 +1153,7 @@ v. Bismarck. (L. S.)
 
 Arnim. (L. S.)
 
----
+-->
 
 ![Screenshot_20251228_162430~2.jpg](https://github.com/user-attachments/assets/969062e2-d9f5-449f-bc14-2aea7c7db47d) 243
 
@@ -1185,7 +1187,7 @@ Die Unterzeichneten sind indessen übereingekommen, daß für dieses eine Mal di
 
 2) der größtmögliche Theil jeder Zah. lung erfolgt in Banknoten von Einhundert, funfzig oder zwanzig Franks; die Zahlungen werden in Straßburg, Mez oder Mühlhausen geleistet.
 
-Eine Summe von 125 Millionen auf Abschlag der zweiten, im Artikel 7. des end gültigen Friedensvertrages vom 10. Mai d. J. festgesetzten Zahlung Einer Milliarde soll innerhalb der auf den Zahlungstermin der ersten halben Milliarde folgenden sechszig Tage gezahlt werden. Diese Zah-
+Eine Summe von 125 Millionen auf Abschlag der zweiten, im Artikel 7. des end gültigen Friedensvertrages vom 10. Mai d. J. festgesetzten Zahlung Einer Milliarde soll innerhalb der auf den Zahlungstermin der ersten halben Milliarde folgenden sechszig Tage gezahlt werden. Diese Zah
 
 ---
 
