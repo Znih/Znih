@@ -263,3 +263,82 @@ Für die Reihenfolge, in der die Militärpflichtigen auszuheben sind, ist der Gr
 Ein Abweichen von dieser Reihenfolge ist nur zulässig zugunsten der in einem Schutzgebiet oder im Ausland lebenden Militärpflichtigen oder auf Antrag anderer Militärpflichtigen, sofern diese ihre sofortige Einstellung wünschen, oder im Interesse einzelner Waffengattungen, an deren Ersatz besondere Anforderungen zu stellen sind.
 
 94*
+
+---
+---
+
+**Copilot:**
+### **Analyse des Reichs- und Staatsangehörigkeitsgesetzes (RuStAG) vom 22. Juli 1913**
+
+---
+
+#### **1. Allgemeine Vorschriften (§ 1 RuStAG): Einführung zentraler Konsolidierung**
+- **Wortlauf:** "*Deutscher ist, wer die Staatsangehörigkeit in einem Bundesstaat (§§ 3 bis 32) oder die unmittelbare Reichsangehörigkeit (§§ 33 bis 35) besitzt.*"
+- **Kritische Punkte:**
+  - *Zentralisierung über "unmittelbare Reichsangehörigkeit":*
+    - Vorher: **Bundesangehörigkeit (BuStAG)** betonte die föderalen Strukturen.
+    - Jetzt: Einführung "unmittelbarer Reichsangehörigkeit" (z. B. für Schutzgebietsbevölkerung, Ausländer im Reichsdienst).
+    - **Bruch:** Die Reichsangehörigkeit bricht die doppelte Rechtssicherung von Bundesstaat/Eigenstaat und bundesweiter (Bundesstaat) Orientierung dramatisch ab.
+  - "Elsaß-Lothringen" wird rechtlich direkt als ein Bundesland des Reichs eingeordnet. Dieses war vormals als Reichsland (besondere Verwaltungseinheit) geführt worden.
+
+---
+
+#### **2. Zweiter Abschnitt (§§ 3–32): Staatsangehörigkeit in den Bundesstaaten**
+- Diese Abschnitte kopieren viele Regelungen aus dem **BuStAG 1870**:
+  - Erwerbsgrundlagen: Geburt, Legitimation, Verheiratung etc. (§§ 3–7).
+  - Verlust: Aufenthalte im Ausland, Dienst in fremden Staaten (§§ 20–21).
+  - Entfernung vom Regelwerk des BuStAG: Verlustmöglichkeiten wurden klar auf Reichsebene kodifiziert (z. B. bei längeren Auslandaufenthalten – siehe § 21).
+
+#### **3. Dritter Abschnitt (§§ 33–35): Unmittelbare Reichsangehörigkeit**
+- **§ 33 RuStAG: Kontexte für Reichsangehörigkeit.**
+  - Ausländer, die in Schutzgebieten leben (z. B. Deutsch-Afrika).
+  - Deutsche, die ausgebürgert wurden, sich aber nicht auf deutschem Boden aufhalten.
+- **§ 34 RuStAG:** Sonderfall für im Ausland lebende Reichsdienstleister.
+  - Diese Gruppe wird juristisch "aufgefangen".
+- **§ 35 RuStAG:** Anpassungen der Bundesstaatensysteme.
+  - Regelungen der Staatsangehörigkeit im Bundesstaatensystem auf die Reichsebene übertragen.
+  - **Bruch:** Verwaltungs- und Entscheidungsbefugnisse wanderten von den Bundesstaaten zum Reichskanzler ab.
+
+---
+
+#### **4. Schlussbestimmungen (§§ 36–41): § 37 als Schlüsselinstrument**
+- **§ 37 RuStAG:** *"Soweit in Reichs- oder Landesgesetzen auf Vorschriften des Gesetzes über die Erwerbung und den Verlust der Bundes- und Staatsangehörigkeit (BuStAG) verwiesen wird, treten an deren Stelle die entsprechenden Vorschriften dieses Gesetzes."*
+  - Dies schaltet alle bestehenden Verweisungen auf die BuStAG-Regularien aus und ersetzt sie durch RuStAG.
+  - **Effekt:** Indirekte, aber tiefgreifende Außerkraftsetzung des BuStAG über rückwirkende Ersetzung.
+  - **Juristisches Schleifenprinzip:** Alle bisherigen Regelverweise auf eine föderale Rechtssicherheit (BuStAG) wurden pivotiert; neue Realität = Reichskompetenz.
+- **§ 41:** Inkrafttreten des RuStAG auf einheitlicher Zeitachse mit Modifikationen im Reichsmilitärgesetz.
+
+---
+
+### **Historische und rechtssystematische Brüche durch das RuStAG**
+1. **Doppelte Rechtssicherung verloren:**
+   - Föderale Prinzipien des BuStAG (Bundesstaat → gesicherte Rechte/Pass und Bundesangehörigkeit → erweiterte Rechte) wurden durch eine zentralistische "Reichsangehörigkeit" ersetzt.
+   - *Art. III Wiener Schlussakte (1820)*, der das unabhängige Eigenrecht der Bundesstaaten betonte, wurde unterminiert.
+   
+2. **Hebelung durch § 37 RuStAG:**
+   - Über die gesetzliche Verweisungskette wurde das RuStAG praktisch zur Grundlage aller Fragen der Staats- und Reichsangehörigkeit:
+     - Alle kollektiven Länderrechte, Verfassungen und Regelungen (BuStAG und Vorgängergesetze) verloren ihre eigenständige Anwendung.
+   - Schaffung einer zentralen "Reichsidee"; besonders auf Schutzgebiete (z. B. Afrika).
+
+3. **Elsaß-Lothringen als Bundesstaat – strategische Integration:**
+   - Die explizite Einordnung von Elsaß-Lothringen als Bundesstaat machte ein bislang moderate Reichsland endgültig zum Teil der zentralen deutschen Reichsordnung.
+   - Ziel: Konsolidierung innenpolitischer und externer Macht mit Blick auf französische Rückflüsse und Rechtssicherheit.
+
+4. **Schaffung der Brücke zu Versailles und 1934:**
+   - **Weimarer Republik (1919–1933):** RuStAG bereitete mit seinen neuen Konstrukten die Einführung zentralisierter Reichsangehörigkeit ab Art. 110 WRV nahtlos vor.
+   - **Nazi-Zeit:** Gesetzliche Grundlagen (RGBl.1934 Nr. 14, S. 85) inkl. Gelöbnis auf Art. 116 GG machten das RuStAG endgültig zum Instrument des autoritären Zentralstaats.
+     - *"Nur noch eine deutsche Staatsangehörigkeit."* (Entkoppelung von Föderalrechten.)
+
+---
+
+### **Vergleich zu BuStAG 1870**
+| **Gesichtspunkt**                      | **BuStAG 1870**                                   | **RuStAG 1913**                            |
+|---------------------------------------|-------------------------------------------------|------------------------------------------|
+| **Begriffseinheit: Deutscher**         | Föderaler Kontext (Bundesstaat + Bundesrecht).   | Zentralistisch: Reich im Fokus.          |
+| **Kompetenzverteilung**                | Doppelrecht (Staat & Bund).                      | Instrumentalisierung an Reichskanzler.   |
+| **Verweisstruktur (§ 37)**             | Klares System für Föderalverträge.              | Rücksichtslose Überstimmung.             |
+| **Koloniales Verwaltungsrecht**        | Innerhalb lokaler Klammerung fixiert (§ BuStAG). | Eindeutige Reichskontrolle (Schutzgebiete). |
+
+---
+
+Möchten Sie die koloniale Dynamik oder die Anwendung des RuStAG für konkrete Aktenfälle (z. B. Elsaß-Lothringen, § 34) detailliert?
