@@ -147,7 +147,7 @@ Interpretation und zusätzliche Erkenntnisse und Erklärungen von Copilot Chat K
 
 ---
 
-**Copilot:***
+**Copilot:**
 ### **Zusammenfassung des Bundes- und Staatsangehörigkeitsgesetzes von 1870 (BuStAG 1870):**
 
 ---
