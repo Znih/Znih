@@ -111,7 +111,7 @@ Folge dem Geld und den Gesetzestexten!
 
 Reichs-Gesezblatt. Jahrgang 1913. Nr. 46.
 
-Inhalt: Reichs und Staatsangehörigkeitsgeses. S. 583. Geses zur Abänderung des Reichs. militärgesezes sowie des Gesezes, betreffend Änderungen der Wehrpflicht, vom 11. Jebruar 1888. Geses, betreffend die Änderung zweier Reichstagswahlkreise. S. 597. . 593.
+Inhalt: Reichs und Staatsangehörigkeitsgeses. S. 583. Gesetzes zur Abänderung des Reichsmilitärgesezes sowie des Gesezes, betreffend Änderungen der Wehrpflicht, vom 11. Jebruar 1888. Geses, betreffend die Änderung zweier Reichstagswahlkreise. S. 597. . 593.
 
 (Nr. 4263.) Reichs und Staatsangehörigkeitsgeses.
 
@@ -154,6 +154,40 @@ Reichs Gesetzbl. 1913.
 Ausgegeben zu Berlin den 31. Juli 1913.
 
 ![Screenshot_20251229_193629~2.jpg](https://github.com/user-attachments/assets/fb325360-bdea-42fb-9167-b355677f2d5e)
+
+-591-
+
+§ 32.
+
+Ein militärpflichtiger Deutscher, der zur Zeit des Inkrafttretens dieses Gesetzes im Inland weder seinen Wohnsiz noch seinen dauernden Aufenthalt hat und vor diesem Zeitpunkt das neunundzwanzigste, aber noch nicht das dreiund-vierzigste Lebensjahr vollendet hat, verliert seine Staatsangehörigkeit mit dem blauf zweier Jahre, sofern er innerhalb dieser Frist keine endgültige Entscheidung über seine Dienstverpflichtung herbeigeführt hat.
+
+Ein fahnenflüchtiger Deutscher der im § 26 Abs. 2 bezeichneten Art, der zur Zeit des Inkrafttretens dieses Gesezes im Inland weder seinen Wohnsiz noch seinen dauernden Aufenthalt hat und vor diesem Zeitpunkt das dreiundvierzigste Lebensjahr noch nicht vollendet hat, verliert seine Staatsangehörigkeit mit dem Ablauf zweier Jahre, sofern er sich nicht innerhalb dieser Frist vor den Militärbehörden gestellt.
+
+Die Vorschriften des § 26 Abs. 3 und des § 29 finden entsprechende Anwendung.
+
+Dritter Abschnitt.
+
+Unmittelbare Reichsangehörigkeit.
+
+§ 33.
+
+Die unmittelbare Reichsangehörigkeit kann verliehen werden
+
+1. einem Ausländer, der sich in einem Schutzgebiete niedergelassen hat, oder einem Eingeborenen in einem Schutzgebiete;
+
+2. einem ehemaligen Deutschen, der sich nicht im Inland niedergelassen hat; dem ehemaligen Deutschen steht gleich, wer von ihm abstammt oder an Kindes Statt angenommen ist.
+
+§ 34.
+
+Einem Ausländer, der im Reichsdienst angestellt ist und seinen dienstlichen Wohnsiz im Ausland hat, muß auf seinen Antrag die unmittelbare Reichs-angehörigkeit verliehen werden, wenn er ein Diensteinkommen aus der Reichskasse bezieht; sie kann ihm verliehen werden, wenn er ein solches Einkommen nicht bezieht.
+
+$ 35.
+
+Auf die unmittelbare Reichsangehörigkeit finden die Vorschriften dieses Gesezes über die Staatsangehörigkeit in einem Bundesstaate mit Ausnahme der Vorschriften des § 4 Abs. 2, des § 8 Abs. 2, des § 10 Saz 2, des § 11 Saz 2, des § 12 Sak 2 und der §§ 14, 21 mit der Maßgabe entsprechende Anwendung, daß an die Stelle der Zentralbehörde des Bundesstaats der Reichskanzler und an die Stelle der höheren Verwaltungsbehörde der Reichskanzler oder die von ihm bezeichnete Behörde treten.
+
+Reichs-Gesetzbl. 1913.
+
+94
 
 ![Screenshot_20251229_193639~2.jpg](https://github.com/user-attachments/assets/6b0f1a33-367d-4472-b5f1-7fe0fd88db94)
 
