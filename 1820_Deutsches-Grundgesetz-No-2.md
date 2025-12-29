@@ -30,6 +30,45 @@ Die **Wiener Schlussakte von 1820** wurde beschlossen, um die Bindungen und Stru
 Die Wiener Schlussakte stellte sicher, dass der Deutsche Bund auf einem stabilen Rechtsfundament aufgebaut blieb. Im Vergleich zu späteren Regelungen wie dem Versailler Vertrag von 1919 zeigt sie einen Ansatz eines biophilen Bündnisses, das Kooperation und gemeinsame Sicherheit in den Vordergrund stellte. Soll ich noch spezifische Artikel analysieren oder auf einen Aspekt besonders eingehen?
 
 ---
+---
+
+**Copilot:**
+### Zusammenfassung der **Wiener Schlussakte von 1820** basierend auf Artikelabschnitten:
+
+#### **[265] Nr. 219. Wiener Schlussakte 1820. Artikel I–IV.**
+- **Art. I:** Der Deutsche Bund wird als ein "völkerrechtlicher Verein" dargestellt, dessen Zweck die Bewahrung der Unabhängigkeit und Unverletzlichkeit der im Bund vereinigten souveränen Staaten ist.  
+- **Art. II:** Intern fungiert der Bund als Gemeinschaft unabhängiger Staaten, extern jedoch als politisch einheitliche Gesamtheit.  
+- **Art. III:** Die Bundesakte definiert den Umfang und die Grenzen der Wirksamkeit des Bundes, ähnlich einer Verfassung.  
+- **Art. IV:** Die Entwicklung und Erweiterung der Bundesakte ist der gemeinsamen Entscheidung aller Mitglieder vorbehalten.
+
+---
+
+#### **Weiterführende Artikel (Art. V–XV):**
+- **Art. V:** Der Bund ist ein "unauflöslicher Verein"; der Austritt von Mitgliedern ist nicht gestattet, was die Beständigkeit sichern soll.  
+- **Art. VI:** Die Aufnahme neuer Mitglieder erfolgt nur durch Konsens.  
+- **Art. VII:** Alle Entscheidungen, die die Gesamtheit des Bundes betreffen, werden von der Bundesversammlung repräsentativ getroffen.  
+- **Art. VIII:** Bevollmächtigte der Bundesversammlung sind strikt an ihre Mandate gebunden und allein ihren entsendenden Staaten rechenschaftspflichtig.  
+- **Art. IX:** Der Handlungsspielraum der Bundesversammlung ist durch die Bestimmungen der Bundesakte begrenzt.  
+- **Art. XIII–XIV:** Die Annahme oder Änderung von Grundgesetzen sowie wichtige strukturelle Änderungen bedürfen der Zustimmung einzelner Mitglieder und tieferer Abstimmungen.
+
+---
+
+#### **Schlüsselprinzipien:**
+1. **Unverletzlichkeit und Kooperation:** Mitgliederstaaten verpflichten sich, einander zu schützen und Konflikte friedlich zu lösen. Repressalien oder eigenmächtige Angriffe untereinander sind verboten.  
+2. **Nichtverhandelbare Einheit:** Die Konstruktion des Bundes ist so gestaltet, dass sowohl Austritt als auch Sabotage der inneren Struktur ausgeschlossen werden.  
+3. **Gemeinschaftliche Ordnung:** Entscheidungen zum Schutz der inneren Ordnung oder bei Bedrohungen bedürfen der Zustimmung und der Zusammenarbeit aller Mitglieder.
+
+---
+
+#### **Vergleich zur Bundesakte von 1815 und Bedeutung:**
+- **Ähnlichkeit:** Betonung des föderalen Charakters und die Sicherung der Eigenständigkeit der Mitgliedsstaaten.
+- **Unterschied:** Der Bund wird hier deutlich als unauflöslicher und institutionell organisierter Verein beschrieben. Die Schlussakte legt größeren Fokus auf die rechtliche Verankerung von Rechten und Pflichten der Mitglieder und die Notwendigkeit gemeinsamer Entscheidungsprozesse.
+
+---
+
+Falls erforderlich, kann ich nochmal detailliert auf spezifische Artikel oder deren historische Bedeutung eingehen. Soll die Rolle des Bundesrechts oder das Prinzip der Mitgliederrechte extra untersucht werden?
+
+---
 
 # Wiener Schluß-Akte v. 1820
 (transk. aus [Sammlung d. Deutschen Bundesrechtes mvwN u. Faksimiles (aktuelle Fassung v. 20.12.2024)](https://drive.proton.me/urls/MEY7CR9XXM#rIhfRk0TC47j) S. 294-304 o. [Quellensammlung zur Geschichte der Deutschen Reichsverfassung in Mittelalter und Neuzeit](https://de.wikisource.org/wiki/Quellensammlung_zur_Geschichte_der_Deutschen_Reichsverfassung_in_Mittelalter_und_Neuzeit))
