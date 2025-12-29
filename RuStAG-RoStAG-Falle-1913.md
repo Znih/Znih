@@ -127,9 +127,9 @@ verordnen im Namen des Reichs, nach erfolgter Zustimmung des Bundesrats und des 
 
 Allgemeine Vorschriften.
 
-§ 1.
+**§ 1.**
 
-Deutscher ist, wer die Staatsangehörigkeit in einem Bundesstaat (§§ 3 bis 32) oder die unmittelbare Reichsangehörigkeit (§§ 33 bis 35) besitzt.
+Deutscher ist, wer die Staatsangehörigkeit in einem Bundesstaat (§§ 3 bis 32) ***oder** die unmittelbare Reichsangehörigkeit (§§ 33 bis 35) besitzt.
 
 
 Elsaß-Lothringen gilt im Sinne dieses Gesezes als Bundesstaat. Die Schutzgebiete gelten im Sinne dieses Gesezes als Inland.
@@ -169,9 +169,9 @@ Dritter Abschnitt.
 
 Unmittelbare Reichsangehörigkeit.
 
-§ 33.
+**§ 33.**
 
-Die unmittelbare Reichsangehörigkeit kann verliehen werden
+Die **unmittelbare Reichsangehörigkeit** kann verliehen werden
 
 1. einem Ausländer, der sich in einem Schutzgebiete niedergelassen hat, oder einem Eingeborenen in einem Schutzgebiete;
 
@@ -190,5 +190,36 @@ Reichs-Gesetzbl. 1913.
 94
 
 ![Screenshot_20251229_193639~2.jpg](https://github.com/user-attachments/assets/6b0f1a33-367d-4472-b5f1-7fe0fd88db94)
+
+-592-
+
+Vierter Abschnitt.
+
+Schlußbestimmungen.
+
+§ 36. 
+
+Unberührt bleiben die Staatsverträge, die von Bundesstaaten mit au ländischen Staaten vor dem Inkrafttreten dieses Gesekes geschlossen sind.
+
+**§ 37.**
+
+Soweit in Reichsgesehen oder in Landesgesehen auf Vorschriften des Gesezes über die Erwerbung und den Verlust der Bundes- und Staatsangehörigkeit vom 1. Juni 1870 oder des Gesezes, betreffend die Naturalisation von Ausländern, welche im Reichsdienst angestellt sind, vom 20. Dezember 1875 verwiesen ist, **treten an deren Stelle** die entsprechenden Vorschriften dieses Gesezes.
+
+§ 38.
+
+In den Fällen des § 7, der SS 10, 11, 12, 30, 31 und des § 34 erster Halbsah werden die Aufnahme- oder Einbürgerungsurkunden kostenfrei erteilt. Das gleiche gilt für die Erteilung von Entlassungsurkunden in den Fällen des § 21.
+
+Für die Erteilung von Entlassungsurkunden in anderen als den im § 21 bezeichneten Fällen dürfen an Stempelabgaben und Ausfertigungsgebühren zu-sammen nicht mehr als drei Mark erhoben werden.
+
+§ 39. 
+
+Der Bundesrat erläßt Bestimmungen über die Aufnahme, Einbürgerungs-und Entlassungsurkunden sowie über die Urkunden, die zur Bescheinigung der Staatsangehörigkeit dienen.
+
+Die Landeszentralbehörden bestimmen, welche Behörden im Sinne dieses Gesezes als höhere Verwaltungsbehörden und als Militärbehörden anzusehen sind.
+
+
+§ 40. Gegen die Ablehnung des Antrags auf Aufnahme gemäß § 7, auf Einbürgerung in den Fällen der §§ 10, 11, 15, des § 26 Abs. 3, der $$ 30, 31, des § 32 Abs. 3 oder des Antrags auf Entlassung in den Fällen der SS 21, 22 ist der Rekurs zulässig.
+
+Die Zuständigkeit der Behörden und das Verfahren bestimmen sich nach den Landesgesehen und, soweit landesgesetzliche Vorschriften nicht vorhanden sind, nach den §§ 20, 21 der Gewerbeordnung.
 
 ![Screenshot_20251229_193645~2.jpg](https://github.com/user-attachments/assets/9d687fe6-8153-4462-bfc8-14b226bbb2ee)
