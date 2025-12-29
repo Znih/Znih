@@ -10,7 +10,7 @@ oder
 
 [deutscher ist, wer] die unmittelbare Reichsangehörigkeit (§§ 33 bis 35) besitzt.
 
-(jesuitisches UND-ODER)
+[jesuitisches UND-ODER, Keine Bundesangehörigkeit ab 1914 und ab 1918 nur noch eine deutsche "unmittelbare Reichsangehörigkeit" (§§ 33 bis 35) und ab 1919 nur noch eine "deutsche Reichsangehörigkeit" (Art. 110 WRV) entsprechend Art. 278 VV v. 1919 auf Basis obiger "unmittelbarer Reichsangehörigkeit" (§§ 33 bis 35) und schlussendlich ab 1934 "nur noch eine deutsche Staatsangehörigkeit" (RGBl. I 1934 S. 85, Art. 16 I GG iVm StAG-RG)!]
 
 ...
 
