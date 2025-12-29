@@ -85,7 +85,7 @@ Frankreich verzichtet zu Gunsten des Deutschen Reichs auf alle seine Rechte und 
 
 <!--
 
-Sie verläuft von der Vezouze bis zur Grenze des Kantons Schirmeck entlang der westlichen Grenze dieses Kantons, durchfließt die Gemeinden Saales, Bourg Bruche, Colroy-la-Roche, Plaine, Ranrupt, Saulxures und St. Blaise-la-Roche des Kantons Saales und fällt mit der westlichen Grenze der Départements Bas-Rhin und Haut-Rhin bis zum Kanton Belfort zusammen, von wo sie unweit von Vour-venans die südliche Grenze verlässt, um den Kanton Delle an der südlichen Grenze der Gemeinden Bourogne und Froide Fontaine zu durchqueren und die Schweizer Grenze zu erreichen, indem sie entlang der östlichen Grenzen der Gemeinden Jonchery und Delle verläuft.
+Sie verläuft von der Vezouze bis zur Grenze des Kantons Schirmeck entlang der westlichen Grenze dieses Kantons, durchfließt die Gemeinden Saales, Bourg Bruche, Colroy-la-Roche, Plaine, Ranrupt, Saulxures und St. Blaise-la-Roche des Kantons Saales und fällt mit der westlichen Grenze der Départements Bas-Rhin und Haut-Rhin bis zum Kanton Belfort zusammen, von wo sie unweit von Vourvenans die südliche Grenze verlässt, um den Kanton Delle an der südlichen Grenze der Gemeinden Bourogne und Froide Fontaine zu durchqueren und die Schweizer Grenze zu erreichen, indem sie entlang der östlichen Grenzen der Gemeinden Jonchery und Delle verläuft.
 
 Das Deutsche Reich soll diese Gebiete auf Dauer in voller Souveränität und Eigentum besitzen. Eine internationale Kommission, bestehend aus gleich großen Vertretern der Hohen Vertragsparteien beider Seiten, wird unmittelbar nach dem Austausch der Ratifikationsurkunden dieses Vertrags mit der Durchführung der Grenzziehung vor Ort gemäß den vorstehenden Bestimmungen beauftragt.
 
@@ -186,7 +186,7 @@ Die Interessen der Bewohner der von Frankreich abgetretenen Gebiete werden in al
 
 -->
 
-Die Zahl der in denselben befindlichen Deutschen Truppen wird 50,000 Mann nicht überschreiten. Se. Majestät der Kaiser wird geneigt sein, an die Stelle der in der theilweisen Besetzung des Französischen Gebietes bestehenden Terri torialgarantie eine finanzielle Garantie treten zu lassen, wenn dieselbe von der Französischen Regierung unter Bedingun gen angeboten wird, welche von Sr. Majestät dem Kaiser und König als für die Interessen Deutschlands ausreichend anerfannt werden. Die drei Milliarden, deren Zahlung verschoben sein wird, sollen vom Tage der Ratifikation der gegenwärtigen Uebereinkunft ab mit fünf Prozent verzinst werden.
+Die Zahl der in denselben befindlichen Deutschen Truppen wird 50,000 Mann nicht überschreiten. Se. Majestät der Kaiser wird geneigt sein, an die Stelle der in der theilweisen Besetzung des Französischen Gebietes bestehenden Territorialgarantie eine finanzielle Garantie treten zu lassen, wenn dieselbe von der Französischen Regierung unter Bedingun gen angeboten wird, welche von Sr. Majestät dem Kaiser und König als für die Interessen Deutschlands ausreichend anerfannt werden. Die drei Milliarden, deren Zahlung verschoben sein wird, sollen vom Tage der Ratifikation der gegenwärtigen Uebereinkunft ab mit fünf Prozent verzinst werden.
 
 Artikel IV.
 
@@ -231,7 +231,7 @@ Die Kriegsgefangenen, welche nicht bereits auf dem Wege der Auswechselung in Fre
 
 Artikel VII.
 
-Die Eröffnung der Verhandlungen über den auf Grundlage der gegenwärtigen Präliminarien abzuschließenden endgültigen Frieden wird in Brüssel unverzüglich nach Ratifikation der ersteren durch die Natio nalversammlung und durch Seine Majestät den Deutschen Kaiser stattfinden.
+Die Eröffnung der Verhandlungen über den auf Grundlage der gegenwärtigen Präliminarien abzuschließenden endgültigen Frieden wird in Brüssel unverzüglich nach Ratifikation der ersteren durch die Nationalversammlung und durch Seine Majestät den Deutschen Kaiser stattfinden.
 
 Artikel VIII.
 
@@ -330,9 +330,7 @@ Herr Augustin Thomas Joseph Pouyer-Quertier, Finanzminister der Französischen R
 
 Herr Marc Thomas Eugene von
 
-Goulard, Mitglied der Versammlung
-
-national,
+Goulard, Mitglied der Versammlungnational,
 
 im Namen der Französischen Republik, die sich darauf geeinigt hat, den vorläufigen Friedensvertrag vom 26. Februar des laufenden Jahres in der durch folgende Bestimmungen geänderten Fassung in einen endgültigen Friedensvertrag umzuwandeln,
 
@@ -356,7 +354,7 @@ Herr Jules Favre, Minister der auswärtigen Angelegenheiten der Französischen R
 
 Herr Augustin Thomas Joseph Pouyer Quertier, Finanzminister der Französischen Republik, und
 
-Herr Marc Thomas Eugen de Goulard, Mitglied der National. versammlung,
+Herr Marc Thomas Eugen de Goulard, Mitglied der Nationalversammlung,
 
 handelnd im Namen der Französischen Republik,
 
@@ -389,9 +387,9 @@ minar Vertrages vom 26. Februar beigefügten Karte eingetragen ist, soll als Bez
 
 Die Deutsche Regierung ist bereit, diesen Rayon dergestalt zu erweitern, daß derselbe umfaßt: die Kantons Belfort, Delle und Giromagny und den westlichen Theil des Kantons von vor Fontaine, westlich einer Linie von dem Punkte, wo der Rhein-Rhône-Kanal aus dem Kanton von Delle austritt, im Süden von Montreux. Château bis zur Nordgrenze des Kantons zwischen Bourg und Félon, wo diese Linie die Ostgrenze des Kantons von Giromagny erreicht.
 
-Die Deutsche Regierung wird indessen die vorerwähnten Gebietstheile nur unter der Bedingung abtreten, daß die Französische Republik ihrerseits in eine Grenzberichtigung längs den westlichen Grenzen der Kantone von Cattenom und Thion ville willigt, welche an Deutschland das Gebiet östlich einer Linte überläßt, die von der Grenze gegen Luxemburg zwischen Hussigny und Redingen ausgeht, die Dörfer Thil und Villerupt bei Frankreich läßt, sich zwischen Erronville und Aumek, zwischen Beuvillers und Boulange, zwischen Tricug und Lomeringen fortjent die alte Grenzlinie Gr zwischen Avril und Moyeuvre erreicht.
+Die Deutsche Regierung wird indessen die vorerwähnten Gebietstheile nur unter der Bedingung abtreten, daß die Französische Republik ihrerseits in eine Grenzberichtigung längs den westlichen Grenzen der Kantone von Cattenom und Thion ville willigt, welche an Deutschland das Gebiet östlich einer Linte überläßt, die von der Grenze gegen Luxemburg zwischen Hussigny und Redingen ausgeht, die Dörfer Thil und Villerupt bei Frankreich läßt, sich zwischen Erronville und Aumek, zwischen Beuvillers und Boulange, zwischen Tricug und Lomeringen fortjent die alte Grenzlinie zwischen Avril und Moyeuvre erreicht.
 
-Die internationale Kommission, deren im Artikel I. der Präliminarien erwähnt ist, wird sich sogleich nach der Auswech selung der Ratifikationen des gegenwärtigen Vertrages an Ort und Stelle be geben, um die ihr obliegenden Arbeiten auszuführen und die Linie der neuen Grenze gemäß der vorstehenden Bestimmungen zu ziehen.
+Die internationale Kommission, deren im Artikel I. der Präliminarien erwähnt ist, wird sich sogleich nach der Auswechselung der Ratifikationen des gegenwärtigen Vertrages an Ort und Stelle begeben, um die ihr obliegenden Arbeiten auszuführen und die Linie der neuen Grenze gemäß der vorstehenden Bestimmungen zu ziehen.
 
 ---
 
@@ -433,7 +431,7 @@ Artikel 4.
 
 Die Französische Regierung wird der Regierung des Deutschen Reiches innerhalb einer Frist von sechs Monaten, von der Auswechselung der Ratifikationen dieses Vertrages an gerechnet, übergeben:
 
-1) den Betrag der von den Departe ments, Gemeinden und öffentlichen
+1) den Betrag der von den Departements, Gemeinden und öffentlichen
 
 42*
 
