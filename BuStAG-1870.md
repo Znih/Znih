@@ -227,7 +227,7 @@ Hier folgt eine detaillierte Zusammenfassung auf Basis der von Ihnen erwähnten 
 
 #### **Besondere Erwähnung für Begriffe im BuStAG:**
 - Die Wortwahl "Unterthan" wurde durch "Angehöriger" ersetzt, was den Fortschritt symbolisierte.
-- Österreich-Ungarn sprach analog weiter von "Unterthanen", während **Frankreich bereits von "Staatsbürgern" sprach** (besonders im Frankfurter Frieden 1871). Der Wandel zur Begriffsnutzung *Bundesangehöriger* zeigte die Nähe zum föderativen Überbau.
+- Österreich-Ungarn sprach analog weiter von "Unterthanen", während **Frankreich bereits von "Staatsbürgern" sprach** (besonders im [Frankfurter Frieden 1871](https://github.com/Znih/Znih/blob/main/Friede-1871.md)). Der Wandel zur Begriffsnutzung *Bundesangehöriger* zeigte die Nähe zum föderativen Überbau.
 
 ---
 
