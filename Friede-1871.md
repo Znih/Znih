@@ -804,6 +804,8 @@ Zusätzliche Artikel. BGBl. 1871 Nr. 26 (Nr. 667) S. 234-244
 
 -234-
 
+<!--
+
 Zusätzliche Artikel.
 
 ARTIKEL 1
@@ -820,7 +822,7 @@ Abschnitt 2. Folgendes ist in dieser Konzession enthalten:
 
 4. Beträge, die der Eastern Railway Company als Subvention von Unternehmen oder Personen mit Wohnsitz in den abgetretenen Gebieten geschuldet werden.
 
----
+-->
 
 Zusatz - Artikel.
 
@@ -844,6 +846,8 @@ Artikel 1.
 
 -235-
 
+<!--
+
 Abschnitt 3. Schienenfahrzeuge sind von dieser Übertragung ausgenommen. Die deutsche Regierung übergibt der französischen Regierung sämtliche in ihrem Besitz befindlichen Schienenfahrzeuge und Zubehörteile.
 
 Abschnitt 4. Die französische Regierung verpflichtet sich, die abgetretenen Eisenbahnen und zugehörigen Anlagen vom Deutschen Reich vollständig von allen Rechten Dritter, insbesondere den Rechten der Anleihegläubiger, zu entbinden. Sie verpflichtet sich ferner, gegebenenfalls die Rechte der deutschen Regierung hinsichtlich etwaiger Ansprüche der Gläubiger der betreffenden Eisenbahnen gegen die deutsche Regierung zu übernehmen.
@@ -852,7 +856,7 @@ Abschnitt 5. Die französische Regierung übernimmt die Verantwortung für alle 
 
 § 6. Die deutsche Regierung zahlt der französischen Regierung für die Übertragung der in §§ 1 und 2 genannten Eigentumsrechte und als Gegenleistung für die von der französischen Regierung in § 4 eingegangene Verpflichtung den Betrag von dreihundertfünfundzwanzig Millionen (325.000.000) Franken.
 
----
+-->
 
 §. 3. Ausgeschlossen von dieser Abtretung ist das Betriebsmaterial. Die Deutsche Regierung wird den etwa in ihrem Besitz befindlichen Theil des Betriebsmaterials nebst Zubehör der Französischen Regierung zurückgeben.
 
@@ -870,13 +874,15 @@ Die Deutsche Regierung wird der Französischen Regierung auf deren Verlangen all
 
 -236-
 
+<!--
+
 Dieser Betrag wird von der in Artikel 7 festgelegten Kriegsentschädigung abgezogen. Da sich die Situation, die den zwischen der Ostbahngesellschaft und der Königlich Großherzoglichen Wilhelm-Luxemburgischen Eisenbahngesellschaft am 6. Juni 1857 und 21. Januar 1868 geschlossenen Abkommen sowie dem zwischen der Regierung des Großherzogtums Luxemburg und der Wilhelm-Luxemburgischen und der Französischen Ostbahngesellschaft am 5. Dezember 1868 geschlossenen Abkommen zugrunde lag, wesentlich geändert hat, sodass diese auf den durch die Bestimmungen in § 1 geschaffenen Sachverhalt nicht anwendbar sind, erklärt sich die deutsche Regierung bereit, die Rechte und Pflichten der Ostbahngesellschaft aus diesen Abkommen zu übernehmen.
 
 Für den Fall, dass die französische Regierung durch den Kauf der Konzession der Compagnie de l'Est oder durch eine Sondervereinbarung in die von diesem Unternehmen gemäß den vorgenannten Übereinkommen erworbenen Rechte eintritt, verpflichtet sie sich, diese Rechte innerhalb von sechs Wochen unentgeltlich an die deutsche Regierung abzutreten.
 
 Für den Fall, dass die genannte Subrogation nicht zustande kommt, wird die französische Regierung Konzessionen für Eisenbahnstrecken der Compagnie de l'Est, die sich auf französischem Gebiet befinden, nur unter der ausdrücklichen Bedingung erteilen, dass der Konzessionsnehmer keine Eisenbahnstrecken im Großherzogtum Luxemburg betreibt.
 
----
+-->
 
 Diese Summe wird von der im Artikel 7. festgesetzten Kriegsentschädigung in Abzug gebracht.
 
@@ -891,6 +897,8 @@ Für den Fall, daß dieser Eintritt in die Rechte der Ostbahngesellschaft nicht 
 ![Screenshot_20251228_162355~2.jpg](https://github.com/user-attachments/assets/e6298e8f-b1b5-4f54-a47c-0028eb5ec9ee) 237
 
 -237-
+
+<!--
 
 ARTIKEL 2.
 
@@ -911,7 +919,7 @@ Arnim.
 Pouyer-Quertier. E. de Goulard.
 
 
----
+-->
 
 Artikel 2.
 
@@ -935,6 +943,8 @@ E. de Goulard.
 
 -238-
 
+<!--
+
 Ausgefertigt zu Frankfurt am Main am 10. Mai 1871.
 
 Der Unterzeichnete hat die Verlesung des endgültigen Friedensvertrags mitverfolgt und festgestellt, dass dieser mit den zwischen ihnen getroffenen Vereinbarungen übereinstimmt.
@@ -951,7 +961,7 @@ Jules Favre
 
 Pouyer-Quertier. E. de Goulard.
 
----
+-->
 
 Geschehen zu Frankfurt a. M., den 10. Mai 1871.
 
@@ -966,6 +976,8 @@ Der unterzeichnete Kanzler des Deutschen Reichs erklärte, daß er es übernehme
 von Bismarck. Arnim.
 
 Jules Favre. Pouyer Quertier. E. de Goulard.
+
+
 
 Protokoll, betreffend den Beitritt Bayerns, Württembergs und Badens zu dem Friedens-Vertrage vom 10. Mai 1871. Vom 15. Mai 1871.
 
