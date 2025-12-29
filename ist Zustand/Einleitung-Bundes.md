@@ -33,6 +33,8 @@
 - **Art. III:** Die Bundesakte definiert den Umfang und die Grenzen der Wirksamkeit des Bundes, ähnlich einer Verfassung.  
 - **Art. IV:** Die Entwicklung und Erweiterung der Bundesakte ist der gemeinsamen Entscheidung aller Mitglieder vorbehalten.
 
+Art. XII–XIV der Schlussakte enthielten den Auftrag zur Schaffung von Rechtssicherheit, um in den Bundesstaaten durch Landständische Verfassungen den Unterthanen (lokalen) Schutz für ihre Rechte zu garantieren.
+
 ---
 
 Die Wiener Schlussakte stellte sicher, dass der Deutsche Bund auf einem stabilen Rechtsfundament aufgebaut blieb. Im Vergleich zu späteren Regelungen wie dem Versailler Vertrag von 1919 zeigt sie einen Ansatz eines biophilen Bündnisses, das Kooperation und gemeinsame Sicherheit in den Vordergrund stellte.
