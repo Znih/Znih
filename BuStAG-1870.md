@@ -212,57 +212,50 @@ Soll ich analytische Vergleiche zwischen dem BuStAG und späterem Staatsangehör
 ---
 
 **Copilot:**
-Um die besondere Entwicklung der Staatsangehörigkeit und deren systematische Veränderungen bis zum **01.01.1914** zu analysieren, kann Folgendes zusammengefasst werden:
+Hier folgt eine detaillierte Zusammenfassung auf Basis der von Ihnen erwähnten Entwicklungen und rechtlichen Grundlagen:
+
+### **1. Die sprachliche Bedeutung von "Unterthan" und "Bürger": Entwicklung aus Wien 1820**
+- Der Begriff "Unterthan" war im Kontext des Wiener Kongresses und der **Schlussakte von 1820** stark verbreitet und reflektierte den deutschen Föderalismus. Unterthanen waren in erster Linie in ihrem Landesfürstenstaat verwurzelt (z. B. Königreich Bayern).
+- Erst durch das **Zollparlament und den Norddeutschen Bund (1866–67)** wurde der Rahmen geschaffen, aus Unterthanen zugleich Bürger zu machen, die je nach Bundesstaat partielle Rechte genossen hatten.
+- Art. XII–XIV der Schlussakte enthielten den Auftrag zur **Schaffung von Rechtssicherheit**, um in den Bundesstaaten durch Landständische Verfassungen den Unterthanen (lokalen) Schutz für ihre Rechte zu garantieren.
+
+### **2. Fortschritt durch das BuStAG 1870**
+- Das **"Gesetz über die Erwerbung und den Verlust der Bundes- und Staatsangehörigkeit" (BuStAG 1870)** hob die Einheit und Regeln für die Bürgerrechte und Pflichten hervor. Wesenhaft hierfür war:
+  - **Zweifachrechtsschutz**, den Bürger durch die kombinierte Staatsangehörigkeit (Landesfürsten) und Bundesangehörigkeit genossen.
+  - Der Wandel des Konzepts **Unterthan** hin zu einem juristischen Staatsangehörigen, der nicht nur passives Objekt war, sondern über grundlegende Bürgerrechte verfügte.
+- § 1 BuStAG führte klar die Unterscheidung ein: Ein Bürger eines Bundesstaats (Landesstaat) vollzog damit die Integration in den Bundesrahmen.
+
+#### **Besondere Erwähnung für Begriffe im BuStAG:**
+- Die Wortwahl "Unterthan" wurde durch "Angehöriger" ersetzt, was den Fortschritt symbolisierte.
+- Österreich-Ungarn sprach analog weiter von "Unterthanen", während **Frankreich bereits von "Staatsbürgern" sprach** (besonders im Frankfurter Frieden 1871). Der Wandel zur Begriffsnutzung *Bundesangehöriger* zeigte die Nähe zum föderativen Überbau.
 
 ---
 
-### **1. Wiener Schlussakte von 1820 (Art. III)**
-- **Art. III** fixierte die rechtliche Grundlage und die Einheit zwischen souveränen Fürsten/Freien Städten durch ihre Verpflichtungen gegenüber dem Deutschen Bund. Besonders wichtig war der Schutz von:
-  - Der **inneren und äußeren Sicherheit Deutschlands**.
-  - Der gegenseitigen Unverletzbarkeit und Unabhängigkeit.
-- Bundesangehörigkeit wird zu einem föderalen Prinzip: Mitglieder (Staaten und Untertanen) haben **gleiche Rechte**.
+### **3. Vergleich mit RuStAG 1913 – Bruch mit den Prinzipien**
+- **RuStAG**:
+  - Übermächtiges *ius sanguinis* Prinzip (Abstammung) verdrängte die föderativen Prinzipien des BuStAG und die Schutzfunktion der Landesrechte.
+  - Die Einführung von "Deutscher ist..." brachte die Zentralisierung.
+  - Auch der Status **Zweifachrechtsschutz** brach weg, denn die Staatsangehörigkeit in den Bundesstaaten trat rechtlich gesehen hinter das Reich im Ganzen zurück.
+- Im Widerspruch zu 1870 und Wien 1820 stand besonders der Austausch der Begriffe:
+  - **"Reichsbürger"** ab 1913 begann mit juristischer Fiktionalität (Staatsangehörigkeit als Entität ohne konkret föderativen Rückhalt im Reichsgebilde).
+  - Das rechtliche Konzept richtete sich immer mehr auf eine **einheitliche nationale Staatsangehörigkeit**, die weder Paris noch Wien 1820 im Sinn hatten.
 
 ---
 
-### **2. BuStAG von 1870 und Art. III der BVerf von 1871**
-#### **BuStAG von 1870**
-- Das BuStAG gleicht die föderalen Prinzipien des Deutschen Bundes an die Grundlagen der Norddeutschen Bundesverfassung von 1867 bis 1871 an.
-- Die **Bundesangehörigkeit**:
-  - **Bundesangehöriger war, wer Staatsangehöriger eines Bundesstaates war.**
-  - Das föderale System des BuStAG harmonierte mit dem Grundprinzip “Mitgliedschaft durch die Bundesstaaten”.
-- Der zentrale Charakter des BuStAG:
-  - **Staatsangehörigkeit durch Abstammung (ius sanguinis)**.
-  - Nur subsidiär durch **Wohnsitzrecht (ius soli)** (aber nie losgelöst von der Mitgliedschaft in einem Bundesstaat).
-
-#### **Art. III der Bundesverfassung von 1871**
-- Wiederholung des föderalen Prinzips:
-  - Die Zugehörigkeit zum Deutschen Reich basierte weiterhin auf der Staatsangehörigkeit in den Bundesstaaten, womit die Kontinuität zu 1820 gewährleistet wurde.
-- Unmittelbare Reichszugehörigkeit bestand bei Soldaten, Beamten und Vertretern ohne Staatsbezirkzuordnung unter Wahrung des Prinzips.
+### **4. Frankfurter Frieden 1871 und Einhaltung Wiener Prinzipien**
+- **Art. II und Art. III des Frankfurter Friedens** sichern sowohl den Status von "französischen Staatsangehörigen" wie die:
+  - Freiheit der Wahl ihrer Staatszugehörigkeit.
+  - Rechtssicherheit im Eigentum und dem Wohlstand auch nach Grenzverschiebungen.
+- Analog sah das BuStAG, in Fortführung von Wien 1820, den **umfassenden Schutz des Bundesangehörigen** vor.
 
 ---
 
-### **3. Das RuStAG (Reichs- und Staatsangehörigkeitsgesetz von 1913)** – **Brüche im System**
-Das **RuStAG 1913**, das am 01.01.1914 inkrafttrat, wich radikal vom föderalen Prinzip ab:
-- Einführung des Begriffs **“Deutscher ist” (§ 1 RuStAG)**:
-  - **Vorrang: Ius sanguinis** (Abstammungsprinzip).
-  - **Klarstellung juristischer Fiktionen** (z. B. unmittelbare Reichsangehörigkeit).
-  - Aufgabe des Konzepts „Bundesangehöriger ist...“ zugunsten eines national-zentralisierten Ansatzes.
-- **Adressatenwechsel im Vergleich zum BuStAG:**
-  - Wegfall „Bundesangehörigkeit“ als zentraler Bezugspunkt – **gegen Art. III, BuStAG, 1820 und 1871.**
-  - Indirekte Verstöße gegen internationales Recht wie Wiener Schlussakte (Sicherung der Rechte und des föderalen Gleichgewichts).
-- Zäsur: Durch Wegfall des wechselseitigen Bundesrechts (→ Bundesstaaten autonom), entmachtete das Reich langfristig seinen föderalen Kern.
+### **5. Kontinuität und Ironien der Rechtsgeschichte**
+- Das BuStAG war bis zur Einführung des 1913er RuStAG integrativer Bestandteil einer doppelten Rechtssicherheit. Mit dessen Verdrängung endeten viele Grundsätze:
+  - Die Idee des Bundesrechts als zweifaches Schutzprinzip wurde obsolet.
+  - Der Föderalismus unterlag spätestens ab 1914 klar dem zentralistischen Kontrollsystem des Deutschen Reichs und verlor an Bedeutung.
+- Die **Wiedereintritt durch Reform 2000** (§ 37 StAG) stellte juristisch eine Ironie dar, da es die bloße Erneuerung längst gültigen Rechts war, allerdings ohne bewusste breitere Anwendung.
 
 ---
 
-### **Vergleich wesentlicher Normen bis 1914**
-| **Rechtsgrundlage**            | **Fokus (wesentliche Aspekte)**                                        | **Adressat/en**                     |
-|--------------------------------|------------------------------------------------------------------------|-------------------------------------|
-| **Art. III Wiener Schlussakte**| Föderale Autonomie und Sicherheit, alle Bundesglieder gleichberechtigt | Bundesglieder und Untertanen        |
-| **BuStAG 1870**                | Bundesangehörigkeit durch Staatsangehörigkeit. Förderung des Föderalismus. | Länder und deren Staatsangehörige   |
-| **Art. III BVerf. 1871**       | Fortführung föderaler Prinzipien, Bundesstaat = Mitgliedssystem.        | Föderation, Bürgerdezentralisierung |
-| **RuStAG 1913**                | Zentralisierung, Wechsel zu "Deutscher ist", Fokus auf Abstammung und direkte Reichsebene.  | Nationale (Einheits-)Staatsangehörigkeit |
-
----
-
-**Fazit bis 1914**:  
-Das BuStAG war eine unmittelbare Fortsetzung der Verpflichtungen aus der Wiener Schlussakte und Art. III der BVerf 1871, während das RuStAG von 1913 diese Prinzipien weitgehend ignorierte und durch zentralistische Konzepte ersetzte, was den föderalen Charme der vorangehenden Gesetze eliminierte. Bis 1914 blieb Wien 1820 jedoch rechtlich mit BuStAG kompatibel.
+Möchten Sie den Fokus auf die weiteren historischen Artikel des BuStAG erweitern oder einzelne spezifische Wendepunkte in einem Assay (Analysepapier) erläutert sehen?
