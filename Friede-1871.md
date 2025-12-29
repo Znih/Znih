@@ -1061,7 +1061,11 @@ Zu Urkund dessen ist dieses Protokoll nach erfolgter Vorlesung und Ge nehmigung 
 
 Geschehen Frankfurt am Main, den 20. Mai 1871.
 
+<!--
+
 Ausgefertigt zu Frankfurt am Main am 20. Mai 1871.
+
+-->
 
 Die Unterzeichneten,
 
@@ -1079,6 +1083,8 @@ das Mitglied der Französischen National-Versammlung Marc Thomas Eugène de Goul
 
 andererseits,
 
+<!--
+
 Der Unterzeichner,
 
 Herr Jules Favre, Außenminister der Französischen Republik,
@@ -1095,7 +1101,7 @@ Fürst Bismarck, Kanzler des Heiligen Römischen Reiches,
 
 Graf Harry von Arnim, außerordentlicher Gesandter und bevollmächtigter Minister Seiner Majestät des Kaisers von Deutschland beim Heiligen Stuhl,
 
----
+-->
 
 ![Screenshot_20251228_162420~2.jpg](https://github.com/user-attachments/assets/16d9ee08-8a18-4cd8-b41d-229834f5595e) 241
 
