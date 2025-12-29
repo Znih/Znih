@@ -1155,6 +1155,40 @@ Arnim. (L. S.)
 
 ![Screenshot_20251228_162430~2.jpg](https://github.com/user-attachments/assets/969062e2-d9f5-449f-bc14-2aea7c7db47d) 243
 
+-243-
+
+(Uebersetzung.)
+
+Die Unterzeichneten haben Folgendes vereinbart und beschlossen:
+
+Gemäß Artikel 7 des endgültigen Friedensvertrags zwischen dem Deutschen Kaiserreich und der Französischen Republik vom 10. Mai erfolgt die erste Zahlung von fünfhundert Millionen innerhalb von dreißig Tagen nach der Wiederherstellung der Autorität der französischen Regierung in der Stadt Paris.
+
+Die Zahlungsmethode wird im selben Artikel angegeben.
+
+Die Unterzeichneten haben jedoch vereinbart, dass für diesen einen Anlass die festgelegten Zahlungsbedingungen dahingehend geändert werden, dass 125 Millionen Francs als Zahlung in Banknoten der Banque de France unter folgenden Bedingungen akzeptiert werden:
+
+1. Vierzig Millionen werden bis zum 1. Juni dieses Jahres gezahlt, weitere vierzig Millionen bis zum 8. Juni dieses Jahres, die letzten fünfundvierzig Millionen Franken bis zum 15. Juni dieses Jahres;
+
+2. Der größtmögliche Teil jeder Zahlung ist in Banknoten im Wert von einhundertfünfzig oder zwanzig Franken zu leisten; die Zahlungen sind in Straßburg, Metz oder Mulhouse zu leisten.
+
+Eine Summe von 125 Millionen, als Teil der zweiten Zahlung von einer Milliarde gemäß Artikel 7 des endgültigen Friedensvertrags vom 10. Mai, muss innerhalb von sechzig Tagen nach dem für die Zahlung der ersten halben Milliarde festgelegten Datum gezahlt werden.
+
+Die Unterzeichneten sind übereingekommen und haben beschlossen, wie folgt:
+
+Nach Artikel 7. des endgültigen Friedensvertrages zwischen dem Deutschen Reich und der Französischen Republik vom 10. Mai d. J. soll die erste Zahlung von fünfhundert Millionen innerhalb der auf die Wiederherstellung der Autorität der Französischen Regierung in der Stadt Paris folgenden dreißig Tage stattfinden.
+
+Die Art der Zahlung ist in demselben Artikel festgestellt.
+
+Die Unterzeichneten sind indessen übereingekommen, daß für dieses eine Mal die für die Zahlung vereinbarten Bedingungen dahin abgeändert werden sollen, daß 125 Millionen Franks in Noten der Bank von Frankreich in Zahlung ange. nommen werden unter folgenden Bedin gungen:
+
+1) vierzig Millionen werden bis zum nächsten 1. Juni bezahlt, weitere vierzig Millionen bis zum nächsten 8. Juni, die letzten fünfundvierzig Millionen bis zum nächsten 15. Juni;
+
+2) der größtmögliche Theil jeder Zah. lung erfolgt in Banknoten von Einhundert, funfzig oder zwanzig Franks; die Zahlungen werden in Straßburg, Mez oder Mühlhausen geleistet.
+
+Eine Summe von 125 Millionen auf Abschlag der zweiten, im Artikel 7. des end gültigen Friedensvertrages vom 10. Mai d. J. festgesetzten Zahlung Einer Milliarde soll innerhalb der auf den Zahlungstermin der ersten halben Milliarde folgenden sechszig Tage gezahlt werden. Diese Zah.
+
+---
+
 ![Screenshot_20251228_162436~2.jpg](https://github.com/user-attachments/assets/cbc5414c-d46c-45c4-bf3b-f2dc2cd1445c) 244
 
 https://github.com/Znih/Znih/discussions/16#discussioncomment-15357251
