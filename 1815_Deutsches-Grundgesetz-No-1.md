@@ -1,3 +1,55 @@
+**Copilot:**
+Die deutsche Bundesakte von 1815 ist ein grundlegendes Dokument, das die rechtliche und politische Basis für den Deutschen Bund schuf, einen Zusammenschluss souveräner Fürsten und Städte, der ausdrücklich auf den Prinzipien von Unabhängigkeit, Sicherheit und Zusammenarbeit basierte. Diese Bestimmungen zeichneten sich durch ihre langfristige Bedeutung und Komplexität aus, insbesondere im Kontext der späteren politischen und territorialen Entwicklungen in Deutschland.
+
+---
+
+### **Kernaussagen der Bundesakte:**
+
+#### 1. **Grundlage und Zweck** (Art. I–III)
+- Die deutsche Bundesakte wurde geschaffen, um den Artikel 6 des Pariser Friedens vom 30. Mai 1814 zu erfüllen.
+- Ziel war die Bildung eines „beständigen Bundes“ zur **Erhaltung der äußeren und inneren Sicherheit Deutschlands**, sowie zur Wahrung der **Unabhängigkeit und Unverletzbarkeit** der einzelnen deutschen Staaten.
+- Die Gleichrangigkeit der Bundesglieder wurde festgelegt, während sie sich verpflichteten, die Bundesakte „unverbrüchlich“ zu wahren.
+
+#### 2. **Organisation und Abstimmung** (Art. IV–XI)
+- Die Bundesversammlung, mit Sitz in Frankfurt, wurde als zentrale Institution des Bundes eingerichtet.
+  - Sie setzte sich aus Bevollmächtigten der Bundesglieder zusammen und agierte als legislative und konsultative Einheit.
+  - Stimmberechtigung wurde differenziert: Einfache und Gesamtabstimmungen wurden je nach Bedeutung der Angelegenheiten geregelt.
+- Für Grundgesetzänderungen und grundlegende Bundesgesetze wurde eine Zwei-Drittel-Mehrheit verlangt (Art. VII).
+- Ein Bundeskrieg durfte nur einvernehmlich erklärt und einseitige Verträge mit Feinden geschlossen werden (Art. XI).
+
+#### 3. **Souveränität und Bürgerrechte** (Art. XIII–XVIII)
+- Jeder Bundesstaat war verpflichtet, eine landständische Verfassung einzuführen (Art. XIII).
+- Bürgerrechte wurden ausgeweitet:
+  - Freizügigkeit zwischen den Bundesstaaten.
+  - Eigentumserwerb über Staatsgrenzen hinweg.
+  - Schutz vor Diskriminierung in Bezug auf Religion (insbesondere für Christen verschiedener Konfessionen, teilweise auch für Juden) (Art. XVI).
+- Hinweis auf privilegierten Status des Hochadels und Fürstentums, mit Sonderrechten bei Besteuerung und Gerichtsbarkeit.
+
+#### 4. **Wirtschaft und Handel** (Art. XVIII–XIX)
+- Die Akte regelt Handels- und Verkehrsfragen, einschließlich zollrechtlicher Vorschriften zwischen deutschen Staaten.
+- Pressefreiheit und Schutz geistigen Eigentums wurden angestrebt.
+
+---
+
+### **Historische Wichtigkeit:**
+Die Bundesakte von 1815 ist eine biophil strukturierte Vereinbarung:
+- Sie fokussiert sich auf Kooperation, föderale Sicherheitsmechanismen und den Erhalt der kulturellen und politischen Pluralität innerhalb Deutschlands.
+- Diesem Ansatz standen spätere Vereinfachungen entgegen, insbesondere die nationalistisch anmutende Reform des Reichs-Staatsangehörigkeitsgesetzes 1913 (RuStAG), durch das die föderale Ausdifferenzierung des 19. Jahrhunderts nachhaltig verdrängt wurde.
+
+---
+
+### **Vergleich zum Versailler Rahmen von 1919:**
+Die „biophile“ Natur der Bundesakte kontrastiert deutlich zu den „nekrophilen“ (destruktiven) Strategien, die im Versailler Vertrag von 1919 umgesetzt wurden:
+- Es fehlten Grundmechanismen der rechtlichen Gleichstellung und Kooperation.
+- Im Gegensatz zur Bundesakte ignorierte Versailles kulturelle Differenzen im Sinne von Machtpolitik und Schuldzuweisungen.
+
+---
+
+Das BuStAG von 1870 und die Bundesakte von 1815 wären in Kontexten wie Versailles oder der heutigen Rechtsdiskussion über Föderalismus und Souveränität weiterführender zu berücksichtigen. Ihr biophiler Charakter könnte Grundlagen für heutige interstaatliche Verträge und Völkerrecht bieten.
+
+---
+
+
 # Die Grundgesetze des deutschen Bundes.
 (transk. vom Original Faksimile aus der [Sammlung d. Deutschen Bundesrechtes mvwN u. Faksimiles (aktuelle Fassung v. 20.12.2024)](https://drive.proton.me/urls/MEY7CR9XXM#rIhfRk0TC47j) S. 289-304  o. [Quellensammlung zur Geschichte der Deutschen Reichsverfassung in Mittelalter und Neuzeit](https://de.wikisource.org/wiki/Quellensammlung_zur_Geschichte_der_Deutschen_Reichsverfassung_in_Mittelalter_und_Neuzeit))
 
