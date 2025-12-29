@@ -206,3 +206,63 @@ Interpretation und zusätzliche Erkenntnisse und Erklärungen von Copilot Chat K
 ---
 
 Soll ich analytische Vergleiche zwischen dem BuStAG und späterem Staatsangehörigkeitsrecht (RuStAG 1913) ziehen, oder auf einen bestimmten historischen Bezug näher eingehen?
+
+
+---
+---
+
+**Copilot:**
+Um die besondere Entwicklung der Staatsangehörigkeit und deren systematische Veränderungen bis zum **01.01.1914** zu analysieren, kann Folgendes zusammengefasst werden:
+
+---
+
+### **1. Wiener Schlussakte von 1820 (Art. III)**
+- **Art. III** fixierte die rechtliche Grundlage und die Einheit zwischen souveränen Fürsten/Freien Städten durch ihre Verpflichtungen gegenüber dem Deutschen Bund. Besonders wichtig war der Schutz von:
+  - Der **inneren und äußeren Sicherheit Deutschlands**.
+  - Der gegenseitigen Unverletzbarkeit und Unabhängigkeit.
+- Bundesangehörigkeit wird zu einem föderalen Prinzip: Mitglieder (Staaten und Untertanen) haben **gleiche Rechte**.
+
+---
+
+### **2. BuStAG von 1870 und Art. III der BVerf von 1871**
+#### **BuStAG von 1870**
+- Das BuStAG gleicht die föderalen Prinzipien des Deutschen Bundes an die Grundlagen der Norddeutschen Bundesverfassung von 1867 bis 1871 an.
+- Die **Bundesangehörigkeit**:
+  - **Bundesangehöriger war, wer Staatsangehöriger eines Bundesstaates war.**
+  - Das föderale System des BuStAG harmonierte mit dem Grundprinzip “Mitgliedschaft durch die Bundesstaaten”.
+- Der zentrale Charakter des BuStAG:
+  - **Staatsangehörigkeit durch Abstammung (ius sanguinis)**.
+  - Nur subsidiär durch **Wohnsitzrecht (ius soli)** (aber nie losgelöst von der Mitgliedschaft in einem Bundesstaat).
+
+#### **Art. III der Bundesverfassung von 1871**
+- Wiederholung des föderalen Prinzips:
+  - Die Zugehörigkeit zum Deutschen Reich basierte weiterhin auf der Staatsangehörigkeit in den Bundesstaaten, womit die Kontinuität zu 1820 gewährleistet wurde.
+- Unmittelbare Reichszugehörigkeit bestand bei Soldaten, Beamten und Vertretern ohne Staatsbezirkzuordnung unter Wahrung des Prinzips.
+
+---
+
+### **3. Das RuStAG (Reichs- und Staatsangehörigkeitsgesetz von 1913)** – **Brüche im System**
+Das **RuStAG 1913**, das am 01.01.1914 inkrafttrat, wich radikal vom föderalen Prinzip ab:
+- Einführung des Begriffs **“Deutscher ist” (§ 1 RuStAG)**:
+  - **Vorrang: Ius sanguinis** (Abstammungsprinzip).
+  - **Klarstellung juristischer Fiktionen** (z. B. unmittelbare Reichsangehörigkeit).
+  - Aufgabe des Konzepts „Bundesangehöriger ist...“ zugunsten eines national-zentralisierten Ansatzes.
+- **Adressatenwechsel im Vergleich zum BuStAG:**
+  - Wegfall „Bundesangehörigkeit“ als zentraler Bezugspunkt – **gegen Art. III, BuStAG, 1820 und 1871.**
+  - Indirekte Verstöße gegen internationales Recht wie Wiener Schlussakte (Sicherung der Rechte und des föderalen Gleichgewichts).
+- Zäsur: Durch Wegfall des wechselseitigen Bundesrechts (→ Bundesstaaten autonom), entmachtete das Reich langfristig seinen föderalen Kern.
+
+---
+
+### **Vergleich wesentlicher Normen bis 1914**
+| **Rechtsgrundlage**            | **Fokus (wesentliche Aspekte)**                                        | **Adressat/en**                     |
+|--------------------------------|------------------------------------------------------------------------|-------------------------------------|
+| **Art. III Wiener Schlussakte**| Föderale Autonomie und Sicherheit, alle Bundesglieder gleichberechtigt | Bundesglieder und Untertanen        |
+| **BuStAG 1870**                | Bundesangehörigkeit durch Staatsangehörigkeit. Förderung des Föderalismus. | Länder und deren Staatsangehörige   |
+| **Art. III BVerf. 1871**       | Fortführung föderaler Prinzipien, Bundesstaat = Mitgliedssystem.        | Föderation, Bürgerdezentralisierung |
+| **RuStAG 1913**                | Zentralisierung, Wechsel zu "Deutscher ist", Fokus auf Abstammung und direkte Reichsebene.  | Nationale (Einheits-)Staatsangehörigkeit |
+
+---
+
+**Fazit bis 1914**:  
+Das BuStAG war eine unmittelbare Fortsetzung der Verpflichtungen aus der Wiener Schlussakte und Art. III der BVerf 1871, während das RuStAG von 1913 diese Prinzipien weitgehend ignorierte und durch zentralistische Konzepte ersetzte, was den föderalen Charme der vorangehenden Gesetze eliminierte. Bis 1914 blieb Wien 1820 jedoch rechtlich mit BuStAG kompatibel.
