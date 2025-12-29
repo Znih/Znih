@@ -105,6 +105,54 @@ Folge dem Geld und den Gesetzestexten!
 
 ![Screenshot_20251229_193554~2.jpg](https://github.com/user-attachments/assets/c3bd8332-55bf-459c-a8f4-e4d78d334720)
 
+
+
+-583-
+
+Reichs-Gesezblatt. Jahrgang 1913. Nr. 46.
+
+Inhalt: Reichs und Staatsangehörigkeitsgeses. S. 583. Geses zur Abänderung des Reichs. militärgesezes sowie des Gesezes, betreffend Änderungen der Wehrpflicht, vom 11. Jebruar 1888. Geses, betreffend die Änderung zweier Reichstagswahlkreise. S. 597. . 593.
+
+(Nr. 4263.) Reichs und Staatsangehörigkeitsgeses.
+
+Vom 22. Juli 1913.
+
+
+Wir Wilhelm, von Gottes Gnaden Deutscher Kaiser, König von Preußen c.
+
+verordnen im Namen des Reichs, nach erfolgter Zustimmung des Bundesrats und des Reichstags, was folgt:
+
+
+
+
+Allgemeine Vorschriften.
+
+§ 1.
+
+Deutscher ist, wer die Staatsangehörigkeit in einem Bundesstaat (§§ 3 bis 32) oder die unmittelbare Reichsangehörigkeit (§§ 33 bis 35) besitzt.
+
+
+Elsaß-Lothringen gilt im Sinne dieses Gesezes als Bundesstaat. Die Schutzgebiete gelten im Sinne dieses Gesezes als Inland.
+
+
+Zweiter Abschnitt.
+
+Staatsangehörigkeit in einem Bundesstaate.
+
+§ 3.
+
+Die Staatsangehörigkeit in einem Bundesstaate wird erworben
+
+1. durch Geburt (§ 4),
+
+2. durch Legitimation (§ 5),
+
+Reichs Gesetzbl. 1913.
+
+93
+
+Ausgegeben zu Berlin den 31. Juli 1913.
+
 ![Screenshot_20251229_193629~2.jpg](https://github.com/user-attachments/assets/fb325360-bdea-42fb-9167-b355677f2d5e)
 
 ![Screenshot_20251229_193639~2.jpg](https://github.com/user-attachments/assets/6b0f1a33-367d-4472-b5f1-7fe0fd88db94)
