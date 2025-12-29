@@ -217,7 +217,7 @@ Hier folgt eine detaillierte Zusammenfassung auf Basis der von Ihnen erwähnten 
 ### **1. Die sprachliche Bedeutung von "Unterthan" und "Bürger": Entwicklung aus Wien 1820**
 - Der Begriff "Unterthan" war im Kontext des Wiener Kongresses und der **Schlussakte von 1820** stark verbreitet und reflektierte den deutschen Föderalismus. Unterthanen waren in erster Linie in ihrem Landesfürstenstaat verwurzelt (z. B. Königreich Bayern).
 - Erst durch das **Zollparlament und den Norddeutschen Bund (1866–67)** wurde der Rahmen geschaffen, aus Unterthanen zugleich Bürger zu machen, die je nach Bundesstaat partielle Rechte genossen hatten.
-- Art. XII–XIV der Schlussakte enthielten den Auftrag zur **Schaffung von Rechtssicherheit**, um in den Bundesstaaten durch Landständische Verfassungen den Unterthanen (lokalen) Schutz für ihre Rechte zu garantieren.
+- Art. XII–XIV der [Schlussakte](https://github.com/Znih/Znih/blob/main/1820_Deutsches-Grundgesetz-No-2.md) enthielten den Auftrag zur **Schaffung von Rechtssicherheit**, um in den Bundesstaaten durch Landständische Verfassungen den Unterthanen (lokalen) Schutz für ihre Rechte zu garantieren.
 
 ### **2. Fortschritt durch das BuStAG 1870**
 - Das **"Gesetz über die Erwerbung und den Verlust der Bundes- und Staatsangehörigkeit" (BuStAG 1870)** hob die Einheit und Regeln für die Bürgerrechte und Pflichten hervor. Wesenhaft hierfür war:
