@@ -1185,10 +1185,36 @@ Die Unterzeichneten sind indessen übereingekommen, daß für dieses eine Mal di
 
 2) der größtmögliche Theil jeder Zah. lung erfolgt in Banknoten von Einhundert, funfzig oder zwanzig Franks; die Zahlungen werden in Straßburg, Mez oder Mühlhausen geleistet.
 
-Eine Summe von 125 Millionen auf Abschlag der zweiten, im Artikel 7. des end gültigen Friedensvertrages vom 10. Mai d. J. festgesetzten Zahlung Einer Milliarde soll innerhalb der auf den Zahlungstermin der ersten halben Milliarde folgenden sechszig Tage gezahlt werden. Diese Zah.
+Eine Summe von 125 Millionen auf Abschlag der zweiten, im Artikel 7. des end gültigen Friedensvertrages vom 10. Mai d. J. festgesetzten Zahlung Einer Milliarde soll innerhalb der auf den Zahlungstermin der ersten halben Milliarde folgenden sechszig Tage gezahlt werden. Diese Zah-
 
 ---
 
 ![Screenshot_20251228_162436~2.jpg](https://github.com/user-attachments/assets/cbc5414c-d46c-45c4-bf3b-f2dc2cd1445c) 244
+
+-244-
+
+<!--
+
+Diese Zahlung von 125 Millionen erfolgt zu den in Artikel 7 festgelegten Beträgen, sofern keine andere Vereinbarung getroffen wurde.
+
+Ausgefertigt in zweifacher Ausfertigung zu Frankfurt am 21. Mai 1871.
+
+v. Bismarck. Jules Favre.
+
+Pouyer-Quertier.
+
+-->
+
+lung von 125 Millionen wird in den im genannten Artikel 7. vorgeschriebenen Valuten erfolgen, sofern nicht ein ande res Abkommen stattgefunden haben wird.
+
+Geschehen, in doppelter Ausfertigung, zu Frankfurt, am 21. Mai 1871.
+
+v. Bismarck. Jules Favre.
+
+Pouyer Quertier
+
+(Nr. 658.)
+
+---
 
 https://github.com/Znih/Znih/discussions/16#discussioncomment-15357251
