@@ -99,7 +99,7 @@ Soll ich dieses Bruchsystem detaillierter im Vergleich zu anderen europäischen 
 
 ---
 
-zu den Fakten
+zu den Fakten aus den Akten 
 
 Folge dem Geld und den Gesetzestexten!
 
