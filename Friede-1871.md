@@ -95,9 +95,9 @@ Die soeben beschriebene Grenze ist auf zwei identischen Exemplaren der Karte des
 
 -->
 
-westlichen Grenze dieses Kantons, schließt die Gemeinden Saales, Bourg-Bruche, Colroy la Roche, Plaine, Ranrupt, Saulgures und St. Blaise-la-Roche im Kanton Saales ein und fällt dann mit der westlichen Grenze der Departements Nieder und Oberrhein bis zum Kanton Belfort zusammen. Sie verläßt dessen Südgrenze unweit von Vourvenans, durchschneidet den Kanton Delle an den Südgrenzen der Gemeinden Bourogne und Froide Fontaine und erreicht die Schweizergrenze, indem sie längs der Ost. grenzen der Gemeinden Jonchery und Delle hinläuft.
+westlichen Grenze dieses Kantons, schließt die Gemeinden Saales, Bourg-Bruche, Colroy la Roche, Plaine, Ranrupt, Saulgures und St. Blaise-la-Roche im Kanton Saales ein und fällt dann mit der westlichen Grenze der Departements Nieder und Oberrhein bis zum Kanton Belfort zusammen. Sie verläßt dessen Südgrenze unweit von Vourvenans, durchschneidet den Kanton Delle an den Südgrenzen der Gemeinden Bourogne und Froide Fontaine und erreicht die Schweizergrenze, indem sie längs der Ostgrenzen der Gemeinden Jonchery und Delle hinläuft.
 
-Das Deutsche Reich wird diese Gebiete für immer mit vollem Souverainetäts und Eigenthumsrechte besißen. Eine internationale Kommission, welche beider. seits aus der gleichen Zahl von Vertretern der Hohen vertragenden Theile gebildet wird, soll unmittelbar nach dem Austausche der Ratifikationen des gegenwärtigen Vertrages beauftragt werden, an Ort und Stelle die neue Grenzlinie in Gemäßheit der vorstehenden Verabredungen festzustellen.
+Das Deutsche Reich wird diese Gebiete für immer mit vollem Souverainetäts und Eigenthumsrechte besißen. Eine internationale Kommission, welche beiderseits aus der gleichen Zahl von Vertretern der Hohen vertragenden Theile gebildet wird, soll unmittelbar nach dem Austausche der Ratifikationen des gegenwärtigen Vertrages beauftragt werden, an Ort und Stelle die neue Grenzlinie in Gemäßheit der vorstehenden Verabredungen festzustellen.
 
 Diese Kommission wird die Vertheilung des Grundbesikes und der Kapitalien leiten, welche bis jetzt Distrikten oder Gemeinden, die durch die neue Grenze getrennt werden, gemeinschaftlich angehört haben; im Falle einer Meinungsverschiedenheit über die Grenze und die Ausführungs-Bestimmungen werden die Kommissionsmitglieder die Entscheidung ihrer Regierungen einholen.
 
@@ -162,7 +162,7 @@ Nach der Zahlung von zwei Milliarden wird die deutsche Besatzung nur noch die D�
 
 et Loire und Yonne vollständig, sowie die Departements Seine inferieure, Eure, Seine et Dise, Seine et Marne, Aube und Cote d'or bis zum linken Ufer der Seine räumen. Die Französischen Truppen werden sich gleichzeitig hinter die Loire zurückziehen, welche sie vor Unterzeichnung des endgültigen Friedensvertrages nicht überschreiten dürfen. Ausgenommen von dieser Bestimmung sind die Garnison von Paris, deren Stärke die Zahl von 40,000 Mann nicht überschreiten darf, und die zur Sicherheit der festen Plätze unerläßlichen Garnisonen.
 
-Die Räumung der zwischen dem rechten Ufer der Seine und der Ostgrenze gelegenen Departements durch die Deutschen Truppen soll nach der Ratifikation des endgültigen Friedensvertrages und der Zahlung der ersten halben Milliarde der im Artikel II. verabredeten Kontribu tion allmälig erfolgen, indem sie mit den Paris am nächsten gelegenen Departements beginnt, und je nachdem die Zahlungen der Kontribution bewirkt sein werden, fortgesest wird. Nach der ersten Zahlung einer halben Milliarde wird diese Räumung in folgenden Departements stattfinden: Somme, Dise und den Theilen der De partements Seine inferieure, Seine et Dise, Seine et Marne, welche auf dem rechten Seine Ufer gelegen sind, sowie in dem Theile des Departements Seine und in den Forts auf dem rechten Seine-Ufer.
+Die Räumung der zwischen dem rechten Ufer der Seine und der Ostgrenze gelegenen Departements durch die Deutschen Truppen soll nach der Ratifikation des endgültigen Friedensvertrages und der Zahlung der ersten halben Milliarde der im Artikel II. verabredeten Kontribution allmälig erfolgen, indem sie mit den Paris am nächsten gelegenen Departements beginnt, und je nachdem die Zahlungen der Kontribution bewirkt sein werden, fortgesest wird. Nach der ersten Zahlung einer halben Milliarde wird diese Räumung in folgenden Departements stattfinden: Somme, Dise und den Theilen der Departements Seine inferieure, Seine et Dise, Seine et Marne, welche auf dem rechten Seine Ufer gelegen sind, sowie in dem Theile des Departements Seine und in den Forts auf dem rechten Seine-Ufer.
 
 Nach der Zahlung von zwei Milliarden wird die Deutsche Besetzung nur noch die Departements Marne, Ardennes, Haute Marne, Meuse, Vosges, Meurthe, sowie die Festung Belfort mit ihrem Gebiete umfassen, die als Pfand für die rückständigen drei Milliarden dienen sollen.
 
@@ -237,7 +237,7 @@ Artikel VIII.
 
 Nach Abschluß und Ratifikation des endgültigen Friedensvertrages wird die Verwaltung der Departements, welche noch von Deutschen Truppen besest bleiben sollen, den Französischen Behörden wieder übergeben werden. Doch sollen diese lekteren gehalten sein, den Befehlen, welche die Befehlshaber der Deutschen Truppen im Interesse der Sicherheit, des Unterhalts und der Vertheilung ihrer Truppen erlassen zu müssen glauben, Folge zu leisten.
 
-Die Erhebung der Steuern in den besetzten Departements wird nach Rati fikation des gegenwärtigen Vertrages für
+Die Erhebung der Steuern in den besetzten Departements wird nach Ratifikation des gegenwärtigen Vertrages für
 
 ---
 
@@ -467,11 +467,11 @@ Gemeinden, die entweder der Reformierten Kirche oder der Augsburger Konfession a
 
 Anstalten der abgetretenen Gebiete deponirten Summen;
 
-2) den Betrag der Anwerbungs- und Stellvertretungs Prämien, welche den aus den abgetretenen Gebieten herstammenden Soldaten und See. leuten gehören, die sich für die Deutsche Nationalität entschieden haben;
+2) den Betrag der Anwerbungs- und Stellvertretungs Prämien, welche den aus den abgetretenen Gebieten herstammenden Soldaten und Seeleuten gehören, die sich für die Deutsche Nationalität entschieden haben;
 
-3) den Betrag der Kautionen der Rech. nungsbeamten des Staates;
+3) den Betrag der Kautionen der Rechnungsbeamten des Staates;
 
-4) den Betrag der für gerichtliche Kon signationen in Folge von Maß regeln der Verwaltungs- oder Justiz behörden in den abgetretenen Ge bieten eingezahlten Geldsummen.
+4) den Betrag der für gerichtliche Konsignationen in Folge von Maß regeln der Verwaltungs- oder Justiz behörden in den abgetretenen Ge bieten eingezahlten Geldsummen.
 
 Artikel 5.
 
@@ -517,7 +517,7 @@ Die Zahlung von 500 Millionen soll erfolgen innerhalb der dreißig Tage, welche 
 
 Jede im Voraus auf die drei letzten Milliarden abgezahlte Summe wird vom Tage der geleisteten Zahlung an auf hören, Zinsen zu tragen.
 
-Alle Zahlungen können nur in den hauptsächlichsten Handelsplägen Deutsch lands gemacht und werden in Metall, Gold oder Silber, in Noten der Bank von England, in Noten der Preußischen Bank, in Noten der Königlichen Bank der Niederlande, in Noten der National-bank von Belgien, in Anweisungen auf Order oder diskontirbaren Wechseln ersten Ranges, sofort zahlbar, geleistet werden.
+Alle Zahlungen können nur in den hauptsächlichsten Handelsplägen Deutschlands gemacht und werden in Metall, Gold oder Silber, in Noten der Bank von England, in Noten der Preußischen Bank, in Noten der Königlichen Bank der Niederlande, in Noten der Nationalbank von Belgien, in Anweisungen auf Order oder diskontirbaren Wechseln ersten Ranges, sofort zahlbar, geleistet werden.
 
 Da die Deutsche Regierung in Frankreich den Werth des Preußischen Thalers
 
@@ -547,11 +547,11 @@ auf 3 Frks. 75 Cts. festgestellt hat, so ninımt die Französische Regierung die
 
 Die Französische Regierung wird die Deutsche Regierung drei Monate zuvor von jeder Zahlung benachrichtigen, welche sie den Kassen des Deutschen Reichs zu leisten beabsichtigt.
 
-Nach Zahlung der ersten halben Mil-liarde und der Ratifikation des definitiven Friedensvertrages werden die Departe ments Somme, Seine Inférieure und Eure, soweit sie noch von den Deutschen Truppen besetzt sind, geräumt. Die Räumung der Departements Dise, Seine et Dise, Seine et Marne und Seine, sowie der Forts von Paris wird stattfinden, sobald die Deutsche Regierung die Herstellung der Ordnung sowohl in Frankreich als in Paris für genügend erachtet, um die Ausführung der von Frankreich übernommenen Verpflichtungen sicher zu stellen.
+Nach Zahlung der ersten halben Milliarde und der Ratifikation des definitiven Friedensvertrages werden die Departe ments Somme, Seine Inférieure und Eure, soweit sie noch von den Deutschen Truppen besetzt sind, geräumt. Die Räumung der Departements Dise, Seine et Dise, Seine et Marne und Seine, sowie der Forts von Paris wird stattfinden, sobald die Deutsche Regierung die Herstellung der Ordnung sowohl in Frankreich als in Paris für genügend erachtet, um die Ausführung der von Frankreich übernommenen Verpflichtungen sicher zu stellen.
 
 In allen Fällen wird diese Räumung bei Zahlung der dritten halben Milliarde stattfinden.
 
-Die Deutschen Truppen behalten im Interesse ihrer Sicherheit die Verfügung über die neutrale Zone zwischen der Deut. schen Demarkationslinie und der Umwallung von Paris auf dem rechten Ufer der Seine.
+Die Deutschen Truppen behalten im Interesse ihrer Sicherheit die Verfügung über die neutrale Zone zwischen der Deutschen Demarkationslinie und der Umwallung von Paris auf dem rechten Ufer der Seine.
 
 Die Bestimmungen des Vertrages vom 26. Februar über die Besekung Französischen Gebietes nach Zahlung von zwei Milliarden bleiben in Kraft. Von der Zahlung der ersten fünfhundert Millionen können Abzüge, zu welchen die Franzősische Regierung berechtigt sein könnte, nicht gemacht werden.
 
@@ -581,13 +581,13 @@ Die derzeitige Sonderbehandlung von Industrieprodukten aus abgetretenen Gebieten
 
 Artikel 8.
 
-Die Deutschen Truppen werden auch ferner in den besetzten Gebieten sich der Requifitionen in Naturalien und in Geld ent halten; da aber dieser ihrer Verpflichtung die von der Französischen Regierung wegen ihrer Verpflegung übernommenen Verpflichtungen gegenüberstehen, so sollen die Deutschen Truppen, wenn die Französische Regierung ungeachtet wiederholter Auf forderungen der Deutschen Regierung in Ausführung der gedachten Verpflichtungen zurückbleiben sollte, das Recht haben, sich das Nöthige für ihre Bedürfnisse durch Erhebung von Steuern und Requisitionen in den besetzten Departements und, wenn deren Hülfsmittel nicht hinreichen sollten, selbst außerhalb derselben zu beschaffen.
+Die Deutschen Truppen werden auch ferner in den besetzten Gebieten sich der Requifitionen in Naturalien und in Geld enthalten; da aber dieser ihrer Verpflichtung die von der Französischen Regierung wegen ihrer Verpflegung übernommenen Verpflichtungen gegenüberstehen, so sollen die Deutschen Truppen, wenn die Französische Regierung ungeachtet wiederholter Aufforderungen der Deutschen Regierung in Ausführung der gedachten Verpflichtungen zurückbleiben sollte, das Recht haben, sich das Nöthige für ihre Bedürfnisse durch Erhebung von Steuern und Requisitionen in den besetzten Departements und, wenn deren Hülfsmittel nicht hinreichen sollten, selbst außerhalb derselben zu beschaffen.
 
 Bezüglich der Verpflegung der Deutschen Truppen werden die gegenwärtig in Kraft stehenden Anordnungen bis zur Räumung der Forts von Paris aufrecht erhalten.
 
 Kraft der Uebereinkunft von Ferrières vom 11. März 1871. werden die durch diese Uebereinkunst angegebenen Reduktionen nach Räumung der Forts zur Ausführung kommen.
 
-Sobald der Effektivstand des Deute schen Heeres unter die Zahl von 500,000 Mann gesunken sein wird, sollen die unter diese Zahl eingetretenen Verminderungen in Anrechnung gebracht werden, um eine verhältnißmäßige Verminderung der von der Französischen Regierung für die Truppen bezahlten Unterhaltungskosten festzustellen.
+Sobald der Effektivstand des Deutschen Heeres unter die Zahl von 500,000 Mann gesunken sein wird, sollen die unter diese Zahl eingetretenen Verminderungen in Anrechnung gebracht werden, um eine verhältnißmäßige Verminderung der von der Französischen Regierung für die Truppen bezahlten Unterhaltungskosten festzustellen.
 
 Artikel 9.
 
@@ -778,7 +778,7 @@ Beide Regierungen, die Deutsche und die Französische, verpflichten sich gegen s
 
 Artikel 17.
 
-Die Regulirung der nebensächlichen Punkte, über welche in Folge dieses Ver trages und des Prätiminar-Vertrages eine Verständigung zu erfolgen hat, wird der Gegenstand weiterer Verhandlungen sein, welche in Frankfurt stattfinden werden.
+Die Regulirung der nebensächlichen Punkte, über welche in Folge dieses Vertrages und des Prätiminar-Vertrages eine Verständigung zu erfolgen hat, wird der Gegenstand weiterer Verhandlungen sein, welche in Frankfurt stattfinden werden.
 
 Artikel 18.
 
