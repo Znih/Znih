@@ -411,7 +411,9 @@ Die Staatsangehörigkeit in einem Bundesstaate **wird fortan nur begründet**:
 
 **Durch die Geburt**, auch wenn diese in Auslande erfolgt, erwerben eheliche Kinder eines Norddeutschen die Staatsangehörigkeit des Vaters, uneheliche Kinder einer Norddeutschen die Staatsangehörigkeit der Mutter.
 
-§. 4. Ist der Vater cines unehelichen Kindes ein Norddeutscher und besitzt die Bundes Gesezbl. 1870.
+§. 4. Ist der Vater cines unehelichen Kindes ein Norddeutscher und besitzt die
+
+Bundes Gesezbl. 1870.
 
 
 Ausgegeben zu Berlin den 23. Juni 1870.
