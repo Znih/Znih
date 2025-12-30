@@ -50,5 +50,29 @@ Ausgegeben zu Berlin den 2. August 1867.
 
 ![Screenshot_20251230-102316_Samsung Notes.jpg](https://github.com/user-attachments/assets/900eac5a-3bf0-4842-9490-71c508c57d19)
 
+-2-
+
+### Verfassung des Norddeutschen Bundes.
+
+Seine Majestät der König von Preußen, Seine Majestät der König von Sachsen, Seine Königliche Hoheit der Großherzog von Mecklenburg-Schwerin, Seine Königliche Hoheit der Großherzog von Sachsen-Weimar-Eisenach, Seine König-liche Hoheit der Großherzog von Mecklenburg-Strelis, Seine Königliche Sobeit der Großherzog von Oldenburg, Seine Hobeit der Herzog von Braunschweig und Lüneburg, Seine Hoheit der Herzog von Sachsen-Meiningen und Hildburghanien, Seine Hoheit der Herzog zu Sachsen-Altenburg, Seine Hoheit der Herzog zu Sachsen-Koburg und Sotha, Seine Hobeit der Herzog von Anhalt, Seine Durchs Laucht der Fürst zu Schwarzburg- Schwarzburg-Rudolstadt, Seine Durchlaucht der Fürst zu Schwarzburg-Sondershausen, Seine Durchlaucht der Fürst zu Waldeck und Por mont, Ihre Durchlaucht die Fürstin Neuß älterer Linie, Seine Durchlaucht der Fürst Neuß jüngerer Linie, Seine Duchlaucht der Fürst von Schaumburg-Lippe, Seine Durchlaucht der Fürst zur Lippe, der Senat der freien und Hansestadt Lübeck, der Senat der freien Hansestadt Bremen, der Senat der freien und Hanje stadt Hamburg, jeder für den gesammten Umfang ihres Staatsgebietes, und Seine Königliche Hobeit der Großherzog von Hessen und bei Rhein, für die nördlich vom Main belegenen Theile des Großherzogthums Hessen, **schließen einen ewigen Bund zum Schutze des Bundesgebietes** und des **innerhalb desselben gültigen Rechtes**, sowie zur **Pflege der Wohlfahrt des Deutschen Volkes**. Dieser **Bund wird den Namen des Norddeutschen führen** und wird nachstehende
+
+Verfassung
+
+baben.
+
+#### I. Bundesgebiet. Artikel 1.
+
+Das **Bundesgebiet besteht aus den Staaten** Preußen mit Lauenburg, Sachsen, Mecklenburg-Schwerin, Sachsen-Weimar, Mecklenburg-Strelitz, Olden-burg, Braunschweig, Sachsen-Meiningen, Sachsen-Altenburg, Sacdien-Roburg-Gotha, Anhalt, Schwarzburg-Rudolstadt, Schwarzburg-Sondershausen, Waldeck, Reuß älterer Linie, Reuß jüngerer Linie, Schaumburg-Lippe, Lippe, Lübeck, Bremen, Hamburg, und aus den nördlich vom Main belegenen Theiten des Großherzogthums Hessen.
+
+
+#### Bundesgesetzgebung. 
+
+Artikel 2.
+
+**Innerhalb dieses Bundesgebietes** übt der **Bund** das **Recht** der Gesetzgebung
+
+
+---
+
 ![Screenshot_20251230-102327_Samsung Notes.jpg](https://github.com/user-attachments/assets/5c026b77-96e0-4232-9664-985172b17ff2)
 
