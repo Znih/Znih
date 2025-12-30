@@ -23,7 +23,7 @@ Die [Wiener Schlussakte](https://github.com/Znih/Znih/blob/main/1820_Deutsches-G
 
 > Für ganz Deutschland im Sinne des "ganzen Umfang des Bundesgebietes" (Art. 1) besteht eine zusätzliche Bundesangehörigkeit (mit der Eigenschaft als "Deutscher"), welche in § 1 BuStAG v. 1870 erstmalig definiert und genau geregelt wird, mit der Wirkung, daß der Staatsangehörige (Unterthan, Staatsbürger, z.B Preuße, Bayer, Sachse als principale) eines jeden Bundesstaates in jedem anderen Bundesstaate als Inländer zu behandeln und demgemäß zum Genusse aller bürgerlichen Rechte im Bundesgebiete (Art. 1) unter denselben Voraussetzungen wie der Einheimische zuzulassen, auch in Betreff der Rechtsverfolgung und des Rechtsschutzes demselben gleich zu behandeln ist (Art. 2, Art. 3 I lt. Hs.).
 
-> Kein Deutscher Bundesbürger (Art. 3 II) darf in der Ausübung dieser Befugniß durch die Obrigkeit seiner Heimath, oder durch die Obrigkeit eines anderen Bundesstaates beschränkt werden.
+> Kein Deutscher Bundesbürger (Art. 3 I lt. Hs., Art. 3 II) darf in der Ausübung dieser Befugniß durch die Obrigkeit seiner Heimath, oder durch die Obrigkeit eines anderen Bundesstaates beschränkt werden.
 
 
 Das [BuStAG von 1870](https://github.com/Znih/Znih/blob/main/BuStAG-1870.md) war also ein logischer nächster Schritt, der bundesstaatliche Angelegenheiten auch im Kontext moderner Nationalstaaten föderal weiterentwickelte und zum 01.01.1871 ordnungsgemäß in Anwendung gelangte.  
