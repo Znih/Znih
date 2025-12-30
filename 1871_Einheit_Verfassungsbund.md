@@ -64,7 +64,7 @@ haben.
 
 #### I. Bundesgebiet.
 
-Artikel 1.
+**Artikel 1.**
 
 Das **Bundesgebiet besteht aus den Staaten** Preußen mit Lauenburg, Bayern, Sachsen, Württemberg, Baden, Hessen, Mecklenburg Schwerin, Sachsen-Weimar, Mecklenburg. Strelis, Oldenburg, Braunschweig, Sachsen. Meiningen, Sachsen.
 
@@ -81,11 +81,11 @@ Sachsen-Altenburg, Sachsen Koburg Gotha, Anhalt, Schwarzburg Rudolstadt, Schwarz
 
 #### II. Reichsgesetzgebung.
 
-Artikel 2.
+**Artikel 2.**
 
 Innerhalb dieses Bundesgebietes übt das Reich das Recht der Gesetzgebung nach Maßgabe des Inhalts dieser Verfassung und mit der Wirkung aus, daß die Reichsgeseke den Landesgesehen vorgehen. Die Reichsgeseze erhalten ihre verbindliche Kraft durch ihre Verkündigung von Reichswegen, welche vermittelst eines Reichsgesekblattes geschieht. Sofern nicht in dem publizirten Geseze ein anderer Anfangstermin seiner verbindlichen Kraft bestimmt ist, beginnt die lektere mit dem vierzehnten Tage nach dem Ablauf desjenigen Lages, an welchem das betreffende Stück des Reichsgesetzblattes in Berlin ausgegeben worden ist.
 
-Artikel 3.
+**Artikel 3.**
 
 Für **ganz Deutschland** besteht ein **gemeinsames Indigenat** mit der Wirkung, daß der **Angehörige** (Unterthan, Staatsbürger) eines jeden Bundesstaates in jedem anderen Bundesstaate als Inländer zu behandeln und demgemäß zum zum festen Wohnsiz, zum Gewerbebetriebe, zu öffentlichen Aemtern, zur Erwerbung von Grundstucken, zur Erlangung des Staatsbürgerrechtes und zum Genusse aller sonstigen bürgerlichen Rechte unter denselben Voraussetzungen wie der Einheimische zuzulassen, auch in Betreff der Rechtsverfolgung und des Rechtsschutzes demselben gleich zu behandeln ist.
 
@@ -124,7 +124,7 @@ Dem Kaiser liegt es ob, den Mitgliedern des Bundesrathes den üblichen diplomati
 
 #### IV. Präsidium.
 
-Artikel 11.
+**Artikel 11.**
 
 Das **Präsidium des Bundes** steht dem Könige von Preußen zu, welcher **den Namen Deutscher Kaiser führt**. Der Kaiser hat das Reich völkerrechtlich zu vertreten, im Namen des Reichs Krieg zu erklären und Frieden zu schließen, Bündnisse und andere Verträge mit fremden Staaten einzugehen, Gesandte zu beglaubigen und zu empfangen. **Zur Erklärung des Krieges im Namen des Reichs ist die Zustimmung des Bundesrathes erforderlich, es sei denn, daß ein Angriff auf das Bundesgebiet oder dessen Küsten erfolgt.** Insoweit die Verträge mit fremden Staaten sich auf solche Gegenstände beziehen, welche nach Artikel 4. in den Bereich der Reichsgesetzgebung gehören, ist zu ihrem Abschluß die Zustimmung des Bundesrathes und zu ihrer Gültigkeit die Genehmigung des Reichstages erforderlich.
 
@@ -169,7 +169,7 @@ Die Mitglieder des Reichstages dürfen als solche keine Besoldung oder Entschäd
 
 #### VI. Zoll und Handelswesen.
 
-Artikel 33.
+**Artikel 33.**
 
 **Deutschland bildet ein Zoll- und Handelsgebiet, umgeben von gemeinschaftlicher Zollgrenze.** Ausgeschlossen bleiben die wegen ihrer Lage zur Einschließung in die Zollgrenze nicht geeigneten einzelnen Gebietstheile.
 
@@ -187,6 +187,34 @@ Das Reich ausschließlich hat die Gesetzgebung über das gesammte Zollwesen, üb
 ---
 
 ![Screenshot_20251230-101955_Samsung Notes.jpg](https://github.com/user-attachments/assets/0e69305e-680c-48ea-866f-235afe9294c7)
+
+
+-82-
+
+Offizieren innerhalb des Kontingents ist die Ernennung von der jedesmaligen Zustimmung des Kaisers abhängig zu machen. Der Kaiser ist berechtigt, Behufs Versezung mit oder ohne Beförderung für die von Ihm im Reichsdienste, sei es in Preußischen Heere, oder in anderen Kontingenten zu besezenden Stellen aus den Offizieren aller Kontingente des Reichsheeres zu wählen.
+
+Artikel 65.
+
+Das Recht, Festungen innerhalb des Bundesgebietes anzulegen, steht dem Kaiser zu, welcher die Bewilligung der dazu erforderlichen Mittel, soweit das Ordinarium fie nicht gewährt, nach Abschnitt XII. beantragt.
+
+Artikel 66.
+
+Wo nicht besondere Konventionen ein Anderes bestimmen, ernennen die Bundesfürsten, beziehentlich die Senate die Offiziere ihrer Kontingente, mit der Einschränkung des Artikels 64. Sie sind Chefs aller ihren Gebieten angehörenden Truppentheile und genießen die damit verbundenen Ehren. Sie haben namentlich das Recht der Inspizirung zu jeder Zeit und erhalten, außer den regelnäßigen Rapporten und Meldungen über vorkommende Veränderungen, Behuss der nöthigen landesherrlichen Publikation, rechtzeitige Mittheilung von den die betreffenden Truppentheile berührenden Avancements und Ernennungen. Auch steht ihnen das Recht zu, zu polizeilichen Zwecken nicht bloß ihre eigenen Truppen zu verwenden, sondern auch alle anderen Truppentheile des Reichsheeres, welche in ihren Ländergebieten dislocirt sind, zu requiriren.
+
+Artikel 67.
+
+Ersparnisse an dem Militair Etat fallen unter keinen Umständen einer ein. zelnen Regierung, sondern jederzeit der Reichskasse zu. :
+
+**Artikel 68.**
+
+Der Kaiser kann, wenn die öffentliche Sicherheit in dem Bundesgebiete bedroht ist, einen jeden Theil desselben in Kriegszustand erklären. Bis zum Erlaß eines die Voraussetzungen, die Form der Verkündigung und die Wirkungen einer solchen Erklärung regelnden Reichsgesetzes gelten dafür die Vorschriften des Preußischen Gesetzes vom 4. Juni 1851. (Gesez-Samml. für 1851. S. 451 ff.).
+
+#### Schlußbestimmung zum XI. Abschnitt.
+
+Die in diesem Abschnitt enthaltenen Vorschriften kommen in Bayern nach näherer Bestimmung des Bündnißvertrages vom 23. November 1870. (Bundes. gesepbl. 1871. S. 9.) unter III. §. 5., in Württemberg nach näherer Bestim mung der Militairkonvention vom 21./25. November 1870. (Bundesgesetzbl. 1870. S. 658.) zur Anwendung.
+
+
+---
 
 ![Screenshot_20251230-102025_Samsung Notes.jpg](https://github.com/user-attachments/assets/f88077f3-6d25-4774-a801-28a175fb7046)
 
