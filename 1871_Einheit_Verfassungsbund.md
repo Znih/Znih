@@ -134,7 +134,7 @@ Dem Kaiser steht es zu, den Bundesrath und den Reichstag zu berufen, zu eröffne
 
 Artikel 13.
 
-Die Berufung des Bundesrathes und des Reichstages findet alljährlich statt und kann der Bundesrath zur Vorbereitung der Arbeiten ohne den Reichs. tag, lekterer aber nicht ohne den Bundesrath berufen werden.
+Die Berufung des Bundesrathes und des Reichstages findet alljährlich statt und kann der Bundesrath zur Vorbereitung der Arbeiten ohne den Reichstag, letzterer aber nicht ohne den Bundesrath berufen werden.
 
 Artikel 14.
 
@@ -152,6 +152,39 @@ Die erforderlichen Vorlagen werden nach Maßgabe der Beschlüsse des Bundesrathe
 ---
 
 ![Screenshot_20251230-101858_Samsung Notes.jpg](https://github.com/user-attachments/assets/200cab14-8960-4309-95c7-17cedf03574c)
+
+-72-
+
+gerichtlich oder disziplinarisch verfolgt oder sonst außerhalb der Versammlung zur Verantwortung gezogen werden.
+
+Artikel 31.
+
+Ohne Genehinigung des Reichstages kann kein Mitglied desselben während der Sizungsperiode wegen einer mit Strafe bedrohten Handlung zur Untersuchung gezogen oder verhaftet werden, außer wenn es bei Ausübung der That oder im Laufe des nächstfolgenden Lages ergriffen wird.
+
+Gleiche Genehmigung ist bei einer Verhaftung wegen Schulden erforderlich. Auf Verlangen des Reichstages wird jedes Strafverfahren gegen ein Mit glied desselben und jede Untersuchungs- oder Civilhaft für die Dauer der Sitzungsperiode aufgehoben.
+
+Artikel 32.
+
+Die Mitglieder des Reichstages dürfen als solche keine Besoldung oder Entschädigung beziehen.
+
+#### VI. Zoll und Handelswesen.
+
+Artikel 33.
+
+**Deutschland bildet ein Zoll- und Handelsgebietumgeben von gemeinschaftlicher Zollgrenze.** Ausgeschlossen bleiben die wegen ihrer Lage zur Einschließung in die Zollgrenze nicht geeigneten einzelnen Gebietstheile.
+
+Alle Gegenstände, welche im freien Verkehr eines Bundesstaates befindlich sind, können in jeden anderen Bundesstaat eingeführt und dürfen in letzterem einer Abgabe nur insoweit unterworfen werden, als daselbst gleichartige inländische Erzeugniffe einer inneren Steuer unterliegen.
+
+Artikel 34.
+
+Die Hansestädte Bremen und Hamburg mit einem dem Zweck entsprechenden Bezirke ihres oder des umliegenden Gebietes bleiben als Freihäfen außerhalb der gemeinschaftlichen Zollgrenze, bis sie ihren Einschluß in dieselbe beantragen.
+
+Artikel 35.
+
+Das Reich ausschließlich hat die Gesetzgebung über das gesammte Zollwesen, über die Besteuerung des im Bundesgebiete, Salzes und Tabacks, bereiteten Branntweins und Bieres und aus Rüben oder anderen Ruben oder anderen inländischen Erzeugnissen dargestellten Zuckers und Syrups, über den gegenseitigen Schutz der in den einzelnen Bundesstaaten erhobenen Verbrauchsabgaben gegen Hinterziehungen, sowie über die Maßregeln, welche in den Zollausschlüssen zur Sicherung der gemeinsamen Zollgrenze erforderlich sind.
+
+
+---
 
 ![Screenshot_20251230-101955_Samsung Notes.jpg](https://github.com/user-attachments/assets/0e69305e-680c-48ea-866f-235afe9294c7)
 
