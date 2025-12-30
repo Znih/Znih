@@ -30,6 +30,24 @@ Gesetzblatt Faksimiles des Bundesverfassungsrechtes gemäß Deutschem Grundgeset
 
 ![Screenshot_20251230-102258_Samsung Notes.jpg](https://github.com/user-attachments/assets/21a6117d-76d5-41ec-9ebe-404ad5452933)
 
+
+Bundes-Gesetzblatt des Norddeutschen Bundes № 1 Seite 1
+
+(Nr. 1.) Publikandum. Vom 26. Juli 1867.
+
+Wir Wilhelm, von Gottes Gnaden König von Preußen
+
+thun kund und fügen hiermit im Namen des Norddeutschen Bundes zu wissen:
+
+von Nachdem die Verfassung des Norddeutschen Bundes von Uns, Seiner Majestät dem Könige von Sachsen, Seiner Königlichen Hoheit dem Großherzoge von Heffen und bei Rhein, Seiner Königlichen Hoheit dem Großherzoge von Mecklenburg Schwerin, Seiner Königlichen Hoheit dem Großberzoge Sachien Weimar Eisenach, Seiner Königlichen Hoheit dem Großherzoge von Mecklenburg-Strelis, Seiner Königlichen Hoheit dem Großberzoge von Oldenburg, Seiner Hoheit dem Herzoge von Braunschweig und Lüneburg, Seiner Hoheit dem Herzoge von Sachsen-Meiningen und Hildburghausen, Seiner Hoheit dem Herzoge zu Sachsen-Altenburg, Seiner Hoheit dem Herzoge zu Sachsen-Koburg und Gotha, Seiner Hoheit dem Herzoge von Anhalt, Seiner Durchlaucht dem Fürsten zu Schwarzburg-Rudolstadt, Seiner Durchlaucht dem Fürsten zu Schwarzburg-Sondershausen, Seiner Durchlaucht dem Fürsten zu Waldeck und Pormont, Ihrer Durchlaucht der Fürstin und Seiner Durchlaucht dem Fürsten Reuß älterer Linie, Seiner Durchlaucht dem Fürsten Reuß jüngerer Linic, Seiner Durchlaucht dem Fürsten von Schaumburg-Lippe, Seiner Durchlaucht dem Fürsten zur Lippe, dem Senate der freien und Hansestadt Lübeck, dem Senate der freien Hansestadt Bremen, dem Senate der freien und Hanse stadt Hamburg, mit dem **zu diesem Zwecke** berufenen Reichstage vereinbart worden, ist dieselbe in dem **ganzen Umfange des Norddeutschen Bundesgebietes**, wie folgt:
+
+Bundes Gesetzbl. 1867.
+
+
+Ausgegeben zu Berlin den 2. August 1867.
+
+---
+
 ![Screenshot_20251230-102316_Samsung Notes.jpg](https://github.com/user-attachments/assets/900eac5a-3bf0-4842-9490-71c508c57d19)
 
 ![Screenshot_20251230-102327_Samsung Notes.jpg](https://github.com/user-attachments/assets/5c026b77-96e0-4232-9664-985172b17ff2)
