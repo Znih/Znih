@@ -38,7 +38,7 @@ Ausgegeben zu Berlin den 20. April 1871.
 
 -64-
 
-welche in der Folge Dasselbe gilt von denjenigen im Norddeutschen Bunde ergangenen Gesetzen, in der Folge in einem der genannten Staaten eingeführt werden.
+Dasselbe gilt von denjenigen im Norddeutschen Bunde ergangenen Gesetzen, welche in der Folge in einem der genannten Staaten eingeführt werden.
 
 §. 3.
 
