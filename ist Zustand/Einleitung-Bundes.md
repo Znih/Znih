@@ -117,6 +117,10 @@ Einigungswerk (Teil 2 durch Verfassungsbündnis zum "ewigen Bund" v. 1871, der s
 
 > Das **RuStAG 1913** kann als bedeutender Wendepunkt betrachtet werden, der sowohl föderale als auch zentralistische Prinzipien vereinte, jedoch eine Perspektive hin zur Vereinheitlichung des Reichs und der Schwächung der föderalistischen Struktur eröffnete. Das Gesetz zeigte die fortschreitende Entwicklung juristischer und politischer Macht, welche die Balance zwischen den Bundesstaaten und dem Reich zugunsten des Letzteren verschob.
 
+> Der Zusatzstatus der Bundesangehörigkeit, der im BuStAG 1870 mit "positiver Jurisdiktion" geschaffen wurde, verblieb im **RuStAG 1913** in reduziertem Umfang.
+
+> Die ohnehin flagrante Konstruktion "*Deutscher ist*", der die "*unmittelbaren Reichsangehörigkeit*" besitzt, wo bis dato Angehörigkeiten adressiert sind, schwächte die Bindungen an die Bundesstaaten deutlich, was später als Grundlage für Reichsbürgergesetze im Dritten Reich diente. Ohne RuStAG hätte aus Hitler kein Braunschweiger werden können, sondern ein inhaftierter böhmischer Gefreiter in Abschiebehaft mit Endziel Wien.
+
 
 **Copilot:**
 Das **Reichs- und Staatsangehörigkeitsgesetz (RuStAG)** vom 22. Juli 1913 war ein zentraler Schritt in der Entwicklung des deutschen Staatsangehörigkeitsrechts und wird oft als eine Bruchstelle betrachtet, die bedeutende historische, rechtliche und politische Konsequenzen mit sich brachte. Hier eine Analyse des vorgelegten Quellenausschnitts und seiner Bedeutung:
