@@ -159,9 +159,9 @@ gerichtlich oder disziplinarisch verfolgt oder sonst außerhalb der Versammlung 
 
 Artikel 31.
 
-Ohne Genehinigung des Reichstages kann kein Mitglied desselben während der Sizungsperiode wegen einer mit Strafe bedrohten Handlung zur Untersuchung gezogen oder verhaftet werden, außer wenn es bei Ausübung der That oder im Laufe des nächstfolgenden Lages ergriffen wird.
+Ohne Genehinigung des Reichstages kann kein Mitglied desselben während der Sizungsperiode wegen einer mit Strafe bedrohten Handlung zur Untersuchung gezogen oder verhaftet werden, außer wenn es bei Ausübung der That oder im Laufe des nächstfolgenden Tages ergriffen wird.
 
-Gleiche Genehmigung ist bei einer Verhaftung wegen Schulden erforderlich. Auf Verlangen des Reichstages wird jedes Strafverfahren gegen ein Mit glied desselben und jede Untersuchungs- oder Civilhaft für die Dauer der Sitzungsperiode aufgehoben.
+Gleiche Genehmigung ist bei einer Verhaftung wegen Schulden erforderlich. Auf Verlangen des Reichstages wird jedes Strafverfahren gegen ein Mitglied desselben und jede Untersuchungs- oder Civilhaft für die Dauer der Sitzungsperiode aufgehoben.
 
 Artikel 32.
 
@@ -171,9 +171,9 @@ Die Mitglieder des Reichstages dürfen als solche keine Besoldung oder Entschäd
 
 Artikel 33.
 
-**Deutschland bildet ein Zoll- und Handelsgebietumgeben von gemeinschaftlicher Zollgrenze.** Ausgeschlossen bleiben die wegen ihrer Lage zur Einschließung in die Zollgrenze nicht geeigneten einzelnen Gebietstheile.
+**Deutschland bildet ein Zoll- und Handelsgebiet, umgeben von gemeinschaftlicher Zollgrenze.** Ausgeschlossen bleiben die wegen ihrer Lage zur Einschließung in die Zollgrenze nicht geeigneten einzelnen Gebietstheile.
 
-Alle Gegenstände, welche im freien Verkehr eines Bundesstaates befindlich sind, können in jeden anderen Bundesstaat eingeführt und dürfen in letzterem einer Abgabe nur insoweit unterworfen werden, als daselbst gleichartige inländische Erzeugniffe einer inneren Steuer unterliegen.
+Alle Gegenstände, welche im freien Verkehr eines Bundesstaates befindlich sind, können in jeden anderen Bundesstaat eingeführt und dürfen in letzterem einer Abgabe nur insoweit unterworfen werden, als daselbst gleichartige inländische Erzeugnisse einer inneren Steuer unterliegen.
 
 Artikel 34.
 
