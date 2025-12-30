@@ -15,49 +15,28 @@
 
 Wo kommen wir her und wo wollen wir hin?
 
-Der Beschluss vom 8. Juni 1820 erklärte die Schlussakte zum **Grundgesetz des Deutschen Bundes**. Ziel war seinerzeit die Sicherung der Unabhängigkeit der deutschen Staaten, die Verlässlichkeit der Bundesakte von 1815 und die Implementierung dauerhafter Friedens- und Sicherheitsmechanismen. Der Grundstein für einen ewigen Bund wurde 1815 gelegt, mit einem Fokus auf rechtliche Gleichheit und wechselseitigen Schutz. Erst die **Schlussakte 1820** festigte diese Prinzipien, verlieh ihnen jedoch größere gesetzliche Verbindlichkeit (Art. I) und band sie zunächst an die fortlaufenden politischen und administrativen Prozesse der Bundesversammlung (Art. II), im Geltungsbereich dieses Grundgesetzes (Art. III). Letzterer definiert den Umfang und die Grenzen der Wirksamkeit des Bundes, ähnlich einer Verfassung. Die Art. XII–XIV der Schlussakte enthielten den Auftrag zur Schaffung von Rechtssicherheit, um in den Gliedstaaten durch Landständische Verfassungen den Unterthanen (lokalen) Schutz für ihre Rechte zu garantieren.
+Der Beschluss vom 8. Juni 1820 erklärte die Schlussakte zum **Grundgesetz des Deutschen Bundes**. Ziel war seinerzeit die Sicherung der Unabhängigkeit der deutschen Staaten, die Verlässlichkeit der Bundesakte von 1815 und die Implementierung dauerhafter Friedens- und Sicherheitsmechanismen. Der Grundstein für einen ewigen Bund wurde 1815 gelegt, mit einem Fokus auf rechtliche Gleichheit und wechselseitigen Schutz.
 
-Die Wiener Schlussakte stellte sicher, dass der Deutsche Bund auf einem stabilen Bundesrecht-Fundament aufgebaut blieb aber nicht stehen blieb. Aus Unterthanen wurden sukzessive Staatsunterthanen, die Staatsangehörigen und Staatsbürger in den deutschen Staaten, die ab 1867 zu Bundesstaaten wurden und ab 1871 zusätzlich zur deutschen Staatsangehörigkeit in einem dieser Bundesstaaten mittelbar eine Bundesangehörigkeit samt Bundesbürgerschaft oben drauf (BuStAG iVm. Art. 3 BVerf. v. 1871, principale, Zweifachstatus, doppelt Rechtschutz).
+Erst die **Schlussakte 1820** festigte diese Prinzipien, verlieh ihnen jedoch größere gesetzliche Verbindlichkeit (Art. I) und band sie zunächst an die fortlaufenden politischen und administrativen Prozesse der Bundesversammlung (Art. II), im Geltungsbereich dieses Grundgesetzes (Art. III). Letzterer definiert den Umfang und die Grenzen der Wirksamkeit des Bundes, ähnlich einer Verfassung.
 
-Das BuStAG von 1870 war also ein logischer nächster Schritt, der bundesstaatliche Angelegenheiten auch im Kontext moderner Nationalstaaten föderal weiterentwickelte.
+Die Art. XII–XIV der Schlussakte enthielten den Auftrag zur Schaffung von Rechtssicherheit, um in den Gliedstaaten durch Landständische Verfassungen den Unterthanen (lokalen) Schutz für ihre Rechte zu garantieren.
 
----
+Die [Wiener Schlussakte](https://github.com/Znih/Znih/blob/main/1820_Deutsches-Grundgesetz-No-2.md) stellte sicher, dass der Deutsche Bund auf einem stabilen Bundesrecht-Fundament aufgebaut blieb aber nicht stehen blieb. Aus Unterthanen wurden sukzessive Staatsunterthanen, die Staatsangehörigen und Staatsbürger in den deutschen Staaten, die ab 1867 zu Bundesstaaten wurden. Ab 1871 erwarb man zusätzlich zur erworbenen deutschen Staatsangehörigkeit in einem dieser Bundesstaaten mittelbar die Bundesangehörigkeit samt Bundesbürgerschaft oben drauf (BuStAG iVm. Art. 3 BVerf. v. 1871, principale, Zweifachstatus, doppelt Rechtschutz).
 
-
-
-
----
-
- Im Vergleich zu späteren Regelungen wie dem Versailler Vertrag von 1919 zeigt sie einen Ansatz eines biophilen Bündnisses, das Kooperation und gemeinsame Sicherheit in den Vordergrund stellte.
+Das [BuStAG von 1870](https://github.com/Znih/Znih/blob/main/BuStAG-1870.md) war also ein logischer nächster Schritt, der bundesstaatliche Angelegenheiten auch im Kontext moderner Nationalstaaten föderal weiterentwickelte.  
 
 
-
+Was den Deutschen bis zur Wiener Schlußakte 1820 fehlte, erhielten diese ab 1871 sodann doppelt. Verbindliche Rechte für die nicht nur Arbeiter und Soldaten kämpften, bluteten oder starben. Nicht perfekt aber besser als alles was ab 1914 folgen sollte.
 
 ---
-
-
-
-https://github.com/Znih/Znih/blob/main/1820_Deutsches-Grundgesetz-No-2.md
-
----
----
-
-
-
-Mit Friedenswerk und Einigungswerk als "Wiederherstellung der Freiheit und Einheit Deutschlands" galt Wien quasi insoweit übererfüllt. Friede 1871 und Deutschland wuchs im Frieden und verliert selbst den gewonnenen Krieg.
 
 Friedenswerk (Teil 1 "*Weihe*" durch "*Kaiseramt*" gem. Art. 11 BVerf. v. 1871 iVm Beschluß v. 10.12.1870):
 https://github.com/Znih/Znih/blob/main/Friede-1871.md GBl. Faksimiles BGBl. 1871 S. 215-244
 
-Einigungswerk (Teil 2 durch Verfassungsbündnis zum "ewigen Bund" v. 1871, der sich fortan lediglich "*Deutsches Reich*" nannte oder so zu verstehen war (s. BuStAG 1870 vs. RuStAG 1913):
-
-
-
 ---
 
-Der zweite Status auf Bundesebene kam erst mit dem BuStAG v. 1870 zur tatsächlichen Umsetzung, da Art. III BVerf. v. 1867 hierzu vermutlich noch ungeeignet erschien. Der Bundesstatus als "Deutscher" Bundesangehöriger zum "Deutschen Bundesbürger Art. III BVerf. funktionierte erst ab 1870. Was den Deutschen bis Wien fehlte, erhielten sie ab 1870/71 doppelt. Übersetzt ein Gewinn für den nicht nur Arbeiter und Soldaten starben.
+Einigungswerk (Teil 2 durch Verfassungsbündnis zum "ewigen Bund" v. 1871, der sich fortan lediglich "*Deutsches Reich*" nannte oder so zu verstehen war (s. BuStAG 1870 vs. RuStAG 1913):
 
-https://github.com/Znih/Znih/blob/main/BuStAG-1870.md
 
 
 ---
@@ -70,6 +49,8 @@ https://github.com/Znih/Znih/blob/main/RuStAG-RoStAG-Falle-1913.md
 ---
 
 - Art. 277, 278, 292 Versailler Vertrag???
+
+
 
 https://github.com/Znih/Znih/blob/main/Versailler-Unfrieden-1919-1925.md
 
