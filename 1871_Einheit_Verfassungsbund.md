@@ -24,7 +24,41 @@ Gesetzblatt Faksimiles des Bundesverfassungsrechtes gemäß Deutschem Grundgeset
 
 ![Screenshot_20251230-102118_Samsung Notes.jpg](https://github.com/user-attachments/assets/20739d92-e668-46c5-a4c4-60eaa7c3cc9f)
 
+Bundes-Gesetzblatt des Norddeutschen Bundes № 51 Seite 627
+
+(Nr. 597.) Verfassung des Deutschen Bundes.
+
+Priambel
+
+Seine Majestät der König von Preußen im Namen des Norddeutschen Bundes, **Schutze des Bundesgebietes** und des innerhalb desselben gültigen Rechtes, sowie Seine Königliche Hoheit der Großherzog von Baden und Seine Königliche Hoheit der Großherzog von Hessen und bei Rhein für die südlich vom Main belegenen Theile des Großherzogthums Hessen schließen einen **ewigen Bund** zum zur **Pflege der Wohlfahrt** des **Deutschen Volkes**. Dieser **Bund wird den Namen Deutsches Reich führen** und wird nachstehende
+
+
+### **Verfassung**
+
+haben.
+
+#### I. Bundesgebiet.
+
+Artikel 1.
+
+Das Bundesgebiet besteht aus den Staaten Preußen mit Lauenburg, Sachsen, Baden, Hessen, Mecklenburg Schwerin, Sachsen Weimar, Mecklenburg-Strelis, Oldenburg, Braunschweig, Sachsen Meiningen, Sachsen Altenburg, Sachsen Koburg Gotha, Anhalt, Schwarzburg Rudolstadt, Schwarzburg Sondershausen, Waldeck, Reuß älterer Vinie, Reuß jüngerer Linie, Schaumburg Lippe, Lippe, Lübeck, Bremen und Hamburg.
+
+#### II. Bundesgesetzgebung.
+
+Artikel 2.
+
+Innerhalb dieses **Bundesgebietes** übt der **Bund** das **Recht** der Gesetzgebung nach Maaßgabe des Inhalts dieser Verfassung und mit der Wirkung aus, daß Bundes Gesetzbl. 1870.
+
+Ausgegeben zu Berlin den 31. Dezember 1870.
+
+47/127
+
+---
+
 ![Screenshot_20251230-102126_Samsung Notes.jpg](https://github.com/user-attachments/assets/eed7ee3f-960f-42c4-b7e1-30b8e2929a7b)
+
+
+---
 
 ![Screenshot_20251230-102239_Samsung Notes.jpg](https://github.com/user-attachments/assets/a9c967b9-39b1-4399-a59c-4181926e8a52)
 
