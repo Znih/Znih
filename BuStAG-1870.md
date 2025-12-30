@@ -1,4 +1,4 @@
-# Gesetz über die Erwerbung und den Verlust der Bundes- und Staatsangehörigkeit
+### Gesetz über die Erwerbung und den Verlust der Bundes- und Staatsangehörigkeit
 
 vom 1. Juni 1870
 
