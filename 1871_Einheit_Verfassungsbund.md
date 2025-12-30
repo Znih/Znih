@@ -4,7 +4,7 @@ Gesetzblatt Faksimiles des Bundesverfassungsrechtes gemäß Deutschem Grundgeset
 
 ![Screenshot_20251230-101458_Samsung Notes.jpg](https://github.com/user-attachments/assets/43d3bd03-fc71-4fe6-ad6c-39b3aa060b57)
 
-Bundes-Gesekblatt des Deutschen Bundes № 16 Seite 63
+Bundes-Gesetzblatt des Deutschen Bundes № 16 Seite 63
 
 (Nr. 628.) Gesetz betreffend die Verfassung des Deutschen Reichs. Vom 16. April 1871.
 
@@ -35,6 +35,42 @@ Ausgegeben zu Berlin den 20. April 1871.
 ---
 
 ![Screenshot_20251230-101508_Samsung Notes.jpg](https://github.com/user-attachments/assets/b2e518cc-fa10-4cd5-91c9-9b137abe5f77)
+
+-64-
+
+welche in der Folge Dasselbe gilt von denjenigen im Norddeutschen Bunde ergangenen Gesetzen, in der Folge in einem der genannten Staaten eingeführt werden.
+
+§. 3.
+
+Die Vereinbarungen in dem zu Versailles am 15. November 1870. auf. genommenen Protokolle (Bundesgesekbl. vom Jahre 1870. S. 650. ff.), in der Verhandlung zu Berlin vom 25. November 1870. (Bundesgesetzbl. vom Jahre 1870. S. 657.), dem Schlußprotokolle vom 23. November 1870. (Bundes. gesezbl. vom Jahre 1871. 5. 23. ff.), sowie unter IV. des Vertrages mit Bayern vom 23. November 1870. (a. a. D. S. 21. ff.) werden durch dieses Gesetz nicht berührt.
+
+Urkundlich unter Unserer Höchsteigenhändigen Unterschrift und beigedrucktem Kaiserlichen Infiegel.
+
+Gegeben Berlin, den 16. April 1871.
+
+(L. S.)
+
+Wilhelm.
+
+Fürst v. Bismarď.
+
+### Verfassung Deutschen Reichs.
+
+Seine Majestät der König von Preußen im Namen des Norddeutschen Bundes, Seine Majeftät der König von Bayern, Seine Majestät der König von Württemberg, Seine Königliche Hoheit der Großherzog von Baden und Seine Königliche Hoheit der Großherzog von Hessen und bei Rhein für die südlich vom Main belegenen Theile des Großherzogthums Hessen, **schließen einen ewigen Bund zum Schutze des Bundesgebietes** und des innerhalb desselben **gültigen Rechtes**, sowie zur **Pflege der Wohlfahrt** des Deutschen Volkes. Dieser **Bund wird den Namen Deutsches Reich führen** und wird nachstehende
+
+**Verfassung**
+
+haben.
+
+#### I. Bundesgebiet.
+
+Artikel 1.
+
+Das **Bundesgebiet besteht aus den Staaten** Preußen mit Lauenburg, Bayern, Sachsen, Württemberg, Baden, Hessen, Mecklenburg Schwerin, Sachsen-Weimar, Mecklenburg. Strelis, Oldenburg, Braunschweig, Sachsen. Meiningen, Sachsen.
+
+
+
+---
 
 ![Screenshot_20251230-101527_Samsung Notes.jpg](https://github.com/user-attachments/assets/9214cbdb-409f-4222-948b-94b152467500)
 
