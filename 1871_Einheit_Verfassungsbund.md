@@ -74,6 +74,39 @@ Das **Bundesgebiet besteht aus den Staaten** Preußen mit Lauenburg, Bayern, Sac
 
 ![Screenshot_20251230-101527_Samsung Notes.jpg](https://github.com/user-attachments/assets/9214cbdb-409f-4222-948b-94b152467500)
 
+
+-65-
+
+Sachsen-Altenburg, Sachsen Koburg Gotha, Anhalt, Schwarzburg Rudolstadt, Schwarzburg. Sondershausen, Waldeck, Reuß älterer Linie, Reuß jüngerer Linie, Schaumburg Lippe, Lippe, Lübeck, Bremen und Hamburg.
+
+#### II. Reichsgesetzgebung.
+
+Artikel 2.
+
+Innerhalb dieses Bundesgebietes übt das Reich das Recht der Gesetzgebung nach Maßgabe des Inhalts dieser Verfassung und mit der Wirkung aus, daß die Reichsgeseke den Landesgesehen vorgehen. Die Reichsgeseze erhalten ihre verbindliche Kraft durch ihre Verkündigung von Reichswegen, welche vermittelst eines Reichsgesekblattes geschieht. Sofern nicht in dem publizirten Geseze ein anderer Anfangstermin seiner verbindlichen Kraft bestimmt ist, beginnt die lektere mit dem vierzehnten Tage nach dem Ablauf desjenigen Lages, an welchem das betreffende Stück des Reichsgesetzblattes in Berlin ausgegeben worden ist.
+
+Artikel 3.
+
+Für **ganz Deutschland** besteht ein **gemeinsames Indigenat** mit der Wirkung, daß der **Angehörige** (Unterthan, Staatsbürger) eines jeden Bundesstaates in jedem anderen Bundesstaate als Inländer zu behandeln und demgemäß zum zum festen Wohnsiz, zum Gewerbebetriebe, zu öffentlichen Aemtern, zur Erwerbung von Grundstucken, zur Erlangung des Staatsbürgerrechtes und zum Genusse aller sonstigen bürgerlichen Rechte unter denselben Voraussetzungen wie der Einheimische zuzulassen, auch in Betreff der Rechtsverfolgung und des Rechtsschutzes demselben gleich zu behandeln ist.
+
+**Kein Deutscher** darf in der Ausübung dieser Befugniß durch die Obrigkeit seiner Heimath, oder durch die Obrigkeit eines anderen Bundesstaates beschränkt werden.
+
+Diejenigen Bestimmungen, welche die Armenversorgung und die Aufnahme in den lokalen Gemeindeverband betreffen, werden durch den im ersten Absatz ausgesprochenen Grundsas nicht berührt.
+
+Ebenso bleiben bis auf Weiteres die Verträge in Kraft, welche zwischen den einzelnen Bundesstaaten in Beziehung auf die Uebernahme von Auszuweisenden, die Verpflegung erkrankter und die Beerdigung verstorbener Staatsangehörigen bestehen.
+
+Hinsichtlich der Erfüllung der Militairpflicht im Verhältniß zu dem Heimathslande wird im Wege der Reichsgesetzgebung das Nöthige geordnet werden. Dem Auslande gegenüber haben **alle Deutschen** gleichmäßig Anpruch auf den **Schutz des Reichs**.
+
+Artikel 4.
+
+Der Beaufsichtigung Seitens des Reichs und der Gesezgebung desselben. unterliegen die nachstehenden Angelegenheiten:
+
+1) die Bestimmungen über Freizügigkeit, Heimaths und Niederlassungsverhältnisse, Staatsbürgerrecht, Paßwesen und Fremdenpolizei und über 
+
+
+
+---
+
 ![Screenshot_20251230-101613_Samsung Notes.jpg](https://github.com/user-attachments/assets/86cb2ba2-eb81-4016-a043-0f48182bbf40)
 
 ![Screenshot_20251230-101737_Samsung Notes.jpg](https://github.com/user-attachments/assets/1048d12a-c3d9-43fc-b3ef-e88928f6fd79)
