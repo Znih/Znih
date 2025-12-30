@@ -39,7 +39,7 @@ Wir Wilhelm, von Gottes Gnaden König von Preußen
 
 thun kund und fügen hiermit im Namen des Norddeutschen Bundes zu wissen:
 
-von Nachdem die Verfassung des Norddeutschen Bundes von Uns, Seiner Majestät dem Könige von Sachsen, Seiner Königlichen Hoheit dem Großherzoge von Heffen und bei Rhein, Seiner Königlichen Hoheit dem Großherzoge von Mecklenburg Schwerin, Seiner Königlichen Hoheit dem Großberzoge Sachien Weimar Eisenach, Seiner Königlichen Hoheit dem Großherzoge von Mecklenburg-Strelis, Seiner Königlichen Hoheit dem Großberzoge von Oldenburg, Seiner Hoheit dem Herzoge von Braunschweig und Lüneburg, Seiner Hoheit dem Herzoge von Sachsen-Meiningen und Hildburghausen, Seiner Hoheit dem Herzoge zu Sachsen-Altenburg, Seiner Hoheit dem Herzoge zu Sachsen-Koburg und Gotha, Seiner Hoheit dem Herzoge von Anhalt, Seiner Durchlaucht dem Fürsten zu Schwarzburg-Rudolstadt, Seiner Durchlaucht dem Fürsten zu Schwarzburg-Sondershausen, Seiner Durchlaucht dem Fürsten zu Waldeck und Pormont, Ihrer Durchlaucht der Fürstin und Seiner Durchlaucht dem Fürsten Reuß älterer Linie, Seiner Durchlaucht dem Fürsten Reuß jüngerer Linic, Seiner Durchlaucht dem Fürsten von Schaumburg-Lippe, Seiner Durchlaucht dem Fürsten zur Lippe, dem Senate der freien und Hansestadt Lübeck, dem Senate der freien Hansestadt Bremen, dem Senate der freien und Hanse stadt Hamburg, mit dem **zu diesem Zwecke** berufenen Reichstage vereinbart worden, ist dieselbe in dem **ganzen Umfange des Norddeutschen Bundesgebietes**, wie folgt:
+Nachdem die Verfassung des Norddeutschen Bundes von Uns, Seiner Majestät dem Könige von Sachsen, Seiner Königlichen Hoheit dem Großherzoge von Heffen und bei Rhein, Seiner Königlichen Hoheit dem Großherzoge von Mecklenburg Schwerin, Seiner Königlichen Hoheit dem Großberzoge Sachien Weimar Eisenach, Seiner Königlichen Hoheit dem Großherzoge von Mecklenburg-Strelis, Seiner Königlichen Hoheit dem Großberzoge von Oldenburg, Seiner Hoheit dem Herzoge von Braunschweig und Lüneburg, Seiner Hoheit dem Herzoge von Sachsen-Meiningen und Hildburghausen, Seiner Hoheit dem Herzoge zu Sachsen-Altenburg, Seiner Hoheit dem Herzoge zu Sachsen-Koburg und Gotha, Seiner Hoheit dem Herzoge von Anhalt, Seiner Durchlaucht dem Fürsten zu Schwarzburg-Rudolstadt, Seiner Durchlaucht dem Fürsten zu Schwarzburg-Sondershausen, Seiner Durchlaucht dem Fürsten zu Waldeck und Pormont, Ihrer Durchlaucht der Fürstin und Seiner Durchlaucht dem Fürsten Reuß älterer Linie, Seiner Durchlaucht dem Fürsten Reuß jüngerer Linie, Seiner Durchlaucht dem Fürsten von Schaumburg-Lippe, Seiner Durchlaucht dem Fürsten zur Lippe, dem Senate der freien und Hansestadt Lübeck, dem Senate der freien Hansestadt Bremen, dem Senate der freien und Hanse stadt Hamburg, mit dem **zu diesem Zwecke** berufenen Reichstage vereinbart worden, ist dieselbe in dem **ganzen Umfange des Norddeutschen Bundesgebietes**, wie folgt:
 
 Bundes Gesetzbl. 1867.
 
@@ -54,11 +54,11 @@ Ausgegeben zu Berlin den 2. August 1867.
 
 ### Verfassung des Norddeutschen Bundes.
 
-Seine Majestät der König von Preußen, Seine Majestät der König von Sachsen, Seine Königliche Hoheit der Großherzog von Mecklenburg-Schwerin, Seine Königliche Hoheit der Großherzog von Sachsen-Weimar-Eisenach, Seine König-liche Hoheit der Großherzog von Mecklenburg-Strelis, Seine Königliche Sobeit der Großherzog von Oldenburg, Seine Hobeit der Herzog von Braunschweig und Lüneburg, Seine Hoheit der Herzog von Sachsen-Meiningen und Hildburghanien, Seine Hoheit der Herzog zu Sachsen-Altenburg, Seine Hoheit der Herzog zu Sachsen-Koburg und Sotha, Seine Hobeit der Herzog von Anhalt, Seine Durchs Laucht der Fürst zu Schwarzburg- Schwarzburg-Rudolstadt, Seine Durchlaucht der Fürst zu Schwarzburg-Sondershausen, Seine Durchlaucht der Fürst zu Waldeck und Por mont, Ihre Durchlaucht die Fürstin Neuß älterer Linie, Seine Durchlaucht der Fürst Neuß jüngerer Linie, Seine Duchlaucht der Fürst von Schaumburg-Lippe, Seine Durchlaucht der Fürst zur Lippe, der Senat der freien und Hansestadt Lübeck, der Senat der freien Hansestadt Bremen, der Senat der freien und Hanje stadt Hamburg, jeder für den gesammten Umfang ihres Staatsgebietes, und Seine Königliche Hobeit der Großherzog von Hessen und bei Rhein, für die nördlich vom Main belegenen Theile des Großherzogthums Hessen, **schließen einen ewigen Bund zum Schutze des Bundesgebietes** und des **innerhalb desselben gültigen Rechtes**, sowie zur **Pflege der Wohlfahrt des Deutschen Volkes**. Dieser **Bund wird den Namen des Norddeutschen führen** und wird nachstehende
+Seine Majestät der König von Preußen, Seine Majestät der König von Sachsen, Seine Königliche Hoheit der Großherzog von Mecklenburg-Schwerin, Seine Königliche Hoheit der Großherzog von Sachsen-Weimar-Eisenach, Seine Königliche Hoheit der Großherzog von Mecklenburg-Strelis, Seine Königliche Hoheit der Großherzog von Oldenburg, Seine Hoheit der Herzog von Braunschweig und Lüneburg, Seine Hoheit der Herzog von Sachsen-Meiningen und Hildburghanien, Seine Hoheit der Herzog zu Sachsen-Altenburg, Seine Hoheit der Herzog zu Sachsen-Koburg und Sotha, Seine Hoheit der Herzog von Anhalt, Seine Durchlaucht der Fürst zu Schwarzburg- Schwarzburg-Rudolstadt, Seine Durchlaucht der Fürst zu Schwarzburg-Sondershausen, Seine Durchlaucht der Fürst zu Waldeck und Por mont, Ihre Durchlaucht die Fürstin Reuß älterer Linie, Seine Durchlaucht der Fürst Reuß jüngerer Linie, Seine Duchlaucht der Fürst von Schaumburg-Lippe, Seine Durchlaucht der Fürst zur Lippe, der Senat der freien und Hansestadt Lübeck, der Senat der freien Hansestadt Bremen, der Senat der freien und Hansestadt Hamburg, jeder für den gesammten Umfang ihres Staatsgebietes, und Seine Königliche Hobeit der Großherzog von Hessen und bei Rhein, für die nördlich vom Main belegenen Theile des Großherzogthums Hessen, **schließen einen ewigen Bund zum Schutze des Bundesgebietes** und des **innerhalb desselben gültigen Rechtes**, sowie zur **Pflege der Wohlfahrt des Deutschen Volkes**. Dieser **Bund wird den Namen des Norddeutschen führen** und wird nachstehende
 
 Verfassung
 
-baben.
+haben.
 
 #### I. Bundesgebiet. Artikel 1.
 
@@ -76,3 +76,28 @@ Artikel 2.
 
 ![Screenshot_20251230-102327_Samsung Notes.jpg](https://github.com/user-attachments/assets/5c026b77-96e0-4232-9664-985172b17ff2)
 
+3
+
+nach Maaßgabe des Inhalts dieser Verfassung und mit der Wirkung aus, daß die Bundesgesetze den Landesgesetzen vorgehen. Die Bundesgeseze erhalten ihre verbindliche Kraft durch ihre Verkündigung von Bundeswegen, welche vermittelst eines Bundesgesetzblattes geschieht. Sofern nicht in dem publizirten Gesetze ein anderer Anfangstermin seiner verbindlichen Kraft bestimmt ist, beginnt die letztere mit dem **vierzehnten Tage** nach dem Ablauf desjenigen Tages, **an welchem das betreffende Stück des Bundesgesetzblattes in Berlin ausgegeben worden ist**.
+
+Artikel 3.
+
+Für den **ganzen Umfang des Bundesgebietes** besteht ein **gemeinsames Indigenat** mit der Wirkung, daß der Angehörige (Unterthan, Staatsbürger) eines jeden Bundesstaates in jedem anderen Bundesstaate als Inländer zu be handeln und demgemäß zum festen Wohnsitz, zum Gewerbebetriebe, zu öffentlichen Aemtern, zur Erwerbung von Grundstücken, zur Erlangung des Staatsbürgerrechts und zum Genusse aller sonstigen bürgerlichen Rechte unter denselben Voraussehungen wie der Einheimische zuzulassen, auch in Betreff der Rechtsverfolgung und des Rechtsschutzes demselben gleich zu behandeln ist.
+
+In der Ausübung dieser Befugniß darf der **Bundesangehörige** weder durch die Obrigkeit seiner Heimath, noch durch die Obrigkeit eines anderen Bundesstaates beschränkt werden.
+
+Diejenigen Bestimmungen, welche die Armenversorgung und die Aufnahme in den lokalen Gemeindeverband betreffen, werden durch den im ersten Abfak ausgesprochenen Grundsak nicht berührt.
+
+Ebenso bleiben bis auf Weiteres die Verträge in Kraft, welche zwischen den einzelnen Bundesstaaten in Beziehung auf die Uebernahme von Auszuweisen den, die Verpflegung erkrankter und die Beerdigung verstorbener Staatsangehörigen bestehen.
+
+Hinsichtlich der Erfüllung der Militairpflicht im Verhältniß zu dem Heimathslande wird im Wege der Bundesgesezgebung das Nöthige geordnet werden.
+
+Dem Auslande gegenüber haben alle Bundesangehörigen gleichmäßig Anspruch auf den Bundesschutz.
+
+Artikel 4.
+
+Der Beaufsichtigung Seitens des Bundes und der Gesetzgebung desselben unterliegen die nachstehenden Angelegenheiten:
+
+1) die Bestimmungen über Freizügigkeit, Heimaths- und Niederlassungsverhältnisse, Staatsbürgerrecht, Paßwesen und Fremdenpolizei und über den Gewerbebetrieb, einschließlich des Versicherungswesens, soweit diese Gegenstände nicht schon durch den Artikel 3. dieser Verfassung erledigt sind, desgleichen über die Kolonisation und die Auswanderung nach außer deutschen Ländern;
+
+2) die Zoll und Handelsgesekgebung und die für Bundeszwecke zu ver-wendenden Steuern;
