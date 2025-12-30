@@ -211,12 +211,25 @@ Der Kaiser kann, wenn die öffentliche Sicherheit in dem Bundesgebiete bedroht i
 
 #### Schlußbestimmung zum XI. Abschnitt.
 
-Die in diesem Abschnitt enthaltenen Vorschriften kommen in Bayern nach näherer Bestimmung des Bündnißvertrages vom 23. November 1870. (Bundes. gesepbl. 1871. S. 9.) unter III. §. 5., in Württemberg nach näherer Bestim mung der Militairkonvention vom 21./25. November 1870. (Bundesgesetzbl. 1870. S. 658.) zur Anwendung.
+Die in diesem Abschnitt enthaltenen Vorschriften kommen in Bayern nach näherer Bestimmung des Bündnißvertrages vom 23. November 1870. (Bundesgesetzbl. 1871. S. 9.) unter III. §. 5., in Württemberg nach näherer Bestimmung der Militairkonvention vom 21./25. November 1870. (Bundesgesetzbl. 1870. S. 658.) zur Anwendung.
 
 
 ---
 
 ![Screenshot_20251230-102025_Samsung Notes.jpg](https://github.com/user-attachments/assets/f88077f3-6d25-4774-a801-28a175fb7046)
+
+-85-
+
+weigerte oder gehenunte Rechtspflege anzunehmen, und darauf die gerichtliche Hülfe bei der Bundesregierung, die zu der Beschwerde Anlaß gegeben hat, zu bewirken.
+
+#### XIV. Allgemeine Bestimmungen.
+
+**Artikel 78.**
+
+Veränderungen der Verfassung erfolgen im Wege der Gesetzgebung. Sie gelten als abgelehnt, wenn sie im Bundesrathe 14 Stimmen gegen sich haben. Diejenigen Vorschriften der Reichsverfassung, durch welche bestimmte Rechte einzelner Bundesstaaten in deren Verhältniß zur Gesammtheit festgestellt sind, können nur mit Zustimmung des berechtigten Bundesstaates abgeändert werden.
+
+
+---
 
 ![Screenshot_20251230-102118_Samsung Notes.jpg](https://github.com/user-attachments/assets/20739d92-e668-46c5-a4c4-60eaa7c3cc9f)
 
