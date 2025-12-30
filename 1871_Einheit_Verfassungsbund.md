@@ -1,5 +1,30 @@
 ### **Einigungswerk**
 
+#### I. Bundesgebiet. 
+
+Artikel 1. verkürzt 
+
+Das **Bundesgebiet besteht aus den Staaten** im ewigen Bunde (z.B. Preußen mit Lauenburg, Sachsen, Mecklenburg-Schwerin, Sachsen-Weimar, Mecklenburg-Strelitz, Oldenburg, Braunschweig, Sachsen-Meiningen, Sachsen-Altenburg, Sacdien-Roburg-Gotha, Anhalt, Schwarzburg-Rudolstadt, Schwarzburg-Sondershausen, Waldeck, Reuß älterer Linie, Reuß jüngerer Linie, Schaumburg-Lippe, Lippe, Lübeck, Bremen, Hamburg, und aus den nördlich vom Main belegenen Theiten des Großherzogthums Hessen).
+
+
+#### II. Bundesgesetzgebung. 
+
+Artikel 2. 1870
+
+**Innerhalb dieses Bundesgebietes** übt der **Bund** das **Recht** der Gesetzgebung nach Maaßgabe des Inhalts dieser Verfassung und mit der Wirkung aus, daß die Bundesgesetze den Landesgesetzen vorgehen. Die Bundesgesetze erhalten ihre verbindliche Kraft durch ihre Verkündigung von Bundeswegen, welche vermittelst eines Bundesgesetzblattes geschieht. Sofern nicht in dem publizirten Gesetze ein anderer Anfangstermin seiner verbindlichen Kraft bestimmt ist, beginnt die letztere mit dem **vierzehnten Tage** nach dem Ablauf desjenigen Tages, **an welchem das betreffende Stück des Bundesgesetzblattes in Berlin ausgegeben worden ist**.
+
+
+
+
+
+**Artikel 3.** bereichert bei Sinnerhalt zur besseren Lesbarkeit.
+
+Für **ganz Deutschland** als "*ganzen Umfang des Bundesgebietes*" besteht eine zusätzliche Bundesangehörigkeit mit der Eigenschaft als Deutscher (§ 1 BuStAG v. 1870) mit der Wirkung, daß der **Staatsangehörige** (Unterthan, Staatsbürger, z.B Preuße, Bayer, Sachse als principale) eines jeden Bundesstaates in jedem anderen Bundesstaate als Inländer zu behandeln und demgemäß zum Genusse aller staatsbürgerlichen Rechte unter denselben Voraussetzungen wie der Einheimische zuzulassen, auch in Betreff der Rechtsverfolgung und des Rechtsschutzes demselben gleich zu behandeln ist (Staatsbürger u. Bundesbürger).
+
+**Kein Deutscher** Bundesbürger darf in der Ausübung dieser Befugniß durch die Obrigkeit seiner Heimath, oder durch die Obrigkeit eines anderen Bundesstaates beschränkt werden.
+
+---
+
 Gesetzblatt Faksimiles des Bundesverfassungsrechtes gemäß Deutschem Grundgesetz v. 1820 als Recht-Fundament des Bundes.  Bundesrecht. Entwicklung Art. 1-3 BVerf. u. BuStAG 1867-1871. Es fehlt das Zollparlament 1866.
 
 ![Screenshot_20251230-101458_Samsung Notes.jpg](https://github.com/user-attachments/assets/43d3bd03-fc71-4fe6-ad6c-39b3aa060b57)
@@ -87,7 +112,7 @@ Innerhalb dieses Bundesgebietes übt das Reich das Recht der Gesetzgebung nach M
 
 **Artikel 3.**
 
-Für **ganz Deutschland** besteht ein **gemeinsames Indigenat** mit der Wirkung, daß der **Angehörige** (Unterthan, Staatsbürger) eines jeden Bundesstaates in jedem anderen Bundesstaate als Inländer zu behandeln und demgemäß zum zum festen Wohnsiz, zum Gewerbebetriebe, zu öffentlichen Aemtern, zur Erwerbung von Grundstucken, zur Erlangung des Staatsbürgerrechtes und zum Genusse aller sonstigen bürgerlichen Rechte unter denselben Voraussetzungen wie der Einheimische zuzulassen, auch in Betreff der Rechtsverfolgung und des Rechtsschutzes demselben gleich zu behandeln ist.
+Für **ganz Deutschland** besteht ein **gemeinsames Indigenat** mit der Wirkung, daß der **Angehörige** (Unterthan, Staatsbürger) eines jeden Bundesstaates in jedem anderen Bundesstaate als Inländer zu behandeln und demgemäß zum zum festen Wohnsitz, zum Gewerbebetriebe, zu öffentlichen Aemtern, zur Erwerbung von Grundstucken, zur Erlangung des Staatsbürgerrechtes und zum Genusse aller sonstigen bürgerlichen Rechte unter denselben Voraussetzungen wie der Einheimische zuzulassen, auch in Betreff der Rechtsverfolgung und des Rechtsschutzes demselben gleich zu behandeln ist.
 
 **Kein Deutscher** darf in der Ausübung dieser Befugniß durch die Obrigkeit seiner Heimath, oder durch die Obrigkeit eines anderen Bundesstaates beschränkt werden.
 
@@ -389,11 +414,11 @@ Artikel 2.
 
 -3-
 
-nach Maaßgabe des Inhalts dieser Verfassung und mit der Wirkung aus, daß die Bundesgesetze den Landesgesetzen vorgehen. Die Bundesgeseze erhalten ihre verbindliche Kraft durch ihre Verkündigung von Bundeswegen, welche vermittelst eines Bundesgesetzblattes geschieht. Sofern nicht in dem publizirten Gesetze ein anderer Anfangstermin seiner verbindlichen Kraft bestimmt ist, beginnt die letztere mit dem **vierzehnten Tage** nach dem Ablauf desjenigen Tages, **an welchem das betreffende Stück des Bundesgesetzblattes in Berlin ausgegeben worden ist**.
+nach Maaßgabe des Inhalts dieser Verfassung und mit der Wirkung aus, daß die Bundesgesetze den Landesgesetzen vorgehen. Die Bundesgesetze erhalten ihre verbindliche Kraft durch ihre Verkündigung von Bundeswegen, welche vermittelst eines Bundesgesetzblattes geschieht. Sofern nicht in dem publizirten Gesetze ein anderer Anfangstermin seiner verbindlichen Kraft bestimmt ist, beginnt die letztere mit dem **vierzehnten Tage** nach dem Ablauf desjenigen Tages, **an welchem das betreffende Stück des Bundesgesetzblattes in Berlin ausgegeben worden ist**.
 
 Artikel 3.
 
-Für den **ganzen Umfang des Bundesgebietes** besteht ein **gemeinsames Indigenat** mit der Wirkung, daß der Angehörige (Unterthan, Staatsbürger) eines jeden Bundesstaates in jedem anderen Bundesstaate als Inländer zu be handeln und demgemäß zum festen Wohnsitz, zum Gewerbebetriebe, zu öffentlichen Aemtern, zur Erwerbung von Grundstücken, zur Erlangung des Staatsbürgerrechts und zum Genusse aller sonstigen bürgerlichen Rechte unter denselben Voraussehungen wie der Einheimische zuzulassen, auch in Betreff der Rechtsverfolgung und des Rechtsschutzes demselben gleich zu behandeln ist.
+Für den **ganzen Umfang des Bundesgebietes** besteht ein **gemeinsames Indigenat** mit der Wirkung, daß der **Angehörige** (Unterthan, Staatsbürger) eines jeden Bundesstaates in jedem anderen Bundesstaate als Inländer zu behandeln und demgemäß zum festen Wohnsitz, zum Gewerbebetriebe, zu öffentlichen Aemtern, zur Erwerbung von Grundstücken, zur Erlangung des Staatsbürgerrechts und zum Genusse aller sonstigen bürgerlichen Rechte unter denselben Voraussehungen wie der Einheimische zuzulassen, auch in Betreff der Rechtsverfolgung und des Rechtsschutzes demselben gleich zu behandeln ist.
 
 In der Ausübung dieser Befugniß darf der **Bundesangehörige** weder durch die Obrigkeit seiner Heimath, noch durch die Obrigkeit eines anderen Bundesstaates beschränkt werden.
 
