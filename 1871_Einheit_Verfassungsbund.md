@@ -28,6 +28,43 @@ Gesetzblatt Faksimiles des Bundesverfassungsrechtes gemäß Deutschem Grundgeset
 
 ![Screenshot_20251230-102239_Samsung Notes.jpg](https://github.com/user-attachments/assets/a9c967b9-39b1-4399-a59c-4181926e8a52)
 
+
+Bundes-Gesetzblatt des Norddeutschen Bundes № 20 Seite 355
+
+(Nr. 510.) Gesetz über die Erwerbung und den Verlust der Bundes- und Staatsangehörigkeit. Vom 1. Juni 1870.
+
+Wir Wilhelm, von Gottes Gnaden König von Preußen 2c. verordnen im Namen des Norddeutschen Bundes, nach erfolgter Zustimmung des Bundesrathes und des Reichstages, was folgt:
+
+§. 1.
+
+Die **Bundesangehörigkeit** wird durch die **Staatsangehörigkeit in einem Bundesstaate** erworben und erlischt mit deren Verlust.
+
+Angehörige des Großherzogthums Hessen besitzen die Bundesangehörigkeit nur dann, wenn sie in den zum Bunde gehörigen Theilen des Großherzogthums heimathsberechtigt sind.
+
+§. 2.
+
+Die Staatsangehörigkeit in einem Bundesstaate **wird fortan nur begründet**:
+
+1) **durch Abstammunung** (§. 3.),
+
+2) durch Legitimation (§. 4.),
+
+3) durch Verheirathung (§. 5.),
+
+4) für einen Norddeutschen durch Aufnahme und 5) für einen Ausländer durch Naturalisation } (SS. 6. ff.). Die Adoption hat für sich allein diese Wirkung nicht.
+
+§. 3.
+
+**Durch die Geburt**, auch wenn diese in Auslande erfolgt, erwerben eheliche Kinder eines Norddeutschen die Staatsangehörigkeit des Vaters, uneheliche Kinder einer Norddeutschen die Staatsangehörigkeit der Mutter.
+
+§. 4. Ist der Vater cines unehelichen Kindes ein Norddeutscher und besitzt die Bundes Gesezbl. 1870.
+
+
+Ausgegeben zu Berlin den 23. Juni 1870.
+
+
+---
+
 ![Screenshot_20251230-102258_Samsung Notes.jpg](https://github.com/user-attachments/assets/21a6117d-76d5-41ec-9ebe-404ad5452933)
 
 
