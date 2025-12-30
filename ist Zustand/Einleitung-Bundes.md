@@ -35,7 +35,7 @@ https://github.com/Znih/Znih/blob/main/Friede-1871.md GBl. Faksimiles BGBl. 1871
 
 ---
 
-Einigungswerk (Teil 2 durch Verfassungsbündnis zum "ewigen Bund" v. 1871, der sich fortan lediglich "*Deutsches Reich*" nannte oder so zu verstehen war (s. BuStAG 1870 vs. RuStAG 1913):
+Einigungswerk (Teil 2 durch Verfassungsbündnis zum "ewigen Bund" v. 1871, der sich fortan lediglich "*Deutsches Reich*" nannte oder so zu verstehen war (s. BuStAG 1870 vs. RuStAG 1913): https://github.com/Znih/Znih/blob/main/1871_Einheit_Verfassungsbund.md BGBl. Faksimile Auszüge 1867-1871.
 
 
 
