@@ -10,34 +10,25 @@
 
 ### **Kernaussagen der Wiener Schlussakte:**
 
-#### **1. Rechtsverbindlichkeit und Stärkung des Bundes**
-- Der Beschluss vom 8. Juni 1820 erklärte die Schlussakte als **Grundgesetz des Deutschen Bundes**. 
-- Ziel war die Sicherung der Unabhängigkeit der deutschen Staaten, die Verlässlichkeit der Bundesakte von 1815 und die Implementierung dauerhafter Friedens- und Sicherheitsmechanismen.
+#### **1. Rechtsverbindlichkeit und Stärkung des Bundes** (Bundesrecht)
+
+
+Wo kommen wir her und wo wollen wir hin?
+
+Der Beschluss vom 8. Juni 1820 erklärte die Schlussakte zum **Grundgesetz des Deutschen Bundes**. Ziel war seinerzeit die Sicherung der Unabhängigkeit der deutschen Staaten, die Verlässlichkeit der Bundesakte von 1815 und die Implementierung dauerhafter Friedens- und Sicherheitsmechanismen. Der Grundstein für einen ewigen Bund wurde 1815 gelegt, mit einem Fokus auf rechtliche Gleichheit und wechselseitigen Schutz. Erst die **Schlussakte 1820** festigte diese Prinzipien, verlieh ihnen jedoch größere gesetzliche Verbindlichkeit (Art. I) und band sie zunächst an die fortlaufenden politischen und administrativen Prozesse der Bundesversammlung (Art. II), im Geltungsbereich dieses Grundgesetzes (Art. III). Letzterer definiert den Umfang und die Grenzen der Wirksamkeit des Bundes, ähnlich einer Verfassung. Die Art. XII–XIV der Schlussakte enthielten den Auftrag zur Schaffung von Rechtssicherheit, um in den Gliedstaaten durch Landständische Verfassungen den Unterthanen (lokalen) Schutz für ihre Rechte zu garantieren.
+
+Die Wiener Schlussakte stellte sicher, dass der Deutsche Bund auf einem stabilen Bundesrecht-Fundament aufgebaut blieb aber nicht stehen blieb. Aus Unterthanen wurden sukzessive Staatsunterthanen, die Staatsangehörigen und Staatsbürger in den deutschen Staaten, die ab 1867 zu Bundesstaaten wurden und ab 1871 zusätzlich zur deutschen Staatsangehörigkeit in einem dieser Bundesstaaten mittelbar eine Bundesangehörigkeit samt Bundesbürgerschaft oben drauf (BuStAG iVm. Art. 3 BVerf. v. 1871, principale, Zweifachstatus, doppelt Rechtschutz).
+
+Das BuStAG von 1870 war also ein logischer nächster Schritt, der bundesstaatliche Angelegenheiten auch im Kontext moderner Nationalstaaten föderal weiterentwickelte.
+
+---
 
 
 
 
 ---
 
-### **Vergleich zur Bundesakte von 1815 und spätere Entwicklung:**
-- **Bundesakte 1815:** Der Grundstein für einen ewigen Bund wurde gelegt, mit einem Fokus auf rechtliche Gleichheit und wechselseitigen Schutz.
-- **Schlussakte 1820:** Festigte diese Prinzipien, verlieh ihnen jedoch größere gesetzliche Verbindlichkeit und band sie an die fortlaufenden politischen und administrativen Prozesse der Bundesversammlung.
-- **BuStAG 1870:** Ein logischer nächster Schritt, der bundesstaatliche Angelegenheiten auch im Kontext moderner Nationalstaaten weiterentwickelte.
-
----
-
-
-
-- **Art. I:** Der Deutsche Bund wird als ein "völkerrechtlicher Verein" dargestellt, dessen Zweck die Bewahrung der Unabhängigkeit und Unverletzlichkeit der im Bund vereinigten souveränen Staaten ist.  
-- **Art. II:** Intern fungiert der Bund als Gemeinschaft unabhängiger Staaten, extern jedoch als politisch einheitliche Gesamtheit.  
-- **Art. III:** Die Bundesakte definiert den Umfang und die Grenzen der Wirksamkeit des Bundes, ähnlich einer Verfassung.  
-- **Art. IV:** Die Entwicklung und Erweiterung der Bundesakte ist der gemeinsamen Entscheidung aller Mitglieder vorbehalten.
-
-Art. XII–XIV der Schlussakte enthielten den Auftrag zur Schaffung von Rechtssicherheit, um in den Bundesstaaten durch Landständische Verfassungen den Unterthanen (lokalen) Schutz für ihre Rechte zu garantieren.
-
----
-
-Die Wiener Schlussakte stellte sicher, dass der Deutsche Bund auf einem stabilen Rechtsfundament aufgebaut blieb. Im Vergleich zu späteren Regelungen wie dem Versailler Vertrag von 1919 zeigt sie einen Ansatz eines biophilen Bündnisses, das Kooperation und gemeinsame Sicherheit in den Vordergrund stellte.
+ Im Vergleich zu späteren Regelungen wie dem Versailler Vertrag von 1919 zeigt sie einen Ansatz eines biophilen Bündnisses, das Kooperation und gemeinsame Sicherheit in den Vordergrund stellte.
 
 
 
@@ -51,7 +42,7 @@ https://github.com/Znih/Znih/blob/main/1820_Deutsches-Grundgesetz-No-2.md
 ---
 ---
 
-Aus Unterthanen wurden sukzessive Staatsunterthanen, die Staatsangehörigen in den deutschen Staaten, ab 1867 Bundesstaaten.
+
 
 Mit Friedenswerk und Einigungswerk als "Wiederherstellung der Freiheit und Einheit Deutschlands" galt Wien quasi insoweit übererfüllt. Friede 1871 und Deutschland wuchs im Frieden und verliert selbst den gewonnenen Krieg.
 
