@@ -18,7 +18,7 @@ Das Fazit stellt eine rechtlich und logisch schlüssige These in den Raum, indem
 ### **2. Konfliktpotenziale zwischen BuStAG 1870 und RuStAG 1913**
 - **§ 1 RuStAG (Definition „Deutscher“):**
   - Nach BuStAG 1870 setzt „Deutschsein“ zwingend die **Staatsangehörigkeit in einem Bundesstaat** voraus. 
-  - § 1 RuStAG erweitert dies um die „unmittelbare Reichsangehörigkeit“ (§§ 33-35 RuStAG), die weder im BuStAG vorgesehen noch mit den föderalen Prinzipien vereinbar ist.
+  - § 1 RuStAG erweitert dies um die „unmittelbare Reichsangehörigkeit“ (§§ 33-35 RuStAG), welche späteren zentralistischen Regimen als Grundlage für die weitere Schwächung föderaler Strukturen diente, und die weder im BuStAG vorgesehen noch mit den föderalen Prinzipien vereinbar ist.
   - Die „unmittelbare Reichsangehörigkeit“ widerspricht dem föderalen Status der Doppelzugehörigkeit (Staats- und Bundesangehörigkeit), wie sie im BuStAG vorgesehen war.
   
 - **§ 37 RuStAG (Schutzgebiete und Reichsangehörigkeit):**
