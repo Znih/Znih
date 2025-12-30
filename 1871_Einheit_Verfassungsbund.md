@@ -19,9 +19,9 @@ Artikel 2. 1870
 
 **Artikel 3.** 1870 bereichert bei Sinnerhalt zur besseren Lesbarkeit.
 
-Für **ganz Deutschland** als "*ganzen Umfang des Bundesgebietes*" besteht eine zusätzliche Bundesangehörigkeit mit der Eigenschaft als Deutscher, welche in § 1 BuStAG v. 1870 definiert und genau geregelt wird mit der Wirkung, daß der **Staatsangehörige** (Unterthan, Staatsbürger, z.B Preuße, Bayer, Sachse als principale) eines jeden Bundesstaates in jedem anderen Bundesstaate als Inländer zu behandeln und demgemäß zum Genusse aller staatsbürgerlichen Rechte unter denselben Voraussetzungen wie der Einheimische zuzulassen, auch in Betreff der Rechtsverfolgung und des Rechtsschutzes demselben gleich zu behandeln ist (Staatsbürger u. Bundesbürger).
+> Für ganz Deutschland im Sinne des "*ganzen Umfang des Bundesgebietes*" (Art. 1) besteht eine zusätzliche Bundesangehörigkeit (mit der Eigenschaft als "*Deutscher*"), welche in § 1 BuStAG v. 1870 erstmalig definiert und genau geregelt wird, mit der Wirkung, daß der Staatsangehörige (Unterthan, Staatsbürger, z.B Preuße, Bayer, Sachse als principale) eines jeden Bundesstaates in jedem anderen Bundesstaate als Inländer zu behandeln und demgemäß zum Genusse aller bürgerlichen Rechte im Bundesgebiete (Art. 1) unter denselben Voraussetzungen wie der Einheimische zuzulassen, auch in Betreff der Rechtsverfolgung und des Rechtsschutzes demselben gleich zu behandeln ist (Art. 2, Art. 3 I lt. Hs.).
 
-**Kein Deutscher** Bundesbürger darf in der Ausübung dieser Befugniß durch die Obrigkeit seiner Heimath, oder durch die Obrigkeit eines anderen Bundesstaates beschränkt werden.
+> Kein Deutscher Bundesbürger (Art. 3 I lt. Hs., Art. 3 II) darf in der Ausübung dieser Befugniß durch die Obrigkeit seiner Heimath, oder durch die Obrigkeit eines anderen Bundesstaates beschränkt werden.
 
 ---
 
