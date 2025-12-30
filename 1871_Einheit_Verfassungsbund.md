@@ -51,11 +51,40 @@ Innerhalb dieses **Bundesgebietes** übt der **Bund** das **Recht** der Gesetzge
 
 Ausgegeben zu Berlin den 31. Dezember 1870.
 
-47/127
 
 ---
 
 ![Screenshot_20251230-102126_Samsung Notes.jpg](https://github.com/user-attachments/assets/eed7ee3f-960f-42c4-b7e1-30b8e2929a7b)
+
+
+-628-
+
+die Bundesgesetze den Landesgesetzen vorgehen. Die Bundesgesetze erhalten ihre verbindliche Kraft durch ihre Verkündigung von Bundes wegen, welche vermittelst eines Bundesgesetzblattes geschieht. Sofern nicht in dem publizirten Gesetze ein anderer Anfangsterinin seiner verbindlichen Kraft bestimmt ist, beginnt die letztere mit dem vierzehnten Tage nach dem Ablauf desjenigen Tages, an welchem das betreffende Stück des Bundesgesezblattes in Berlin ausgegeben worden ist.
+
+
+Artikel 3.
+
+Für den **ganzen Umfang des Bundesgebietes** besteht ein **gemeinsames Indigenat** mit der Wirkung, daß der Angehörige (Unterthan, Staatsburger) eines jeden Bundesstaates in jedem anderen Bundesstaate als Inländer zu behandeln und demgemäß zum festen Wohnsitz, zum Gewerbebetriebe, zu öffentlichen Aemtern, zur Erwerbung von Grundstücken, zur Erlangung des Staatsbürgerrechtes und zum Genusse aller sonstigen bürgerlichen Rechte unter denselben Voraus. setzungen wie der Einheimische zuzulassen, auch in Betreff der Rechtsverfolgung und des Rechtsschutzes demselben gleich zu behandeln ist.
+
+In der Ausübung dieser Befugniß darf der Bundesangehörige weder durch die Obrigkeit seiner Heimath, noch durch die Obrigkeit eines anderen Bundesstaates beschränkt werden.
+
+Diejenigen Bestimmungen, welche die Armenversorgung und die Aufnahme in den lokalen Gemeindeverband betreffen, werden durch den im ersten Absatz ausgesprochenen Grundsatz nicht berührt.
+
+Ebenso bleiben bis auf Weiteres die Verträge in Kraft, welche zwischen den einzelnen Bundesstaaten in Beziehung auf die Uebernahme von Auszuweisenden, die Verpflegung erkrankter und die Beerdigung verstorbener Staatsange hörigen bestehen.
+
+Hinsichtlich der Erfüllung der Militairpflicht im Verhältniß zu dem Hei mathslande wird im Wege der Bundesgesetzgebung das Nöthige geordnet werden.
+
+Dem Auslande gegenüber haben alle Bundesangehörigen gleichmäßig Anspruch auf den Bundesschutz.
+
+Artikel 4.
+
+Der Beaufsichtigung Seitens des Bundes und der Gesezgebung desselben unterliegen die nachstehenden Angelegenheiten:
+
+1) die Bestimmungen über Freizügigkeit, Heimaths und Niederlassungsverhältnisse, Staatsbürgerrecht, Paßwesen und Fremdenpolizei und über den Gewerbebetrieb, einschließlich des Versicherungswesens, soweit diese Gegenstände nicht schon durch den Artikel 3. dieser Verfassung erledigt sind, desgleichen über die Kolonisation und die Auswanderung nach außerdeutschen Ländern;
+
+2) die Zoll und Handelsgesetzgebung und die für Bundeszwecke zu verwen denden Steuern;
+
+3) die
 
 
 ---
