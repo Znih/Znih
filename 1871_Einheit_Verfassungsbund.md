@@ -115,6 +115,42 @@ Der Beaufsichtigung Seitens des Reichs und der Gesezgebung desselben. unterliege
 
 ![Screenshot_20251230-101757_Samsung Notes.jpg](https://github.com/user-attachments/assets/ecc194f9-8cad-416f-8efd-f4bb3ee325f3)
 
+
+-69-
+
+Artikel 10.
+
+Dem Kaiser liegt es ob, den Mitgliedern des Bundesrathes den üblichen diplomatischen Schutz zu gewähren.
+
+#### IV. Präsidium.
+
+Artikel 11.
+
+Das **Präsidium des Bundes** steht dem Könige von Preußen zu, welcher **den Namen Deutscher Kaiser führt**. Der Kaiser hat das Reich völkerrechtlich zu vertreten, im Namen des Reichs Krieg zu erklären und Frieden zu schließen, Bündnisse und andere Verträge mit fremden Staaten einzugehen, Gesandte zu beglaubigen und zu empfangen. **Zur Erklärung des Krieges im Namen des Reichs ist die Zustimmung des Bundesrathes erforderlich, es sei denn, daß ein Angriff auf das Bundesgebiet oder dessen Küsten erfolgt.** Insoweit die Verträge mit fremden Staaten sich auf solche Gegenstände beziehen, welche nach Artikel 4. in den Bereich der Reichsgesetzgebung gehören, ist zu ihrem Abschluß die Zustimmung des Bundesrathes und zu ihrer Gültigkeit die Genehmigung des Reichstages erforderlich.
+
+Artikel 12.
+
+Dem Kaiser steht es zu, den Bundesrath und den Reichstag zu berufen, zu eröffnen, zu vertagen und zu schließen.
+
+Artikel 13.
+
+Die Berufung des Bundesrathes und des Reichstages findet alljährlich statt und kann der Bundesrath zur Vorbereitung der Arbeiten ohne den Reichs. tag, lekterer aber nicht ohne den Bundesrath berufen werden.
+
+Artikel 14.
+
+Die Berufung des Bundesrathes muß erfolgen, sobald sie von einem Drittel der Stimmenzahl verlangt wird.
+
+Artikel 15.
+
+Der Vorsitz im Bundesrathe und die Leitung der Geschäfte steht dein Reichskanzler zu, welcher vom Kaiser zu ernennen ist. Der Reichskanzler kann sich durch jedes andere Mitglied des Bundesrathes vermöge schriftlicher Substitution vertreten lassen.
+
+Artikel 16.
+
+Die erforderlichen Vorlagen werden nach Maßgabe der Beschlüsse des Bundesrathes im Namen des Kaisers an den Reichstag gebracht, wo sie durch Mitglieder des Bundesrathes oder durch besondere von legterem zu ernennende Kommissarien vertreten werden.
+
+
+---
+
 ![Screenshot_20251230-101858_Samsung Notes.jpg](https://github.com/user-attachments/assets/200cab14-8960-4309-95c7-17cedf03574c)
 
 ![Screenshot_20251230-101955_Samsung Notes.jpg](https://github.com/user-attachments/assets/0e69305e-680c-48ea-866f-235afe9294c7)
