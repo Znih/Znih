@@ -4,6 +4,36 @@ Gesetzblatt Faksimiles des Bundesverfassungsrechtes gemäß Deutschem Grundgeset
 
 ![Screenshot_20251230-101458_Samsung Notes.jpg](https://github.com/user-attachments/assets/43d3bd03-fc71-4fe6-ad6c-39b3aa060b57)
 
+Bundes-Gesekblatt des Deutschen Bundes № 16 Seite 63
+
+(Nr. 628.) Gesetz betreffend die Verfassung des Deutschen Reichs. Vom 16. April 1871.
+
+Wir
+
+Wilhelm, von Gottes Gnaden Deutscher Kaiser, König von Preußen 22.
+
+verordnen hiermit im Namen des Deutschen Reichs, nach erfolgter Zustimmung des Bundesrathes und des Reichstages, was folgt:
+
+
+§. 1.
+
+An die Stelle der zwischen dem Norddeutschen Bunde und den Großherzog. thumern Baden und Hessen vereinbarten Verfassung des Deutschen Bundes (Bundesgesetzbl. vom Jahre 1870. S. 627. ff.), sowie der mit den Königreichen Bayern und Württemberg über den Beitritt zu dieser Verfassung geschlossenen Verträge vom 23. und 25. November 1870. (Bundesgesetzbl. vom Jahre 1871. S. 9. ff. und vom Jahre 1870. S. 654. ff.) tritt die beigefügte
+
+#### Verfassungs-Urkunde für das Deutsche Reich.
+
+§. 2.
+
+Die Bestimmungen in Artikel 80. der in §. 1. gedachten Verfassung des Deutschen Bundes (Bundesgesetzbl. vom Jahre 1870. S. 647.), unter III. §. 8. des Vertrages mit Bayern vom 23. November 1870. (Bundesgesetzbl. vom Jahre 1871. S. 21. ff.), in Artikel 2. Nr. 6. des Vertrages mit mit Wür Württemberg vom 25. November 1870. (Bundesgesetzbl. vom Jahre 1870. S. 656.), über die Einführung der im Norddeutschen Bunde ergangenen Gesetze in diesen Staaten bleiben in Kraft.
+
+Die dort bezeichneten Gesetze sind Reichsgesetze. Wo in denselben von dem Norddeutschen Bunde, dessen Verfassung, Gebiet, Mitgliedern oder Staaten, Indigenat, verfassungsmäßigen Organen, Angehörigen, Beamten, Flagge u. s. w. **die Rede ist, sind das Deutsche Reich und dessen entsprechende Beziehungen zu verstehen.**
+
+Bundes Gesetzbl. 1871.
+
+Ausgegeben zu Berlin den 20. April 1871.
+
+
+---
+
 ![Screenshot_20251230-101508_Samsung Notes.jpg](https://github.com/user-attachments/assets/b2e518cc-fa10-4cd5-91c9-9b137abe5f77)
 
 ![Screenshot_20251230-101527_Samsung Notes.jpg](https://github.com/user-attachments/assets/9214cbdb-409f-4222-948b-94b152467500)
