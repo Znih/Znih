@@ -17,13 +17,13 @@ verordnen hiermit im Namen des Deutschen Reichs, nach erfolgter Zustimmung des B
 
 §. 1.
 
-An die Stelle der zwischen dem Norddeutschen Bunde und den Großherzog. thumern Baden und Hessen vereinbarten Verfassung des Deutschen Bundes (Bundesgesetzbl. vom Jahre 1870. S. 627. ff.), sowie der mit den Königreichen Bayern und Württemberg über den Beitritt zu dieser Verfassung geschlossenen Verträge vom 23. und 25. November 1870. (Bundesgesetzbl. vom Jahre 1871. S. 9. ff. und vom Jahre 1870. S. 654. ff.) tritt die beigefügte
+An die Stelle der zwischen dem Norddeutschen Bunde und den Großherzogthümern Baden und Hessen vereinbarten Verfassung des Deutschen Bundes (Bundesgesetzbl. vom Jahre 1870. S. 627. ff.), sowie der mit den Königreichen Bayern und Württemberg über den Beitritt zu dieser Verfassung geschlossenen Verträge vom 23. und 25. November 1870. (Bundesgesetzbl. vom Jahre 1871. S. 9. ff. und vom Jahre 1870. S. 654. ff.) tritt die beigefügte
 
 #### Verfassungs-Urkunde für das Deutsche Reich.
 
 §. 2.
 
-Die Bestimmungen in Artikel 80. der in §. 1. gedachten Verfassung des Deutschen Bundes (Bundesgesetzbl. vom Jahre 1870. S. 647.), unter III. §. 8. des Vertrages mit Bayern vom 23. November 1870. (Bundesgesetzbl. vom Jahre 1871. S. 21. ff.), in Artikel 2. Nr. 6. des Vertrages mit mit Wür Württemberg vom 25. November 1870. (Bundesgesetzbl. vom Jahre 1870. S. 656.), über die Einführung der im Norddeutschen Bunde ergangenen Gesetze in diesen Staaten bleiben in Kraft.
+Die Bestimmungen in Artikel 80. der in §. 1. gedachten Verfassung des Deutschen Bundes (Bundesgesetzbl. vom Jahre 1870. S. 647.), unter III. §. 8. des Vertrages mit Bayern vom 23. November 1870. (Bundesgesetzbl. vom Jahre 1871. S. 21. ff.), in Artikel 2. Nr. 6. des Vertrages mit Württemberg vom 25. November 1870. (Bundesgesetzbl. vom Jahre 1870. S. 656.), über die Einführung der im Norddeutschen Bunde ergangenen Gesetze in diesen Staaten bleiben in Kraft.
 
 Die dort bezeichneten Gesetze sind Reichsgesetze. Wo in denselben von dem Norddeutschen Bunde, dessen Verfassung, Gebiet, Mitgliedern oder Staaten, Indigenat, verfassungsmäßigen Organen, Angehörigen, Beamten, Flagge u. s. w. **die Rede ist, sind das Deutsche Reich und dessen entsprechende Beziehungen zu verstehen.**
 
@@ -42,7 +42,7 @@ Dasselbe gilt von denjenigen im Norddeutschen Bunde ergangenen Gesetzen, welche 
 
 §. 3.
 
-Die Vereinbarungen in dem zu Versailles am 15. November 1870. auf. genommenen Protokolle (Bundesgesekbl. vom Jahre 1870. S. 650. ff.), in der Verhandlung zu Berlin vom 25. November 1870. (Bundesgesetzbl. vom Jahre 1870. S. 657.), dem Schlußprotokolle vom 23. November 1870. (Bundes. gesezbl. vom Jahre 1871. 5. 23. ff.), sowie unter IV. des Vertrages mit Bayern vom 23. November 1870. (a. a. D. S. 21. ff.) werden durch dieses Gesetz nicht berührt.
+Die Vereinbarungen in dem zu Versailles am 15. November 1870. aufgenommenen Protokolle (Bundesgesetzbl. vom Jahre 1870. S. 650. ff.), in der Verhandlung zu Berlin vom 25. November 1870. (Bundesgesetzbl. vom Jahre 1870. S. 657.), dem Schlußprotokolle vom 23. November 1870. (Bundesgesetzbl. vom Jahre 1871. 5. 23. ff.), sowie unter IV. des Vertrages mit Bayern vom 23. November 1870. (a. a. D. S. 21. ff.) werden durch dieses Gesetz nicht berührt.
 
 Urkundlich unter Unserer Höchsteigenhändigen Unterschrift und beigedrucktem Kaiserlichen Infiegel.
 
@@ -52,7 +52,7 @@ Gegeben Berlin, den 16. April 1871.
 
 Wilhelm.
 
-Fürst v. Bismarď.
+Fürst v. Bismarck.
 
 ### Verfassung Deutschen Reichs.
 
@@ -83,7 +83,7 @@ Sachsen-Altenburg, Sachsen Koburg Gotha, Anhalt, Schwarzburg Rudolstadt, Schwarz
 
 **Artikel 2.**
 
-Innerhalb dieses Bundesgebietes übt das Reich das Recht der Gesetzgebung nach Maßgabe des Inhalts dieser Verfassung und mit der Wirkung aus, daß die Reichsgeseke den Landesgesehen vorgehen. Die Reichsgeseze erhalten ihre verbindliche Kraft durch ihre Verkündigung von Reichswegen, welche vermittelst eines Reichsgesekblattes geschieht. Sofern nicht in dem publizirten Geseze ein anderer Anfangstermin seiner verbindlichen Kraft bestimmt ist, beginnt die lektere mit dem vierzehnten Tage nach dem Ablauf desjenigen Lages, an welchem das betreffende Stück des Reichsgesetzblattes in Berlin ausgegeben worden ist.
+Innerhalb dieses Bundesgebietes übt das Reich das Recht der Gesetzgebung nach Maßgabe des Inhalts dieser Verfassung und mit der Wirkung aus, daß die Reichsgesetze den Landesgesehen vorgehen. Die Reichsgesetze erhalten ihre verbindliche Kraft durch ihre Verkündigung von Reichswegen, welche vermittelst eines Reichsgesetzblattes geschieht. Sofern nicht in dem publizirten Gesetze ein anderer Anfangstermin seiner verbindlichen Kraft bestimmt ist, beginnt die letztere mit dem vierzehnten Tage nach dem Ablauf desjenigen Tages, an welchem das betreffende Stück des Reichsgesetzblattes in Berlin ausgegeben worden ist.
 
 **Artikel 3.**
 
@@ -142,11 +142,11 @@ Die Berufung des Bundesrathes muß erfolgen, sobald sie von einem Drittel der St
 
 Artikel 15.
 
-Der Vorsitz im Bundesrathe und die Leitung der Geschäfte steht dein Reichskanzler zu, welcher vom Kaiser zu ernennen ist. Der Reichskanzler kann sich durch jedes andere Mitglied des Bundesrathes vermöge schriftlicher Substitution vertreten lassen.
+Der Vorsitz im Bundesrathe und die Leitung der Geschäfte steht dem Reichskanzler zu, welcher vom Kaiser zu ernennen ist. Der Reichskanzler kann sich durch jedes andere Mitglied des Bundesrathes vermöge schriftlicher Substitution vertreten lassen.
 
 Artikel 16.
 
-Die erforderlichen Vorlagen werden nach Maßgabe der Beschlüsse des Bundesrathes im Namen des Kaisers an den Reichstag gebracht, wo sie durch Mitglieder des Bundesrathes oder durch besondere von legterem zu ernennende Kommissarien vertreten werden.
+Die erforderlichen Vorlagen werden nach Maßgabe der Beschlüsse des Bundesrathes im Namen des Kaisers an den Reichstag gebracht, wo sie durch Mitglieder des Bundesrathes oder durch besondere von letzterem zu ernennende Kommissarien vertreten werden.
 
 
 ---
@@ -203,11 +203,11 @@ Wo nicht besondere Konventionen ein Anderes bestimmen, ernennen die Bundesfürst
 
 Artikel 67.
 
-Ersparnisse an dem Militair Etat fallen unter keinen Umständen einer ein. zelnen Regierung, sondern jederzeit der Reichskasse zu. :
+Ersparnisse an dem Militair Etat fallen unter keinen Umständen einer einzelnen Regierung, sondern jederzeit der Reichskasse zu.
 
 **Artikel 68.**
 
-Der Kaiser kann, wenn die öffentliche Sicherheit in dem Bundesgebiete bedroht ist, einen jeden Theil desselben in Kriegszustand erklären. Bis zum Erlaß eines die Voraussetzungen, die Form der Verkündigung und die Wirkungen einer solchen Erklärung regelnden Reichsgesetzes gelten dafür die Vorschriften des Preußischen Gesetzes vom 4. Juni 1851. (Gesez-Samml. für 1851. S. 451 ff.).
+Der Kaiser kann, wenn die öffentliche Sicherheit in dem Bundesgebiete bedroht ist, einen jeden Theil desselben in Kriegszustand erklären. Bis zum Erlaß eines die Voraussetzungen, die Form der Verkündigung und die Wirkungen einer solchen Erklärung regelnden Reichsgesetzes gelten dafür die Vorschriften des Preußischen Gesetzes vom 4. Juni 1851. (Gesetz-Samml. für 1851. S. 451 ff.).
 
 #### Schlußbestimmung zum XI. Abschnitt.
 
@@ -273,7 +273,7 @@ die Bundesgesetze den Landesgesetzen vorgehen. Die Bundesgesetze erhalten ihre v
 
 Artikel 3.
 
-Für den **ganzen Umfang des Bundesgebietes** besteht ein **gemeinsames Indigenat** mit der Wirkung, daß der Angehörige (Unterthan, Staatsburger) eines jeden Bundesstaates in jedem anderen Bundesstaate als Inländer zu behandeln und demgemäß zum festen Wohnsitz, zum Gewerbebetriebe, zu öffentlichen Aemtern, zur Erwerbung von Grundstücken, zur Erlangung des Staatsbürgerrechtes und zum Genusse aller sonstigen bürgerlichen Rechte unter denselben Voraus. setzungen wie der Einheimische zuzulassen, auch in Betreff der Rechtsverfolgung und des Rechtsschutzes demselben gleich zu behandeln ist.
+Für den **ganzen Umfang des Bundesgebietes** besteht ein **gemeinsames Indigenat** mit der Wirkung, daß der **Angehörige** (Unterthan, Staatsburger) eines jeden Bundesstaates in jedem anderen Bundesstaate als Inländer zu behandeln und demgemäß zum festen Wohnsitz, zum Gewerbebetriebe, zu öffentlichen Aemtern, zur Erwerbung von Grundstücken, zur Erlangung des Staatsbürgerrechtes und zum Genusse aller sonstigen bürgerlichen Rechte unter denselben Voraus. setzungen wie der Einheimische zuzulassen, auch in Betreff der Rechtsverfolgung und des Rechtsschutzes demselben gleich zu behandeln ist.
 
 In der Ausübung dieser Befugniß darf der Bundesangehörige weder durch die Obrigkeit seiner Heimath, noch durch die Obrigkeit eines anderen Bundesstaates beschränkt werden.
 
@@ -287,7 +287,7 @@ Dem Auslande gegenüber haben alle Bundesangehörigen gleichmäßig Anspruch auf
 
 Artikel 4.
 
-Der Beaufsichtigung Seitens des Bundes und der Gesezgebung desselben unterliegen die nachstehenden Angelegenheiten:
+Der Beaufsichtigung Seitens des Bundes und der Gesetzgebung desselben unterliegen die nachstehenden Angelegenheiten:
 
 1) die Bestimmungen über Freizügigkeit, Heimaths und Niederlassungsverhältnisse, Staatsbürgerrecht, Paßwesen und Fremdenpolizei und über den Gewerbebetrieb, einschließlich des Versicherungswesens, soweit diese Gegenstände nicht schon durch den Artikel 3. dieser Verfassung erledigt sind, desgleichen über die Kolonisation und die Auswanderung nach außerdeutschen Ländern;
 
