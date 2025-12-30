@@ -28,7 +28,7 @@ Der Art. 3 Bundesverfassung v. 1871 gab dies nur dem Juristen zu erkennen, wie D
 > Kein Deutscher Bundesbürger (Art. 3 I lt. Hs., Art. 3 II) darf in der Ausübung dieser Befugniß durch die Obrigkeit seiner Heimath, oder durch die Obrigkeit eines anderen Bundesstaates beschränkt werden.
 
 
-Das [BuStAG von 1870](https://github.com/Znih/Znih/blob/main/BuStAG-1870.md) war also ein logischer nächster Schritt, der bundesstaatliche Angelegenheiten auch im Kontext moderner Nationalstaaten föderal weiterentwickelte und zum 01.01.1871 ordnungsgemäß in Anwendung gelangte.  
+Das [BuStAG von 1870](https://github.com/Znih/Znih/blob/main/BuStAG-1870.md) war also ein logischer nächster Schritt, der bundesstaatliche Angelegenheiten auch im Kontext moderner Nationalstaaten föderal weiterentwickelte und zum 01.01.1871 ordnungsgemäß in Anwendung gelangte. Diese entscheidende Entwicklung brachte die rechtliche Einheit ("*juridical unity*") in einem föderalen Rahmen, das bürgerliche Rechte sicherte und weiter ausbaute.
 
 
 Was den Deutschen bis zur Wiener Schlußakte 1820 fehlte, erhielten diese ab 1871 sodann doppelt und sie blieben fest mit ihrer Heimat verknüpft. Verbindliche Bürgerrechte für die nicht nur Arbeiter und Soldaten in ganz Europa kämpften, bluteten oder starben. Nicht perfekt aber skalierbar, reformierbar und bereits 1913 föderaler als alles was ab 1914 folgen sollte. Nur der Bayer überdauerte 1914, 1919, 1949 und 1990 (Art. 6, 8, 178 I u. 184 ByVerf. v. 1949).
