@@ -1735,7 +1735,25 @@ Der Kaiser begab sich demnächst ins Freie und lud mich ein, mich vor der Thür 
 
 ![Screenshot_20251230-094548_Samsung Notes.jpg](https://github.com/user-attachments/assets/a2797056-87f9-4a01-9150-ac5ec95453be)
 
+zuvor mit General v. Moltke besprochen und ging unter Anführung der oben bereits angedeuteten Motive auch auf die Besprechung dieser Modalität nicht ein.
+
+In Berührung der politischen Situation nahm ich meinerseits keine Initiative, der Kaiser nur insoweit, daß er das Unglück des Krieges beklagte und erklärte, daß er selbst
+
+-211-
+
+den Krieg nicht gewollt habe, durch den Druck der öffentlichen Meinung Frankreichs aber dazu genöthigt worden sei. (* Ich hielt es nicht für meinen Beruf, in diesem Augenblick darauf hinzuweisen, wie das, was der Kaiser als öffentliche Meinung bezeichnete, nur das künstliche Product von einigen ehrgeizigen und politisch beschränkten Coterien der französischen Presse sei. Ich entgegnete nur, das in Deutschland Niemand den Krieg gewollt habe, namentlich Eure Majestät nicht, und das die spanische Frage für keine deutsche Regirung ein Interesse, welches eines Krieges werth gewesen wäre, dargeboten hätte. Eurer Majestät Stellung zu der spanischen Thronbesetzung sei schließlich durch den Gewissenszweifel bestimmt worden, ob es recht sei, der spanischen Nation den Versuch, durch diese Königswahl zur Wiederherstellung dauernder innerer Einrichtungen zu gelangen, aus persönlichen und dynastischen Bedenken zu verkümmern; daran, das es dem Erbprinzen gelingen würde, sich mit Sr. Majestät dem Kaiser über die Annahme der spanischen Wahl in befriedigendes Einvernehmen zu setzen, hätten Eure Majestät bei den langjährigen guten Beziehungen der Mitglieder des Fürstlich Hohenzollernschen Hauses zum Kaiser niemals Zweifel gehegt, dies aber nicht als eine deutsche oder preußische, sondern als eine spanische Angelegenheit angesehn. *) Durch Erkundigungen in der Stadt und insbesondre dur Recognoscirungen der Offiziere vom Generalstabe war inzwischen, etwa zwischen 9 und 10 Uhr, festgestellt worden, daß das Schloß Bellevue bei Fresnois zur Aufnahme des Kaisers geeignet und auch noch nicht mit Verwundeten belegt sei. Ich meldete dies Sr. Majestät in der Form, das ich Fresnois als den Ort bezeichnete, den ich Eurer Majestät zur Zusammenkunft in Vorschlag bringen würde, und deshalb dem Kaiser anheimstellte, ob Se. Majestät sich gleich dahin begeben wolle,
+
+*) Von (* bis „angesehn" ist Ergänzung aus dem Militärwochenblatt.
+
+-212-
+
+da der Aufenthalt innerhalb des kleinen Arbeiterhauses unbequem sei, und der Kaiser vielleicht einiger Ruhe bedürfen würde. Se. Majestät ging hierauf bereitwillig ein, und geleitet den Kaiser, dem eine Ehren-Escorte von Eurer Majestät Leib-Cürassier-Regiment voranritt, nach dem Schlosse Bellevue, wo inzwischen das weitre Gefolge
+
+---
+
 ![Screenshot_20251230-094558_Samsung Notes.jpg](https://github.com/user-attachments/assets/2cb1b814-8231-4382-b2ea-855c177cce3a)
+
+
 
 ![Screenshot_20251230-094609_Samsung Notes.jpg](https://github.com/user-attachments/assets/3bc1f83e-a2bc-47ff-8205-0c411f918566)
 
