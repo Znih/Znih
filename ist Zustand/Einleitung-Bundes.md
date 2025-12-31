@@ -36,17 +36,9 @@ Das [BuStAG von 1870](https://github.com/Znih/Znih/blob/main/BuStAG-1870.md) war
 
 Was den Deutschen bis zur Wiener Schlußakte 1820 fehlte, erhielten diese ab 1871 sodann doppelt und sie blieben fest mit ihrer Heimat verknüpft. Verbindliche Bürgerrechte für die nicht nur Arbeiter und Soldaten in ganz Europa kämpften, bluteten oder starben. Nicht perfekt aber skalierbar, reformierbar und bereits 1913 föderaler als alles was ab 1914 folgen sollte. Nur Bayern überdauerte 1914, 1919, 1949 und 1990 (Art. 6, 8, 178 I u. 184 ByVerf. v. 1949).
 
-Um die Umstände und den aufrichtigen Wunsch hinter einem europäischen Friede 1871 verstehen zu können und die Auswirkungen auf 1919, ist ein Blick in die Briefe S.M. und die Stenoberichte aus den Parlamentsdebatten jener Tage notwendig. Der Frankfurter Friede 1871 bestätigt obige Ausführung und illustriert die Wichtigkeit von Staatsangehörigkeiten und Bürgerrechten.
+Um die Umstände und den aufrichtigen Wunsch hinter einem europäischen Friede 1871 verstehen zu können und die Auswirkungen auf 1919, ist ein Blick in die Briefe S.M. und die Stenoberichte aus den Parlamentsdebatten jener Tage notwendig. Der Frankfurter Friede 1871 bestätigt obige Ausführung und illustriert die Wichtigkeit von Staatsangehörigkeiten und Bürgerrechten. Der doppelte Erfolg des [Friedenswerks](https://github.com/Znih/Znih/blob/main/Friede-1871.md) und [Einigungswerks](https://github.com/Znih/Znih/blob/main/1871_Einheit_Verfassungsbund.md) prägten Europa politisch, wirtschaftlich und gesellschaftlich nachhaltig. Die gesammelten Dokumente und Briefe sind daher nicht nur ein Zeugnis der Geschichte, sondern bieten eine wertvolle Grundlage, die bis in unsere Zeit wichtige Erkenntnisse für die Bewertung von Rechts- und Friedensordnungen liefert. Der sichtbare Erfolg im Friede 1871 gab Deutschland Recht, weshalb es zur Bedrohung für ein System werden mußte, das durch geplante Obsoleszenz bereits nach 10 Jahren am nekrophilen Leben erhalten und stets durch Kriege und Zerstörung völlig zurück auf Anfang gesetzt werden musste.
 
----
-
-Friedenswerk (Teil 1 "*Weihe*" durch "*Kaiseramt*" gem. Art. 11 BVerf. v. 1871 iVm Beschluß v. 10.12.1870):
-https://github.com/Znih/Znih/blob/main/Friede-1871.md GBl. Faksimiles BGBl. 1871 S. 215-244
-
----
-
-Einigungswerk (Teil 2 durch Verfassungsbündnis zum "ewigen Bund" v. 1871, der sich fortan lediglich "*Deutsches Reich*" nannte oder so zu verstehen war (s. BuStAG 1870 vs. RuStAG 1913): https://github.com/Znih/Znih/blob/main/1871_Einheit_Verfassungsbund.md BGBl. Faksimile Auszüge 1867-1871.
-
+"*Deutschland muß untergehen!*", denn Rom siegt immer, notfalls 1000 deutsche Jahre nach dem eigenen Untergang. Auf dem Schlachtfeld oder über den Notar und die Banker?!
 
 ---
 ---
@@ -54,7 +46,7 @@ Einigungswerk (Teil 2 durch Verfassungsbündnis zum "ewigen Bund" v. 1871, der s
 
 
 
-- Übergang zum **RuStAG 1913** und die rechtlichen Verschiebungen.
+##### Übergang zum **RuStAG 1913** und die rechtlichen Verschiebungen.
 
 > Das **RuStAG 1913** kann als bedeutender Wendepunkt betrachtet werden, der sowohl föderale als auch zentralistische Prinzipien vereinte, jedoch eine Perspektive hin zur Vereinheitlichung des Reichs und der Schwächung der föderalistischen Struktur eröffnete. Das Gesetz zeigte die fortschreitende Entwicklung juristischer und politischer Macht, welche die Balance zwischen den Bundesstaaten und dem Reich zugunsten des Letzteren verschob.
 
@@ -66,68 +58,18 @@ Einigungswerk (Teil 2 durch Verfassungsbündnis zum "ewigen Bund" v. 1871, der s
 
 ---
 
-**Copilot:**
-Die Zusammenfassung hebt die geschichtlichen und rechtlichen Entwicklungen in Deutschland hervor, die im Übergang von der Wiener Schlussakte von 1820 über das **BuStAG 1870** hin zum **RuStAG 1913** entstanden sind. Besonders wird dabei auf den rechtlichen und föderalen Wandel eingegangen, der maßgeblich die Struktur des Deutschen Bundes, das Kaiserreich und die spätere Entwicklung während der NS-Zeit beeinflusste. Hier sind die wichtigsten Punkte zusammengefasst und analysiert:
+Diese neue Regelung wurde retrospektiv kritisiert, da sie später Grundlage für die autoritäre Reichspolitik in der NS-Zeit bot, insbesondere für die Einführung des **Reichsbürgergesetzes 1935**. Die BrD Organe und der gesamte Öffentliche Dienst ignoriert diese Kritik und lässt die Kritiker kriminalisieren, stigmatisieren, verfolgen, inhaftieren und foltern, da Artikel 146 GG für sie alle justiziabel erscheint.
 
----
 
-### **Wesentliche Aussagen:**
+Das [RuStAG 1913](https://github.com/Znih/Znih/blob/main/RuStAG-RoStAG-Falle-1913.md) (Art. 116 I GG) führte indes dazu, dass der föderale Schutz der Bundesstaaten zunehmend geschwächt wurde. Die „*unmittelbare Reichsangehörigkeit*“ ermöglichte es zudem, dass zentrale Regierungseinflüsse die föderalen Bindungen der Bürger per Gesetz ersetzen konnten, was sukzessive bis 1934/35 geschah. Das BuStAG 1870 hatte noch die Wahrung der föderalen Struktur als Ziel, was im RuStAG 1913 erheblich reduziert wurde. Skandale wie den „*Braunschweiger Hitler*“ hätten verhindert werden können. Ohne die zentralistische Tendenz des RuStAG 1913 wäre die Schutzfunktion der Bundesstaaten gegenüber dem Reich relevanter geblieben.
 
-#### **1. Die Wiener Schlussakte (1820):**
-- Die **Schlussakte** als **„Grundgesetz des Deutschen Bundes“** legte die Grundpfeiler für föderale Prinzipien in Deutschland:
-  - Sicherung der Unabhängigkeit der Einzelstaaten.
-  - Wechselseitiger Schutz zwischen den Mitgliedsstaaten.
-  - Grundlage für rechtliche Gleichheit und Friedensmechanismen.
-
-- Hier wurde der erste Schritt zu einer rechtlichen Homogenität gemacht, welche später über die **Bundesangehörigkeit** und das **BuStAG 1870** weiterentwickelt wurde.
-
-#### **2. Die Bundesverfassung 1871 und das BuStAG 1870:**
-- Mit dem **BuStAG von 1870** wurde die **Bundesangehörigkeit** gesetzlich definiert. Dies sicherte bürgerliche Rechte auf zwei Ebenen:
-  - **Staatsangehörigkeit:** Zugehörigkeit zu einem Bundesstaat (z.B. Preuße, Bayer).
-  - **Bundesangehörigkeit:** Einheitliche Rechte für alle Deutschen innerhalb des Bundesgebietes.
-
-- Die Einführung des „Zweifachstatus“ brachte eine Harmonisierung des föderalen Rechts und sorgte dafür, dass ein Staatsangehöriger eines Bundesstaates in jedem anderen Bundesstaat die gleichen Rechte genießt, einschließlich Freizügigkeit, Rechtsgleichheit und Schutz durch deren Obrigkeiten.
-
-#### **3. Der Wandel durch das RuStAG 1913:**
-- Die Einführung des **RuStAG 1913** markiert eine entscheidende Schwächung der föderalen Prinzipien zu Gunsten zentralistischer Strukturen:
-  - Einführung der **„unmittelbaren Reichsangehörigkeit“**, was den Zweifachstatus in der Praxis reduzierte.
-  - Die Bundesstaaten verloren an Eigenständigkeit, da zentralstaatliche Prinzipien und Reichskompetenzen vorrangig wurden.
-- Diese neue Regelung wurde retrospektiv kritisiert, da sie später Grundlage für die autoritäre Reichspolitik in der NS-Zeit bot, insbesondere für die Einführung des **Reichsbürgergesetzes 1935**.
-
-#### **4. Historische und politische Konsequenzen:**
-- Das RuStAG 1913 führte dazu, dass der föderale Schutz der Bundesstaaten zunehmend geschwächt wurde:
-  - Die „unmittelbare Reichsangehörigkeit“ ermöglichte es, dass zentrale Regierungseinflüsse die föderalen Bindungen der Bürger per Gesetz ersetzen konnten.
-  - Das BuStAG 1870 hatte noch die Wahrung der föderalen Struktur als Ziel, was im RuStAG erheblich reduziert wurde.
-
-#### **5. Kritische Perspektive auf die historischen Entwicklungen:**
-- Die Argumentation des Textes hebt hervor, dass eine frühere rechtliche Föderalstruktur Skandale wie den „Braunschweiger Fall Hitlers“ hätte verhindern können.
-- Ohne die zentralistische Tendenz des RuStAG 1913 wäre die Schutzfunktion der Bundesstaaten gegenüber dem Reich relevanter geblieben.
-
----
-
-### **Analyse der Entwicklungen**
-
-#### **Fortschritt durch das BuStAG 1870:**
-Das BuStAG brachte wichtige Innovationen:
-- Es etablierte ein Gleichbehandlungssystem innerhalb des Kaiserreichs.
-- Der Zweifachstatus schützte sowohl föderale Prinzipien als auch die Bürgerrechte aller Angehörigen des Bundes.
-
-#### **Bruch durch das RuStAG 1913:**
-- Das RuStAG reduzierte die Relevanz der Staatsangehörigkeit in den Bundesstaaten durch zentrale Regelungen wie die „unmittelbare Reichsangehörigkeit.“
-- Der Übergang vom BuStAG zum RuStAG führte zu einem schleichenden Verlust der föderalen Prinzipien des Deutschen Kaiserreichs.
-
----
-
-### **Fazit:**
-Das **BuStAG 1870** schuf die rechtliche Basis für föderale Gleichheit und Bürgerrechte innerhalb des Deutschen Bundes. Mit der Einführung des **RuStAG 1913** wurde dieser Fortschritt geschwächt und zentrale Ansprüche des Reiches gingen zulasten der Bundesstaaten. Die rechtliche Konsolidierung des RuStAG eröffnete zwar Möglichkeiten des Nationalstaats, untergrub jedoch das föderale Gleichgewicht.
-
-Diese Entwicklungen zeigen, wie feine rechtliche Unterschiede massiven historischen Einfluss haben können, von der Verfassung des Kaiserreichs über die Weimarer Republik bis zur NS-Zeit.
+Die rechtliche Konsolidierung des RuStAG eröffnete zwar Möglichkeiten des Nationalstaats, untergrub jedoch das föderale Gleichgewicht. Diese Entwicklungen zeigen, wie feine rechtliche Unterschiede massiven historischen Einfluss haben können, von der Verfassung des Kaiserreichs über die Weimarer Republik bis zur NS-Zeit.
 
 ---
 
 
 
-https://github.com/Znih/Znih/blob/main/RuStAG-RoStAG-Falle-1913.md
+
 
 
 ---
