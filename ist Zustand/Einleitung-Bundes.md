@@ -60,6 +60,7 @@ Dritte Bruchstelle im RuStAG:
 
 Der Wortlaut von **§ 26 BuStAG** lautet daher:
 > "*Alle diesem Gesetze zuwiderlaufenden Vorschriften werden aufgehoben.*"
+
 Dies bedeutet, dass alle vor oder nach Erlass des BuStAG eingeführten Regelungen oder Gesetze, die in Konflikt mit den Grundprinzipien des BuStAG stehen, automatisch ihre Rechtswirkung verlieren. Das BuStAG setzte klare Grundsätze zum föderalen Status der Bundes- und Staatsangehörigkeit. Jedes Gesetz, das davon abweicht (z. B. zentrale Reichszugehörigkeit ohne föderalistischen Bezug), würde unter § 26 fallen und seine Gültigkeit verlieren.
 
 Die rechtliche Konsolidierung des RuStAG eröffnete zwar Möglichkeiten des Nationalstaats, untergrub jedoch rechtwidrigen und gesetzeswidrig das föderale Gleichgewicht. Diese Entwicklungen zeigen, wie feine rechtliche Unterschiede massiven historischen Einfluss haben können, von der Verfassung des Kaiserreichs über die Weimarer Republik bis zur NS-Zeit.
