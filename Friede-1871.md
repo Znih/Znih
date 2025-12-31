@@ -1766,6 +1766,31 @@ v. Bismarck,
 
 ![Screenshot_20251230-094609_Samsung Notes.jpg](https://github.com/user-attachments/assets/3bc1f83e-a2bc-47ff-8205-0c411f918566)
 
+228*).
+
+(Bei Verleihung und Uebersendung des Eisernen Kreuzes I. Klasse)
+
+Aus dankbarster Anerkennung des 18. Dezembers 1870**)
+
+am 24. Dezember 1870.
+
+Versailles. - Wilhelm.
+
+229***).
+
+Versailles, 25. Dezember 1870
+
+Eure Majestät wollen meinen ehrfurchtsvollen Dank huldreich entgegennehmen für die so gnädige Auszeichnung, welche
+
+*) B.-J. IV, 6.
+
+**) Am 18. Dez. 1870 empfing König Wilhelm die Deputation des Norddeutschen Reichstags, die ihn um Annahme des Kaiserlichen Titels bat.
+
+***) B.-J. IV, 27.
+
+
+---
+
 ![Screenshot_20251230-100033_Samsung Notes.jpg](https://github.com/user-attachments/assets/3c358202-f9a6-4279-ae62-b4daee89cad6)
 
 ---
