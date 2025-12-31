@@ -52,11 +52,16 @@ Erste Bruchstelle im RuStAG:
 Zweite Bruchstelle im RuStAG:
 - Die zusätzliche (und später dominierende) "*unmittelbare Reichsangehörigkeit*" unterminiert den unabhängigen Status der Bundesstaaten, da sie diesen ohne klar definierte Rechte des Bundesangehörigen koppelt.
 
-Das [RuStAG 1913](https://github.com/Znih/Znih/blob/main/RuStAG-RoStAG-Falle-1913.md) (Art. 16 I u. 116 I GG) führte also dazu, dass der föderale Schutz der Bundesstaaten zunehmend geschwächt wurde. Die „*unmittelbare Reichsangehörigkeit*“ ermöglichte es zudem, dass zentrale Regierungseinflüsse die föderalen Bindungen der Bürger per Gesetz ersetzen konnten, was sukzessive bis 1934/35 geschah. Das BuStAG 1870 hatte noch die Wahrung der föderalen Struktur als Ziel, was im RuStAG 1913 erheblich reduziert wurde. Skandale wie den „*Braunschweiger Hitler*“ hätten verhindert werden können. Ohne die zentralistische Tendenz des RuStAG 1913 wäre die Schutzfunktion der Bundesstaaten gegenüber dem Reich relevanter geblieben.
+Das [RuStAG 1913](https://github.com/Znih/Znih/blob/main/RuStAG-RoStAG-Falle-1913.md) (Art. 16 I u. 116 I GG) führte also entgegen und trotz § 26 BuStAG iVm Art. 3 BVerf. v. 1871 dazu, dass der föderale Schutz der Bundesstaaten zunehmend geschwächt wurde. Die „*unmittelbare Reichsangehörigkeit*“ ermöglichte es zudem, dass zentrale Regierungseinflüsse die föderalen Bindungen der Bürger per Gesetz ersetzen konnten, was sukzessive bis 1934/35 geschah. Das BuStAG 1870 hatte noch die Wahrung der föderalen Struktur als Ziel, was im RuStAG 1913 erheblich reduziert wurde. Skandale wie den „*Braunschweiger Hitler*“ hätten verhindert werden können. Ohne die zentralistische Tendenz des RuStAG 1913 wäre die Schutzfunktion der Bundesstaaten gegenüber dem Reich relevanter geblieben. 
 
-Die rechtliche Konsolidierung des RuStAG eröffnete zwar Möglichkeiten des Nationalstaats, untergrub jedoch das föderale Gleichgewicht. Diese Entwicklungen zeigen, wie feine rechtliche Unterschiede massiven historischen Einfluss haben können, von der Verfassung des Kaiserreichs über die Weimarer Republik bis zur NS-Zeit.
 
-§ 1 u. 37 fehlen noch 
+Dritte Bruchstelle im RuStAG:
+- Der § 37 RuStAG 1913 und das juristische Schleifenproblem gilt als flagrante Schwächung des BuStAG. Dieser § 37 RuStAG vom 22.07.1913 ermöglichte rückwirkend und universell die Ersetzung von Rechtsverweisen auf das BuStAG 1870 durch das RuStAG 1913, ungeachtet des damals noch gültigen Bundesstaatsföderalismus. Im Rechtssinn setzt § 37 fortan das RuStAG an die Stelle aller bisherigen Vorschriften des BuStAG, was nur dessen faktische Bedeutung ablöste und das RuStAG bis heute zum vermeintlichen Ursprung der "*deutschen Staatsangehörigkeit*" aus Artikel 16 I GG anti-akademisch verfälscht. Mit der Ersetzung der Bezugsbasis (BuStAG → RuStAG) verlieren rechtliche Verweise auf die föderalen Konstruktionen an Bedeutung. Dies erleichtert die Umsetzung zentralistischer Staatsziele.
+
+Die rechtliche Konsolidierung des RuStAG eröffnete zwar Möglichkeiten des Nationalstaats, untergrub jedoch rechtwidrigen und gesetzeswidrig das föderale Gleichgewicht. Diese Entwicklungen zeigen, wie feine rechtliche Unterschiede massiven historischen Einfluss haben können, von der Verfassung des Kaiserreichs über die Weimarer Republik bis zur NS-Zeit.
+
+
+§ 26 BuStAG fehlt noch 
 
 ---
 
