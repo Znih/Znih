@@ -83,10 +83,7 @@ Wie wurde Artikel 278 verstanden und wie umgesetzt? [Anmerkung]
 Der Artikel 278 des Versailler Vertrags formulierte die Verpflichtung Deutschlands, neue Staatsangehörigkeiten anzuerkennen, die durch die Regelungen der alliierten und assoziierten Kräfte und auf Basis territorialer Veränderungen oder vertraglicher Bestimmungen erworben wurden. Diese Regelung stellte sicher, dass Reichsangehörige, deren Staatsangehörigkeit geändert wurde, völlig von Verpflichtungen gegenüber dem deutschen Bundes-Staat und den föderalen Bundesstaaten entbunden wurden. Es hätte mittelbare Reichsangehörige lauten müssen, da Bezug zu den Heimatstaaten folgte aber traditionell gar naturgemäß seit 1871 darauf verzichtet wurde. Erst ab 1914 galt die "unmittelbare Reichsangehörigkeit", die dann jedoch zwingend so zu benennen war. Aber tatsächlich bezog sich Art. 278 VV insoweit wohl auf die "*unmittelbare Reichsangehörigkeit*" aus § 1 RuStAG 1913 oder wurde jedenfalls exakt so 1934 umgesetzt. Gemeint waren dem Wortlaut nach aber definitiv die "*Früheren deutschen Staatsangehörigen*" aus Artikel 116 II GG.
 
 
-Tatsächlich ist Artikel 278 unpräzise formuliert, da er sich rein technisch auf die frühere „*mittelbare Reichsangehörigkeit*“ hätte beziehen müssen (vor der Einführung der unmittelbaren Reichsangehörigkeit durch das RuStAG 1913). Faktisch erfolgte die Umsetzung jedoch nach den Regelungen des RuStAG 1913, was zeigt, dass die „*unmittelbare Reichsangehörigkeit*“ als Grundlage für die rechtliche Umsetzung von Artikel 278 genutzt wurde.
-
-
-
+Tatsächlich ist Artikel 278 unpräzise formuliert, da er sich rein technisch auf die frühere „*mittelbare Reichsangehörigkeit*“ hätte beziehen müssen (vor der Einführung der unmittelbaren Reichsangehörigkeit durch das RuStAG 1913). Faktisch erfolgte die Umsetzung jedoch nach den Regelungen des RuStAG 1913, was zeigt, dass die „*unmittelbare Reichsangehörigkeit*“ als Grundlage für die rechtliche Umsetzung von Artikel 278 genutzt wurde. Der rechtliche Status der „*Reichsangehörigkeit*“ war durch das RuStAG 1913 nur indirekt definiert. Es hieß ab 1914 "*Deutscher ist*" und nicht "*Reichsangehöriger ist*". Eine mittelbar erworbene "*Reichsangehörigkeit*" ließ sich bis 1918 nur noch über Art. 3 I RVerf. v. 1871 ableiten, fehlte jedoch im RuStAG 1913. Oder die nach 1919 noch verbliebene "*unmittelbare Reichsangehörigkeit*".
 
 
 
