@@ -70,15 +70,14 @@ Das RuStAG vom 22. Juli 1913 trat am **1. Januar 1914** in Kraft und versuchte, 
 Das Argument, dass § 1 und § 37 RuStAG durch § 26 BuStAG aufgehoben wurden, ist rechtlich fundiert. Das BuStAG 1870 hatte Vorrang, insbesondere wenn Artikel des RuStAG 1913 im klaren Gegensatz zu dessen Grundprinzipien standen.
 Ironie der Geschichte: Das RuStAG zielte darauf ab, die Zentralisierung des deutschen Staatsangehörigkeitsrechts zu fördern. Durch die Widersprüche zu bestehenden föderalen Regelungen könnte jedoch argumentiert werden, dass seine zentralen Elemente (wie die unmittelbare Reichsangehörigkeit) rechtlich nie vollständig durchsetzbar waren. Die Regelungen des RuStAG (einschließlich §§ 1 und 37) schufen die rechtliche Grundlage für die weitreichende Zentralisierung im Staatsangehörigkeitsrecht, die in der Weimarer Republik und insbesondere während der NS-Zeit zum Tragen kam. Dies mündete später zusätzlich ins Reichsbürgergesetz von 1935, das föderale Strukturen vollständig ignorierte oder zerstörte. Der Widerspruch zwischen BuStAG 1870 und RuStAG 1913 ist ein faszinierendes Beispiel für sich überlagernde Gesetze und die Gefahr inkonsistenter Gesetzgebung. Dieses Spannungsverhältnis zeigt, wie rechtliche Traditionen und föderale Prinzipien in Konflikt mit zentralistischen Tendenzen geraten können.
 
+---
 
 
+##### Auswirkungen der **Weimarer Republik (1919)**, des Dritten Reichs (1935, RuStAG als Grundlage) und des **GG 1949**.
 
 Die rechtliche Konsolidierung des RuStAG eröffnete zwar Möglichkeiten des Nationalstaats, untergrub jedoch rechtwidrigen und gesetzeswidrig das föderale Gleichgewicht. Diese Entwicklungen zeigen, wie feine rechtliche Unterschiede massiven historischen Einfluss haben können, von der Verfassung des Kaiserreichs über die Weimarer Republik bis zur NS-Zeit.
 
 
-
-
----
 
 - Art. 277, 278, 292 Versailler Vertrag???
 
@@ -87,8 +86,6 @@ Die rechtliche Konsolidierung des RuStAG eröffnete zwar Möglichkeiten des Nati
 https://github.com/Znih/Znih/blob/main/Versailler-Unfrieden-1919-1925.md
 
 ---
-
-- Auswirkungen der **Weimarer Republik (1919)**, des Dritten Reichs (1935, RuStAG als Grundlage) und des **GG 1949**.
 
 
 ---
