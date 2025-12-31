@@ -65,10 +65,15 @@ Dies bedeutet, dass alle vor oder nach Erlass des BuStAG eingeführten Regelunge
 
 Nach [BuStAG 1870](https://github.com/Znih/Znih/blob/main/BuStAG-1870.md) setzt „*Deutschsein*“ zwingend die Staatsangehörigkeit in einem Bundesstaat voraus. § 1 RuStAG erweitert dies um die „*unmittelbare Reichsangehörigkeit*“ (§§ 33-35 RuStAG), welche späteren zentralistischen Regimen als Grundlage für die weitere Schwächung föderaler Strukturen diente, und die weder im BuStAG vorgesehen noch mit den föderalen Prinzipien vereinbar ist. Diese „*unmittelbare Reichsangehörigkeit*“ widerspricht dem föderalen Status der Doppelzugehörigkeit (Staats- UND Bundesangehörigkeit), wie sie im BuStAG vorgesehen war.
 
+Das RuStAG vom 22. Juli 1913 trat am **1. Januar 1914** in Kraft und versuchte, die bisherigen Regelungen des BuStAG indirekt zu ersetzen oder zu umgehen. Gemäß § 26 BuStAG wären jedoch alle diesem Gesetz widersprechenden Bestimmungen aus dem RuStAG automatisch aufgehoben bzw. niemals rechtswirksam geworden.
+
+
+
+
 Die rechtliche Konsolidierung des RuStAG eröffnete zwar Möglichkeiten des Nationalstaats, untergrub jedoch rechtwidrigen und gesetzeswidrig das föderale Gleichgewicht. Diese Entwicklungen zeigen, wie feine rechtliche Unterschiede massiven historischen Einfluss haben können, von der Verfassung des Kaiserreichs über die Weimarer Republik bis zur NS-Zeit.
 
 
-§ 26 BuStAG fehlt noch 
+
 
 ---
 
