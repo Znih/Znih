@@ -46,8 +46,11 @@ Um die Umstände und den aufrichtigen Wunsch hinter einem europäischen Friede 1
 
 Das **RuStAG 1913** kann als bedeutender Wendepunkt betrachtet werden, der sowohl föderale als auch zentralistische Prinzipien vereinte, jedoch bewusst sichtbar verdeckt eine Perspektive hin zur Vereinheitlichung des Reichs und der Schwächung der föderalistischen Struktur eröffnete. Das Gesetz zeigte die fortschreitende Entwicklung juristischer und politischer Macht, welche die Balance zwischen den Bundesstaaten und dem Bund noch als Reich zugunsten des Letzteren verschob. Der Zusatzstatus der Bundesangehörigkeit, der im BuStAG 1870 mit "positiver Jurisdiktion" geschaffen wurde, verblieb im **RuStAG 1913** in reduziertem Umfang. Die ohnehin flagrante Konstruktion "*Deutscher ist*", der die "*unmittelbaren Reichsangehörigkeit*" besitzt, wo doch das RuStAG eindeutig Angehörigkeiten adressiert, schwächte die Bindungen an die Bundesstaaten deutlich, was später als Grundlage für Reichsbürgergesetze im Dritten Reich diente. 
 
-Diese neue Regelung wurde retrospektiv kritisiert, da sie später Grundlage für die autoritäre Reichspolitik in der NS-Zeit bot, insbesondere für die Einführung des **Reichsbürgergesetzes 1935**. 
+Erste Bruchstelle im RuStAG:
+- Der Fokus auf "*Deutscher ist*" löst die bis dato föderale Struktur (Bundes- und Staatsangehörigkeit) zugunsten einer zentralistischen Reichsebene auf.
 
+Zweite Bruchstelle im RuStAG:
+- Die zusätzliche (und später dominierende) "*unmittelbare Reichsangehörigkeit*" unterminiert den unabhängigen Status der Bundesstaaten, da sie diesen ohne klar definierte Rechte des Bundesangehörigen koppelt.
 
 Das [RuStAG 1913](https://github.com/Znih/Znih/blob/main/RuStAG-RoStAG-Falle-1913.md) (Art. 16 I u. 116 I GG) führte also dazu, dass der föderale Schutz der Bundesstaaten zunehmend geschwächt wurde. Die „*unmittelbare Reichsangehörigkeit*“ ermöglichte es zudem, dass zentrale Regierungseinflüsse die föderalen Bindungen der Bürger per Gesetz ersetzen konnten, was sukzessive bis 1934/35 geschah. Das BuStAG 1870 hatte noch die Wahrung der föderalen Struktur als Ziel, was im RuStAG 1913 erheblich reduziert wurde. Skandale wie den „*Braunschweiger Hitler*“ hätten verhindert werden können. Ohne die zentralistische Tendenz des RuStAG 1913 wäre die Schutzfunktion der Bundesstaaten gegenüber dem Reich relevanter geblieben.
 
