@@ -8,14 +8,11 @@
 
 ---
 
-### **Kernaussagen der Wiener Schlussakte:**
-
-#### **1. Rechtsverbindlichkeit und Stärkung des Bundes** (Bundesrecht)
+### Wo kommen Wir her, wer sind Wir und wo wollen Wir hin?
 
 
-##### Von den Wiener Bestimmungen 1815/20 über das BuStAG von 1870 bis zur Bundesverfassung von 1871
+#### Von den Wiener Bestimmungen 1815/20 über das BuStAG von 1870 bis zur Bundesverfassung von 1871
 
-Wo kommen wir her und wo wollen wir hin? 
 
 Der Beschluss vom 8. Juni 1820 erklärte die Schlussakte zum **Grundgesetz des Deutschen Bundes**. Ziel war seinerzeit die Sicherung der Unabhängigkeit der deutschen Staaten, die Verlässlichkeit der Bundesakte von 1815 und die Implementierung dauerhafter Friedens- und Sicherheitsmechanismen. Der Grundstein für einen ewigen Bund wurde 1815 gelegt, mit einem Fokus auf rechtliche Gleichheit und wechselseitigen Schutz.
 
@@ -42,7 +39,7 @@ Um die Umstände und den aufrichtigen Wunsch hinter einem europäischen Friede 1
 
 ---
 
-##### Übergang zum **RuStAG 1913** und die rechtlichen Verschiebungen.
+#### Übergang zum **RuStAG 1913** und die rechtlichen Verschiebungen.
 
 Das **RuStAG 1913** kann als bedeutender Wendepunkt betrachtet werden, der sowohl föderale als auch zentralistische Prinzipien vereinte, jedoch bewusst sichtbar verdeckt eine Perspektive hin zur Vereinheitlichung des Reichs und der Schwächung der föderalistischen Struktur eröffnete. Das Gesetz zeigte die fortschreitende Entwicklung juristischer und politischer Macht, welche die Balance zwischen den Bundesstaaten und dem Bund noch als Reich zugunsten des Letzteren verschob. Der Zusatzstatus der Bundesangehörigkeit, der im BuStAG 1870 mit "positiver Jurisdiktion" geschaffen wurde, verblieb im **RuStAG 1913** in reduziertem Umfang. Die ohnehin flagrante Konstruktion "*Deutscher ist*", der die "*unmittelbaren Reichsangehörigkeit*" besitzt, wo doch das RuStAG eindeutig Angehörigkeiten adressiert, schwächte die Bindungen an die Bundesstaaten deutlich, was später als Grundlage für Reichsbürgergesetze im Dritten Reich diente. 
 
@@ -73,7 +70,7 @@ Ironie der Geschichte: Das RuStAG zielte darauf ab, die Zentralisierung des deut
 ---
 
 
-##### Auswirkungen durch Versailler Vertrag, der **Weimarer Reichsverfassung (WRV 1919)** als Dritten Reich, der NS und NAZI Staatsgrundgesetzen (1935, RuStAG als Grundlage) als Nazi-Deutschland und des **GG 1949** als demokratische Verwaltung Deutschlands (Art. 116 I GG) nicht Rechtsnachfolger des Bundes (Art. 116 II GG).
+#### Auswirkungen durch Versailler Vertrag, der **Weimarer Reichsverfassung (WRV 1919)** als Dritten Reich, der NS und NAZI Staatsgrundgesetzen (1935, RuStAG als Grundlage) als Nazi-Deutschland und des **GG 1949** als demokratische Verwaltung Deutschlands (Art. 116 I GG) nicht Rechtsnachfolger des Bundes (Art. 116 II GG).
 
 Wie wurde Artikel 278 verstanden und wie umgesetzt? [Anmerkung]
 
@@ -86,18 +83,12 @@ Der Artikel 278 des Versailler Vertrags formulierte die Verpflichtung Deutschlan
 Tatsächlich ist Artikel 278 VV unpräzise formuliert, da er sich rein technisch auf die frühere „*mittelbare Reichsangehörigkeit*“ hätte beziehen müssen (vor der Einführung der unmittelbaren Reichsangehörigkeit durch das RuStAG 1913). Faktisch erfolgte die Umsetzung jedoch nach den Regelungen des RuStAG 1913, was zeigt, dass die „*unmittelbare Reichsangehörigkeit*“ als Grundlage für die rechtliche Umsetzung von Artikel 278 VV genutzt wurde. Der rechtliche Status der „*Reichsangehörigkeit*“ war durch das RuStAG 1913 nur indirekt definiert. Es hieß ab 1914 "*Deutscher ist*" und nicht "*Reichsangehöriger ist*". Eine mittelbar erworbene "*Reichsangehörigkeit*" ließ sich bis 1918 nur noch über Art. 3 I RVerf. v. 1871 ableiten, fehlte jedoch im RuStAG 1913. Oder die nach 1919 noch verbliebene "*unmittelbare Reichsangehörigkeit*".
 
 
-Der Artikel 278 VV war ein Instrument zur Umsetzung territorialer und völkerrechtlicher Veränderungen, basierend auf den zentralistischen Regelungen des RuStAG 1913. Der Wechsel von föderaler Reichsangehörigkeit (BuStAG 1870) zur "*unmittelbaren Reichsangehörigkeit*" (ius soli) führte zu Missverständnissen und juristischen Konflikten. Die zentrale Auslegung und Umsetzung führte zur Schwächung des föderalen Systems. Rechte auf Bundesstaatszugehörigkeit verloren ihre Bedeutung. Die Unterscheidung zwischen zentralistischer und föderaler Staatsangehörigkeit bleibt ein konfliktreiches Thema. Erst Art. 116 II GG versuchte, diese Balance teils wiederherzustellen. Artikel 278 VV greift tief in den Wandel deutscher Staats- und Föderalstrukturen ein. Sein Bezug zum RuStAG 1913 betont eine zentralistische Perspektive, die historische föderale Grundsätze weiter schwächte und zunächst nur Zentralisierung förderte.
-
----
+Der [Artikel 278 VV](https://github.com/Znih/Znih/blob/main/Versailler-Unfrieden-1919-1925.md) war ein Instrument zur Umsetzung territorialer und völkerrechtlicher Veränderungen, basierend auf den zentralistischen Regelungen des RuStAG 1913. Der Wechsel von föderaler Reichsangehörigkeit (BuStAG 1870) zur "*unmittelbaren Reichsangehörigkeit*" (ius soli) führte zu Missverständnissen und juristischen Konflikten. Die zentrale Auslegung und Umsetzung führte zur Schwächung des föderalen Systems. Rechte auf Bundesstaatszugehörigkeit verloren ihre Bedeutung. Die Unterscheidung zwischen zentralistischer und föderaler Staatsangehörigkeit bleibt ein konfliktreiches Thema. Erst Art. 116 II GG versuchte, diese Balance teils wiederherzustellen. Artikel 278 VV greift tief in den Wandel deutscher Staats- und Föderalstrukturen ein. Sein Bezug zum RuStAG 1913 betont eine zentralistische Perspektive, die historische föderale Grundsätze weiter schwächte und zunächst nur Zentralisierung förderte.
 
 
 
 
-- Art. 277, 278, 292 Versailler Vertrag???
 
-
-
-https://github.com/Znih/Znih/blob/main/Versailler-Unfrieden-1919-1925.md
 
 
 
