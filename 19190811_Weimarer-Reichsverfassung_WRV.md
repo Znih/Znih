@@ -159,6 +159,8 @@ Durch Gesetz vom 6. August 1920 wurde dem Artikel 178 Absatz 2 folgender Satz an
 was Abs.2 Satz 3 bewirken sollte, insbesondere die angesprochenen Verhandlungen bei dem Erwerbe der Insel Helgoland ist unklar, da der Vertrag von Versailles in Bezug auf Helgoland nur ein Befestigungsverbot vorsah, nicht aber eine Abtretung; da jedoch der Art. 74 der Verfassung des Freistaats Preußen vom 30. November 1920 (GS. S. 543) den Art. 17 Abs. 2 wörtlich übernahmen, war der Satz 3 doch wieder wirkungslos.
 
 
+https://www.verfassungen.de/de19-33/verf19-i.htm
+
 ---
 ---
 
