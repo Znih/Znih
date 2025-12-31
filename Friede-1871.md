@@ -1692,6 +1692,24 @@ Briefwechsel Wilhelm I. und Bismarck zum Friedenswerk und Einigungswerk 1870/71 
 
 ![Screenshot_20251230-094526_Samsung Notes.jpg](https://github.com/user-attachments/assets/c109d002-b07a-4777-9989-a43d7365f339)
 
+-208-
+
+Donchery, den 2 September 1870.
+
+Nachdem ich mich gestern Abend auf Eurer königlichen Majestät Befehl hierherbegeben hatte, um an den Verhandlungen über die Capitulation Theil zu nehmen, wurden letztere bis etwa 1 Uhr Nachts durch die Bewilligung einer Bedenkzeit unterbrochen, welche General Wimpffen erbeten, nachdem General v. Moltke bestimmt erklärt hatte, das keine andere Bedingung als die Waffenruhe bewilligt werden und das Bombardement um 9 Uhr morgens wieder beginnen würde, wenn bis dahin die Capitulation nicht abgeschlossen wäre. Heut Früh gegen 6 Uhr wurde mir der General Reille angemeldet, welcher mir mittheilte, das der Kaiser mich zu sehn wünsche und sich bereits auf dem Wege von Sedan hierher befinde.
+
+Der General kehrte sofort zurück, um Sr. Majestät zu melden, das ich ihm folgte, und ich befand mich furz darauf etwa auf halbem Wege zwischen hier und Sedan, in der Nähe von Fresnois, dem Kaiser gegenüber. Se. Majestät befand sich in einem offenen Wagen mit drei höheren Offizieren und ebensovielen zu Pferde daneben. Persönlich bekannt waren mir von letzteren
+
+- *) staatsarchiv XIX, No, 4096 s, 197 ff., hier nach dem Militärwochenblatt, sept. 1897 veröffentlichten, den Akten des Kriegsministeriums entnommenen Abschrift des Originals, welche eine wichtige Ergänzung aller bisherigen Drucke bietet.
+
+-209-
+
+die Generale Castelnau, Reille und Moskowa, der am Fuße verwundet schien, und Baubert. Am Wagen angekommen, stieg ich vom Pferde, trat an der Seite des Kaisers an den schlag und fragte nach den Befehlen Sr. Majestät. Der Kaiser drückte zunächst den Wunsch aus, Eure Kaiserliche Majestät zu sehn, anscheinend in der Meinung, das Allerhöchstdieselben sich ebenfalls in Donchery befänden. Nachdem ich erwiedert, das Eurer Majestät Hauptquartier augenblicklich 3 Meilen entfernt in Bendresse sei, fragte der Kaiser, ob Eure Majestät einen Ort bestimmt hätten, wohin er sich zunächst begeben solle, und eventuell, welches meine Meinung darüber sei. Ich entgegnete ihm, das ich in vollständiger Dunkelheit hierhergekommen und die Gegend mir deshalb unbekannt sei, und stellte ihm das in Donchery von mir bewohnte Haus zur Verfügung, welches ich sofort räumen würde. Der Kaiser nahm dies an, und fuhr im schritt gegen Donchery, hielt aber einige hundert schritt von der in die Stadt führenden Maasbrücke vor einem einsamgelegenen Arbeiterhause an und fragte mich, ob er nicht dort absteigen könne. Ich lies das Haus durch den Legationsrath Grafen Bismarck-Bohlen, der mir inzwischen gefolgt war, besichtigen; nachdem gemeldet, das seine innere Beschaffenheit sehr dürftig und eng, das Haus aber von
+
+
+
+---
+
 ![Screenshot_20251230-094538_Samsung Notes.jpg](https://github.com/user-attachments/assets/ed107d5d-defa-4526-ad71-180682458ff5)
 
 ![Screenshot_20251230-094548_Samsung Notes.jpg](https://github.com/user-attachments/assets/a2797056-87f9-4a01-9150-ac5ec95453be)
