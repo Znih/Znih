@@ -144,3 +144,16 @@ Artikel 118. Jeder Deutsche hat das Recht, innerhalb der Schranken der allgemein
 Eine Zensur findet nicht statt, doch können für Lichtspiele durch Gesetz abweichende Bestimmungen getroffen werden. Auch sind zur Bekämpfung der Schund- und Schmutzliteratur sowie zum Schutze der Jugend bei öffentlichen Schaustellungen und Darbietungen gesetzliche Maßnahmen zulässig.
 
 siehe hierzu das Lichtspielgesetz vom 12. Mai 1920 (RGBl. S. 953), das Gesetz zur Bewahrung der Jugend vor Schund- und Schmutzschriften vom 18. Dezember 1926 (RGBl. I S. 505), die §§ 185 bis 200 der Strafprozeßordnung vom 1. Februar 1877 (RGBl. S. 253) in der Fassung der Bekanntmachung vom 4. Januar 1924 (RGBl. I. S. 15), das Gesetz über die Presse vom 7. Mai 1874 (RGBl. S. 65).
+
+[...]
+
+Artikel 178. Die Verfassung des Deutschen Reichs vom 16. April 1871 und das Gesetz über die vorläufige Reichsgewalt vom 10. Februar 1919 sind aufgehoben.
+
+Die übrigen Gesetze und Verordnungen des Reichs bleiben in Kraft, soweit ihnen diese Verfassung nicht entgegensteht. Die Bestimmungen des am 28. Juni 1919 in Versailles unterzeichneten Friedensvertrags werden durch die Verfassung nicht berührt.
+
+Anordnungen der Behörden, die auf Grund bisheriger Gesetze in rechtsgültiger Weise getroffen waren, behalten ihre Gültigkeit bis zur Aufhebung im Wege anderweitiger Anordnung oder Gesetzgebung.
+
+Durch Gesetz vom 6. August 1920 wurde dem Artikel 178 Absatz 2 folgender Satz angefügt:
+"Mit Rücksicht auf die Verhandlungen bei dem Erwerbe der Insel Helgoland kann zugunsten ihrer einheimischen Bevölkerung eine von Artikel 17 Abs. 2 abweichende Regelung getroffen werden."
+
+was Abs.2 Satz 3 bewirken sollte, insbesondere die angesprochenen Verhandlungen bei dem Erwerbe der Insel Helgoland ist unklar, da der Vertrag von Versailles in Bezug auf Helgoland nur ein Befestigungsverbot vorsah, nicht aber eine Abtretung; da jedoch der Art. 74 der Verfassung des Freistaats Preußen vom 30. November 1920 (GS. S. 543) den Art. 17 Abs. 2 wörtlich übernahmen, war der Satz 3 doch wieder wirkungslos.
