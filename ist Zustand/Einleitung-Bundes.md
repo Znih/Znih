@@ -73,7 +73,8 @@ Ironie der Geschichte: Das RuStAG zielte darauf ab, die Zentralisierung des deut
 ---
 
 
-##### Auswirkungen der **Weimarer Republik (1919)**, des Dritten Reichs (1935, RuStAG als Grundlage) und des **GG 1949**.
+##### Auswirkungen durch Versailler Vertrag, der **Weimarer Reichsverfassung (WRV 1919)** als Dritten Reich, der NS und NAZI Staatsgrundgesetzen (1935, RuStAG als Grundlage) als Nazi-Deutschland und des **GG 1949** als demokratische Verwaltung Deutschlands (Art. 116 I GG) nicht Rechtsnachfolger des Bundes (Art. 116 II GG).
+
 
 Die rechtliche Konsolidierung des RuStAG eröffnete zwar Möglichkeiten des Nationalstaats, untergrub jedoch rechtwidrigen und gesetzeswidrig das föderale Gleichgewicht. Diese Entwicklungen zeigen, wie feine rechtliche Unterschiede massiven historischen Einfluss haben können, von der Verfassung des Kaiserreichs über die Weimarer Republik bis zur NS-Zeit.
 
