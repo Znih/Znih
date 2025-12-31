@@ -85,8 +85,10 @@ Tatsächlich ist Artikel 278 VV unpräzise formuliert, da er sich rein technisch
 
 Der [Artikel 278 VV](https://github.com/Znih/Znih/blob/main/Versailler-Unfrieden-1919-1925.md) war ein Instrument zur Umsetzung territorialer und völkerrechtlicher Veränderungen, basierend auf den zentralistischen Regelungen des RuStAG 1913. Der Wechsel von föderaler Reichsangehörigkeit (BuStAG 1870) zur "*unmittelbaren Reichsangehörigkeit*" (ius soli) führte zu Missverständnissen und juristischen Konflikten. Die zentrale Auslegung und Umsetzung führte zur Schwächung des föderalen Systems. Rechte auf Bundesstaatszugehörigkeit verloren ihre Bedeutung. Die Unterscheidung zwischen zentralistischer und föderaler Staatsangehörigkeit bleibt ein konfliktreiches Thema. Erst Art. 116 II GG versuchte, diese Balance teils wiederherzustellen. Artikel 278 VV greift tief in den Wandel deutscher Staats- und Föderalstrukturen ein. Sein Bezug zum RuStAG 1913 betont eine zentralistische Perspektive, die historische föderale Grundsätze weiter schwächte und zunächst nur Zentralisierung förderte.
 
+Artikel 110 I u. II WRV v. 1919:
+> I. Die Staatsangehörigkeit im Reiche und in den Ländern wird nach den Bestimmungen eines Reichsgesetzes erworben und verloren. Jeder Angehörige eines Landes ist zugleich Reichsangehöriger.
 
-
+> II. Jeder Deutsche hat in jedem Lande des Reichs die gleichen Rechte und Pflichten wie die Angehörigen des Landes selbst.
 
 
 
