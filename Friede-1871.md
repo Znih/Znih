@@ -5,7 +5,7 @@ Erste Seite des Friedensvertrages zwischen dem Deutschen Reich und Frankreich, F
 ```
 
 
-Briefwechsel Wilhelm I. und Bismarck zum Friedenswerk und Einigungswerk 1870/71 aus Bismarcks 5 Bände inkl. Faksimile Abschriften der Handschriften.
+Briefwechsel Wilhelm I. und Bismarck zum Friedenswerk und Einigungswerk 1870/71 aus Bismarcks eigenen 5 Bänden S. 208 bis 217 inkl. Faksimile Abschriften der Handschriften.
 
 
 -208-
@@ -18,7 +18,6 @@ Der General kehrte sofort zurück, um Sr. Majestät zu melden, das ich ihm folgt
 
 - *) staatsarchiv XIX, No, 4096 s, 197 ff., hier nach dem Militärwochenblatt, sept. 1897 veröffentlichten, den Akten des Kriegsministeriums entnommenen Abschrift des Originals, welche eine wichtige Ergänzung aller bisherigen Drucke bietet.
 
----
 
 -209-
 
@@ -32,8 +31,6 @@ Majestät zu Friedensverhandlungen geneigt sei. Der Kaiser erwiederte, das er je
 
 14
 
----
-
 -210-
 
 -->Befragen, durch wen seiner Ansicht nach die Staatsgewalt Frankreichs gegenwärtig vertreten werde, verwies mich Se. Majestät, auf das in Paris bestehende Gouvernement.
@@ -46,7 +43,6 @@ Der Kaiser begab sich demnächst ins Freie und lud mich ein, mich vor der Thür 
 
 In Berührung der politischen Situation nahm ich meinerseits keine Initiative, der Kaiser nur insoweit, daß er das Unglück des Krieges beklagte und erklärte, daß er selbst <!--
 
----
 
 -211-
 
@@ -54,13 +50,11 @@ In Berührung der politischen Situation nahm ich meinerseits keine Initiative, d
 
 - *) Von (* bis „angesehn" ist Ergänzung aus dem Militärwochenblatt.
 
----
 
 -212-
 
 -->da der Aufenthalt innerhalb des kleinen Arbeiterhauses unbequem sei, und der Kaiser vielleicht einiger Ruhe bedürfen würde. Se. Majestät ging hierauf bereitwillig ein, und geleitet den Kaiser, dem eine Ehren-Escorte von Eurer Majestät Leib-Cürassier-Regiment voranritt, nach dem Schlosse Bellevue, wo inzwischen das weitre Gefolge und die Equipagen des Kaisers, deren Ankunft aus der Stadt bis dahin für unsicher gehalten zu werden schien, von Sedan eingetroffen waren. Ebenso der General Wimpffen, mit welchem, in Erwartung der Rückkehr des Generals von Moltke, die Besprechung der gestern abgebrochnen Capitulations-Verhandlungen durch den General v, Podbielski, im Beisein des Oberstlieutenants von Verdy und des Stabschefs des Generals v. Wimpffen, welche beiden Offiziere das Protokoll führten, wieder aufgenommen wurde. Ich habe nur an der Einleitung derselben durch die Darlegung der politischen und rechtlichen Situation nach Maaßgabe der mir vom Kaiser selbst gewordenen Ausschlüsse Theil genommen, indem ich unmittelbar darauf durch den Rittmeister Grafen von Nostitz im Auftrage des Generals von Moltke die Meldung erhielt, das Eure Majestät den Kaiser erst nach Abschluß der Capitulation der Armee sehn wollten eine Meldung, nach welcher gegnerischerseits die Hoffnung, andre Bedingungen als die abgeschlossenen zu erhalten, aufgegeben wurde. Ich ritt darauf in der Absicht, Eurer Majestät die Lage der Dinge zu melden, Allerhöchstdenselben nach Chehery entgegen, traf unterwegs den General v. Moltke mit dem von Eurer Majestät genehmigten Texte der Capitulation, welcher, nachdem wir mit ihm in Fresnois eingetroffen, nunmehr ohne Widerspruch angenommen und unterzeichnet wurde. Das Verhalten des Generals v. Wimpffen war, ebenso wie das der übrigen französischen Generale in der Nacht vorher, ein sehr würdiges, und konnte dieser tapfre Offizier sich nicht enthalten, mir gegenüber seinem tiefen schmerze darüber Ausdruck zu geben, das grade er berufen sein müsse, <!--
 
----
 
 -213-
 
