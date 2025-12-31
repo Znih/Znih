@@ -404,8 +404,6 @@ Jules Favre. (L. S.)
 
 Pouyer Quertier. (L. S.) E. de Goulard. (L.S.)
 
-Screenshot_20251228_162430~2.jpg 243
-
 -243-
 
 (Uebersetzung.)
@@ -1711,6 +1709,29 @@ die Generale Castelnau, Reille und Moskowa, der am Fuße verwundet schien, und B
 ---
 
 ![Screenshot_20251230-094538_Samsung Notes.jpg](https://github.com/user-attachments/assets/ed107d5d-defa-4526-ad71-180682458ff5)
+
+
+Verwundeten frei sei, stieg der Kaiser ab und forderte mich auf, ihm in das Innere zu folgen. Hier hatte ich in einem sehr kleinen, einen Tisch und zwei Stühle enthaltenden Zimmer eine Unterredung von etwa einer stunde mit dem Kaiser.
+
+Se. Majestät betonte vorzugsweise den Wunsch, günstigere Capitulationsbedingungen für die Armee zu erhalten. Ich lehnte von Hause aus ab, hierüber mit Sr. Majestät zu unterhandeln, indem diese rein militärische Frage zwischen dem General v. Moltke und dem General v. Wimpffen zu erledigen sei. Dagegen fragte ich den Kaiser, ob Se.
+
+Majestät zu Friedensverhandlungen geneigt sei. Der Kaiser erwiederte, das er jetzt als Gefangner nicht in der Lage sei, und auf mein weiteres
+
+Kaiser Wilhelm I und Bismarck.
+
+14
+
+-210-
+
+Befragen, durch wen seiner Ansicht nach die Staatsgewalt Frankreichs gegenwärtig vertreten werde, verwies mich Se. Majestät, auf das in Paris bestehende Gouvernement.
+
+Nach Aufklärung dieses aus dem gestrigen schreiben des Kaisers an Eure Majestät nicht mit Sicherheit zu beurtheilenden Punktes erkannte ich, und verschwieg dies auch dem Kaiser nicht, daß die Situation heut wie gestern kein andres praktisches Moment als das militärische darbiete, und betonte die daraus für uns hervorgehende Nothwendigkeit, durch die Capitulation Sedans von allen Dingen ein materielles Pfand für die Befestigung der gewonnenen militärischen Resultate in die Hand zu bekommen.
+
+Ich hatte schon gestern Abend mit dem General v. Moltke nach allen Seiten hin die Frage erwogen: ob es möglich sein würde ohne Schädigung der deutschen Interessen dem militärischen Ehrgefühl einer Armee, die sich gut geschlagen hatte, günstigere Bedingungen als die festgestellten anzubieten. Nach pflichtmäßiger Erwägung mußten wir Beide in der Verneinung dieser Frage beharren. Wenn daher der General v. Moltke, der inzwischen aus der Stadt hinzugekommen war, sich zu Eurer Majestät begab, um Allerhöchstdenselben die Wünsche des Kaisers vorzulegen, so geschah dies, wie Eurer Majestät bekannt, nicht in der Absicht, dieselben zu befürworten.
+
+Der Kaiser begab sich demnächst ins Freie und lud mich ein, mich vor der Thür des Hauses neben ihn zu setzen. Se. Majestät stellte mir die Frage, ob es nicht thunlich sei, die französische Armee über die belgische Grenze gehn zu lassen, damit sie dort entwaffnet und internirt werde. Ich hatte auch diese Eventualität bereits am Abend
+
+---
 
 ![Screenshot_20251230-094548_Samsung Notes.jpg](https://github.com/user-attachments/assets/a2797056-87f9-4a01-9150-ac5ec95453be)
 
