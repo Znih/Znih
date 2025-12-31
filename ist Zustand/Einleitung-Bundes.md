@@ -63,6 +63,8 @@ Der Wortlaut von **§ 26 BuStAG** lautet daher:
 
 Dies bedeutet, dass alle vor oder nach Erlass des BuStAG eingeführten Regelungen oder Gesetze, die in Konflikt mit den Grundprinzipien des BuStAG stehen, automatisch ihre Rechtswirkung verlieren. Das BuStAG setzte klare Grundsätze zum föderalen Status der Bundes- und Staatsangehörigkeit. Jedes Gesetz, das davon abweicht (z. B. zentrale Reichszugehörigkeit ohne föderalistischen Bezug), würde unter § 26 fallen und seine Gültigkeit verlieren.
 
+Nach BuStAG 1870 setzt „*Deutschsein*“ zwingend die Staatsangehörigkeit in einem Bundesstaat voraus. § 1 RuStAG erweitert dies um die „*unmittelbare Reichsangehörigkeit*“ (§§ 33-35 RuStAG), welche späteren zentralistischen Regimen als Grundlage für die weitere Schwächung föderaler Strukturen diente, und die weder im BuStAG vorgesehen noch mit den föderalen Prinzipien vereinbar ist. Diese „*unmittelbare Reichsangehörigkeit*“ widerspricht dem föderalen Status der Doppelzugehörigkeit (Staats- UND Bundesangehörigkeit), wie sie im BuStAG vorgesehen war.
+
 Die rechtliche Konsolidierung des RuStAG eröffnete zwar Möglichkeiten des Nationalstaats, untergrub jedoch rechtwidrigen und gesetzeswidrig das föderale Gleichgewicht. Diese Entwicklungen zeigen, wie feine rechtliche Unterschiede massiven historischen Einfluss haben können, von der Verfassung des Kaiserreichs über die Weimarer Republik bis zur NS-Zeit.
 
 
