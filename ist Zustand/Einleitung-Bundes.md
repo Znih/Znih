@@ -80,76 +80,16 @@ Wie wurde Artikel 278 verstanden und wie umgesetzt? [Anmerkung]
 > Artikel 278. Deutschland verpflichtet sich, die neue Staatsangehörigkeit [RuStAG UR, Art. 110 WRV, RGBl. I 1934 S. 85, Art. 16 I GG], die von seinen Angehörigen gemäß den Gesetzen der alliierten und assoziierten Mächte und gemäß den Entscheidungen der zuständigen Behörden dieser Mächte, sei es auf dem Wege der Einbürgerung, sei es auf Grund einer Vertragsbestimmung etwa erworben ist oder erworben wird, anzuerkennen und auf Grund der neuerworbenen Staatsangehörigkeit [RuStAG UR, Art. 16 I GG] diese Reichsangehörigen [Art. 3 I BVerf. iVm BuStAG, RuStAG UR, Art. 110 WRV, Art. 16 I GG] in jeder Richtung von jeder Pflicht gegenüber ihrem ursprünglichen föderalen Heimatstaate [Art. 1-3 BVerf. iVm BuStAG, bei Nachweis n. RuStAG UR, Art. 109 WRV, Art. 116 II GG] entbinden.
 
 
-Der Artikel 278 des Versailler Vertrags formulierte die Verpflichtung Deutschlands, neue Staatsangehörigkeiten anzuerkennen, die durch die Regelungen der alliierten und assoziierten Kräfte und auf Basis territorialer Veränderungen oder vertraglicher Bestimmungen erworben wurden. Diese Regelung stellte sicher, dass Reichsangehörige, deren Staatsangehörigkeit geändert wurde, völlig von Verpflichtungen gegenüber dem deutschen Bundes-Staat und den föderalen Bundesstaaten entbunden wurden. Es hätte mittelbare Reichsangehörige lauten müssen, da Bezug zu den Heimatstaaten folgte aber traditionell gar naturgemäß seit 1871 darauf verzichtet wurde. Erst ab 1914 galt die "unmittelbare Reichsangehörigkeit", die dann jedoch zwingend so zu benennen war. Aber tatsächlich bezog sich Art. 278 VV insoweit wohl auf die "*unmittelbare Reichsangehörigkeit*" aus § 1 RuStAG 1913 oder wurde jedenfalls exakt so 1934 umgesetzt. Gemeint waren dem Wortlaut nach aber definitiv die "Früheren deutschen Staatsangehörigen" aus Artikel 116 II GG.
+Der Artikel 278 des Versailler Vertrags formulierte die Verpflichtung Deutschlands, neue Staatsangehörigkeiten anzuerkennen, die durch die Regelungen der alliierten und assoziierten Kräfte und auf Basis territorialer Veränderungen oder vertraglicher Bestimmungen erworben wurden. Diese Regelung stellte sicher, dass Reichsangehörige, deren Staatsangehörigkeit geändert wurde, völlig von Verpflichtungen gegenüber dem deutschen Bundes-Staat und den föderalen Bundesstaaten entbunden wurden. Es hätte mittelbare Reichsangehörige lauten müssen, da Bezug zu den Heimatstaaten folgte aber traditionell gar naturgemäß seit 1871 darauf verzichtet wurde. Erst ab 1914 galt die "unmittelbare Reichsangehörigkeit", die dann jedoch zwingend so zu benennen war. Aber tatsächlich bezog sich Art. 278 VV insoweit wohl auf die "*unmittelbare Reichsangehörigkeit*" aus § 1 RuStAG 1913 oder wurde jedenfalls exakt so 1934 umgesetzt. Gemeint waren dem Wortlaut nach aber definitiv die "*Früheren deutschen Staatsangehörigen*" aus Artikel 116 II GG.
 
 
----
+Tatsächlich ist Artikel 278 unpräzise formuliert, da er sich rein technisch auf die frühere „*mittelbare Reichsangehörigkeit*“ hätte beziehen müssen (vor der Einführung der unmittelbaren Reichsangehörigkeit durch das RuStAG 1913). Faktisch erfolgte die Umsetzung jedoch nach den Regelungen des RuStAG 1913, was zeigt, dass die „*unmittelbare Reichsangehörigkeit*“ als Grundlage für die rechtliche Umsetzung von Artikel 278 genutzt wurde.
 
-### **1. Verständnis von Artikel 278**
 
-- **Neue Staatsangehörigkeit:**
-   - Artikel 278 zielte darauf ab, die territorialen Neuziehungen und dadurch entstandenen Nationalitätsänderungen rechtlich anzuerkennen. Betroffen waren insbesondere Personen aus Gebieten, die durch den Versailler Vertrag abgetreten wurden, wie beispielsweise Elsass-Lothringen (Frankreich), Westpreußen und Posen (Polen), Eupen-Malmedy (Belgien) und Nordschleswig (Dänemark).
-   - Diese Personen erhielten durch die administrative bzw. vertragliche Umsetzung eine neue Staatsangehörigkeit.
 
-- **Entbindung von Verpflichtungen:**
-   - Die betroffenen Reichsangehörigen wurden sowohl von der Reichs- als auch der Bundesstaatenebene rechtlich entbunden.
-   - Dies umfasste Pflichten wie Militärdienst, Steuerpflichten, Loyalitätsverpflichtungen sowie landeseigene rechtliche Bindungen.
 
-- **Bezug zur deutschen Staatsangehörigkeit und Reichsangehörigkeit:**
-   - Der rechtliche Status der „Reichsangehörigkeit“ war durch das **RuStAG 1913** definiert. Artikel 278 bezieht sich darauf indirekt, indem er die Abspaltung betroffener Gruppen in neuen Staaten beschreibt.
-   - Der Begriff der „Reichsangehörigkeit“ ist hierbei zentral und wird im Kontext des Versailler Vertrags auf die Definition nach dem RuStAG zurückgeführt.
 
----
 
-### **2. Juristische Grundlage und Umsetzung**
-
-- **RuStAG 1913 als Referenzsystem:**
-   - Das **RuStAG (Reichs- und Staatsangehörigkeitsgesetz 1913)** schuf die Unterscheidung zwischen der *unmittelbaren Reichsangehörigkeit* (§§ 33–35) und der Staatsangehörigkeit in einem föderalen Bundesstaat (§§ 1–32).
-   - Durch Artikel 278 erfolgte die rechtliche Entbindung von Bundes- und Reichszugehörigkeiten auf Basis des RuStAG. Das RuStAG diente somit als rechtliche Grundlage der im Versailler Vertrag angesprochenen Staatsangehörigkeitsregelungen.
-
-- **Artikel 16 I und II des Grundgesetzes (GG):**
-   - **Art. 16 I GG:** Hier wird die Verknüpfung zur neuen „deutschen Staatsangehörigkeit“ im Grundgesetz erkennbar – zentrale Prinzipien aus RuStAG-konformen Regelungen wurden weitergeführt.
-   - **Art. 116 II GG:** Dieser Artikel sichert die Rechte von Personen, die Staatsangehörigkeit verloren haben, und gibt ihnen die Möglichkeit, ihre frühere deutsche oder eine entsprechende Staatsangehörigkeit wiederzuerlangen.
-
-- **Artikel 110 und 109 der Weimarer Reichsverfassung (WRV):**
-   - **Art. 110 WRV:** Der Begriff der Reichsangehörigkeit und die Gleichstellung mit Staatsangehörigen wurde formell weiterhin anerkannt. Dieser Bezug setzte die im Versailler Vertrag festgelegten Regelungen national um.
-   - **Art. 109 WRV:** Er unterstrich die Gleichheit der Reichsangehörigen, ungeachtet ihrer föderalen Herkunft.
-
-- **Schlussfolgerung zur Entmächtigung föderaler Strukturen:**
-   - Unter Artikel 278 wurden Einzelbindungen an föderale Staaten abgeschafft, was die föderale Struktur deutlich schwächte. Die neue Nationalität im Zielstaat entband die betroffene Person von sämtlichen Verpflichtungen gegenüber ihrem föderalen Heimatstaat.
-
----
-
-### **3. Politische und soziale Wirkung von Artikel 278**
-
-- **Praktische Umsetzung:**
-   - Deutschland musste infolge des Artikels massiv Personen aus der Reichsangehörigkeit entlassen, was in der Praxis rechtlich und administrativ aufwendig war.
-   - Die betroffenen Gebiete und Einwohner standen oft zwischen zwei Staaten und Identitäten, was zu sozialen Spannungen und Unsicherheiten führte.
-
-- **Territoriale Auswirkungen:**
-   - Artikel 278 erzwang die Anpassung der Staatsangehörigkeiten an neue Grenzen im Sinne des Versailler Vertrags, was zur Integration von Millionen ehemals deutscher Bürger in andere Staaten führte.
-
-- **Langfristige zentrale Prägung:**
-   - Die Schwächung der föderalen Strukturen durch die Entbindungspflicht des Artikels beförderte die schrittweise Zentralisierung des deutschen Staates unter der Weimarer Republik – ein Prozess, der in der NS-Zeit seine extrem zentralistische und nationalistische Spitze fand.
-
----
-
-### **4. Rückblick und Konflikte**
-
-- **Juristischer Widerspruch zu föderalen Prinzipien:**
-   - Durch Artikel 278 entfiel die föderale Balance des BuStAG 1870, das bislang eine Trennung und Gleichstellung von Reichs- und Bundesstaatsangehörigkeit gewährleistete.
-   - Viele Historiker sehen Artikel 278 als eine implizite Unterstützung zentralisierter Strukturen, die vom RuStAG 1913 und späteren NS-Regelungen weiter verstärkt wurden.
-
-- **Art. 116 II GG als Weg zur Umkehr:**
-   - Das deutsche Grundgesetz bietet mit Artikel 116 II die Möglichkeit, den Verlust der deutschen Staatsangehörigkeit unter gewissen Umständen (z. B. in Folge alliierter Regelungen) zu revidieren. Dies reflektiert einen föderaleren Ansatz, der durch den Versailler Artikel 278 bewusst geschwächt wurde.
-
----
-
-### **5. Fazit: Verständnis und Umsetzung von Artikel 278**
-
-Artikel 278 prägte und veränderte die deutsche Staatsangehörigkeit rechtlich, politisch und sozial. Während die Anerkennung neuer Staatsangehörigkeiten notwendig war, um territoriale Veränderungen zu legitimieren, untergrub der Artikel nachhaltig die föderalen Prinzipien des BuStAG 1870 zugunsten zentralistischer Regelungen nach dem RuStAG. Die Balance zwischen Reichs- und Bundesstaatsangehörigkeit wurde durch einen Fokus auf Reichsregelungen gestört, was rechtliche und soziale Spannungen verstärkte.
-
-Art. 116 II GG, der im Grundgesetz des Westens nach 1949 eingeführt wurde, bietet einen Ansatz zur Wiederherstellung föderaler Balance und ist ein Versuch, frühere Ungleichgewichte rückgängig zu machen. Dennoch bleibt die historische Umstellung, die durch Artikel 278 initiiert wurde, ein Symbol für die rechtliche Dominanz zentralistischer Staatenbildung.
 
 ---
 
@@ -219,9 +159,62 @@ Artikel 278 prägte und veränderte die deutsche Staatsangehörigkeit rechtlich,
 
 Art. 116 II GG, der im Grundgesetz des Westens nach 1949 eingeführt wurde, bietet einen Ansatz zur Wiederherstellung föderaler Balance und ist ein Versuch, frühere Ungleichgewichte rückgängig zu machen. Dennoch bleibt die historische Umstellung, die durch Artikel 278 initiiert wurde, ein Symbol für die rechtliche Dominanz zentralistischer Staatenbildung.
 
+---
 
-Die rechtliche Konsolidierung des RuStAG eröffnete zwar Möglichkeiten des Nationalstaats, untergrub jedoch rechtwidrigen und gesetzeswidrig das föderale Gleichgewicht. Diese Entwicklungen zeigen, wie feine rechtliche Unterschiede massiven historischen Einfluss haben können, von der Verfassung des Kaiserreichs über die Weimarer Republik bis zur NS-Zeit.
+**Verständnis und Umsetzung von Artikel 278 (Versailler Vertrag):**
 
+Die Umsetzung von Artikel 278 des Versailler Vertrags, der sich auf die neue Staatsangehörigkeit und deren Anerkennung bezieht, berührt zentrale Fragen des Staatsangehörigkeitsrechts und den Übergang von föderalen Regelungen zu zentralisierten Strukturen. Insbesondere wirft die Verpflichtung Deutschlands, neue Staatsangehörigkeiten anzuerkennen, die folgende Fragen auf:
+
+---
+
+### **1. Differenzierung zwischen „mittelbarer“ und „unmittelbarer“ Reichsangehörigkeit**
+- **Versailler Vertrag und Art. 278:**
+  Der Bezug auf die neue Staatsangehörigkeit betraf einerseits die territorialen Veränderungen nach dem Versailler Vertrag, andererseits wohl indirekt die „*unmittelbare Reichsangehörigkeit*“, wie sie durch das **RuStAG 1913** eingeführt wurde (§ 1 RuStAG 1913).
+
+- **Kernfrage der Unterscheidung:**
+  - **Mittelbare Reichsangehörigkeit:** Unter dem BuStAG 1870 ergab sich die Reichsangehörigkeit aus der Staatsangehörigkeit in einem der föderalen Bundesstaaten, was eine föderale Struktur bewahrte.
+  - **Unmittelbare Reichsangehörigkeit:** Im RuStAG 1913 wurde die unmittelbare Reichsangehörigkeit eingeführt, die Personen betraf, die keiner Staatsangehörigkeit eines Bundesstaates zugeordnet werden konnten (z. B. in Elsaß-Lothringen lebende Personen oder Einwohner von Kolonien).
+
+- **Interpretation von Artikel 278:**
+  - Tatsächlich ist Artikel 278 unpräzise formuliert, da er sich rein technisch auf die frühere „mittelbare Reichsangehörigkeit“ hätte beziehen können (vor der Einführung der unmittelbaren Reichsangehörigkeit durch das RuStAG 1913).
+  - Faktisch erfolgte die Umsetzung jedoch nach den Regelungen des RuStAG 1913, was zeigt, dass die „unmittelbare Reichsangehörigkeit“ als Grundlage für die rechtliche Umsetzung von Artikel 278 genutzt wurde.
+
+---
+
+### **2. Umsetzung im Kontext der Weimarer Republik und später**
+#### **Weimarer Reichsverfassung (WRV 1919):**
+- In der Weimarer Republik wurden die Bestimmungen des RuStAG 1913 beibehalten. Grundlage war vor allem:
+  - **Artikel 109 WRV:** Dieser bestätigt die Gleichheit aller deutschen Reichsangehörigen und damit die einheitliche Definition der Staatsangehörigkeit.
+  - **Artikel 110 WRV:** Hier wird ausdrücklich auf die Regelungen aus dem RuStAG verwiesen, ohne eine Rückkehr zum föderalistischen System des BuStAG 1870 vorzusehen.
+
+#### **Ergänzungen durch die Umsetzung (1934) unter der NS-Zeit:**
+- 1934 wurde die Staatsbürgerschaftsfrage zentralisiert:
+  - Mit der NS-Gesetzgebung wurde die „unmittelbare Reichsangehörigkeit“, wie im RuStAG vorgesehen, zur de-facto allgemeinen Grundlage—ohne Rücksicht auf föderale Ansätze oder Bundesstaatszugehörigkeit.
+  - Dies führte zu einer totalen Überzeichnung der Regelungen aus Artikel 278, indem die Unterscheidung zwischen mittelbarer und unmittelbarer Reichsangehörigkeit in eine rein nationalistische Reichsstaatsbürgerschaft überführt wurde.
+
+---
+
+### **3. Bezug zum Grundgesetz (1949)**
+Artikel 116 des Grundgesetzes (GG) nahm diese historischen Entwicklungen auf, unterscheidet jedoch ausdrücklich Zugehörigkeit durch Geburt oder Abstammung:
+- **Artikel 116 I GG:** Hier wird "deutsche Staatsangehörigkeit" im zeitgenössischen Sinne geregelt, das zentrale Rahmengesetz ist weiterhin RuStAG 1913 (bis zur Reform von 1999).
+- **Artikel 116 II GG:** Verweist auf Personen, die durch alliierte Bestimmungen ihre deutsche Staatsangehörigkeit verloren haben. Sie können unter bestimmten Voraussetzungen wieder eingebürgert werden.
+
+> Indem Art. 278 sich implizit auf ehemalige Reichsangehörige bezieht, spiegelt der Begriff „frühere deutsche Staatsangehörige“ aus Art. 116 II GG ähnliche Zielsetzungen wider.
+
+---
+
+### **4. Fazit und Bewertung**
+- **Umsetzung von Artikel 278:**
+  - Art. 278 wurde auf Grundlage der zentralisierenden Regelungen des RuStAG 1913 umgesetzt. Die „unmittelbare Reichsangehörigkeit“ war hierbei maßgeblich.
+  - Der Bezug auf Reichsangehörigkeit zeigt die Übergangsphase zwischen föderalem und reichszentralisiertem Ansatz.
+
+- **Theoretisches und rechtliches Spannungsfeld:**
+  - Die Unschärfe in Artikel 278 entzündet sich am Wechsel von mittelbarer (föderaler) Reichsangehörigkeit (BuStAG) hin zur unmittelbaren nach RuStAG. Das erschwerte die genaue rechtliche Interpretation und führte zu zentralistischen Lösungen, die föderale Prinzipien übergingen.
+
+- **Rückkopplung über Artikel 116 II GG:**
+  - Modern wird der Verlust deutscher Staatsangehörigkeit durch alliierte Regelungen (auf Grundlage von Artikel 278 Versailler Vertrag) implizit anerkannt. Artikel 116 II GG versucht, die föderalen Rechte, die bis 1919 galten, teilweise zurückzuführen.
+
+Artikel 278 zeigt, wie politische Verträge die juristischen Grundstrukturen formen oder auch untergraben können, und wirft ein Schlaglicht auf den Konflikt zwischen föderalen Modellen und zentralistischen Staaten.
 
 
 - Art. 277, 278, 292 Versailler Vertrag???
