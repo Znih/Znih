@@ -5,6 +5,120 @@ Erste Seite des Friedensvertrages zwischen dem Deutschen Reich und Frankreich, F
 ```
 
 
+Briefwechsel Wilhelm I. und Bismarck zum Friedenswerk und Einigungswerk 1870/71 aus Bismarcks 5 Bände inkl. Faksimile Abschriften der Handschriften.
+
+
+-208-
+
+Donchery, den 2 September 1870.
+
+Nachdem ich mich gestern Abend auf Eurer königlichen Majestät Befehl hierherbegeben hatte, um an den Verhandlungen über die Capitulation Theil zu nehmen, wurden letztere bis etwa 1 Uhr Nachts durch die Bewilligung einer Bedenkzeit unterbrochen, welche General Wimpffen erbeten, nachdem General v. Moltke bestimmt erklärt hatte, das keine andere Bedingung als die Waffenruhe bewilligt werden und das Bombardement um 9 Uhr morgens wieder beginnen würde, wenn bis dahin die Capitulation nicht abgeschlossen wäre. Heut Früh gegen 6 Uhr wurde mir der General Reille angemeldet, welcher mir mittheilte, das der Kaiser mich zu sehn wünsche und sich bereits auf dem Wege von Sedan hierher befinde.
+
+Der General kehrte sofort zurück, um Sr. Majestät zu melden, das ich ihm folgte, und ich befand mich furz darauf etwa auf halbem Wege zwischen hier und Sedan, in der Nähe von Fresnois, dem Kaiser gegenüber. Se. Majestät befand sich in einem offenen Wagen mit drei höheren Offizieren und ebensovielen zu Pferde daneben. Persönlich bekannt waren mir von letzteren
+
+- *) staatsarchiv XIX, No, 4096 s, 197 ff., hier nach dem Militärwochenblatt, sept. 1897 veröffentlichten, den Akten des Kriegsministeriums entnommenen Abschrift des Originals, welche eine wichtige Ergänzung aller bisherigen Drucke bietet.
+
+---
+
+-209-
+
+die Generale Castelnau, Reille und Moskowa, der am Fuße verwundet schien, und Baubert. Am Wagen angekommen, stieg ich vom Pferde, trat an der Seite des Kaisers an den schlag und fragte nach den Befehlen Sr. Majestät. Der Kaiser drückte zunächst den Wunsch aus, Eure Kaiserliche Majestät zu sehn, anscheinend in der Meinung, das Allerhöchstdieselben sich ebenfalls in Donchery befänden. Nachdem ich erwiedert, das Eurer Majestät Hauptquartier augenblicklich 3 Meilen entfernt in Bendresse sei, fragte der Kaiser, ob Eure Majestät einen Ort bestimmt hätten, wohin er sich zunächst begeben solle, und eventuell, welches meine Meinung darüber sei. Ich entgegnete ihm, das ich in vollständiger Dunkelheit hierhergekommen und die Gegend mir deshalb unbekannt sei, und stellte ihm das in Donchery von mir bewohnte Haus zur Verfügung, welches ich sofort räumen würde. Der Kaiser nahm dies an, und fuhr im schritt gegen Donchery, hielt aber einige hundert schritt von der in die Stadt führenden Maasbrücke vor einem einsamgelegenen Arbeiterhause an und fragte mich, ob er nicht dort absteigen könne. Ich lies das Haus durch den Legationsrath Grafen Bismarck-Bohlen, der mir inzwischen gefolgt war, besichtigen; nachdem gemeldet, das seine innere Beschaffenheit sehr dürftig und eng, das Haus aber von Verwundeten frei sei, stieg der Kaiser ab und forderte mich auf, ihm in das Innere zu folgen. Hier hatte ich in einem sehr kleinen, einen Tisch und zwei Stühle enthaltenden Zimmer eine Unterredung von etwa einer stunde mit dem Kaiser.
+
+Se. Majestät betonte vorzugsweise den Wunsch, günstigere Capitulationsbedingungen für die Armee zu erhalten. Ich lehnte von Hause aus ab, hierüber mit Sr. Majestät zu unterhandeln, indem diese rein militärische Frage zwischen dem General v. Moltke und dem General v. Wimpffen zu erledigen sei. Dagegen fragte ich den Kaiser, ob Se.
+
+Majestät zu Friedensverhandlungen geneigt sei. Der Kaiser erwiederte, das er jetzt als Gefangner nicht in der Lage sei, und auf mein weiteres
+
+Kaiser Wilhelm I und Bismarck.
+
+14
+
+---
+
+-210-
+
+Befragen, durch wen seiner Ansicht nach die Staatsgewalt Frankreichs gegenwärtig vertreten werde, verwies mich Se. Majestät, auf das in Paris bestehende Gouvernement.
+
+Nach Aufklärung dieses aus dem gestrigen schreiben des Kaisers an Eure Majestät nicht mit Sicherheit zu beurtheilenden Punktes erkannte ich, und verschwieg dies auch dem Kaiser nicht, daß die Situation heut wie gestern kein andres praktisches Moment als das militärische darbiete, und betonte die daraus für uns hervorgehende Nothwendigkeit, durch die Capitulation Sedans von allen Dingen ein materielles Pfand für die Befestigung der gewonnenen militärischen Resultate in die Hand zu bekommen.
+
+Ich hatte schon gestern Abend mit dem General v. Moltke nach allen Seiten hin die Frage erwogen: ob es möglich sein würde ohne Schädigung der deutschen Interessen dem militärischen Ehrgefühl einer Armee, die sich gut geschlagen hatte, günstigere Bedingungen als die festgestellten anzubieten. Nach pflichtmäßiger Erwägung mußten wir Beide in der Verneinung dieser Frage beharren. Wenn daher der General v. Moltke, der inzwischen aus der Stadt hinzugekommen war, sich zu Eurer Majestät begab, um Allerhöchstdenselben die Wünsche des Kaisers vorzulegen, so geschah dies, wie Eurer Majestät bekannt, nicht in der Absicht, dieselben zu befürworten.
+
+Der Kaiser begab sich demnächst ins Freie und lud mich ein, mich vor der Thür des Hauses neben ihn zu setzen. Se. Majestät stellte mir die Frage, ob es nicht thunlich sei, die französische Armee über die belgische Grenze gehn zu lassen, damit sie dort entwaffnet und internirt werde. Ich hatte auch diese Eventualität bereits am Abend zuvor mit General v. Moltke besprochen und ging unter Anführung der oben bereits angedeuteten Motive auch auf die Besprechung dieser Modalität nicht ein.
+
+In Berührung der politischen Situation nahm ich meinerseits keine Initiative, der Kaiser nur insoweit, daß er das Unglück des Krieges beklagte und erklärte, daß er selbst
+
+---
+
+-211-
+
+den Krieg nicht gewollt habe, durch den Druck der öffentlichen Meinung Frankreichs aber dazu genöthigt worden sei. (* Ich hielt es nicht für meinen Beruf, in diesem Augenblick darauf hinzuweisen, wie das, was der Kaiser als öffentliche Meinung bezeichnete, nur das künstliche Product von einigen ehrgeizigen und politisch beschränkten Coterien der französischen Presse sei. Ich entgegnete nur, das in Deutschland Niemand den Krieg gewollt habe, namentlich Eure Majestät nicht, und das die spanische Frage für keine deutsche Regirung ein Interesse, welches eines Krieges werth gewesen wäre, dargeboten hätte. Eurer Majestät Stellung zu der spanischen Thronbesetzung sei schließlich durch den Gewissenszweifel bestimmt worden, ob es recht sei, der spanischen Nation den Versuch, durch diese Königswahl zur Wiederherstellung dauernder innerer Einrichtungen zu gelangen, aus persönlichen und dynastischen Bedenken zu verkümmern; daran, das es dem Erbprinzen gelingen würde, sich mit Sr. Majestät dem Kaiser über die Annahme der spanischen Wahl in befriedigendes Einvernehmen zu setzen, hätten Eure Majestät bei den langjährigen guten Beziehungen der Mitglieder des Fürstlich Hohenzollernschen Hauses zum Kaiser niemals Zweifel gehegt, dies aber nicht als eine deutsche oder preußische, sondern als eine spanische Angelegenheit angesehn. *) Durch Erkundigungen in der Stadt und insbesondre dur Recognoscirungen der Offiziere vom Generalstabe war inzwischen, etwa zwischen 9 und 10 Uhr, festgestellt worden, daß das Schloß Bellevue bei Fresnois zur Aufnahme des Kaisers geeignet und auch noch nicht mit Verwundeten belegt sei. Ich meldete dies Sr. Majestät in der Form, das ich Fresnois als den Ort bezeichnete, den ich Eurer Majestät zur Zusammenkunft in Vorschlag bringen würde, und deshalb dem Kaiser anheimstellte, ob Se. Majestät sich gleich dahin begeben wolle,
+
+*) Von (* bis „angesehn" ist Ergänzung aus dem Militärwochenblatt.
+
+---
+
+-212-
+
+da der Aufenthalt innerhalb des kleinen Arbeiterhauses unbequem sei, und der Kaiser vielleicht einiger Ruhe bedürfen würde. Se. Majestät ging hierauf bereitwillig ein, und geleitet den Kaiser, dem eine Ehren-Escorte von Eurer Majestät Leib-Cürassier-Regiment voranritt, nach dem Schlosse Bellevue, wo inzwischen das weitre Gefolge und die Equipagen des Kaisers, deren Ankunft aus der Stadt bis dahin für unsicher gehalten zu werden schien, von Sedan eingetroffen waren. Ebenso der General Wimpffen, mit welchem, in Erwartung der Rückkehr des Generals von Moltke, die Besprechung der gestern abgebrochnen Capitulations-Verhandlungen durch den General v, Podbielski, im Beisein des Oberstlieutenants von Verdy und des Stabschefs des Generals v. Wimpffen, welche beiden Offiziere das Protokoll führten, wieder aufgenommen wurde. Ich habe nur an der Einleitung derselben durch die Darlegung der politischen und rechtlichen Situation nach Maaßgabe der mir vom Kaiser selbst gewordenen Ausschlüsse Theil genommen, indem ich unmittelbar darauf durch den Rittmeister Grafen von Nostitz im Auftrage des Generals von Moltke die Meldung erhielt, das Eure Majestät den Kaiser erst nach Abschluß der Capitulation der Armee sehn wollten eine Meldung, nach welcher gegnerischerseits die Hoffnung, andre Bedingungen als die abgeschlossenen zu erhalten, aufgegeben wurde. Ich ritt darauf in der Absicht, Eurer Majestät die Lage der Dinge zu melden, Allerhöchstdenselben nach Chehery entgegen, traf unterwegs den General v. Moltke mit dem von Eurer Majestät genehmigten Texte der Capitulation, welcher, nachdem wir mit ihm in Fresnois eingetroffen, nunmehr ohne Widerspruch angenommen und unterzeichnet wurde. Das Verhalten des Generals v. Wimpffen war, ebenso wie das der übrigen französischen Generale in der Nacht vorher, ein sehr würdiges, und konnte dieser tapfre Offizier sich nicht enthalten, mir gegenüber seinem tiefen schmerze darüber Ausdruck zu geben, das grade er berufen sein müsse,
+
+---
+
+-213-
+
+achtundvierzig Stunden nach seiner Ankunft aus Afrika und einen halben Tag nach seiner Uebernahme seines Commandos seinen Namen unter eine für französischen Waffen so verhängnisvolle Capitulation zu setzen, indessen der Mangel an Lebensmitteln und Munition und die absolute Unmöglichkeit jeder weitern Vertheidigung lege ihm als General die Pflicht auf, seine persönlichen Gefühle schweigen zu lassen, da weiteres Blutvergießen in der Situation nichts mehr ändern könne. Die Bewilligung der Entlassung der Offiziere auf ihr Ehrenwort wurde mit lebhaftem Danke entgegengenommen als ein Ausdruck der Intentionen Eurer Majestät, den Gefühlen einer Truppe, welche sich tapfer geschlagen hatte, nicht über die Linie hinaus zu nahe zu treten, welche durch das Gebot unsrer politischen-militärischen Interessen mit Nothwendigkeit gezogen war. Diesem Gefühle hat der General v. Wimpffen auch nachträglich in einem Schreiben Ausdruck gegeben, in welchem er dem General v. Moltke seinen Dank für die rücksichtsvollen Formen ausdrückt, in denen die Verhandlungen von Seiten desselben geführt worden sind.
+
+v. Bismarck,
+
+
+228*).
+
+(Bei Verleihung und Uebersendung des Eisernen Kreuzes I. Klasse)
+
+Aus dankbarster Anerkennung des 18. Dezembers 1870**)
+
+am 24. Dezember 1870.
+
+Versailles. - Wilhelm.
+
+229***).
+
+Versailles, 25. Dezember 1870
+
+Eure Majestät wollen meinen ehrfurchtsvollen Dank huldreich entgegennehmen für die so gnädige Auszeichnung, welche
+
+*) B.-J. IV, 6.
+
+**) Am 18. Dez. 1870 empfing König Wilhelm die Deputation des Norddeutschen Reichstags, die ihn um Annahme des Kaiserlichen Titels bat.
+
+***) B.-J. IV, 27.
+
+
+---
+
+-217-
+
+
+Berlin den 24ten Dezbr. 1871
+
+Mit dem heutigen Feste, nähern wir uns zugleich dem Schluß des Jahres, welches uns nach blutigen, aber auch glorreichen Kämpfen in zwei Jahren, - den Frieden brachte.
+
+Diese ewig denkwürdigen Zeitabschnitte, bezeichnen eine neue, kaum geahndete Periode für Preußen, da es nunmehr an der Spitze eines neuen deutschen Reiches stehet.
+
+Ich brauche nicht vieler Worte, um mir zurückzurufen u(nd) Jahren wiederum vorzuführen, was ich, Preußen und Deutschland Ihrem rastlosen Mühen in dieser Ruhmreichen Zeit verdankt! Die Welt anerkennt Ihr Seegensreiches Wirken zur Umgestaltung der Europäischen, ja, der Welt-Verhältnisse, u(nd) die Welt kennt wie ich dankbar gewesen zu sein hoffen darf.
+
+In Ihrem Hause u(nd) in Ihrer Familie wünsche ich aber ein sichtbares Zeichen dieser Dankbarkeit zu erreichen; ich benutze dazu das heutige Fest, um Ihnen meine Büste in Marmor zu senden, da dieser Stoff einigermaßen im Stande ist, meine Befindungen für Sie auf die Nachwelt zu bringen.
+
+Mit den Gefühlen die geben, mögen Sie das Weihnachts Geschenk, nehmen.
+
+Ihr
+
+dankbarer, treu ergebener Wilhelm
+
+Imperator Rex
+
+
+---
+---
+
 (Nr. 656.) (Uebersetzung.) Friedens-Präliminarien zwischen dem Deutschen Reich und Frankreich. Vom 26. Februar 1871.
 
 Zwischen dem Kanzler des Deutschen Reichs, Herrn Grafen Otto v. Bismarck-Schönhausen, der mit Vollmacht SeitensSeiner Majestät des Deutschen Kaisers und Königs von Preußen versehen ist, dem Staatsminister des Aeußeren Seiner Majestät des Königs von Bayern, Herrn Grafen Otto v. Bray-Steinburg, dem Minister der auswärtigen Angelegenheiten Seiner Majestät des Königs von Württemberg, Herrn Freiherrn August v. Wächter, dem Staatsminister, Präsidenten des Staats Ministeriums Seiner Königlichen Hoheit des Großherzogs von Baden, Herrn Julius Jolly, welche das Deutsche Reich vertreten, einerseits, und dem Chef der Exekutivgewalt der Französischen Republik, Herrn Thiers, und dem Minister der auswärtigen Angelegenheiten, Herrn Jules Favre, welche Frankreich vertreten, andererseits, ist, nachdem die Vollmachten der beiden vertragenden Theile in guter und regelrechter Form befunden worden, nachstehende Vereinbarung getroffen worden, welche als vorläufige Grundlage für den später abzuschließenden endgültigen Frieden dienen soll.
