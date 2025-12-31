@@ -1793,6 +1793,30 @@ Eure Majestät wollen meinen ehrfurchtsvollen Dank huldreich entgegennehmen für
 
 ![Screenshot_20251230-100033_Samsung Notes.jpg](https://github.com/user-attachments/assets/3c358202-f9a6-4279-ae62-b4daee89cad6)
 
+-217-
+
+234.
+
+Berlin den 24ten Dezbr. 1871
+
+Mit dem heutigen Feste, nähern wir uns zugleich dem Schluß des Jahres, welches uns nach blutigen, aber auch glorreichen Kämpfen in zwei Jahren, - den Frieden brachte.
+
+Diese ewig denkwürdigen Zeitabschnitte, bezeichnen eine neue, kaum geahndete Periode für Preußen, da es nunmehr an der Spitze eines neuen deutschen Reiches stehet.
+
+Ich brauche nicht vieler Worte, um mir zurückzurufen u(nd) Jahren wiederum vorzuführen, was ich, Preußen und Deutschland Ihrem rastlosen Mühen in dieser Ruhmreichen Zeit verdankt! Die Welt anerkennt Ihr Seegensreiches Wirken zur Umgestaltung der Europäischen, ja, der Welt-Verhältnisse, u(nd) die Welt kennt wie ich dankbar gewesen zu sein hoffen darf.
+
+In Ihrem Hause u(nd) in Ihrer Familie wünsche ich aber ein sichtbares Zeichen dieser Dankbarkeit zu erreichen; ich benutze dazu das heutige Fest, um Ihnen meine Büste in Marmor zu senden, da dieser Stoff einigermaßen im Stande ist, meine Befindungen für Sie auf die Nachwelt zu bringen.
+
+Mit den Gefühlen die geben, mögen Sie das Weihnachts Geschenk, nehmen.
+
+Ihr
+
+dankbarer, treu ergebener Wilhelm
+
+Imperator Rex
+
+
+---
 ---
 
 Gesetzblatt Faksimiles des Bundesverfassungsrechtes gemäß Deutschem Grundgesetz v. 1820 als Recht-Fundament des Bundes.  Bundesrecht. Entwicklung Art. 1-3 BVerf. u. BuStAG 1867-1871. Es fehlt das Zollparlament 1866.
