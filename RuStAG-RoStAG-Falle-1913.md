@@ -22,14 +22,14 @@ Das Fazit stellt eine rechtlich und logisch schlüssige These in den Raum, indem
   - Diese „unmittelbare Reichsangehörigkeit“ widerspricht dem föderalen Status der Doppelzugehörigkeit (Staats- und Bundesangehörigkeit), wie sie im BuStAG vorgesehen war.
   
 - **Austausch bestehender Verweise:**
-   - § 37 BuStAG erklärt, dass in allen **Reichs- und Landesgesetzen**, die Vorschriften des **BuStAG von 1870** oder des **Gesetzes zur Naturalisation von 1875** referenzieren, diese Bezüge durch die entsprechenden Bestimmungen des **RuStAG von 1913** ersetzt werden.
+   - § 37 RuStAG erklärt, dass in allen **Reichs- und Landesgesetzen**, die Vorschriften des **BuStAG von 1870** oder des **Gesetzes zur Naturalisation von 1875** referenzieren, diese Bezüge durch die entsprechenden Bestimmungen des **RuStAG von 1913** ersetzt werden.
    - Dies bedeutet, dass alle rechtlichen Verweise auf die früheren Gesetzesgrundlagen ab dem Inkrafttreten des RuStAG (01.01.1914) auf die neuen Regelungen umgelenkt werden.
 
 
 ---
 
 ### **3. Inkrafttreten und Wirkung des RuStAG 1913**
-- Das RuStAG trat am **1. Januar 1914** in Kraft und versuchte, die bisherigen Regelungen des BuStAG zu indirekt ersetzen.
+- Das RuStAG trat am **1. Januar 1914** in Kraft und versuchte, die bisherigen Regelungen des BuStAG indirekt zu ersetzen oder zu umgehen.
 - Gemäß § 26 BuStAG wären jedoch alle diesem Gesetz widersprechenden Bestimmungen aus dem RuStAG automatisch aufgehoben bzw. niemals rechtswirksam geworden.
 
 ---
