@@ -58,6 +58,10 @@ Das [RuStAG 1913](https://github.com/Znih/Znih/blob/main/RuStAG-RoStAG-Falle-191
 Dritte Bruchstelle im RuStAG:
 - Der § 37 RuStAG 1913 und das juristische Schleifenproblem gilt als flagrante Schwächung des BuStAG. Dieser § 37 RuStAG vom 22.07.1913 ermöglichte rückwirkend und universell die Ersetzung von Rechtsverweisen auf das BuStAG 1870 durch das RuStAG 1913, ungeachtet des damals noch gültigen Bundesstaatsföderalismus. Im Rechtssinn setzt § 37 fortan das RuStAG an die Stelle aller bisherigen Vorschriften des BuStAG, was nur dessen faktische Bedeutung ablöste und das RuStAG bis heute zum vermeintlichen Ursprung der "*deutschen Staatsangehörigkeit*" aus Artikel 16 I GG post-faktisch verfälscht. Mit der Ersetzung der Bezugsbasis (BuStAG → RuStAG) verlieren rechtliche Verweise auf die föderalen Konstruktionen an Bedeutung. Dies erleichtert die Umsetzung zentralistischer Staatsziele.
 
+Der Wortlaut von **§ 26 BuStAG** lautet daher:
+> "*Alle diesem Gesetze zuwiderlaufenden Vorschriften werden aufgehoben.*"
+Dies bedeutet, dass alle vor oder nach Erlass des BuStAG eingeführten Regelungen oder Gesetze, die in Konflikt mit den Grundprinzipien des BuStAG stehen, automatisch ihre Rechtswirkung verlieren. Das BuStAG setzte klare Grundsätze zum föderalen Status der Bundes- und Staatsangehörigkeit. Jedes Gesetz, das davon abweicht (z. B. zentrale Reichszugehörigkeit ohne föderalistischen Bezug), würde unter § 26 fallen und seine Gültigkeit verlieren.
+
 Die rechtliche Konsolidierung des RuStAG eröffnete zwar Möglichkeiten des Nationalstaats, untergrub jedoch rechtwidrigen und gesetzeswidrig das föderale Gleichgewicht. Diese Entwicklungen zeigen, wie feine rechtliche Unterschiede massiven historischen Einfluss haben können, von der Verfassung des Kaiserreichs über die Weimarer Republik bis zur NS-Zeit.
 
 
