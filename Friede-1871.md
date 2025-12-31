@@ -1753,7 +1753,16 @@ da der Aufenthalt innerhalb des kleinen Arbeiterhauses unbequem sei, und der Kai
 
 ![Screenshot_20251230-094558_Samsung Notes.jpg](https://github.com/user-attachments/assets/2cb1b814-8231-4382-b2ea-855c177cce3a)
 
+und die Equipagen des Kaisers, deren Ankunft aus der Stadt bis dahin für unsicher gehalten zu werden schien, von Sedan eingetroffen waren. Ebenso der General Wimpffen, mit welchem, in Erwartung der Rückkehr des Generals von Moltke, die Besprechung der gestern abgebrochnen Capitulations-Verhandlungen durch den General v, Podbielski, im Beisein des Oberstlieutenants von Verdy und des Stabschefs des Generals v. Wimpffen, welche beiden Offiziere das Protokoll führten, wieder aufgenommen wurde. Ich habe nur an der Einleitung derselben durch die Darlegung der politischen und rechtlichen Situation nach Maaßgabe der mir vom Kaiser selbst gewordenen Ausschlüsse Theil genommen, indem ich unmittelbar darauf durch den Rittmeister Grafen von Nostitz im Auftrage des Generals von Moltke die Meldung erhielt, das Eure Majestät den Kaiser erst nach Abschluß der Capitulation der Armee sehn wollten eine Meldung, nach welcher gegnerischerseits die Hoffnung, andre Bedingungen als die abgeschlossenen zu erhalten, aufgegeben wurde. Ich ritt darauf in der Absicht, Eurer Majestät die Lage der Dinge zu melden, Allerhöchstdenselben nach Chehery entgegen, traf unterwegs den General v. Moltke mit dem von Eurer Majestät genehmigten Texte der Capitulation, welcher, nachdem wir mit ihm in Fresnois eingetroffen, nunmehr ohne Widerspruch angenommen und unterzeichnet wurde. Das Verhalten des Generals v. Wimpffen war, ebenso wie das der übrigen französischen Generale in der Nacht vorher, ein sehr würdiges, und konnte dieser tapfre Offizier sich nicht enthalten, mir gegenüber seinem tiefen schmerze darüber Ausdruck zu geben, das grade er berufen sein müsse,
 
+-213-
+
+achtundvierzig Stunden nach seiner Ankunft aus Afrika und einen halben Tag nach seiner Uebernahme seines Commandos seinen Namen unter eine für französischen Waffen so verhängnisvolle Capitulation zu setzen, indessen der Mangel an Lebensmitteln und Munition und die absolute Unmöglichkeit jeder weitern Vertheidigung lege ihm als General die Pflicht auf, seine persönlichen Gefühle schweigen zu lassen, da weiteres Blutvergießen in der Situation nichts mehr ändern könne. Die Bewilligung der Entlassung der Offiziere auf ihr Ehrenwort wurde mit lebhaftem Danke entgegengenommen als ein Ausdruck der Intentionen Eurer Majestät, den Gefühlen einer Truppe, welche sich tapfer geschlagen hatte, nicht über die Linie hinaus zu nahe zu treten, welche durch das Gebot unsrer politischen-militärischen Interessen mit Nothwendigkeit gezogen war. Diesem Gefühle hat der General v. Wimpffen auch nachträglich in einem Schreiben Ausdruck gegeben, in welchem er dem General v. Moltke seinen Dank für die rücksichtsvollen Formen ausdrückt, in denen die Verhandlungen von Seiten desselben geführt worden sind.
+
+v. Bismarck,
+
+
+---
 
 ![Screenshot_20251230-094609_Samsung Notes.jpg](https://github.com/user-attachments/assets/3bc1f83e-a2bc-47ff-8205-0c411f918566)
 
