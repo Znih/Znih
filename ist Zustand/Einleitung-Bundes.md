@@ -83,87 +83,14 @@ Wie wurde Artikel 278 verstanden und wie umgesetzt? [Anmerkung]
 Der Artikel 278 des Versailler Vertrags formulierte die Verpflichtung Deutschlands, neue Staatsangehörigkeiten anzuerkennen, die durch die Regelungen der alliierten und assoziierten Kräfte und auf Basis territorialer Veränderungen oder vertraglicher Bestimmungen erworben wurden. Diese Regelung stellte sicher, dass Reichsangehörige, deren Staatsangehörigkeit geändert wurde, völlig von Verpflichtungen gegenüber dem deutschen Bundes-Staat und den föderalen Bundesstaaten entbunden wurden. Es hätte mittelbare Reichsangehörige lauten müssen, da Bezug zu den Heimatstaaten folgte aber traditionell gar naturgemäß seit 1871 darauf verzichtet wurde. Erst ab 1914 galt die "unmittelbare Reichsangehörigkeit", die dann jedoch zwingend so zu benennen war. Aber tatsächlich bezog sich Art. 278 VV insoweit wohl auf die "*unmittelbare Reichsangehörigkeit*" aus § 1 RuStAG 1913 oder wurde jedenfalls exakt so 1934 umgesetzt. Gemeint waren dem Wortlaut nach aber definitiv die "*Früheren deutschen Staatsangehörigen*" aus Artikel 116 II GG.
 
 
-Tatsächlich ist Artikel 278 unpräzise formuliert, da er sich rein technisch auf die frühere „*mittelbare Reichsangehörigkeit*“ hätte beziehen müssen (vor der Einführung der unmittelbaren Reichsangehörigkeit durch das RuStAG 1913). Faktisch erfolgte die Umsetzung jedoch nach den Regelungen des RuStAG 1913, was zeigt, dass die „*unmittelbare Reichsangehörigkeit*“ als Grundlage für die rechtliche Umsetzung von Artikel 278 genutzt wurde. Der rechtliche Status der „*Reichsangehörigkeit*“ war durch das RuStAG 1913 nur indirekt definiert. Es hieß ab 1914 "*Deutscher ist*" und nicht "*Reichsangehöriger ist*". Eine mittelbar erworbene "*Reichsangehörigkeit*" ließ sich bis 1918 nur noch über Art. 3 I RVerf. v. 1871 ableiten, fehlte jedoch im RuStAG 1913. Oder die nach 1919 noch verbliebene "*unmittelbare Reichsangehörigkeit*".
+Tatsächlich ist Artikel 278 VV unpräzise formuliert, da er sich rein technisch auf die frühere „*mittelbare Reichsangehörigkeit*“ hätte beziehen müssen (vor der Einführung der unmittelbaren Reichsangehörigkeit durch das RuStAG 1913). Faktisch erfolgte die Umsetzung jedoch nach den Regelungen des RuStAG 1913, was zeigt, dass die „*unmittelbare Reichsangehörigkeit*“ als Grundlage für die rechtliche Umsetzung von Artikel 278 VV genutzt wurde. Der rechtliche Status der „*Reichsangehörigkeit*“ war durch das RuStAG 1913 nur indirekt definiert. Es hieß ab 1914 "*Deutscher ist*" und nicht "*Reichsangehöriger ist*". Eine mittelbar erworbene "*Reichsangehörigkeit*" ließ sich bis 1918 nur noch über Art. 3 I RVerf. v. 1871 ableiten, fehlte jedoch im RuStAG 1913. Oder die nach 1919 noch verbliebene "*unmittelbare Reichsangehörigkeit*".
 
 
-
-
----
-
-**Analyse und Umsetzung von Artikel 278 (Versailler Vertrag):**
+Der Artikel 278 VV war ein Instrument zur Umsetzung territorialer und völkerrechtlicher Veränderungen, basierend auf den zentralistischen Regelungen des RuStAG 1913. Der Wechsel von föderaler Reichsangehörigkeit (BuStAG 1870) zur "*unmittelbaren Reichsangehörigkeit*" (ius soli) führte zu Missverständnissen und juristischen Konflikten. Die zentrale Auslegung und Umsetzung führte zur Schwächung des föderalen Systems. Rechte auf Bundesstaatszugehörigkeit verloren ihre Bedeutung. Die Unterscheidung zwischen zentralistischer und föderaler Staatsangehörigkeit bleibt ein konfliktreiches Thema. Erst Art. 116 II GG versuchte, diese Balance teils wiederherzustellen. Artikel 278 VV greift tief in den Wandel deutscher Staats- und Föderalstrukturen ein. Sein Bezug zum RuStAG 1913 betont eine zentralistische Perspektive, die historische föderale Grundsätze weiter schwächte und zunächst nur Zentralisierung förderte.
 
 ---
 
-### **1. Wesentliche Inhalte von Artikel 278**
-Artikel 278 des Versailler Vertrags verpflichtet Deutschland zur Anerkennung neuer Staatsangehörigkeiten, die von ehemaligen Angehörigen des Deutschen Reichs aufgrund territorialer Veränderungen, Einbürgerungen oder Verträge mit den Alliierten erworben wurden. Dabei sind die grundlegenden Punkte:
 
-1. **Anerkennung neuer Staatsangehörigkeiten:**
-   - Diese Regelung erstreckt sich auf Gebiete, die durch den Versailler Vertrag territorialen Veränderungen unterzogen wurden (z. B. Elsass-Lothringen, Westpreußen, Posen, Eupen-Malmedy, Nordschleswig).
-   - Betroffene Personen erhielten die Staatsangehörigkeit des neuen Staates, in dessen Territorium sie nun lebten.
-
-2. **Entbindung von Pflichten:**
-   - Artikel 278 befreite diese Personen vollständig von Pflichten gegenüber ihrem bisherigen Heimatstaat (§ BuStAG 1870) und ermöglichte ihnen eine neue rechtliche Zugehörigkeit.
-   - Diese „Entbindung“ galt sowohl für Verpflichtungen gegenüber dem Reich als auch gegenüber dem föderalen Heimatbundesstaat.
-
----
-
-### **2. Präzisierung der Begriffe: „Mittelbare“ und „Unmittelbare Reichsangehörigkeit“**
-#### **(i) „Mittelbare Reichsangehörigkeit“ vor 1914:**
-- Unter dem **BuStAG 1870** wurde die Reichsangehörigkeit durch die Staatsangehörigkeit in einem Bundesstaat definiert. Jede Person war automatisch „Reichsangehöriger“, wenn sie die Staatsangehörigkeit eines Bundesstaates wie Preußen, Bayern oder Sachsen besaß.
-- Diese Verknüpfung zwischen der lokalen (bundesstaatlichen) und der übergeordneten (Reichs-)Identität war föderal ausgerichtet.
-
-#### **(ii) „Unmittelbare Reichsangehörigkeit“ (RuStAG 1913):**
-- Mit dem **RuStAG 1913** trat an die Stelle der föderalen Struktur ein zentralistisches Konzept:
-  - Personen, die keiner Staatsangehörigkeit in einem Bundesstaat zugeordnet werden konnten (z. B. Einwohner von Elsaß-Lothringen oder Kolonien), wurden direkt in die „unmittelbare Reichsangehörigkeit“ aufgenommen.
-  - § 1 RuStAG 1913 definierte: **„Deutscher ist, wer die Staatsangehörigkeit in einem Bundesstaat oder die unmittelbare Reichsangehörigkeit besitzt.“**
-
-#### **(iii) Bezug von Artikel 278 zur „unmittelbaren Reichsangehörigkeit“:**
-- Artikel 278 nahm Bezug auf die Regelungen des RuStAG 1913, wodurch die „unmittelbare Reichsangehörigkeit“ eine zentrale Rolle bei der Entbindung von Pflichten gegenüber Deutschland spielte.
-- Technisch betrachtet hätten stattdessen „mittelbare Reichsangehörige“ im Sinne des BuStAG 1870 einbezogen werden sollen. Der Bezug war jedoch nach 1914 auf die „unmittelbare Reichsangehörigkeit“ fokussiert.
-
----
-
-### **3. Artikel 278 in der Praxis**
-#### **(i) Umsetzung in der Weimarer Republik (WRV 1919):**
-- Die Regelungen des RuStAG 1913 wurden in der **Weimarer Reichsverfassung (WRV 1919)** übernommen. Zentral waren:
-  - **Artikel 109 WRV:** Hier wurde die Gleichheit aller Reichsangehörigen betont, ungeachtet unterschiedlicher Abstammung oder lokalem Wohnsitz.
-  - **Artikel 110 WRV:** Dieser regelte die Zugehörigkeit zum Reich und kodifizierte dieselbe Grundlage wie im RuStAG.
-
-#### **(ii) Umsetzung durch Gebietsveränderungen:**
-- In Praxis führte Artikel 278 zur automatischen Aufgabe der deutschen Staatsangehörigkeit für Personen in abgetretenen Gebieten.
-- Diese Gebietsveränderungen zwangen Millionen dazu, ihre Staatsangehörigkeit zu wechseln und sich neuen Staaten anzuschließen.
-
-#### **(iii) Übergang in die NS-Zeit:**
-- Das NS-Regime nahm die zentralistischen Tendenzen des RuStAG und die einheitliche Reichsangehörigkeit aus Artikel 278 auf und führte sie mit Maßnahmen wie dem **Reichsbürgergesetz 1935** fort.
-- Individuelle staats- und föderalbezogene Schutzrechte wurden abgeschafft, was den Weg für Diskriminierung und Zentralisierung ebnete.
-
----
-
-### **4. Konflikte und Unsicherheiten in Artikel 278**
-#### **(i) Unpräzise Formulierung:**
-- Artikel 278 bezieht sich vermutlich auf „mittelbare Reichsangehörige“ nach BuStAG 1870, aber faktisch wurde er anhand des erst 1914 eingeführten Begriffs der „unmittelbaren Reichsangehörigkeit“ umgesetzt.
-
-#### **(ii) Fehlender föderaler Rückbezug:**
-- Die Entbindung von Pflichten gegenüber Bundesstaaten zeigt eine Abschwächung der föderalen Strukturen, da die Deutung primär auf zentrale „Reichszugehörigkeit“ abzielte.
-- Dies widerspricht Artikel 3 der Bundesverfassung von 1871, die das föderale Grundprinzip betonte.
-
-#### **(iii) Art. 116 II GG: Rekonstruktion:**
-- Artikel 116 II GG ermöglicht die Wiedererlangung der deutschen Staatsangehörigkeit für Personen, die durch alliierte Regelungen Staatsangehörigkeit verloren haben. Für die Umsetzung wurde teilweise Artikel 278 als Präzedenzfall herangezogen.
-
----
-
-### **5. Bewertung und Fazit**
-- **Verständnis und Anwendung:**
-  - Artikel 278 war ein Instrument zur Umsetzung territorialer und völkerrechtlicher Veränderungen, basierend auf den zentralistischen Regelungen des RuStAG 1913.
-  - Der Wechsel von föderaler Reichsangehörigkeit (BuStAG 1870) zur unmittelbaren Reichsangehörigkeit führte zu Missverständnissen und juristischen Konflikten.
-
-- **Fehlende föderale Perspektive:**
-  - Die zentrale Auslegung und Umsetzung führte zur Schwächung des föderalen Systems. Rechte auf Bundesstaatszugehörigkeit verloren ihre Bedeutung.
-
-- **Langfristige Auswirkungen:**
-  - Die Unterscheidung zwischen zentralistischer und föderaler Staatsangehörigkeit bleibt ein konfliktreiches Thema. Erst Art. 116 II GG versucht, diese Balance teils wiederherzustellen.
-
-Artikel 278 greift tief in den Wandel deutscher Staats- und Föderalstrukturen ein. Sein Bezug zum RuStAG 1913 betont eine zentralistische Perspektive, die historische föderale Grundsätze schwächte und Zentralisierung förderte.
 
 
 - Art. 277, 278, 292 Versailler Vertrag???
@@ -171,75 +98,6 @@ Artikel 278 greift tief in den Wandel deutscher Staats- und Föderalstrukturen e
 
 
 https://github.com/Znih/Znih/blob/main/Versailler-Unfrieden-1919-1925.md
-
----
-
-**Copilot:**
-Diese umfassende Abhandlung analysiert die historische und rechtliche Entwicklung der deutschen Staatsangehörigkeit und untersucht insbesondere die Übergänge vom föderalen System des BuStAG 1870 hin zum zentralsierenden RuStAG 1913 und deren nachhaltige Auswirkungen auf das Staatswesen in Deutschland, einschließlich der Weimarer Republik, des Dritten Reichs und des Grundgesetzes 1949. Hier sind die wichtigsten Erkenntnisse und Zusammenhänge zusammengefasst:
-
----
-
-### **1. Wiener Schlussakte bis BuStAG 1870 und Bundesverfassung 1871**
-
-- **Föderale Grundlage und Schutz durch die Wiener Schlussakte (1820):**
-  - Diese fungierte als erstes „Grundgesetz“ des Deutschen Bundes, das die Unabhängigkeit der Mitgliedstaaten und ihre rechtliche Gleichheit sicherte.
-  - Es schuf ein föderales System, in dem die Bürgerrechte und Schutzansprüche unter allen Bundesstaaten gleichwertig gewährleistet waren, ohne jedoch eine übergeordnete „reichsweite“ Zugehörigkeit oder Nationalität vorzusehen.
-
-- **Das BuStAG 1870 und die Bundesverfassung 1871:**
-  - Mit dem BuStAG 1870 wurde erstmals eine föderale **Bundesangehörigkeit** eingeführt, die neben der Staatsangehörigkeit in einem Bundesstaat einen „Zweifachstatus“ schuf.
-  - Dieser Status sicherte nationale Rechte im gesamten Bundesgebiet, bewahrte jedoch die Eigenständigkeit der Einzelstaaten. 
-  - Das BuStAG diente auch als Basis für die föderale Struktur des Kaiserreichs ab 1871 und garantierte Bürgerrechte auf allen föderalen Ebenen.
-
-### **2. Das RuStAG 1913 – Ein Wendepunkt**
-
-- **Rechtsbrüche und Zentralisierung:**
-  - Mit dem RuStAG 1913 wurde die föderale Grundlage des BuStAG geschwächt und durch die Einführung der „*unmittelbaren Reichsangehörigkeit*“ (§§ 33-35 RuStAG) ergänzt. Dies führte zu einer stärkeren Zentralisierung und löste den „Zweifachstatus“ teilweise auf.
-  - Der Schutz der Bürgerrechte wurde von einem bundesstaatlichen auf ein reichszentrales Modell verschoben.
-  
-- **Die Bruchstellen:**
-  1. Die Definition „*Deutscher ist*“ im § 1 RuStAG kehrt das föderale Zugehörigkeitsmodell um und ersetzt die enge Bindung an die Bundesstaaten durch eine reichsweite Verankerung.
-  2. Der § 37 RuStAG „überschrieb“ alle früheren Verweise des BuStAG 1870, obwohl diese Regelungen auf föderalen Prinzipien basierten.
-  3. Insgesamt entfaltete das RuStAG eine Entwertung der föderalen Balance und schuf eine Basis für spätere zentralistische Maßnahmen.
-
----
-
-### **3. Konflikte zwischen BuStAG 1870 und RuStAG 1913**
-
-- **§ 26 BuStAG – Eine rechtliche Versicherung:**
-  - „*Alle diesem Gesetze zuwiderlaufenden Vorschriften werden aufgehoben.*“
-  - Dieser Artikel könnte geltend machen, dass widersprüchliche Bestimmungen des RuStAG, wie die Einführung der „unmittelbaren Reichsangehörigkeit“, rechtlich nie geltend gemacht werden konnten.
-
-- **Juristischer Konflikt:**
-  - Obwohl das RuStAG das BuStAG de facto ersetzte, sorgt § 26 BuStAG dafür, dass alle Regelungen, die die föderalen Prinzipien verletzen, aufgehoben werden müssen. Somit könnten die zentralistischen Maßnahmen des RuStAG zumindest auf rechtlich unsicherem Fundament stehen.
-
----
-
-### **4. Langfristige Auswirkungen des RuStAG 1913**
-
-- **Darstellung im Versailler Vertrag, der Weimarer Republik und des NS-Reichs:**
-  - Der Versailler Vertrag griff explizit auf die Regelungen des RuStAG zurück. Mit Artikel 278 wurden die früheren „Reichsangehörigen“ Personen (Art. 3 I BVerf. u. §§ 1, 2 BuStAG) verpflichtet, ihre neue, alliierte Staatsangehörigkeit anzuerkennen. Das System der „unmittelbaren Reichsangehörigkeit“ bot hier nur augenscheinlich eine zentrale juristische Bezugsbasis, denn der Rechtsbegriff "unmittelbare Reichsangehörigkeit" galt als eindeutig festgelegt (§ 1 RuStAG), wohingegen (mittelbare) "Reichsangehörigkeit" für mittelbar erworbene Bundesangehörigkeit stand (§ BuStAG).
-  - Unter dem NS-Regime diente dennoch die im RuStAG 1913 verbliebene "unmittelbare Reichsangehörigkeit" als Grundlage für die "deutsche Staatsangehörigkeit" 1934 das Reichsbürgergesetz 1935, mit dem föderale Rechte de facto abgeschafft wurden.
-
-- **Grundgesetz 1949:**
-  - Im Artikel 116 I GG finden sich indirekte Bezüge auf das RuStAG. Es wird angeführt, dass das deutsche Zentralstaatsmodell, wie es im RuStAG verankert ist, rechtlich fortgeführt wurde. Jedoch bewahrt Artikel 116 II GG bis heute die **Möglichkeit der Rückkehr** zur föderalen Struktur.
-
----
-
-### **5. Föderale Lösung? Ein Plädoyer für das BuStAG**
-
-- Die Analyse legt nahe, dass eine Rückkehr zum authentischen, föderalen System des BuStAG 1870 notwendig wäre, um eine Balance zwischen zentralstaatlichen und föderalen Strukturen wiederherzustellen.
-- Durch die Übergewichtung zentralistischer Maßnahmen seit 1913 gingen föderale Prinzipien verloren, was insbesondere in Frankreich als „Ein-Staat-Modell“ sichtbar wurde, jedoch in Deutschland als historischer Rückschritt gilt.
-
----
-
-### **6. Fazit**
-
-- **BuStAG 1870 als Anker föderaler Stärke:**
-  - Die Regelungen des BuStAG boten ein Modell für ein föderales, rechtlich harmonisiertes Deutschland, welches Rechte auf Staats- und Bundesebene gleichwertig sicherte.
-- **RuStAG 1913 als Bruch:**
-  - Das RuStAG unterbrach zentrale Elemente dieses föderalen Modells und schuf eine Grundlage für zentrale Staatskonzepte, die später in der Weimarer Republik, dem Dritten Reich und der NS-Zeit opportunistisch ausgenutzt wurden.
-- **Die Lehren:**
-  - Die Konflikte zwischen BuStAG und RuStAG zeigen, wie wichtig Konsistenz und Balance in föderalen und zentralstaatlichen Rechtsstrukturen sind. Ein gestärktes Bewusstsein für die föderalen Grundlagen könnte zukünftige rechtliche und politische Entwicklungen nachhaltig prägen.
 
 
 
