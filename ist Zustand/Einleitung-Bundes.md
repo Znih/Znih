@@ -13,17 +13,19 @@
 #### **1. Rechtsverbindlichkeit und Stärkung des Bundes** (Bundesrecht)
 
 
-Wo kommen wir her und wo wollen wir hin?
+##### Von den Wiener Bestimmungen 1815/20 über das BuStAG von 1870 bis zur Bundesverfassung von 1871
+
+Wo kommen wir her und wo wollen wir hin? 
 
 Der Beschluss vom 8. Juni 1820 erklärte die Schlussakte zum **Grundgesetz des Deutschen Bundes**. Ziel war seinerzeit die Sicherung der Unabhängigkeit der deutschen Staaten, die Verlässlichkeit der Bundesakte von 1815 und die Implementierung dauerhafter Friedens- und Sicherheitsmechanismen. Der Grundstein für einen ewigen Bund wurde 1815 gelegt, mit einem Fokus auf rechtliche Gleichheit und wechselseitigen Schutz.
 
 Erst die **Schlussakte 1820** festigte diese Prinzipien, verlieh ihnen jedoch größere gesetzliche Verbindlichkeit (Art. I) und band sie zunächst an die fortlaufenden politischen und administrativen Prozesse der Bundesversammlung (Art. II), im Geltungsbereich dieses Grundgesetzes (Art. III). Letzterer definiert den Umfang und die Grenzen der Wirksamkeit des Bundes, ähnlich einer Verfassung.
 
-Die [Wiener Schlussakte](https://github.com/Znih/Znih/blob/main/1820_Deutsches-Grundgesetz-No-2.md) stellte sicher, dass der Deutsche Bund auf einem stabilen Bundesrecht-Fundament aufgebaut blieb aber nicht stehen blieb. Die Schlussakte legte den rechtlichen Fokus auf wechselseitigen Schutz und Gleichheit unter den Mitgliedsstaaten. Dieser Schutz entwickelte sich später zu einer bundesweiten Staatsbürgergleichheit. Aus Unterthanen wurden sukzessive Staatsunterthanen, die späteren Staatsangehörigen und Staatsbürger in den deutschen Staaten, die ab 1867 zu Deutschen Bundesstaaten wurden. Ab 1871 erwarb man zusätzlich zur erworbenen deutschen Staatsangehörigkeit in einem dieser Bundesstaaten mittelbar mit Geburt die Bundesangehörigkeit samt Bundesbürgerschaft "oben drauf" (principale), was einen Zweifachstatus und Zweifachrechtschutz erzeugte. Dieser Fortschritt etablierte ein "Zusatzrecht" über die Staatszugehörigkeit hinaus und stellte die Bundesbürgerschaft auf eine bisher unbekannte rechtliche Basis.
+Die [Wiener Schlussakte](https://github.com/Znih/Znih/blob/main/1820_Deutsches-Grundgesetz-No-2.md) stellte sicher, dass der Deutsche Bund auf einem stabilen Bundesrecht-Fundament aufgebaut blieb aber nicht stehen blieb. Die Schlussakte legte den rechtlichen Fokus auf wechselseitigen Schutz und Gleichheit unter den deutschen Staaten, zunächst als Mitgliedstaaten. Dieser Schutz entwickelte sich später zu einer bundesweiten Staatsbürgergleichheit. Aus Unterthanen wurden sukzessive Staatsunterthanen, die späteren Staatsangehörigen und Staatsbürger in den deutschen Staaten, die ab 1867 zu Deutschen Bundesstaaten wurden. Ab 1871 erwarb man zusätzlich zur erworbenen deutschen Staatsangehörigkeit in einem dieser Bundesstaaten mittelbar mit der Geburt die Bundesangehörigkeit samt Bundesbürgerschaft "*oben drauf*" (principale), was einen Zweifachstatus und Zweifachrechtschutz erzeugte. Dieser Fortschritt etablierte ein "*Zusatzrecht*" über die Staatszugehörigkeit hinaus und stellte die Bundesbürgerschaft auf eine bisher unbekannte rechtliche Basis. Die Vergangenheit der Heimat wurde bewahrt (Staat) und gleichzeitig für eine friedliche Zukunft vorbereitet (Bund). Eine europäisches Verfassungsbündnis sollte ähnlich aufgebaut sein, um ein starkes und friedliches "*Europa der Vaterländer*" im Sein zu sein, was die EU gerade nicht ist.
 
 
 
-Der Art. 3 Bundesverfassung v. 1871 gab dies nur dem Juristen zu erkennen, wie Dr. Ludwig von Rönne, weshalb folgend möglichst nach v. Rönne präzisiert werden möchte:
+Der Artikel 3 Absatz I und II der Bundesverfassung von 1871 gab dies wohl nur dem Juristen zu erkennen, wie Dr. Ludwig von Rönne, weshalb folgend versucht werden soll, diesen wichtigen Artikel möglichst nach v. Rönne präzisiert und somit verständlicher sinngleich wiederzugeben (nicht Interpretiert!):
 > Für ganz Deutschland im Sinne des "*ganzen Umfang des Bundesgebietes*" (Art. 1) besteht eine zusätzliche Bundesangehörigkeit (mit der Eigenschaft als "*Deutscher*"), welche in § 1 BuStAG v. 1870 erstmalig definiert und genau geregelt wird, mit der Wirkung, daß der Staatsangehörige (Unterthan, Staatsbürger, z.B Preuße, Bayer, Sachse als principale) eines jeden Bundesstaates in jedem anderen Bundesstaate als Inländer zu behandeln und demgemäß zum Genusse aller bürgerlichen Rechte im Bundesgebiete (Art. 1) unter denselben Voraussetzungen wie der Einheimische zuzulassen, auch in Betreff der Rechtsverfolgung und des Rechtsschutzes demselben gleich zu behandeln ist (Art. 2, Art. 3 I lt. Hs.).
 
 > Kein Deutscher Bundesbürger (Art. 3 I lt. Hs., Art. 3 II) darf in der Ausübung dieser Befugniß durch die Obrigkeit seiner Heimath, oder durch die Obrigkeit eines anderen Bundesstaates beschränkt werden.
@@ -32,74 +34,9 @@ Der Art. 3 Bundesverfassung v. 1871 gab dies nur dem Juristen zu erkennen, wie D
 Das [BuStAG von 1870](https://github.com/Znih/Znih/blob/main/BuStAG-1870.md) war also ein logischer nächster Schritt, der bundesstaatliche Angelegenheiten auch im Kontext moderner Nationalstaaten föderal weiterentwickelte und zum 01.01.1871 ordnungsgemäß in Anwendung gelangte. Diese entscheidende Entwicklung brachte die rechtliche Einheit ("*juridical unity*") in einem föderalen Rahmen, das bürgerliche Rechte sicherte und weiter ausbaute.
 
 
-Was den Deutschen bis zur Wiener Schlußakte 1820 fehlte, erhielten diese ab 1871 sodann doppelt und sie blieben fest mit ihrer Heimat verknüpft. Verbindliche Bürgerrechte für die nicht nur Arbeiter und Soldaten in ganz Europa kämpften, bluteten oder starben. Nicht perfekt aber skalierbar, reformierbar und bereits 1913 föderaler als alles was ab 1914 folgen sollte. Nur der Bayer überdauerte 1914, 1919, 1949 und 1990 (Art. 6, 8, 178 I u. 184 ByVerf. v. 1949).
+Was den Deutschen bis zur Wiener Schlußakte 1820 fehlte, erhielten diese ab 1871 sodann doppelt und sie blieben fest mit ihrer Heimat verknüpft. Verbindliche Bürgerrechte für die nicht nur Arbeiter und Soldaten in ganz Europa kämpften, bluteten oder starben. Nicht perfekt aber skalierbar, reformierbar und bereits 1913 föderaler als alles was ab 1914 folgen sollte. Nur Bayern überdauerte 1914, 1919, 1949 und 1990 (Art. 6, 8, 178 I u. 184 ByVerf. v. 1949).
 
-
----
-
-**Copilot:**
-Der Text zeichnet eine detailreiche historische Linie von der Wiener Schlussakte 1820 bis hin zum Bundes-Staatsangehörigkeitsgesetz (BuStAG) 1870 und der Bundesverfassung 1871, wobei der Fokus auf der rechtlichen Entwicklung und der Einführung des **Zweifachstatus** liegt – einer Kombination aus Staatsangehörigkeit und Bundesangehörigkeit/Bundesbürgerschaft.
-
----
-
-### **Analyse der Inhalte**
-
-#### **Die Wiener Schlussakte 1820 – Grundstein des Bundesrechts**
-- **Ziele der Schlussakte:**
-  - Sicherung der Unabhängigkeit der deutschen Staaten.
-  - Gewährleistung des wechselseitigen Schutzes zwischen den Mitgliedsstaaten.
-  - Etablierung eines rechtlichen Fundaments durch die Prinzipien des **Bundesrechts** und wechselseitige Gleichheit.
-- **Art. I-III:**
-  - Art. I verlieh der Bundesakte 1815 größere Verbindlichkeit.
-  - Art. II regelte den politischen und administrativen Einfluss der Bundesversammlung.
-  - Art. III definierte den Geltungsbereich und Umfang des Bundes samt der Bundesrechte.
-
----
-
-#### **Von Untertanen zu Bundesbürgern – Die Entwicklung des Zweifachstatus**
-- **Transformationsprozess im 19. Jahrhundert:**
-  - Die Schlussakte leitete über die Unabhängigkeit der Bundesstaaten hinaus die Grundlage einer übergreifenden rechtlichen Gleichstellung zwischen den Bürgern ein.
-  - Die Entwicklung kulminierte mit der Einführung des **BuStAG 1870** und der Bundesverfassung 1871.
-  - Ab 1871 bestand für alle Bürger Deutschlands ein doppelter Status:
-    - **Staatsangehörigkeit (principale):** Gebunden an die Einzelländer wie Preußen, Bayern oder Sachsen.
-    - **Bundesangehörigkeit:** Durch die Normierung im BuStAG 1870 eingeführt und gekoppelt, um bürgerliche Rechte bundesstaatlich zu harmonisieren.
-- Dieser **Zweifachstatus** unterstützte föderale Strukturen und gewährte Rechte auf zwei Ebenen:
-  - Schutz und Freiheit innerhalb des Einzelstaats.
-  - Gleichbehandlung und erweiterte Rechte über den gesamten Bundesstaat.
-
----
-
-#### **Art. 3 BVerf. 1871 – Das gemeinsame Indigenat**
-- Durch **Art. 3** der Verfassung von 1871 wird die Idee einer zusätzlichen Bundesangehörigkeit konkretisiert:
-  - Bürger eines Bundesstaats wurden als **Inländer** in anderen Bundesstaaten behandelt.
-  - Einheitliche Rechte in Bezug auf Rechtsverfolgung, Rechtsschutz und bürgerlichen Zugang zu allen Bundesstaaten.
-- Diese Regelung brachte den Schutz der Bürger und Gleichheit vor dem Recht in das föderale Deutschland.
-
-#### **Die Rolle des § 1 BuStAG 1870**
-- Legte klar fest, dass die **Bundesangehörigkeit** durch die Staatsangehörigkeit eines Bundesstaats erworben wurde.
-- Dieser juristische Fortschritt schuf nicht nur ein harmonisches föderales Rechtsverhältnis, sondern stärkte auch die nationale Einheit.
-
----
-
-### **Bewertung und Interpretation**
-- **Rechtsfortschritt:** 
-  - Die Einführung der Bundesangehörigkeit nach 1871 bot bürgerrechtliche Sicherheiten, die über die damaligen Standards der föderalen Struktur hinausgingen.
-  - Der "Zusatzrecht"-Status schuf Justizgleichheit und Freiheit im Bundesgebiet.
-- **Juristische Präzision (nach Dr. v. Rönne):**
-  - Die Lesart von Ludwig von Rönne unterstreicht die Bedeutung der Beiträge von Art. 3 sowie § 1 BuStAG. Ein expliziter Schutz gegen Diskriminierung und Einschränkungen stärkte die rechtliche Position der Bürger.
-- **Kritische Einordnung:**
-  - Die 1913 erfolgte Umstellung auf das Reichs- und Staatsangehörigkeitsgesetz (RuStAG) führte zu einer Zentralisierung der Struktur (ehemals dezentral), verlor jedoch die föderale Dynamik, die durch den Zweifachstatus hervorgehoben wurde.
-
----
-
-### **Schlussbetrachtung**
-- Die Entwicklungen zwischen 1820 und 1871 prägten das föderale Fundament Deutschlands nachhaltig. Sie schufen wichtige Mechanismen:
-  - Föderalistischer Wettstreit zwischen Bundesstaaten.
-  - Schutz der Rechte durch doppelte Staats- und Bundesangehörigkeit.
-- Die Rechtsgleichheit, einschließlich des Schutzes vor Einschränkungen, machte den Bund zu einer fortschrittlichen nationalen Einheit in Europa.
-- Trotz der Fortschritte erzeugten Entwicklungen nach 1914 eine Rückentwicklung des Föderalismus. **Besonders hob sich der bayerische Rechtsrahmen hervor (1949)**, der als Relikt föderaler Konstanz dient.
-
-Mit diesem Fundament könnte weiterführend die Rolle der föderalen Prinzipien in der Bundesrepublik untersucht werden, insbesondere ihre Einflüsse ab 1990.
+Um die Umstände und den aufrichtigen Wunsch hinter einem europäischen Friede 1871 verstehen zu können und die Auswirkungen auf 1919, ist ein Blick in die Briefe S.M. und die Stenoberichte aus den Parlamentsdebatten jener Tage notwendig. Der Frankfurter Friede 1871 bestätigt obige Ausführung und illustriert die Wichtigkeit von Staatsangehörigkeiten und Bürgerrechten.
 
 ---
 
@@ -111,8 +48,11 @@ https://github.com/Znih/Znih/blob/main/Friede-1871.md GBl. Faksimiles BGBl. 1871
 Einigungswerk (Teil 2 durch Verfassungsbündnis zum "ewigen Bund" v. 1871, der sich fortan lediglich "*Deutsches Reich*" nannte oder so zu verstehen war (s. BuStAG 1870 vs. RuStAG 1913): https://github.com/Znih/Znih/blob/main/1871_Einheit_Verfassungsbund.md BGBl. Faksimile Auszüge 1867-1871.
 
 
-
 ---
+---
+
+
+
 
 - Übergang zum **RuStAG 1913** und die rechtlichen Verschiebungen.
 
@@ -123,8 +63,6 @@ Einigungswerk (Teil 2 durch Verfassungsbündnis zum "ewigen Bund" v. 1871, der s
 > Die ohnehin flagrante Konstruktion "*Deutscher ist*", der die "*unmittelbaren Reichsangehörigkeit*" besitzt, wo bis dato Angehörigkeiten adressiert sind, schwächte die Bindungen an die Bundesstaaten deutlich, was später als Grundlage für Reichsbürgergesetze im Dritten Reich diente. Ohne RuStAG hätte aus Hitler kein Braunschweiger werden können, sondern ein inhaftierter böhmischer Gefreiter in Abschiebehaft mit Endziel Wien.
 
 
-**Copilot:**
-Das **Reichs- und Staatsangehörigkeitsgesetz (RuStAG)** vom 22. Juli 1913 war ein zentraler Schritt in der Entwicklung des deutschen Staatsangehörigkeitsrechts und wird oft als eine Bruchstelle betrachtet, die bedeutende historische, rechtliche und politische Konsequenzen mit sich brachte. Hier eine Analyse des vorgelegten Quellenausschnitts und seiner Bedeutung:
 
 ---
 
