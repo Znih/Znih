@@ -160,4 +160,80 @@ Zweiter Abschnitt Überschrift u. § 6: GG 100-1
 
 Überblick:
 
+---
+---
 
+**Copilot:**
+
+### **Analyse von Artikel 116 GG a.F. und zugehörigem Bezug**
+Die bereitgestellten Inhalte beschäftigen sich intensiv mit den rechtlichen und historischen Dimensionen von Artikel 116 des Grundgesetzes (GG), insbesondere in seiner ursprünglichen und rekonstruierten Form. Zudem werden historische Veränderungen und die daraus resultierenden juristischen Konsequenzen beleuchtet.
+
+---
+
+### **1. Ursprung und Zielsetzung von Artikel 116 GG**
+#### **Textliche Analyse des ursprünglichen Artikels (a.F., 1949):**
+- **Absatz 1 (Definition des Begriffs "Deutscher"):**
+  - Ein "Deutscher" ist definiert als eine Person, die die deutsche Staatsangehörigkeit besitzt oder als Flüchtling oder Vertriebener deutscher Volkszugehörigkeit aufgenommen wurde, basierend auf dem geografischen Stand des deutschen Reiches von 1937.
+  - **Kernaussage:** Ein rechtlicher Rahmen wird geschaffen, um nach dem Ende des Zweiten Weltkriegs Rechte für Personen sicherzustellen, die aufgrund von Flucht und Vertreibung betroffen waren.
+
+- **Absatz 2 (Wiedereinbürgerung):**
+  - Menschen, deren deutsche Staatsangehörigkeit in einem Bundesstaate oder in den "deutschen Ländern" zwischen 1933 und 1945 aus politischen, rassischen oder religiösen Gründen entzogen wurde, erhalten das Recht auf Wiedereinbürgerung (1934/1935 vs. 1870/1913).
+  - **Besonderheit:** Die Wiedereinbürgerung erfolgt auf Antrag. Wenn die betroffenen Personen nach Kriegsende (8. Mai 1945) in Deutschland leben, gelten sie als nicht ausgebürgert, es sei denn, sie äußern den gegenteiligen Willen.
+
+#### **Ziele des Artikels:**
+1. **Aufarbeitung der NS-Vergangenheit:** Der Artikel bringt eine explizite Wiedergutmachung für Opfer nationalsozialistischer Verfolgung zum Ausdruck.
+2. **Integration von Vertriebenen und Flüchtlingen:** Besondere rechtliche Stellung für Flüchtlinge und Vertriebene aus dem ehemaligen deutschen Reichsgebiet auf dem Bundesgebiet.
+
+---
+
+### **2. Rekonstruktion und weiterführende Analyse (2025)**
+Die "Urversionsrekonstruktion v. 2025" bemüht sich, Artikel 116 GG im Kontext des gesamten föderalen Prinzips und der historischen Rechtsordnung (BuStAG 1870 und RuStAG 1913) neu zu positionieren.
+
+#### **Inhalte der Rekonstruktion:**
+- Der Begriff des deutschen Staatsbürgers wird präzisiert und stärker verknüpft mit älteren Bestimmungen wie dem **RuStAG 1913** (Reichs- und Staatsangehörigkeitsgesetz) und dem **BuStAG 1870** (Bundes- und Staatsangehörigkeitsgesetz).
+- Der Fokus liegt auf dem föderalen Ansatz der Staatsangehörigkeit:
+  - **BuStAG 1870:** Jeder Staatsangehörige eines deutschen Bundesstaates erhält automatisch eine Bundesangehörigkeit und ist als Bürger des Bundesstaates rechtlich geschützt.
+  - Die Rekonstruktion hebt hervor, dass zentrale Prinzipien des BuStAG und BVerf (1871) über die Doppelfunktion der Zugehörigkeit weiterhin relevant sein könnten.
+
+#### **Abweichungen der Rekonstruktion:**
+- In Absatz 2 wird von "Zweifachstatus" gesprochen: Die ursprüngliche bundesstaatliche Staatsangehörigkeit soll in den historischen Kontext integriert werden.
+  - **Konsequenz:** Diese Integration bringt die föderale Perspektive der deutschen Rechtsordnung stärker zur Geltung, als es die zentralistisch geprägte Reichsangehörigkeit des RuStAG 1913 ermöglicht hatte.
+
+---
+
+### **3. Historische Rechtsgrundlagen und Artikel 116 GG**
+#### **Überblick:**
+- **BuStAG 1870:** Definiert die doppelte Zugehörigkeit (Bundesstaats- und Bundesangehörigkeit).
+- **RuStAG 1913:** Zentralisierung der Staatsangehörigkeit und Einführung der "unmittelbaren Reichsangehörigkeit". Dies unterminierte die föderalen Rechte der Bundesstaaten.
+- **Fußnoten aus BGBl III 1959:** Verdeutlichung, dass die Änderungen durch das **RuStAG 1934/35** (besonders unter der nationalsozialistischen Regierung) darauf abzielten, die Rechtslage zentralistisch zu gestalten.
+  - Hinweis, dass die Unterscheidung zwischen "Deutscher" (1935er Definition) und "Staatsangehöriger" (1934er Definition) politisch motiviert war, um verschiedene Bevölkerungsgruppen rechtlich zu separieren.
+
+#### **Juristische Spannung: Artikel 116 GG vs. historische Vorgänger**
+- Artikel 116 GG zielt darauf ab, einen minimierten föderalen Bezug zur Staatsangehörigkeit aufrechtzuerhalten, während das dominante RuStAG 1913 die föderalen Aspekte weitgehend verwässerte.
+- **§ 26 BuStAG und zentralistische Gesetze:** Der Einwand, dass widersprüchliche Regelungen nach **§ 26 BuStAG** ungültig sind, bleibt rechtlich relevant, da zentrale Gesetze wie das RuStAG 1913 nicht explizit das BuStAG aufhoben.
+
+---
+
+### **4. Kontext der Übergangs- und Schlussbestimmungen**
+#### **Art. 115–117 GG (Wiedereinbürgerung und Übergangsregelungen):**
+- Artikel 117 GG wurde als Schlussbestimmung eingeführt, um den zentralistischen Rechtsrahmen schrittweise durch Anpassungen an das Grundgesetz zu integrieren.
+  - Es ist auffällig, dass die Rechtsprechung bis 1953 Anpassungen aus der NS-Zeit weiterhin respektieren konnte.
+
+---
+
+### **5. Fazit**
+- **Artikel 116 GG (1949):**
+  - Ein Ausdruck von Wiedergutmachung und Wahrung rechtlicher Kontinuität für spezifisch betroffene Personenkreise.
+  - Verknüpfung von Staatsangehörigkeit, humanitären Zielen und Integrationspflicht.
+
+- **Urversionsrekonstruktion (2025):**
+  - Rückführung föderaler und zweifacher Zugehörigkeiten (BuStAG 1870) und Infragestellung des zentralistischen Ansatzes (RuStAG 1913).
+  - Die Frage bleibt, ob die Bundesrepublik rechtlich näher an föderale Prinzipien der staatlichen Zugehörigkeit hätte anknüpfen sollen.
+
+- **Historische Spannungen und Kontinuität:**
+  - Die Wechselwirkung zwischen föderalen (BuStAG) und zentralistischen Rechtsrahmen (RuStAG) zeigt, dass die rechtspolitische Ausgestaltung von Artikel 116 GG über Jahre hinweg verändert, aber nie ganz geklärt wurde.
+  - Die Unterscheidung zwischen "deutscher Staatsangehöriger" und "Deutscher" hat nicht nur juristische, sondern auch politische Auswirkungen, die bis heute für Diskussionen sorgen – wie oben dargestellt.
+
+--- 
+
+Falls Sie präzisere Details oder weitere Abschnitte der Analyse benötigen, lassen Sie mich gern wissen!
