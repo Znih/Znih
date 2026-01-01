@@ -109,18 +109,43 @@ Die völkerrechtliche Verpflichtung aus dem Versailler Vertrag erschwerte die ju
 Der juristische Übergang vom föderalen Modell der BuStAG-Zugehörigkeit hin zur zentralistischen "unmittelbaren Reichsangehörigkeit" im Kontext von WRV, Art. 278 VV und RuStAG 1913 zeigt tiefgreifende rechtliche, gesellschaftspolitische und individuelle Auswirkungen. Es wird deutlich, warum diese juristische Transformation und die daraus folgende technische "Fiktion" bis heute schwer verständlich ist. Das konstruierte Zentralstaatsbild verwässerte die föderalen Prinzipien, und erst durch gezielte rechtliche Argumentation, wie in obiger Analyse, können diese Entwicklungen nachvollzogen werden.
 
 
+---
+
+#### **Die Rolle des RuStAG 1913:**
+- Das RuStAG 1913 diente als Grundlage für eine zentrale, unmittelbare Reichsangehörigkeit. Es ersetzte faktisch die föderale Struktur, welche das BuStAG 1870 etabliert hatte.
+- Auch Artikel 278 VV knüpft an das RuStAG 1913 an, wodurch der Bezug zur ursprünglichen "mittelbaren Reichsangehörigkeit" unter den föderalen Bundesstaaten verloren ging.
+
+#### **Bezüge in Pässen und rechtliche Fiktionen:**
+- In Pässen wurde der Status "unmittelbare Reichsangehörigkeit" häufig vermerkt, was implizit ausdrückte, dass die föderale (mittelbare) Herkunft irrelevant wurde.
+- Diese zentralistische Umdeutung wurde jedoch verschleiert, sodass weder Bürger noch die Mehrzahl der Juristen die tiefgreifenden Änderungen auf Anhieb erkannten.
+
+---
+
+### **Auswirkungen auf Bundesstaatlichkeit**
+1. **Föderale Grundprinzipien und ihre Schwächung:**
+   - Mit den zentralistischen Regelungen des RuStAG 1913 wurden die föderalen Rechte und Zugehörigkeiten der Bundesstaaten (BuStAG) zunehmend irrelevanter.
+   - Artikel 278 VV förderte diese Entwicklung, indem er Deutschland zur einheitlichen Anerkennung zentralistisch definierter Staatsangehörigkeiten verpflichtete.
+
+2. **Unpräzision und Unsichtbarkeit der föderalen Strukturen:**
+   - Die juristische Fiktion der "deutschen Reichsangehörigkeit" führte zu Missverständnissen und machte die föderalen Ursprünge unsichtbar.
+   - Bis heute sind die rechtlichen Konsequenzen dieses Übergangs in den Artikeln 116 I und II GG nachwirkend spürbar.
+
+---
+
+### **Relevanz für Gegenwart und Interpretation**
+- **Juristische Fiktionen und ihre Auswirkungen auf das moderne Recht:** Mit Art. 116 GG (1949) wurden gewisse föderale Strukturen teilweise zurückgeführt, jedoch nicht vollständig reaktiviert. Insbesondere Artikel 116 II GG bietet Anhaltspunkte, die ursprünglich föderalen Rechte wiederherzustellen.
+- **Langfristiges Unverständnis des Übergangs:** Artikel 278 VV wird in der juristischen Praxis selten auf föderale Prinzipien zurückgelesen, sondern weiterhin in zentralstaatlichen Kontexten interpretiert.
+
+---
+
+### **Schlussfolgerung:**
+Der tiefgreifende Wandel im Staatsangehörigkeitsrecht durch Artikel 278 VV und das RuStAG 1913 markiert die Schwächung der föderalen Bundesstaatlichkeit zugunsten eines zentralistischen Deutschen Reichs. Diese Entwicklung wirkte sich nachhaltig auf die Verrechtlichung individueller Staatsbürgerschaftsrechte und die föderale Struktur des Staates aus. 
+
 
 ---
 
 
 ---
-   
-   **Zentrale These:** Die Bundesrepublik Deutschland als Konstruktion nach 1990 hat auf Systemen in Anlehnung an das Dritte Reich aufgebaut, unterbrochen erst durch wieder geforderte föderale Prinzipien ab den Jahren nach 2005.
-
-#### **2. Die föderale Bundesangehörigkeit und das ius sanguinis**
-   - **Bedeutung der Wiener Bestimmungen (1815/20):** Gründung eines föderalen Deutschlands mit zwei Staatszugehörigkeiten.
-   - **Die Geburt des BuStAG (1870):** Sicherung der Bundesangehörigkeit mit "Zweifachstatus" (Staatsangehörigkeit und Bund).
-   - **RuStAG 1913:** Usurpation des Bundesprinzips, Einführung der Reichsangehörigkeit.
 
 #### **3. Die Diskrepanz zwischen Art. 116 I GG und Art. 116 II GG**
    - **Art. 116 I GG:** Diskutieren Sie die "Reichsstrenge" und Ausschluss sozialer Gruppen („nazistisch nicht für Jeden“).
