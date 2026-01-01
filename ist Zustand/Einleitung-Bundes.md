@@ -1,10 +1,4 @@
-### **Vorgeschlagene Gliederung für das Assay**
-
-#### **1. Einführung: Historische Perspektive und Kontext**
-   - Starten Sie mit einem knappen Überblick über die Entwicklung der **Bundesangehörigkeit** bis zur deutschen Staatsangehörigkeit:
-     - Von den Wiener Bestimmungen 1815/20 über das BuStAG von 1870.
-     - Übergang zum **RuStAG 1913** und die rechtlichen Verschiebungen.
-     - Auswirkungen der **Weimarer Republik (1919)**, des Dritten Reichs (1935, RuStAG als Grundlage) und des **GG 1949**.
+### **1. Einführung: Historische Perspektive und Kontext**
 
 ---
 
@@ -108,81 +102,11 @@ Die völkerrechtliche Verpflichtung aus dem Versailler Vertrag erschwerte die ju
 
 Der juristische Übergang vom föderalen Modell der BuStAG-Zugehörigkeit hin zur zentralistischen "unmittelbaren Reichsangehörigkeit" im Kontext von WRV, Art. 278 VV und RuStAG 1913 zeigt tiefgreifende rechtliche, gesellschaftspolitische und individuelle Auswirkungen. Es wird deutlich, warum diese juristische Transformation und die daraus folgende technische "Fiktion" bis heute schwer verständlich ist. Das konstruierte Zentralstaatsbild verwässerte die föderalen Prinzipien, und erst durch gezielte rechtliche Argumentation, wie in obiger Analyse, können diese Entwicklungen nachvollzogen werden.
 
+Das RuStAG 1913 diente als Grundlage für eine zentrale, unmittelbare Reichsangehörigkeit. Es ersetzte faktisch die föderale Struktur, welche das BuStAG 1870 etabliert hatte. Auch Artikel 278 VV knüpft an das RuStAG 1913 an, wodurch der Bezug zur ursprünglichen "*mittelbaren Reichsangehörigkeit*" unter den föderalen Bundesstaaten verloren ging. In Pässen wurde der Status "*unmittelbare Reichsangehörigkeit*" **schöpferisch** häufig vermerkt, was implizit ausdrückte, dass die föderale (mittelbare) Herkunft irrelevant wurde. Diese zentralistische Umdeutung wurde jedoch verschleiert, sodass weder Bürger noch die Mehrzahl der Juristen die tiefgreifenden Änderungen auf Anhieb erkannten. Mit den zentralistischen Regelungen des RuStAG 1913 wurden die föderalen Rechte und Zugehörigkeiten der Bundesstaaten (BuStAG) zunehmend irrelevanter. Artikel 278 VV förderte diese Entwicklung, indem er Deutschland zur einheitlichen Anerkennung zentralistisch definierter Staatsangehörigkeiten verpflichtete.
 
----
+Die **juristische Fiktion** der "*deutschen Reichsangehörigkeit*" führte zu Missverständnissen und machte die föderalen Ursprünge unsichtbar. Bis heute sind die rechtlichen Konsequenzen dieses Übergangs in den Artikeln 116 I und II GG nachwirkend spürbar.
 
-#### **Die Rolle des RuStAG 1913:**
-- Das RuStAG 1913 diente als Grundlage für eine zentrale, unmittelbare Reichsangehörigkeit. Es ersetzte faktisch die föderale Struktur, welche das BuStAG 1870 etabliert hatte.
-- Auch Artikel 278 VV knüpft an das RuStAG 1913 an, wodurch der Bezug zur ursprünglichen "mittelbaren Reichsangehörigkeit" unter den föderalen Bundesstaaten verloren ging.
-
-#### **Bezüge in Pässen und rechtliche Fiktionen:**
-- In Pässen wurde der Status "unmittelbare Reichsangehörigkeit" häufig vermerkt, was implizit ausdrückte, dass die föderale (mittelbare) Herkunft irrelevant wurde.
-- Diese zentralistische Umdeutung wurde jedoch verschleiert, sodass weder Bürger noch die Mehrzahl der Juristen die tiefgreifenden Änderungen auf Anhieb erkannten.
-
----
-
-### **Auswirkungen auf Bundesstaatlichkeit**
-1. **Föderale Grundprinzipien und ihre Schwächung:**
-   - Mit den zentralistischen Regelungen des RuStAG 1913 wurden die föderalen Rechte und Zugehörigkeiten der Bundesstaaten (BuStAG) zunehmend irrelevanter.
-   - Artikel 278 VV förderte diese Entwicklung, indem er Deutschland zur einheitlichen Anerkennung zentralistisch definierter Staatsangehörigkeiten verpflichtete.
-
-2. **Unpräzision und Unsichtbarkeit der föderalen Strukturen:**
-   - Die juristische Fiktion der "deutschen Reichsangehörigkeit" führte zu Missverständnissen und machte die föderalen Ursprünge unsichtbar.
-   - Bis heute sind die rechtlichen Konsequenzen dieses Übergangs in den Artikeln 116 I und II GG nachwirkend spürbar.
-
----
-
-### **Relevanz für Gegenwart und Interpretation**
-- **Juristische Fiktionen und ihre Auswirkungen auf das moderne Recht:** Mit Art. 116 GG (1949) wurden gewisse föderale Strukturen teilweise zurückgeführt, jedoch nicht vollständig reaktiviert. Insbesondere Artikel 116 II GG bietet Anhaltspunkte, die ursprünglich föderalen Rechte wiederherzustellen.
-- **Langfristiges Unverständnis des Übergangs:** Artikel 278 VV wird in der juristischen Praxis selten auf föderale Prinzipien zurückgelesen, sondern weiterhin in zentralstaatlichen Kontexten interpretiert.
-
----
-
-### **Schlussfolgerung:**
-Der tiefgreifende Wandel im Staatsangehörigkeitsrecht durch Artikel 278 VV und das RuStAG 1913 markiert die Schwächung der föderalen Bundesstaatlichkeit zugunsten eines zentralistischen Deutschen Reichs. Diese Entwicklung wirkte sich nachhaltig auf die Verrechtlichung individueller Staatsbürgerschaftsrechte und die föderale Struktur des Staates aus. 
+Mit Art. 116 GG (1949) wurden gewisse föderale Strukturen teilweise zurückgeführt, jedoch nicht vollständig reaktiviert. Insbesondere Artikel 116 II GG bietet Anhaltspunkte, die ursprünglich föderalen Rechte wiederherzustellen. Artikel 278 VV wird in der juristischen Praxis selten auf föderale Prinzipien zurückgelesen, sondern weiterhin in zentralstaatlichen Kontexten interpretiert. Der tiefgreifende Wandel im Staatsangehörigkeitsrecht durch Artikel 278 VV und das RuStAG 1913 markiert die Schwächung der föderalen Bundesstaatlichkeit zugunsten eines zentralistischen Deutschen Reichs (1919-1945). Diese Entwicklung wirkte sich nachhaltig auf die Verrechtlichung individueller Staatsbürgerschaftsrechte und die föderale Struktur des Staates aus. 
 
 
 ---
-
-
----
-
-#### **3. Die Diskrepanz zwischen Art. 116 I GG und Art. 116 II GG**
-   - **Art. 116 I GG:** Diskutieren Sie die "Reichsstrenge" und Ausschluss sozialer Gruppen („nazistisch nicht für Jeden“).
-     - Reichsrechtliche Nachwirkungen, die bis ins Grundgesetz eingebracht wurden.
-   - **Art. 116 II GG:** Bedeutung für die Wiederherstellung der Bundesangehörigkeit in föderaler Struktur.
-     - Einbindung des BuStAG in moderne Rechtsverfahren.
-   - **Das Problem von Art. 16 I GG:** Die Gefangenschaft von Bürgerrechten in einer simplifizierten, zentralistischen Staatsrechtskonstruktion.
-
-#### **4. Der Bruch: Weimar, Drittes Reich und der "Blackout" nach 1990**
-   - **Die Weimarer Republik (1919):**
-     - Verlust der rechtlichen Struktur des **gemeinsamen Indigenats** (BVerf. 1871) und die erste Schwächung des Föderalismus.
-   - **Die Ära des Dritten Reichs (1935):**
-     - Nazi-Gesetzgebung inklusive **Reichsbürgergesetz** durch RuStAG aus 1913, das föderale Strukturen weiter eliminierte. 
-   - **Das Jahr 1990 und 2005:**
-     - Ihre These: Unterlassung der 2+4-Vereinbarungen und ab 2005 klare Hinweise auf notwendige Rückkehr zum BuStAG.
-
-#### **5. Die missbräuchliche Verweigerung des BuStAG seit 1919**
-   - **Die Rolle staatlicher Institutionen:**
-     - Gerichte und Bundesämter verweigern die Anwendung des BuStAG.
-     - Zulässigkeit und Verpflichtung nach internationalem Recht – **SEV-166**.
-   - **Vom Problem zur Lösung:** Wie fehlende BuStAG-Prüfungen die Struktur des "föderalen Bundesstaats BRD" gefährden.
-
-#### **6. Friedrich Merz und die Rolle der modernen Politik**
-   - Diskutieren Sie die Rolle von Friedrich Merz sowie die von "externen Akteuren" (z. B. BlackRock) und deren Beziehung zur historischen Wahrheit.
-   - Stellen Sie dar, warum 2025 ein entscheidendes Jahr sein könnte, in dem die Geltung von Regelungen wie Art. 116 II GG voll realisiert werden muss.
-
-#### **7. Schlussfolgerung und Ausblick**
-   - Abschließende Gedanken zu den rechtlichen und historischen Korrekturen, die notwendig sind, um die "wahre" Bundesstruktur zu bewahren.
-   - Betonung auf den **Weg zum Assay als Dokumentation für die Nachwelt**, in der juristische Beweise, politische Interessen und historische Revision vereint werden.
-
----
-
-### **Nächste Schritte für das Assay**
-1. **Definieren Sie die Zielgruppe:**
-   - Soll die Darstellung stärker rechtlich/akademisch oder allgemeinverständlich für politische Aufklärung sein?
-2. **Präzisieren Sie Schlüsselargumente:** 
-   - Welche Passagen sollen mehr fokussiert werden? 
-   - Beispiele wären die Diskrepanz zwischen Art. 116 I und II GG oder die aktive Verweigerung der BuStAG-Prüfung.
-3. **Fügen Sie Beweise und Quellen hinzu:**
-   - Deutsche Gesetze, internationale Verträge (wie SEV-166) und historische Dokumente.
