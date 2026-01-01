@@ -2,10 +2,10 @@
 
 ---
 
-### Wo kommen Wir her, wer sind Wir und wo wollen Wir hin?
+#### Wo kommen Wir her, wer sind Wir und wo wollen Wir hin?
 
 
-#### Von den Wiener Bestimmungen 1815/20 über das BuStAG von 1870 bis zur Bundesverfassung von 1871
+##### Von den Wiener Bestimmungen 1815/20 über das BuStAG von 1870 bis zur Bundesverfassung von 1871
 
 
 Der Beschluss vom 8. Juni 1820 erklärte die Schlussakte zum **Grundgesetz des Deutschen Bundes**. Ziel war seinerzeit die Sicherung der Unabhängigkeit der deutschen Staaten, die Verlässlichkeit der Bundesakte von 1815 und die Implementierung dauerhafter Friedens- und Sicherheitsmechanismen. Der Grundstein für einen ewigen Bund wurde 1815 gelegt, mit einem Fokus auf rechtliche Gleichheit und wechselseitigen Schutz.
@@ -33,7 +33,7 @@ Um die Umstände und den aufrichtigen Wunsch hinter einem europäischen Friede 1
 
 ---
 
-#### Übergang zum **RuStAG 1913** und die rechtlichen Verschiebungen.
+##### Übergang zum **RuStAG 1913** und die rechtlichen Verschiebungen.
 
 Das **RuStAG 1913** kann als bedeutender Wendepunkt betrachtet werden, der sowohl föderale als auch zentralistische Prinzipien vereinte, jedoch bewusst sichtbar verdeckt eine Perspektive hin zur Vereinheitlichung des Reichs und der Schwächung der föderalistischen Struktur eröffnete. Das Gesetz zeigte die fortschreitende Entwicklung juristischer und politischer Macht, welche die Balance zwischen den Bundesstaaten und dem Bund noch als Reich zugunsten des Letzteren verschob. Der Zusatzstatus der Bundesangehörigkeit, der im BuStAG 1870 mit "positiver Jurisdiktion" geschaffen wurde, verblieb im **RuStAG 1913** in reduziertem Umfang. Die ohnehin flagrante Konstruktion "*Deutscher ist*", der die "*unmittelbaren Reichsangehörigkeit*" besitzt, wo doch das RuStAG eindeutig Angehörigkeiten adressiert, schwächte die Bindungen an die Bundesstaaten deutlich, was später als Grundlage für Reichsbürgergesetze im Dritten Reich diente. 
 
@@ -64,11 +64,12 @@ Ironie der Geschichte: Das RuStAG zielte darauf ab, die Zentralisierung des deut
 ---
 
 
-#### Auswirkungen durch Versailler Vertrag, der **Weimarer Reichsverfassung (WRV 1919)** als Dritten Reich, der NS und NAZI Staatsgrundgesetzen (1935, RuStAG als Grundlage) als Nazi-Deutschland und des **GG 1949** als demokratische Verwaltung Deutschlands (Art. 116 I GG) nicht Rechtsnachfolger des Bundes (Art. 116 II GG).
+##### Auswirkungen durch Versailler Vertrag (VV), **WRV 1919** und **GG 1949** auf Deutschland (Art. 23, 116 GG a.F. u. n.F.)
 
-Wie wurde Artikel 278 verstanden und wie umgesetzt? [Anmerkung]
+Wie wurde Artikel 278 VV verstanden und wie umgesetzt? [Anmerkung]
 
-> Artikel 278. Deutschland verpflichtet sich, die neue Staatsangehörigkeit [RuStAG UR, Art. 110 I Sz. 2 WRV, RGBl. I 1934 S. 85, Art. 16 I GG], die von seinen Angehörigen gemäß den Gesetzen der alliierten und assoziierten Mächte und gemäß den Entscheidungen der zuständigen Behörden dieser Mächte, sei es auf dem Wege der Einbürgerung, sei es auf Grund einer Vertragsbestimmung etwa erworben ist oder erworben wird, anzuerkennen und auf Grund der neuerworbenen Staatsangehörigkeit [RuStAG UR, Art. 110 II WRV, RGBl. 1935 S. 1146, Art. 116 I GG nur wenn Art. 16 I GG nachgewiesen s. UR n. § 30 I StAG] diese Reichsangehörigen [Art. 3 I BVerf. iVm BuStAG, RuStAG UR, Art. 110 I Sz. 1 WRV, Art. 16 I GG] in jeder Richtung von jeder Pflicht gegenüber ihrem ursprünglichen föderalen Heimatstaate [Art. 1-3 BVerf. iVm BuStAG, bei Nachweis n. RuStAG UR, Art. 110 I Sz. 1 WRV, Art. 116 II GG] entbinden.
+Artikel 278.
+> Deutschland verpflichtet sich, die neue Staatsangehörigkeit [RuStAG UR, Art. 110 I Sz. 2 WRV, RGBl. I 1934 S. 85, Art. 16 I GG], die von seinen Angehörigen gemäß den Gesetzen der alliierten und assoziierten Mächte und gemäß den Entscheidungen der zuständigen Behörden dieser Mächte, sei es auf dem Wege der Einbürgerung, sei es auf Grund einer Vertragsbestimmung etwa erworben ist oder erworben wird, anzuerkennen und auf Grund der neuerworbenen Staatsangehörigkeit [RuStAG UR, Art. 110 II WRV, RGBl. 1935 S. 1146, Art. 116 I GG nur wenn Art. 16 I GG nachgewiesen s. UR n. § 30 I StAG] diese Reichsangehörigen [Art. 3 I BVerf. iVm BuStAG, RuStAG UR, Art. 110 I Sz. 1 WRV, Art. 16 I GG] in jeder Richtung von jeder Pflicht gegenüber ihrem ursprünglichen föderalen Heimatstaate [Art. 1-3 BVerf. iVm BuStAG, bei Nachweis n. RuStAG UR, Art. 110 I Sz. 1 WRV, Art. 116 II GG] entbinden.
 
 
 Der Artikel 278 des Versailler Vertrags formulierte die Verpflichtung Deutschlands, neue Staatsangehörigkeiten anzuerkennen, die durch die Regelungen der alliierten und assoziierten Kräfte und auf Basis territorialer Veränderungen oder vertraglicher Bestimmungen erworben wurden. Diese Regelung stellte sicher, dass Reichsangehörige, deren Staatsangehörigkeit geändert wurde, völlig von Verpflichtungen gegenüber dem deutschen Bundes-Staat und den föderalen Bundesstaaten entbunden wurden. Es hätte mittelbare Reichsangehörige lauten müssen, da Bezug zu den Heimatstaaten folgte aber traditionell gar naturgemäß seit 1871 darauf verzichtet wurde. Erst ab 1914 galt die "unmittelbare Reichsangehörigkeit", die dann jedoch zwingend so zu benennen war. Aber tatsächlich bezog sich Art. 278 VV insoweit wohl auf die "*unmittelbare Reichsangehörigkeit*" aus § 1 RuStAG 1913 oder wurde jedenfalls exakt so 1934 umgesetzt. Gemeint waren dem Wortlaut nach aber definitiv die "*Früheren deutschen Staatsangehörigen*" aus Artikel 116 II GG.
@@ -78,6 +79,8 @@ Tatsächlich ist Artikel 278 VV unpräzise formuliert, da er sich rein technisch
 
 
 Der [Artikel 278 VV](https://github.com/Znih/Znih/blob/main/Versailler-Unfrieden-1919-1925.md) war ein Instrument zur Umsetzung territorialer und völkerrechtlicher Veränderungen, basierend auf den zentralistischen Regelungen des RuStAG 1913. Der Wechsel von föderaler Reichsangehörigkeit (BuStAG 1870) zur "*unmittelbaren Reichsangehörigkeit*" (ius soli) führte zu Missverständnissen und juristischen Konflikten. Die zentrale Auslegung und Umsetzung führte zur Schwächung des föderalen Systems. Rechte auf Bundesstaatszugehörigkeit verloren ihre Bedeutung. Die Unterscheidung zwischen zentralistischer und föderaler Staatsangehörigkeit bleibt ein konfliktreiches Thema. Erst Art. 116 II GG versuchte, diese Balance teils wiederherzustellen. Artikel 278 VV greift tief in den Wandel deutscher Staats- und Föderalstrukturen ein. Sein Bezug zum RuStAG 1913 betont eine zentralistische Perspektive, die historische föderale Grundsätze weiter schwächte und zunächst nur Zentralisierung förderte.
+
+##### Weimarer Reichsverfassung (WRV)
 
 [Artikel 110 I u. II WRV](https://github.com/Znih/Znih/blob/main/19190811_Weimarer-Reichsverfassung_WRV.md) v. 1919:
 > I. Die Staatsangehörigkeit im Reiche und in den Ländern wird nach den Bestimmungen eines Reichsgesetzes erworben und verloren. Jeder Angehörige eines Landes ist zugleich Reichsangehöriger.
@@ -94,7 +97,7 @@ Mit "*Staatsangehörigkeit im Reiche*" können nur die Bundesstaaten gemeint sei
 
 Mit "*Jeder Angehörige eines Landes ist zugleich Reichsangehöriger.*" wurde der ehemalige deutsche Staatsangehörige in einem Bundesstaate (§ 1 BuStAG u. Art. 3 I BVerf. 1871, Art. 110 I Sz. 1 WRV, Art. 116 II GG) zu einem quasi "*deutschen unmittelbaren Reichsangehörigen*", was nicht selten tatsächlich so in Pässe gestempelt wurde. Tatsächlich wurde eine juristische Fiktion einer "***deutschen Reichsangehörigkeit***" entsprechend Art. 278 VV konstruiert, ohne daß es einer der 80 Millionen Deutschen erkennen oder gar verstehen konnte. Bis in die Gegenwart mit schwersten Folgen auch für heutige Nachkommen. Diese "***deutsche Reichsangehörigkeit***" baute auf die "*nur noch*" verbliebene "***unmittelbare Reichsangehörigkeit***" (UR) aus dem RuStAG 1913 auf.
 
-#### **Original und Rekonstruktionsansatz**
+##### **Original und Rekonstruktionsansatz**
 
 Die Passage "Staatsangehörigkeit im Reiche und in den Ländern" deutet auf eine differenzierte Systematik hin, bei der Föderalismus (Bundesstaat angelehnt an BuStAG § 1 von 1870) erhalten bleiben sollte. Die Rekonstruktion hebt explizit die "*deutschen Länder*" gemäß Art. 2 WRV hervor, auch wenn dies im Originaltext nicht wörtlich auftaucht. Somit geht die Rekonstruktion über reine Textauslegung hinaus und deckt die verfassungsrechtliche Zielsetzung auf. Der Begriff "deutsche Reichsangehörigkeit" wurde, durch Art. 278 VV und das RuStAG 1913 rechtlich untermauert und zielte auf eine Vereinheitlichung aus Sicht des Zentralstaats ab. Die **"unmittelbare Reichsangehörigkeit"** diente formell als Werkzeug, um die föderalen Strukturen der BuStAG-Zugehörigkeit zu überwinden.
 
@@ -106,21 +109,42 @@ Das RuStAG 1913 diente als Grundlage für eine zentrale, unmittelbare Reichsange
 
 Die **juristische Fiktion** der "*deutschen Reichsangehörigkeit*" führte zu Missverständnissen und machte die föderalen Ursprünge unsichtbar. Bis heute sind die rechtlichen Konsequenzen dieses Übergangs in den Artikeln 116 I und II GG nachwirkend spürbar.
 
+##### Bonner Grundgesetz 1949 (GG)
+
+
 Mit Art. 116 GG (1949) wurden gewisse föderale Strukturen teilweise zurückgeführt, jedoch nicht vollständig reaktiviert. Insbesondere Artikel 116 II GG bietet Anhaltspunkte, die ursprünglich föderalen Rechte wiederherzustellen. Artikel 278 VV wird in der juristischen Praxis selten auf föderale Prinzipien zurückgelesen, sondern weiterhin in zentralstaatlichen Kontexten interpretiert. Der tiefgreifende Wandel im Staatsangehörigkeitsrecht durch Artikel 278 VV und das RuStAG 1913 markiert die Schwächung der föderalen Bundesstaatlichkeit zugunsten eines zentralistischen Deutschen Reichs (1919-1945). Diese Entwicklung wirkte sich nachhaltig auf die Verrechtlichung individueller Staatsbürgerschaftsrechte und die föderale Struktur des Staates aus. 
 
+Artikel 116 des Grundgesetzes beschreibt die Kriterien für die deutsche Staatsangehörigkeit und Regelungen zur Wiedereinbürgerung unter Berücksichtigung von politisch oder rassistisch motivierten Vergehen während der NS-Zeit. Insbesondere die historischen, politischen und rechtlichen Implikationen des Artikels stehen im Fokus. Das Deutsche Reich hörte 1945 nicht auf zu existieren, sondern wurde lediglich „*handlungsunfähig*“. Diese Sichtweise beruht auf Entscheidungen des Bundesverfassungsgerichts. Die Bundesrepublik Deutschland entstand nicht als Rechtsnachfolger, sondern als „*identische*“ Fortführung des Deutschen Reiches (Art. 116 GG) in einer territorial eingeschränkten Form (Art. 23 GG a.F. iVm Art. 116 I GG). Die Fortsetzung des Reichs als Völkerrechtssubjekt schuf die Basis für den Rückgriff auf Staatsangehörige nach den Grenzen von 1937 (wie in Artikel 116 Absatz 1 GG formuliert).
 
----
----
 
-**Znih:**
-Es soll anerkannt werden, daß 1919 zeitgleich Personen lebten, die noch Bundesangehörige Preußen waren (mittelbare Reichsangehörige) ODER unmittelbare Reichsangehörige und zusätzlich nun "deutsche unmittelbare Reichsangehörige", mithin "deutsche Reichsangehörige" auf Basis der "unmittelbaren Reichsangehörigkeit" aus dem RuStAG. Die müssen bis heute alle erfassbar bleiben, da Preußen seit 1919 minus 5 Jahresfrist zwar vererben aber nicht mehr verlustig werden können. Kann ersteres herausgelesen und verstanden werden? Nicht hM.
-
+Artikel 116 bezieht sich auf Bund 1867/71 und Reich 1919/33 soweit „fortbestehendem Reich“ geschrieben steht ("Dritten ReichEs", Art. 116 I GG), was politische und rechtliche Diskussionen um die Bestandteile des „Deutschen Volkes“ nach den nationalsozialistischen Verbrechen beeinflusst. Der Fortbestand des Reiches unter völkerrechtlicher Betrachtung gab der Bundesrepublik eine Legitimation, jedoch ohne explizit eine neue Souveränität festzulegen. Die Definition „Deutscher“ im Sinne des Grundgesetzes schließt Flüchtlinge und Vertriebene ein, die nach 1937 aus dem „Deutschen Reich“ stammten. Diese Herleitung basiert vollständig auf der Annahme, dass das Deutsche Reich als Völkerrechtssubjekt weiterexistiert, was wiederum auf rechtlich-politischen Grundlagen beruht.
 
 ---
 
-**Copilot:**
-Sie bringen ein komplexes rechtshistorisches und juristisches Thema zur Diskussion, das die Entwicklung und das Nebeneinander verschiedener Kategorien der Staatsangehörigkeit betrifft – insbesondere die Unterscheidung und Zusammensetzung von **mittelbarer Reichsangehörigkeit**, **unmittelbarer Reichsangehörigkeit** und deren Einbettung in die rechtliche und historische Kontinuität über 1919 hinaus.
+#### **„Deutscher“ und seine normative Bedeutung**
 
+Artikel 116 Absatz 1 unterscheidet zwischen:
+  - Deutschen, die aktiv die deutsche Staatsbürgerschaft besitzen.
+  - Flüchtlingen und Vertriebenen deutscher Volkszugehörigkeit, die innerhalb der Grenzen von 1937 unter den Schutzbegriff fallen.
+
+Artikel 116 Absatz 2 regelt die Wiedereinbürgerung:
+  - **Frühere** deutsche Staatsangehörige, die **zwischen 1933 und 1945** aufgrund nationalsozialistischer Gesetze **ab 1934** und nazistischer Gesetze**ab 1935** ihre Staatsangehörigkeit verloren, können einen Antrag auf Wiedereinbürgerung stellen.
+  - Besonderheit: Diese Regel berücksichtigt auch die Nachfahren der betroffenen Personen.
+
+---
+
+BGBl. I 1955 S. 65 v. 22.02.1955 deutet darauf hin, dass „*Deutscher*“ nicht grundsätzlich mit „*deutscher Staatsangehöriger*“ gleichzusetzen ist. Ein „*Deutscher*“ kann auch durch eine Zugehörigkeit auf sprachlich-kultureller Ebene definiert sein (Volkszugehörigkeit).
+Die rechtlichen Grenzen der Definition „Deutscher“:
+   - Territorial und zeitlich auf das Reichsgebiet von 1937 eingeschränkt.
+   - Implikationen für heutige staatsbürgerliche Rechte und die Frage der staatlichen Anerkennung.
+
+---
+
+Diese Dynamik wird nicht explizit durch andere Grundgesetzartikel aufgeklärt, wodurch etwa der Begriff „*Geltungsbereich des Grundgesetzes*“ (nach dem Wegfall von Artikel 23 a.F.) weiterhin eine offene Frage bleibt. Artikel 116 GG fußt auf der Annahme, dass das Deutsche Reich als Völkerrechtssubjekt weiterbesteht. Diese Argumentation legitimiert die territoriale und historische Ableitung des Begriffs „*Deutscher*“ sowie die Regelungen zur Wiedereinbürgerung. Der Begriff umfasst in Artikel 116 GG die deutsche Staatsangehörigkeit sowie die Zugehörigkeit zu einer „deutschen Volksgruppe“. Historische und territoriale Bezüge (1937) definieren den Rahmen, jedoch ohne Berücksichtigung moderner föderalistischer Dynamiken im deutschen Staatsrecht.
+
+
+
+---
 ---
 
 ### Kernproblem
