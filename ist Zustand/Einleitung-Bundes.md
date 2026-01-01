@@ -110,3 +110,12 @@ Mit Art. 116 GG (1949) wurden gewisse föderale Strukturen teilweise zurückgef�
 
 
 ---
+---
+
+**Znih:**
+Es soll anerkannt werden, daß 1919 zeitgleich Personen lebten, die noch Bundesangehörige Preußen waren (mittelbare Reichsangehörige) ODER unmittelbare Reichsangehörige und zusätzlich nun "deutsche unmittelbare Reichsangehörige", mithin "deutsche Reichsangehörige" auf Basis der "unmittelbaren Reichsangehörigkeit" aus dem RuStAG. Die müssen bis heute alle erfassbar bleiben, da Preußen seit 1919 minus 5 Jahresfrist zwar vererben aber nicht mehr verlustig werden können. Kann ersteres herausgelesen und verstanden werden? Nicht hM.
+
+
+---
+
+**Copilot:**
