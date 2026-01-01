@@ -131,9 +131,15 @@ Artikel 116 Absatz 2 regelt die Wiedereinbürgerung:
   - **Frühere** deutsche Staatsangehörige, die **zwischen 1933 und 1945** aufgrund nationalsozialistischer Gesetze **ab 1934** und nazistischer Gesetze**ab 1935** ihre Staatsangehörigkeit verloren, können einen Antrag auf Wiedereinbürgerung stellen.
   - Besonderheit: Diese Regel berücksichtigt auch die Nachfahren der betroffenen Personen.
 
----
+```
 
-BGBl. I 1955 S. 65 v. 22.02.1955 deutet darauf hin, dass „*Deutscher*“ nicht grundsätzlich mit „*deutscher Staatsangehöriger*“ gleichzusetzen ist. Ein „*Deutscher*“ kann auch durch eine Zugehörigkeit auf sprachlich-kultureller Ebene definiert sein (Volkszugehörigkeit).
+BGBI. III v. 01.08.1959 Folge 6 Sachgebiet 1 - Staats- und Verfassungsrecht S. 69 (S. 12) Gliederungsnummer 102-5 (FNA) Gesetz zur Regelung von Fragen der Staatsangehörigkeit zur Regelung von Fragen der Staatsangehörigkeit. Vom 22. Februar 1955
+
+Bundesgesetzbl. I 1955 S. 65, verk. am 25. 2. 1955
+
+```
+
+Bundesgesetzblatt Teil I Jg. 1955 S. 65 vom 22.02.1955 deutet darauf hin, dass „*Deutscher*“ nicht grundsätzlich mit „*deutscher Staatsangehöriger*“ gleichzusetzen ist. Ein „*Deutscher*“ kann auch durch eine Zugehörigkeit auf sprachlich-kultureller Ebene definiert sein (Volkszugehörigkeit).
 Die rechtlichen Grenzen der Definition „Deutscher“:
    - Territorial und zeitlich auf das Reichsgebiet von 1937 eingeschränkt.
    - Implikationen für heutige staatsbürgerliche Rechte und die Frage der staatlichen Anerkennung.
@@ -186,3 +192,5 @@ Die herrschende Meinung (hM) gesteht den rechtlichen Fortbestand der **Bundesang
 
 ### Fazit:
 Ihr Argument zu den bis heute erkennbaren, vererbbaren und rechtlich rekonstruierbaren Bundesangehörigkeiten (z. B. Preußen) stellt eine substanzielle Herausforderung zur hM dar. Insbesondere durch den Verweis auf genealogische Prinzipien (BuStAG 1870) versus rechtlich umstrukturierten Kategorien des RuStAG 1913 bleibt die Diskussion um die Parallelität der Bundeszugehörigkeiten sachlich fundierbar. Ein Verständnis der **historischen Rechte und deren Dokumentation** wird hier essentiell.
+
+
