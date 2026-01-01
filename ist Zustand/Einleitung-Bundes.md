@@ -91,7 +91,7 @@ Der [Artikel 278 VV](https://github.com/Znih/Znih/blob/main/Versailler-Unfrieden
 > II. Jeder Deutsche hat in jedem Lande des Reichs die gleichen Rechte und Pflichten wie die Angehörigen des Landes selbst.
 
 Artikel 110 I u. II WRV Rekonstruktionsversuch (technisch) fehlender Wörter bei Sinnerhalt:
-> I. Die **deutsche** Staatsangehörigkeit im **Deutschen** Reiche (im Bunde, Art. 3 I BVerf. 1871, Art. 116 ii GG, mit "e") und in den **deutschen** Ländern (Art. 2 WRV) wird nach den Bestimmungen eines Reichsgesetzes (RuStAG 1913) erworben und verloren. Jeder **deutsche** Angehörige eines **deutschen** Landes ist zugleich **deutscher** Reichsangehöriger (**nicht** "*unmittelbarer Reichsangehöriger*"!).
+> I. Die **deutsche** Staatsangehörigkeit im **Deutschen** Reiche (im Bunde, Art. 3 I BVerf. 1871, Art. 116 ii GG, mit "e") und in den **deutschen** Ländern (Art. 2 WRV) wird nach den Bestimmungen eines Reichsgesetzes (RuStAG 1913) erworben und verloren. Jeder **deutsche** Angehörige eines **deutschen** Landes ist zugleich **deutscher** Reichsangehöriger (**nicht** "*unmittelbarer Reichsangehöriger*" aber darauf aufbauend!).
 
 > II. Jeder Deutsche **Staatsbürger** (unmittelbarer Reichsbürger, j.F.) hat in jedem **deutschen** Lande des **Deutschen** Reichs (Art. 2 WRV u. Art. 116 I GG, ohne "e") die gleichen Rechte und Pflichten wie die **deutschen** Angehörigen des **deutschen** Landes selbst.
 
