@@ -1,11 +1,11 @@
-### **1. Einführung: Historische Perspektive und Kontext**
+## **1. Einführung: Historische Perspektive und Kontext**
 
 ---
 
-#### Wo kommen Wir her, wer sind Wir und wo wollen Wir hin?
+### Wo kommen Wir her, wer sind Wir und wo wollen Wir hin?
 
 
-##### Von den Wiener Bestimmungen 1815/20 über das BuStAG von 1870 bis zur Bundesverfassung von 1871
+#### Von den Wiener Bestimmungen 1815/20 über das BuStAG von 1870 bis zur Bundesverfassung von 1871
 
 
 Der Beschluss vom 8. Juni 1820 erklärte die Schlussakte zum **Grundgesetz des Deutschen Bundes**. Ziel war seinerzeit die Sicherung der Unabhängigkeit der deutschen Staaten, die Verlässlichkeit der Bundesakte von 1815 und die Implementierung dauerhafter Friedens- und Sicherheitsmechanismen. Der Grundstein für einen ewigen Bund wurde 1815 gelegt, mit einem Fokus auf rechtliche Gleichheit und wechselseitigen Schutz.
@@ -33,7 +33,7 @@ Um die Umstände und den aufrichtigen Wunsch hinter einem europäischen Friede 1
 
 ---
 
-##### Übergang zum **RuStAG 1913** und die rechtlichen Verschiebungen.
+#### Übergang zum **RuStAG 1913** und die rechtlichen Verschiebungen.
 
 Das **RuStAG 1913** kann als bedeutender Wendepunkt betrachtet werden, der sowohl föderale als auch zentralistische Prinzipien vereinte, jedoch bewusst sichtbar verdeckt eine Perspektive hin zur Vereinheitlichung des Reichs und der Schwächung der föderalistischen Struktur eröffnete. Das Gesetz zeigte die fortschreitende Entwicklung juristischer und politischer Macht, welche die Balance zwischen den Bundesstaaten und dem Bund noch als Reich zugunsten des Letzteren verschob. Der Zusatzstatus der Bundesangehörigkeit, der im BuStAG 1870 mit "positiver Jurisdiktion" geschaffen wurde, verblieb im **RuStAG 1913** in reduziertem Umfang. Die ohnehin flagrante Konstruktion "*Deutscher ist*", der die "*unmittelbaren Reichsangehörigkeit*" besitzt, wo doch das RuStAG eindeutig Angehörigkeiten adressiert, schwächte die Bindungen an die Bundesstaaten deutlich, was später als Grundlage für Reichsbürgergesetze im Dritten Reich diente. 
 
@@ -64,9 +64,9 @@ Ironie der Geschichte: Das RuStAG zielte darauf ab, die Zentralisierung des deut
 ---
 
 
-##### Auswirkungen durch Versailler Vertrag (VV), **WRV 1919** und **GG 1949** auf Deutschland (Art. 23, 116 GG a.F. u. n.F.)
+#### Auswirkungen durch Versailler Vertrag (VV), **WRV 1919** und **GG 1949** auf Deutschland (Art. 23, 116 GG a.F. u. n.F.)
 
-Wie wurde Artikel 278 VV verstanden und wie umgesetzt? [Anmerkung]
+##### Wie wurde Artikel 278 VV verstanden und wie umgesetzt? [Anmerkung]
 
 Artikel 278.
 > Deutschland verpflichtet sich, die neue Staatsangehörigkeit [RuStAG UR, Art. 110 I Sz. 2 WRV, RGBl. I 1934 S. 85, Art. 16 I GG], die von seinen Angehörigen gemäß den Gesetzen der alliierten und assoziierten Mächte und gemäß den Entscheidungen der zuständigen Behörden dieser Mächte, sei es auf dem Wege der Einbürgerung, sei es auf Grund einer Vertragsbestimmung etwa erworben ist oder erworben wird, anzuerkennen und auf Grund der neuerworbenen Staatsangehörigkeit [RuStAG UR, Art. 110 II WRV, RGBl. 1935 S. 1146, Art. 116 I GG nur wenn Art. 16 I GG nachgewiesen s. UR n. § 30 I StAG] diese Reichsangehörigen [Art. 3 I BVerf. iVm BuStAG, RuStAG UR, Art. 110 I Sz. 1 WRV, Art. 16 I GG] in jeder Richtung von jeder Pflicht gegenüber ihrem ursprünglichen föderalen Heimatstaate [Art. 1-3 BVerf. iVm BuStAG, bei Nachweis n. RuStAG UR, Art. 110 I Sz. 1 WRV, Art. 116 II GG] entbinden.
@@ -80,7 +80,7 @@ Tatsächlich ist Artikel 278 VV unpräzise formuliert, da er sich rein technisch
 
 Der [Artikel 278 VV](https://github.com/Znih/Znih/blob/main/Versailler-Unfrieden-1919-1925.md) war ein Instrument zur Umsetzung territorialer und völkerrechtlicher Veränderungen, basierend auf den zentralistischen Regelungen des RuStAG 1913. Der Wechsel von föderaler Reichsangehörigkeit (BuStAG 1870) zur "*unmittelbaren Reichsangehörigkeit*" (ius soli) führte zu Missverständnissen und juristischen Konflikten. Die zentrale Auslegung und Umsetzung führte zur Schwächung des föderalen Systems. Rechte auf Bundesstaatszugehörigkeit verloren ihre Bedeutung. Die Unterscheidung zwischen zentralistischer und föderaler Staatsangehörigkeit bleibt ein konfliktreiches Thema. Erst Art. 116 II GG versuchte, diese Balance teils wiederherzustellen. Artikel 278 VV greift tief in den Wandel deutscher Staats- und Föderalstrukturen ein. Sein Bezug zum RuStAG 1913 betont eine zentralistische Perspektive, die historische föderale Grundsätze weiter schwächte und zunächst nur Zentralisierung förderte.
 
-##### Weimarer Reichsverfassung (WRV)
+#### Weimarer Reichsverfassung (WRV)
 
 [Artikel 110 I u. II WRV](https://github.com/Znih/Znih/blob/main/19190811_Weimarer-Reichsverfassung_WRV.md) v. 1919:
 > I. Die Staatsangehörigkeit im Reiche und in den Ländern wird nach den Bestimmungen eines Reichsgesetzes erworben und verloren. Jeder Angehörige eines Landes ist zugleich Reichsangehöriger.
@@ -97,19 +97,29 @@ Mit "*Staatsangehörigkeit im Reiche*" können nur die Bundesstaaten gemeint sei
 
 Mit "*Jeder Angehörige eines Landes ist zugleich Reichsangehöriger.*" wurde der ehemalige deutsche Staatsangehörige in einem Bundesstaate (§ 1 BuStAG u. Art. 3 I BVerf. 1871, Art. 110 I Sz. 1 WRV, Art. 116 II GG) zu einem quasi "*deutschen unmittelbaren Reichsangehörigen*", was nicht selten tatsächlich so in Pässe gestempelt wurde. Tatsächlich wurde eine juristische Fiktion einer "***deutschen Reichsangehörigkeit***" entsprechend Art. 278 VV konstruiert, ohne daß es einer der 80 Millionen Deutschen erkennen oder gar verstehen konnte. Bis in die Gegenwart mit schwersten Folgen auch für heutige Nachkommen. Diese "***deutsche Reichsangehörigkeit***" baute auf die "*nur noch*" verbliebene "***unmittelbare Reichsangehörigkeit***" (UR) aus dem RuStAG 1913 auf.
 
-##### **Original und Rekonstruktionsansatz**
+#### **Original und Rekonstruktionsansatz Art. 110 WRV**
 
-Die Passage "Staatsangehörigkeit im Reiche und in den Ländern" deutet auf eine differenzierte Systematik hin, bei der Föderalismus (Bundesstaat angelehnt an BuStAG § 1 von 1870) erhalten bleiben sollte. Die Rekonstruktion hebt explizit die "*deutschen Länder*" gemäß Art. 2 WRV hervor, auch wenn dies im Originaltext nicht wörtlich auftaucht. Somit geht die Rekonstruktion über reine Textauslegung hinaus und deckt die verfassungsrechtliche Zielsetzung auf. Der Begriff "deutsche Reichsangehörigkeit" wurde, durch Art. 278 VV und das RuStAG 1913 rechtlich untermauert und zielte auf eine Vereinheitlichung aus Sicht des Zentralstaats ab. Die **"unmittelbare Reichsangehörigkeit"** diente formell als Werkzeug, um die föderalen Strukturen der BuStAG-Zugehörigkeit zu überwinden.
+Die Passage "*Staatsangehörigkeit im Reiche und in den Ländern*" deutet auf eine differenzierte Systematik hin, bei der Föderalismus (Bundesstaat angelehnt an BuStAG § 1 von 1870) erhalten bleiben sollte. Die Rekonstruktion hebt explizit die "*deutschen Länder*" gemäß Art. 2 WRV hervor, auch wenn dies im Originaltext nicht wörtlich auftaucht. Somit geht die Rekonstruktion über reine Textauslegung hinaus und deckt die verfassungsrechtliche Zielsetzung auf. Der Begriff "*deutsche Reichsangehörigkeit*" wurde, durch Art. 278 VV und das RuStAG 1913 rechtlich untermauert und zielte auf eine Vereinheitlichung aus Sicht des Zentralstaats ab. Die **"unmittelbare Reichsangehörigkeit"** diente formell als Werkzeug, um die föderalen Strukturen der BuStAG-Zugehörigkeit zu überwinden.
 
 Die völkerrechtliche Verpflichtung aus dem Versailler Vertrag erschwerte die juristisch präzise Wiederherstellung der föderalen Struktur. Stattdessen entstand eine "juristische Fiktion", die föderale Rechte zugunsten des zentralisierten Staates drastisch schwächte. Dies führte in der Bevölkerung u.a. sukzessive zu einem Verlust des rechtlichen Verständnisses von Bundesstaatlichkeit. Noch heute zeigen sich Auswirkungen, indem diese veränderte Sichtweise auf Staatsbürgerschaft und Föderalität in der Struktur der Bundesrepublik (Art. 116 II GG) undurchsichtig bleibt und nachfolgenden Generationen Probleme bereitet (z. B. Herkunftsrechte, Bodenrechte, Heimatrechte).
 
-Der juristische Übergang vom föderalen Modell der BuStAG-Zugehörigkeit hin zur zentralistischen "unmittelbaren Reichsangehörigkeit" im Kontext von WRV, Art. 278 VV und RuStAG 1913 zeigt tiefgreifende rechtliche, gesellschaftspolitische und individuelle Auswirkungen. Es wird deutlich, warum diese juristische Transformation und die daraus folgende technische "Fiktion" bis heute schwer verständlich ist. Das konstruierte Zentralstaatsbild verwässerte die föderalen Prinzipien, und erst durch gezielte rechtliche Argumentation, wie in obiger Analyse, können diese Entwicklungen nachvollzogen werden.
+Der juristische Übergang vom föderalen Modell der BuStAG-Zugehörigkeit hin zur zentralistischen "*unmittelbaren Reichsangehörigkeit*" im Kontext von WRV, Art. 278 VV und RuStAG 1913 zeigt tiefgreifende rechtliche, gesellschaftspolitische und individuelle Auswirkungen. Es wird deutlich, warum diese juristische Transformation und die daraus folgende technische "Fiktion" bis heute schwer verständlich ist. Das konstruierte Zentralstaatsbild verwässerte die föderalen Prinzipien, und erst durch gezielte rechtliche Argumentation, wie in obiger Analyse, können diese Entwicklungen nachvollzogen werden.
 
 Das RuStAG 1913 diente als Grundlage für eine zentrale, unmittelbare Reichsangehörigkeit. Es ersetzte faktisch die föderale Struktur, welche das BuStAG 1870 etabliert hatte. Auch Artikel 278 VV knüpft an das RuStAG 1913 an, wodurch der Bezug zur ursprünglichen "*mittelbaren Reichsangehörigkeit*" unter den föderalen Bundesstaaten verloren ging. In Pässen wurde der Status "*unmittelbare Reichsangehörigkeit*" **schöpferisch** häufig vermerkt, was implizit ausdrückte, dass die föderale (mittelbare) Herkunft irrelevant wurde. Diese zentralistische Umdeutung wurde jedoch verschleiert, sodass weder Bürger noch die Mehrzahl der Juristen die tiefgreifenden Änderungen auf Anhieb erkannten. Mit den zentralistischen Regelungen des RuStAG 1913 wurden die föderalen Rechte und Zugehörigkeiten der Bundesstaaten (BuStAG) zunehmend irrelevanter. Artikel 278 VV förderte diese Entwicklung, indem er Deutschland zur einheitlichen Anerkennung zentralistisch definierter Staatsangehörigkeiten verpflichtete.
 
 Die **juristische Fiktion** der "*deutschen Reichsangehörigkeit*" führte zu Missverständnissen und machte die föderalen Ursprünge unsichtbar. Bis heute sind die rechtlichen Konsequenzen dieses Übergangs in den Artikeln 116 I und II GG nachwirkend spürbar.
 
-##### Bonner Grundgesetz 1949 (GG)
+
+#### Nur noch eine deutsche Staatsangehörigkeit 1934
+
+RGBl. I 1933 S. 480 u. RGBl. I 1934 S. 85
+
+
+#### Nazifizierung des unmittelbaren Reichsbürgers 1935
+
+Aus dem "Deutschen Reichsbürger" nach Art. 110 II WRV auf Basis UR wurde ab 15.09.1935 der nazistische "Deutsche Reichsbürger" nach RGBl. I 1935 S. 1146 auf Basis UR, den nicht jeder "deutsche Staatsangehöriger" (1934, Art. 16 I GG) erhielt, identisch in Logik und Methode dem heutigen "Deutschen Staatsbürger nach Art. 116 I GG, der via §§ 30 I, 33 I StAG kontrollierbar blieb.
+
+#### Bonner Grundgesetz 1949 (GG)
 
 
 Mit Art. 116 GG (1949) wurden gewisse föderale Strukturen teilweise zurückgeführt, jedoch nicht vollständig reaktiviert. Insbesondere Artikel 116 II GG bietet Anhaltspunkte, die ursprünglich föderalen Rechte wiederherzustellen. Artikel 278 VV wird in der juristischen Praxis selten auf föderale Prinzipien zurückgelesen, sondern weiterhin in zentralstaatlichen Kontexten interpretiert. Der tiefgreifende Wandel im Staatsangehörigkeitsrecht durch Artikel 278 VV und das RuStAG 1913 markiert die Schwächung der föderalen Bundesstaatlichkeit zugunsten eines zentralistischen Deutschen Reichs (1919-1945). Diese Entwicklung wirkte sich nachhaltig auf die Verrechtlichung individueller Staatsbürgerschaftsrechte und die föderale Struktur des Staates aus. 
