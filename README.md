@@ -77,7 +77,8 @@ https://youtu.be/OzII7KoLMAM
 ![Screenshot_20251221_181308.jpg](https://github.com/user-attachments/assets/03be9ea1-90a3-4d8d-86d7-14ba7fc8ef12)
  https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251221_Friede-1815-1820-1871-2025_Artikel-144-GG_Schuppen-oder-Haus.md
 
-https://github.com/Znih/Znih/tree/main/Copilot-Chat-KI_Sitzungen
+https://github.com/Znih/Znih/tree/main
+
 
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251219_Friede-1815-1820-1871-2025_Art-116-GG.md
 
