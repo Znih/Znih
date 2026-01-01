@@ -90,10 +90,15 @@ Der [Artikel 278 VV](https://github.com/Znih/Znih/blob/main/Versailler-Unfrieden
 
 > II. Jeder Deutsche hat in jedem Lande des Reichs die gleichen Rechte und Pflichten wie die Angehörigen des Landes selbst.
 
-Artikel 110 I u. II WRV Rekonstruktionsversuch fehlender Wörter bei Sinnerhalt:
+Artikel 110 I u. II WRV Rekonstruktionsversuch (technisch) fehlender Wörter bei Sinnerhalt:
 > I. Die **deutsche** Staatsangehörigkeit im **Deutschen** Reiche (im Bunde, Art. 3 I BVerf. 1871, Art. 116 ii GG, mit "e") und in den **deutschen** Ländern (Art. 2 WRV) wird nach den Bestimmungen eines Reichsgesetzes (RuStAG 1913) erworben und verloren. Jeder **deutsche** Angehörige eines **deutschen** Landes ist zugleich **deutscher** Reichsangehöriger (**nicht** "*unmittelbarer Reichsangehöriger*"!).
 
-> II. Jeder Deutsche **Staatsbürger** (unmittelbarer Reichsbürger, j.F.) hat in jedem **deutschen** Lande des **Deutschen** Reichs (Art. 2 WRV u. Art. 116 I GG, ohne "e") die gleichen Rechte und Pflichten wie die deutschen Angehörigen des **deutschen** Landes selbst.
+> II. Jeder Deutsche **Staatsbürger** (unmittelbarer Reichsbürger, j.F.) hat in jedem **deutschen** Lande des **Deutschen** Reichs (Art. 2 WRV u. Art. 116 I GG, ohne "e") die gleichen Rechte und Pflichten wie die **deutschen** Angehörigen des **deutschen** Landes selbst.
+
+
+Mit "Staatsangehörigkeit im Reiche" können nur die Bundesstaaten gemeint sein und "in den Ländern" mußte die "deutschen Länder" aus Art. 2 WRV 1919 gemeint sein, doch es steht nicht geschrieben und selbst KIs versagen. Es durfte nie erkannt werden. Volljuristen indes wussten immer, daß schon "Reiche" der Bunde und "Reichs" das Dritte Reich von 1919 bis 1945 (Art. 2 WRV u. Art. 116 I GG) zu erkennen und zu verstehen war.
+
+Mit "Jeder Angehörige eines Landes ist zugleich Reichsangehöriger." wurde der ehemalige deutsche Staatsangehörige in einem Bundesstaate (§ 1 BuStAG u. Art. 3 I BVerf. 1871, Art. 110 I Sz. 1 WRV, Art. 116 II GG) zu einem quasi "deutschen unmittelbaren Reichsangehörigen", was nicht selten tatsächlich so in Pässe gestempelt wurde. Tatsächlich wurde eine juristische Fiktion einer "deutschen Reichsangehörigkeit" entsprechend Art. 278 VV konstruiert, ohne daß es einer der 80 Millionen Deutschen erkennen oder gar verstehen konnte. Bis in die Gegenwart mit schwersten Folgen auch für heutige Nachkommen. Diese "deutsche Reichsangehörigkeit" baute auf die "nur noch" verbliebene "unmittelbare Reichsangehörigkeit" (UR) aus dem RuStAG 1913 auf.
 
 
 ---
