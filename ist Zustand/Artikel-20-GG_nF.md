@@ -9,6 +9,10 @@
 > (4) Gegen jeden, der es unternimmt, diese Ordnung zu beseitigen, haben alle Deutschen das Recht zum Widerstand, wenn andere Abhilfe nicht möglich ist.
 
 ---
+
+**Znih:**
+Analyse des Artikels 20 GG ohne Filter und putativ hM sondern dem Wortlaut nach und möglichst dem Grundgedanken nach.
+
 ---
 
 **Copilot:**
