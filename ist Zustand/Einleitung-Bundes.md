@@ -140,8 +140,6 @@ Artikel 116 des Grundgesetzes beschreibt die Kriterien für die deutsche Staatsa
 Artikel 116 bezieht sich auf Bund 1867/71 und Reich 1919/33 soweit „fortbestehendem Reich“ geschrieben steht ("Dritten ReichEs", Art. 116 I GG), was politische und rechtliche Diskussionen um die Bestandteile des „Deutschen Volkes“ nach den nationalsozialistischen Verbrechen beeinflusst. Der Fortbestand des Reiches unter völkerrechtlicher Betrachtung gab der Bundesrepublik eine Legitimation, jedoch ohne explizit eine neue Souveränität festzulegen. Die Definition „Deutscher“ im Sinne des Grundgesetzes schließt Flüchtlinge und Vertriebene ein, die nach 1937 aus dem „Deutschen Reich“ stammten. Diese Herleitung basiert vollständig auf der Annahme, dass das Deutsche Reich als Völkerrechtssubjekt weiterexistiert, was wiederum auf rechtlich-politischen Grundlagen beruht.
 
 
-https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FArtikel-20-GG_nF.md
-
 ---
 
 #### **„Deutscher“ und seine normative Bedeutung**
@@ -174,6 +172,10 @@ Diese Dynamik wird nicht explizit durch andere Grundgesetzartikel aufgeklärt, w
 
 
 ---
+
+**Znih:**
+Köpft man das EU (alias "4. Reich") sui generis Gebilde, so verliert auch das Berlin-Bonner Grundgesetz v. 1992 mWz 01.01.1993 sukzessive (schnell) jede Wirkung aus Artikel 23 n.F. ohne auf den Bonner Artikel 23 GG a.F. ("Geltungsbereich des Grundgesetzes" als demokratische Einschränkung des Art. 116 I GG) zurück greifen zu können, womit ein zusätzlich zum 03.10.1990 gestärkter Artikel 116 I GG (Reich) verbliebe, bevor dies weitere Effekte auslösen dürfte. Hinter Artikel 116 II GG (Art. 1-3 BVerf.) versteckte Berlin-Bonn (1999-1992 ff.) den föderalen Bund zugunsten des Dritten Reichs (Art. 2 WRV, Art. 116 I GG), was in Kürze sichtbar werden wird (besser Art. 146 GG a.F. bevor Art. 139 GG notwendig wird, Selbstbestimmt, souverän). Die "Schuldnergenerationen" aus 1924 sollen erneute "Schuldnergenerationen" (Ukraine, EU, Target II) werden, was für Art. 16 I GG gelten soll aber tatsächlich Art. 116 I GG (Art. 2 WRV) betrifft. Nicht Art. 116 II GG (Art. 1-3 BVerf. v. 1871 im Rechtstand v. 28.10. 1918 im Einklang HLKO, im Reichsgebietsstand v. 31.12.1937, Art. 2 WRV u. Art. 116 I GG). https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FArtikel-20-GG_nF.md
+
 ---
 
 ### Aktualisierte Analyse von Artikel 20 GG unter Berücksichtigung der Differenzierung „Deutsche“ nach Art. 116 I GG und Art. 16 I GG
