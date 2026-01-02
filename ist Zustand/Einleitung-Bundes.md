@@ -1,3 +1,11 @@
+https://github.com/user-attachments/assets/ab354970-396e-4fc4-af63-d5cd24933098
+
+Die EU (sui generis, "*4. Reich*" vs. Europa) dient dem Krieg ("*Wir töten für Wotan*" Asov **MD**, NATOw = **OTAN**), nicht den Familien und den Nationen in friedlicher Wohlfahrt. So Orban sinngemäß.
+
+https://youtu.be/rEGHd8XpJI8
+
+---
+
 ## **1. Einführung: Historische Perspektive und Kontext**
 
 ---
