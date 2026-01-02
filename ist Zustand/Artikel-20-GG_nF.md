@@ -218,3 +218,7 @@ Artikel 20 GG weist in seiner aktuellen Form und unter Berücksichtigung der Kom
 
 ---
 
+## Es ist schlimmer! "*Nazismus im Grundgesetz*" 1949 und 1990!
+
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251205_Tag-der-Freiwilligen_Nazismus-im-GG.md
+
