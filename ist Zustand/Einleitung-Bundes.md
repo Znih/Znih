@@ -137,6 +137,9 @@ Artikel 116 des Grundgesetzes beschreibt die Kriterien für die deutsche Staatsa
 
 Artikel 116 bezieht sich auf Bund 1867/71 und Reich 1919/33 soweit „fortbestehendem Reich“ geschrieben steht ("Dritten ReichEs", Art. 116 I GG), was politische und rechtliche Diskussionen um die Bestandteile des „Deutschen Volkes“ nach den nationalsozialistischen Verbrechen beeinflusst. Der Fortbestand des Reiches unter völkerrechtlicher Betrachtung gab der Bundesrepublik eine Legitimation, jedoch ohne explizit eine neue Souveränität festzulegen. Die Definition „Deutscher“ im Sinne des Grundgesetzes schließt Flüchtlinge und Vertriebene ein, die nach 1937 aus dem „Deutschen Reich“ stammten. Diese Herleitung basiert vollständig auf der Annahme, dass das Deutsche Reich als Völkerrechtssubjekt weiterexistiert, was wiederum auf rechtlich-politischen Grundlagen beruht.
 
+
+https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FArtikel-20-GG_nF.md
+
 ---
 
 #### **„Deutscher“ und seine normative Bedeutung**
