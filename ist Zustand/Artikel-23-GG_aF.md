@@ -1,6 +1,8 @@
-Art. 23 [Geltungsbereich des Grundgesekes]
+## Art. 23 [Geltungsbereich des Grundgesetzes]
 
-Dieses Grundgesek gilt zunächst im Gebiete der Länder Baden, Bayern, Bremen, Groß-Berlin, Hamburg, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Schleswig-Holstein, Württemberg-Baden und Württemberg-Hohenzollern. In anderen Teilen Deutschlands ist es nach deren Beitritt in Kraft zu sehen.
+> Dieses Grundgesetz gilt zunächst im Gebiete der Länder Baden, Bayern, Bremen, Groß-Berlin, Hamburg, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Schleswig-Holstein, Württemberg-Baden und Württemberg-Hohenzollern. In anderen Teilen Deutschlands ist es nach deren Beitritt in Kraft zu setzen.
+
+Köpft man das EU (alias "4. Reich") sui generis Gebilde, so verliert auch das Berlin-Bonner Grundgesetz v. 1992 mWz 01.01.1993 sukzessive (schnell) jede Wirkung aus Artikel 23 n.F. ohne auf den Bonner Artikel 23 GG a.F. ("Geltungsbereich des Grundgesetzes" als demokratische Einschränkung des Art. 116 I GG) zurück greifen zu können, womit ein zusätzlich zum 03.10.1990 gestärkter Artikel 116 I GG (Reich) verbliebe, bevor dies weitere Effekte auslösen dürfte. Hinter Artikel 116 II GG (Art. 1-3 BVerf.) versteckte Berlin-Bonn (1999-1992 ff.) den föderalen Bund zugunsten des Dritten Reichs (Art. 2 WRV, Art. 116 I GG), was in Kürze sichtbar werden wird (besser Art. 146 GG a.F. bevor Art. 139 GG notwendig wird, Selbstbestimmt, souverän). Die "Schuldnergenerationen" aus 1924 sollen erneute "Schuldnergenerationen" (Ukraine, EU, Target II) werden, was für Art. 16 I GG gelten soll aber tatsächlich Art. 116 I GG (Art. 2 WRV) betrifft. Nicht Art. 116 II GG (Art. 1-3 BVerf. v. 1871 im Rechtstand v. 28.10. 1918 im Einklang HLKO, im Reichsgebietsstand v. 31.12.1937, Art. 2 WRV u. Art. 116 I GG).
 
 ---
 
