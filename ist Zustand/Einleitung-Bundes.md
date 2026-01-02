@@ -4,6 +4,8 @@ Die EU (sui generis, "*4. Reich*" vs. Europa) dient dem Krieg ("*Wir töten für
 
 https://youtu.be/rEGHd8XpJI8
 
+mwN.: https://github.com/Znih/Znih/discussions/16#discussioncomment-15390472
+
 ---
 
 ## **1. Einführung: Historische Perspektive und Kontext**
