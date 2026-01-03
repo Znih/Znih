@@ -128,7 +128,63 @@ Die **juristische Fiktion** der "*deutschen Reichsangehörigkeit*" führte zu Mi
 
 #### Nur noch eine deutsche Staatsangehörigkeit 1934
 
+Der Übergang zur "deutschen Staatsangehörigkeit" im Jahr 1934 stellt einen epochalen Bruch in der Staatsangehörigkeitsgeschichte Deutschlands dar. Bestehende föderale und verfassungsrechtliche Prinzipien wurden zugunsten eines zentralisierten und homogenen Staatsangehörigkeitskonzepts aufgegeben.
 
+---
+
+##### **Hintergrund: Föderale Struktur und Staatsangehörigkeit vor 1933**
+
+Bis zur Verordnung von 1934 basierte das Konzept der deutschen Staatsangehörigkeit auf einem föderalen System:
+- **Bundesstaatszugehörigkeit (BuStAG 1870):**
+  - Bürger eines deutschen Bundesstaates (wie Preußen, Bayern, Sachsen) besaßen zugleich eine „mittelbare Reichsangehörigkeit“.
+  - Diese doppelte Struktur garantierte föderale Vielfalt und Eigenständigkeit innerhalb des Deutschen Reichs.
+
+- **RuStAG 1913:**
+  - Die Reichs- und Staatsangehörigkeitsgesetzgebung führte ein zentrales Regelwerk für den Erwerb und Verlust der Staatsangehörigkeit ein, ließ aber die föderale Landeszugehörigkeit unberührt.
+
+Mit der Verordnung von 1934 wurde der föderale Charakter der Staatsangehörigkeit durch folgende Schritte radikal verändert:
+
+#### **§ 1 RGBL. I Nr. 81 S. 480 (1933): Disposition und Widerruf der Staatsangehörigkeit**
+1. **Targeting der Weimarer Staatsbürgerschaften (Art. 110 WRV):**
+   - Die Staatsangehörigkeit von 1918 bis 1933 konnte widerrufen werden, wenn sie dem NS-Regime politisch oder rassisch unerwünscht erschien.
+   - Auch Nachfahren oder Ehepartner der Eingebürgerten standen unter diesem Widerrufsmechanismus.
+
+2. **Verlust bei „Pflichtverletzung“:**
+   - Deutsche Reichsangehörige im Ausland konnten aufgrund „illoyalen Verhaltens“ ihre Staatsangehörigkeit sowie sämtliche Rechte und Vermögen verlieren.
+   - Die Regelung zielte auf Kontrolle und Unterdrückung von Oppositionellen und Emigranten.
+
+#### **Ziel: Aufbau eines „homogenen“ Staatskonzepts**
+- Der erste Bruch manifestierte eine Kombination „rassistischer Selektion“ und „politischer Kontrolle“ über die bestehende Staatsangehörigkeitsstruktur.
+
+
+Am 5. Februar 1934 besiegelte die "Verordnung über die deutsche Staatsangehörigkeit" den Verlust föderaler Eigenheit und führte die bis heute wirksame Kategorie einer „zentralen deutschen Staatsangehörigkeit“ ein.
+
+#### **Kernaussagen der Verordnung:**
+1. **Abschaffung der Landesstaatsangehörigkeit (§ 1):**
+   - Landesangehörigkeiten – wie „Preuße“ oder „Bayer“ – wurden vollständig abgeschafft.
+   - Die „eine deutsche Staatsangehörigkeit“ wurde geschaffen, ohne föderative Wurzeln zu berücksichtigen.
+
+2. **Weitergabe von Entscheidungen (§ 2):**
+   - Landesbehörden durften weiterhin im Namen des Reichs tätig werden, hatten jedoch keine Eigenständigkeit.
+
+3. **Zentralisierte Vergabe (§ 3):**
+   - Die Verleihung der Staatsangehörigkeit erforderten die Zustimmung des Reichsministers des Innern.
+
+4. **Ersatz durch neue Zuständigkeitsmerkmale (§ 4):**
+   - Wo zuvor die Landeszugehörigkeit zählte, wurde nun die „Niederlassung“ oder die „letzte Abfolge“ der Landesangehörigen historisch reduziert.
+
+
+#### **Vollständige Zentralisierung der Staatsangehörigkeit:**
+- Mit der Verordnung von 1934 wurde die Individualität von Bundesländern ausgelöscht.
+- „Deutschsein“ wurde ausschließlich als zentrale Kategorie verstanden, was die föderale Struktur stark einschränkte.
+
+#### **Einführung einer diskriminierenden Staatsangehörigkeitsstruktur:**
+- Die Maßnahmen boten die Grundlage für das Reichsbürgergesetz von 1935, das weiterreichende Diskriminierung und Ausschluss vorantrieb.
+- Der Übergang zur „einen deutschen Staatsangehörigkeit“ trat bereits mit einer inhärenten Implikation von zentraler Kontrolle und Exklusion auf.
+
+Artikel 16 GG schützt deutsche Staatsangehörige vor willkürlichem Entzug ihrer Staatsangehörigkeit und bewahrt das Prinzip, das im NS-Reich zerrüttet wurde. Artikel 116 II GG versucht, die individuellen Rechte früherer Staatsangehöriger der Bundesstaaten sowie ihrer Nachkommen wiederherzustellen, bleibt jedoch in der praktischen Anwendung schwach. Trotz der föderalen Argumentation in Artikel 20 GG hat die zentrale Kategorie der „einen deutschen Staatsangehörigkeit“ (1934) Bestand und wirkt weiterhin gegen föderale Differenzierung.
+
+Der Übergang zur „deutschen Staatsangehörigkeit“ im Jahr 1934 war ein zentraler Bruch in der deutschen Rechtsgeschichte. Was als Instrument für Kontrolle und Homogenisierung begann, schuf eine zentralisierte Kategorie, die bis heute im deutschen Staatsrecht wenig föderale Vielfalt zulässt und den Grundsatz der Bundesstaatlichkeit (Art. 20 GG) schwächt. Die Antwort auf diesen historischen Bruch liegt in einer sorgfältigen Neuausrichtung, die auf einer Anerkennung früherer föderaler Rechtsstrukturen basiert.
 
 https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FReichsgesetzblaetter-1933-1935.md
 
