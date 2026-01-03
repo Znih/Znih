@@ -221,9 +221,12 @@ Aus dem "Deutschen" Reichsbürger nach Art. 110 II WRV auf Basis UR (RuStAG) wur
 
 #### Bonner Grundgesetz 1949 (GG)
 
-https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FArtikel-16-GG.md
 
-Art. 20 GG https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FArtikel-20-GG_nF.md
+[Art. 16 GG](https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FArtikel-16-GG.md)
+
+[Art. 20 GG](https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FArtikel-20-GG_nF.md)
+
+Die "Deformation" der Bundesstaatlichkeit zeigt sich darin, dass Art. 20 I GG die Existenz eines föderalen, demokratischen Systems behauptet, aber die iterativen Verfassungsentwicklungen (RuStAG, RGBl. I 1934 u. 1935) eine systematische Zentralisierung fördern. Das Fehlen jeglicher "Bundesangehörigkeit" gemäß BuStAG 1870 (Art. 116 II GG u. selbst n. Art. 110 WRV) und die ausschließliche Konzentration auf die „nur noch eine deutsche Staatsangehörigkeit“ (RGBl. I 1934 S. 85, Art. 16 I GG) widerspricht der föderalen Logik. Im Artikel 20 II GG bleibt unklar, wer das "Volk" im Sinne des Artikels 116 I GG ist, da sich Art. 16 I GG auf "deutsche Staatsangehörige" bezieht, während Art. 116 I GG nur "Deutsche" berücksichtigt. Der mögliche Deutsche Bundesbürger aus Art. 116 II GG wird nicht berücksichtigt. Der Begriff "Bundesstaat" müsste im Rahmen des Artikels durch föderale Landesvölker konkretisiert werden. Dr. v. Rönne würde daher wohl sagen, es fehlt dem "Bundes-Staat" und selbst dem "Bundesstaat" was beiden "eigenthümlich" wäre. Der zentrale Bezug auf Recht und Gesetz im Artikel 20 III GG als Resultat verfassungsmäßiger Ordnung bleibt ambivalent. Vor allem wo es um die Urheberschaft des „Rechtes“ geht. Mit Bezug auf die Weimarer Reichsverfassung oder frühere Normen wie das BuStAG könnte „Recht und Gesetz“ durch föderale Prinzipien und Bundesstaatlichkeit geschärft werden. Fokus liegt also strikt auf 1934/35 statt 1918/19. Artikel 20 IV GG beschreibt Widerstandsrecht nicht für alle (!Art. 16 I u. !Art. 116 II GG). Obwohl „alle Deutschen“ (Art. 116 I GG) das Widerstandsrecht genießen, schließt diese Definition durch den Bezug auf Staatsangehörigkeitsrecht in Art. 16 I GG faktisch starke Widersprüche ein. Der Statusverlust historischer Bundesangehöriger wurde manifestiert. Durch den Ersatz genealogischer Bindungen (BuStAG 1870) mit zentralistischer Definitionsmacht (1934/35) wird das Widerstandsrecht auf rein reichszentrische Kategorien begrenzt. Nur "Deutsche" im Sinne Art. 116 I GG (Reich 1937) und keine "deutschen Staatsangehörigen" (Art. 16 I GG), keine "deutschen Reichsangehörigen" (Art. 110 WRV), keine Bundesangehörigen (BuStAG, Art. 3 I BVerf.) und keine "Deutschen" Bundesbürger (Art. 3 II BVerf., Art. 116 II GG). 
 
 
 Art. 23 GG a.F. 
