@@ -229,17 +229,7 @@ Aus dem "Deutschen" Reichsbürger nach Art. 110 II WRV auf Basis UR (RuStAG) wur
 Die "Deformation" der Bundesstaatlichkeit zeigt sich darin, dass Art. 20 I GG die Existenz eines föderalen, demokratischen Systems behauptet, aber die iterativen Verfassungsentwicklungen (RuStAG, RGBl. I 1934 u. 1935) eine systematische Zentralisierung fördern. Das Fehlen jeglicher "Bundesangehörigkeit" gemäß BuStAG 1870 (Art. 116 II GG u. selbst n. Art. 110 WRV) und die ausschließliche Konzentration auf die „nur noch eine deutsche Staatsangehörigkeit“ (RGBl. I 1934 S. 85, Art. 16 I GG) widerspricht der föderalen Logik. Im Artikel 20 II GG bleibt unklar, wer das "Volk" im Sinne des Artikels 116 I GG ist, da sich Art. 16 I GG auf "deutsche Staatsangehörige" bezieht, während Art. 116 I GG nur "Deutsche" berücksichtigt. Der mögliche Deutsche Bundesbürger aus Art. 116 II GG wird nicht berücksichtigt. Der Begriff "Bundesstaat" müsste im Rahmen des Artikels durch föderale Landesvölker konkretisiert werden. Dr. v. Rönne würde daher wohl sagen, es fehlt dem "Bundes-Staat" und selbst dem "Bundesstaat" was beiden "eigenthümlich" wäre. Der zentrale Bezug auf Recht und Gesetz im Artikel 20 III GG als Resultat verfassungsmäßiger Ordnung bleibt ambivalent. Vor allem wo es um die Urheberschaft des „Rechtes“ geht. Mit Bezug auf die Weimarer Reichsverfassung oder frühere Normen wie das BuStAG könnte „Recht und Gesetz“ durch föderale Prinzipien und Bundesstaatlichkeit geschärft werden. Fokus liegt also strikt auf 1934/35 statt 1918/19. Artikel 20 IV GG beschreibt Widerstandsrecht nicht für alle (!Art. 16 I u. !Art. 116 II GG). Obwohl „alle Deutschen“ (Art. 116 I GG) das Widerstandsrecht genießen, schließt diese Definition durch den Bezug auf Staatsangehörigkeitsrecht in Art. 16 I GG faktisch starke Widersprüche ein. Der Statusverlust historischer Bundesangehöriger wurde manifestiert. Durch den Ersatz genealogischer Bindungen (BuStAG 1870) mit zentralistischer Definitionsmacht (1934/35) wird das Widerstandsrecht auf rein reichszentrische Kategorien begrenzt. Nur "Deutsche" im Sinne Art. 116 I GG (Reich 1937) und keine "deutschen Staatsangehörigen" (Art. 16 I GG), keine "deutschen Reichsangehörigen" (Art. 110 WRV), keine Bundesangehörigen (BuStAG, Art. 3 I BVerf.) und keine "Deutschen" Bundesbürger (Art. 3 II BVerf., Art. 116 II GG). 
 
 
-Art. 23 GG a.F. 
-
-Art. 116 GG 
-
-
-Mit Art. 116 GG (1949) wurden gewisse föderale Strukturen teilweise zurückgeführt, jedoch nicht vollständig reaktiviert. Insbesondere Artikel 116 II GG bietet Anhaltspunkte, die ursprünglich föderalen Rechte wiederherzustellen. Artikel 278 VV wird in der juristischen Praxis selten auf föderale Prinzipien zurückgelesen, sondern weiterhin in zentralstaatlichen Kontexten interpretiert. Der tiefgreifende Wandel im Staatsangehörigkeitsrecht durch Artikel 278 VV und das RuStAG 1913 markiert die Schwächung der föderalen Bundesstaatlichkeit zugunsten eines zentralistischen Deutschen Reichs (1919-1945). Diese Entwicklung wirkte sich nachhaltig auf die Verrechtlichung individueller Staatsbürgerschaftsrechte und die föderale Struktur des Staates aus. 
-
-Artikel 116 des Grundgesetzes beschreibt die Kriterien für die deutsche Staatsangehörigkeit und Regelungen zur Wiedereinbürgerung unter Berücksichtigung von politisch oder rassistisch motivierten Vergehen während der NS-Zeit. Insbesondere die historischen, politischen und rechtlichen Implikationen des Artikels stehen im Fokus. Das Deutsche Reich hörte 1945 nicht auf zu existieren, sondern wurde lediglich „*handlungsunfähig*“. Diese Sichtweise beruht auf Entscheidungen des Bundesverfassungsgerichts. Die Bundesrepublik Deutschland entstand nicht als Rechtsnachfolger, sondern als „*identische*“ Fortführung des Deutschen Reiches (Art. 116 GG) in einer territorial eingeschränkten Form (Art. 23 GG a.F. iVm Art. 116 I GG). Die Fortsetzung des Reichs als Völkerrechtssubjekt schuf die Basis für den Rückgriff auf Staatsangehörige nach den Grenzen von 1937 (wie in Artikel 116 Absatz 1 GG formuliert).
-
-
-Artikel 116 bezieht sich auf Bund 1867/71 und Reich 1919/33 soweit „fortbestehendem Reich“ geschrieben steht ("Dritten ReichEs", Art. 116 I GG), was politische und rechtliche Diskussionen um die Bestandteile des „Deutschen Volkes“ nach den nationalsozialistischen Verbrechen beeinflusst. Der Fortbestand des Reiches unter völkerrechtlicher Betrachtung gab der Bundesrepublik eine Legitimation, jedoch ohne explizit eine neue Souveränität festzulegen. Die Definition „Deutscher“ im Sinne des Grundgesetzes schließt Flüchtlinge und Vertriebene ein, die nach 1937 aus dem „Deutschen Reich“ stammten. Diese Herleitung basiert vollständig auf der Annahme, dass das Deutsche Reich als Völkerrechtssubjekt weiterexistiert, was wiederum auf rechtlich-politischen Grundlagen beruht.
+https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FArtikel-116-GG_aF.md.
 
 
 ---
@@ -258,65 +248,13 @@ Bundesgesetzbl. I 1955 S. 65, verk. am 25. 2. 1955
 
 ---
 
-### **1. Föderale Ordnung: Bundesstaatlichkeit vs. Zentralisierung**
-#### **1.1 Historischer Anfang und Bundesstaatsprinzip (BuStAG 1870)**
-- Das Bundesstaatsangehörigkeitsgesetz von 1870 (BuStAG) schuf ein föderales System, in dem die Zugehörigkeit zu einem Bundesstaat über die Staatsangehörigkeit vermittelt wurde.
-- Dieses Prinzip betonte die Eigenständigkeit der Bundesstaaten (z. B. Preußen, Bayern) und legte den Grundstein für den Dualismus zwischen einer „mittelbaren Reichsangehörigkeit“ und der föderalen Staatsangehörigkeit.
-  
-#### **1.2 Übergang zur Zentralisierung durch RuStAG 1913**
-- Das Reichs- und Staatsangehörigkeitsgesetz von 1913 führte den zentralisierten Begriff der „Reichsangehörigkeit“ ein.
-- Bereits zu dieser Zeit begann die Schwächung der föderalen Prinzipien zugunsten einer einheitlichen zentralstaatlichen Ordnung.
-
-#### **1.3 Abschaffung der Bundesstaatszugehörigkeiten (1934/35)**
-- Durch die NS-Gesetzgebung (z. B. **RGBl. I 1934 S. 85**) wurde die föderale Struktur weiter aufgelöst, und die „eine deutsche Staatsangehörigkeit“ ersetzt den bisherigen Dualismus vollständig.
-- Diese Entwicklung zeigt eine klare Verschiebung zugunsten eines zentralisierten Modells, das die Länderzugehörigkeit als eigenständige Komponente eliminierte.
-
----
-
-### **2. Die Rolle des Grundgesetzes und der Artikel 116 I/II GG**
-#### **2.1 „Deutscher“ im Sinne des Grundgesetzes – Art. 116 I GG**
-- Der Artikel 116 I GG definiert „Deutscher“ unter Bezugnahme auf das Reichsgebiet von 1937.
-- Der Begriff „Deutscher“ erweitert den Status über die Staatsangehörigkeit hinaus (z. B. durch Aufnahme von Vertriebenen und Volkszugehörigen) und stellt dadurch eine Diskrepanz zur Definition in Art. 16 I GG her, die rein staatsrechtlich zentriert ist.
-
-#### **2.2 Föderale Perspektive – Art. 116 II GG**
-- Dieser Absatz bietet einen Rückgriff auf die frühere föderale Ordnung, indem er die Wiedereinbürgerung ehemaliger staatlicher Zugehörigkeiten (wie im BuStAG) thematisiert.
+Durch die NS-Gesetzgebung (z. B. **RGBl. I 1934 S. 85**) wurde die föderale Struktur weiter aufgelöst, und die „eine deutsche Staatsangehörigkeit“ ersetzt den bisherigen Dualismus vollständig. Diese Entwicklung zeigt eine klare Verschiebung zugunsten eines zentralisierten Modells, das die Länderzugehörigkeit als eigenständige Komponente eliminierte. Der Artikel 116 I GG definiert „Deutscher“ unter Bezugnahme auf das Reichsgebiet von 1937. Der Begriff „Deutscher“ erweitert den Status über die Staatsangehörigkeit hinaus (z. B. durch Aufnahme von Vertriebenen und Volkszugehörigen) und stellt dadurch eine Diskrepanz zur Definition in Art. 16 I GG her, die rein staatsrechtlich zentriert ist. Der Art. 116 II GG bietet einen Rückgriff auf die frühere föderale Ordnung, indem er die Wiedereinbürgerung ehemaliger staatlicher Zugehörigkeiten (wie im BuStAG) thematisiert.
 - In der Praxis bleibt dieser Artikel jedoch oft unbeachtet, wodurch die Möglichkeit, föderale Prinzipien rechtlich wiederherzustellen, beschränkt wird.
 
----
+Die Deklaration eines „demokratischen und sozialen Bundesstaates“ (Art. 20 I GG) gerät in Konflikt mit der zentralistischen Struktur, die durch das Staatsangehörigkeitsrecht (Art. 16 I GG) und die NS-Zentralisierung von 1934/35 faktisch fortbesteht. Ein funktionierender Bundesstaat erfordert jedoch eine rechtliche Verankerung föderaler Identitäten, die aktuell durch die „eine deutsche Staatsangehörigkeit“ und das Fehlen einer Bundesstaatszugehörigkeit untergraben wird. Das Widerstandsrecht gemäß Art. 20 IV GG ist auf „alle Deutschen“ beschränkt, wie sie in Art. 116 I GG definiert sind. Dies führt zu einer Exklusion von Personen, die ursprünglich genealogische Ansprüche aus der föderalen Bundesstaatsordnung hatten, welche jedoch systematisch verdrängt wurden.
 
-### **3. Artikel 20 GG und die Frage der Bundesstaatlichkeit**
-#### **3.1 Artikel 20 I GG: Bundesstaatliche Dissonanz**
-- Die Deklaration eines „demokratischen und sozialen Bundesstaates“ (Art. 20 I GG) gerät in Konflikt mit der zentralistischen Struktur, die durch das Staatsangehörigkeitsrecht (Art. 16 I GG) und die NS-Zentralisierung von 1934/35 faktisch fortbesteht.
-- Ein funktionierender Bundesstaat erfordert jedoch eine rechtliche Verankerung föderaler Identitäten, die aktuell durch die „eine deutsche Staatsangehörigkeit“ und das Fehlen einer Bundesstaatszugehörigkeit untergraben wird.
+Die Reaktivierung von Bundesstaatenidentitäten, wie sie im BuStAG 1870 angelegt waren, könnte das föderale Gleichgewicht wiederherstellen. Dies erfordert eine Überarbeitung von Art. 16 I und 116 I/II GG, um Bundesstaatszugehörigkeiten als zusätzliche oder alternative Kategorie zur zentralistischen Staatsangehörigkeit anzuerkennen. Die Definition von „Deutscher“ (Art. 116 I GG) und „deutsche Staatsangehörige“ (Art. 16 I GG) müsste klar geschieden werden, um die föderale Vielfalt besser abzubilden. Art. 20 GG sollte durch eine Verankerung föderaler Rechte auf Grundlage des Art. 116 II GG ergänzt werden.
 
-#### **3.2 Widerstandsrecht (Art. 20 IV GG) und Exklusion**
-- Das Widerstandsrecht gemäß Art. 20 IV GG ist auf „alle Deutschen“ beschränkt, wie sie in Art. 116 I GG definiert sind.
-- Dies führt zu einer Exklusion von Personen, die ursprünglich genealogische Ansprüche aus der föderalen Bundesstaatsordnung hatten, welche jedoch systematisch verdrängt wurden.
-
----
-
-### **4. Problematische Implikationen und Rechtsbrüche**
-#### **4.1 Vom Versailler Vertrag bis zum RuStAG 1913**
-- Der Versailler Vertrag (Artikel 278) und das daraus resultierende Staatsangehörigkeitsrecht verstärkten die zentrale Kontrolle über föderale Staatsstruktur. Es wurde ein zentralistischer Standard eingeführt, der auf die neuen geopolitischen Gegebenheiten angepasst wurde.
-
-#### **4.2 Weimarer Verfassung und die NS-Zeit**
-- Die Weimarer Reichsverfassung (Artikel 110) scheint sich zwischen föderalen und zentralistischen Prinzipien nicht eindeutig zu positionieren, was die Abschaffung der Landeszugehörigkeiten in der anschließenden NS-Zeit erleichterte.
-- Die vollständige Gleichsetzung von „deutsch“ mit „Reichsbürger“ nach 1934/35 unterliegt einer offen autoritären und nationalistischen Logik, die die ursprüngliche föderale Struktur aushöhlte.
-
----
-
-### **5. Alternativen und Lösungsvorschläge**
-#### **5.1 Rückkehr zur föderalen Ordnung**
-- Die Reaktivierung von Bundesstaatenidentitäten, wie sie im BuStAG 1870 angelegt waren, könnte das föderale Gleichgewicht wiederherstellen.
-- Dies erfordert eine Überarbeitung von Art. 16 I und 116 I/II GG, um Bundesstaatszugehörigkeiten als zusätzliche oder alternative Kategorie zur zentralistischen Staatsangehörigkeit anzuerkennen.
-
-#### **5.2 Klarstellung des Volksbegriffs**
-- Die Definition von „Deutscher“ (Art. 116 I GG) und „deutsche Staatsangehörige“ (Art. 16 I GG) müsste klar geschieden werden, um die föderale Vielfalt besser abzubilden.
-- Art. 20 GG sollte durch eine Verankerung föderaler Rechte auf Grundlage des Art. 116 II GG ergänzt werden.
-
----
-
-### **6. Fazit**
 Die derzeitige zentralistische Ordnung stellt den Bundesstaat im Sinne von Art. 20 GG in Frage. Die bisherigen gesetzlichen Entwicklungen, insbesondere die NS-Verordnungen von 1934/35, sowie die Diskussion um das Staatsangehörigkeitsrecht haben die föderalen Prinzipien des Deutschen Bundesstaates nachhaltig beschädigt. Eine juristische und verfassungsrechtliche Neukalibrierung ist erforderlich, um eine echte föderale Staatsordnung wiederherzustellen.
 
 **Nächste Schritte könnten umfassen:**
