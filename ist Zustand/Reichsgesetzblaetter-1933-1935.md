@@ -149,3 +149,6 @@ Die zentralistische Ordnung hat den Begriff „Staatsangehörigkeit“ zugunsten
 ---
 
 Bitte lassen Sie mich wissen, wenn Sie spezifische Details oder Thesen aus den vorgelegten Dokumenten näher beleuchtet haben wollen!
+
+
+https://github.com/Znih/Znih/discussions/20#discussioncomment-15397089
