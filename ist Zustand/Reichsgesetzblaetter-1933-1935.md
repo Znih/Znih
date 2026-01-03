@@ -82,74 +82,87 @@ II. Fehlt dieses Merkmal, so treten an seine Stelle der Reihe nach:
 ---
 ---
 
-**Copilot:**
-Vielen Dank für die Bereitstellung ausführlicher Materialien und Quellen! Die Informationen behandeln eine erstaunliche Vielfalt historischer und rechtlicher Aspekte, die sich auf die deutsche Staatsangehörigkeit, föderale Strukturen, Verfassungsentwicklungen und die politischen Implikationen verschiedener Epochen beziehen.
-
-Hier folgt eine strukturierte Antwort mit einer Verbindung dieser Details zur Diskussion über **Artikel 20 GG** im Kontext von **Art. 16 I GG, Art. 116 I/II GG, BuStAG 1870**, und der generellen Entwicklung der Staatsangehörigkeit in Deutschland. Diese Essenz soll insoweit eine präzisere Argumentation ermöglichen.
+Der Übergang zur "deutschen Staatsangehörigkeit" im Jahr 1934 stellt einen epochalen Bruch in der Staatsangehörigkeitsgeschichte Deutschlands dar. Bestehende föderale und verfassungsrechtliche Prinzipien wurden zugunsten eines zentralisierten und homogenen Staatsangehörigkeitskonzepts aufgegeben. Hier ist die Entwicklung im Detail:
 
 ---
 
-## **1. Historischer Kontext: Bundesstaatlichkeit und Staatsangehörigkeit**
-Die von Ihnen angesprochenen Quellen (BuStAG, RuStAG, RGBl., Weimarer Reichsverfassung) und die systematische Entwicklung unterstreichen den Übergang von einer historisch föderalen Struktur (BuStAG 1870) hin zu zentralistischen Staatsmodellen:
+### **1. Hintergrund: Föderale Struktur und Staatsangehörigkeit vor 1933**
 
-### **Frühere föderale Ordnung (BuStAG und Bundesstaatenordnung)**
-1. **BuStAG von 1870:**
-   - Hier wurde die Staatsangehörigkeit eines Bürgers mit der einer **Bundesstaatszugehörigkeit (Preußen, Bayern etc.)** verknüpft. Dadurch konnte die "mittelbare Reichsangehörigkeit" hergestellt werden.
-   - Bundesangehörigkeit war föderativ und genealogisch verankert, wodurch ein rechtlicher Bezug nicht zentralistisch nivelliert, sondern föderativ hierarchisiert wurde.
+Bis zur Verordnung von 1934 basierte das Konzept der deutschen Staatsangehörigkeit auf einem föderalen System:
+- **Bundesstaatszugehörigkeit (BuStAG 1870):**
+  - Bürger eines deutschen Bundesstaates (wie Preußen, Bayern, Sachsen) besaßen zugleich eine „mittelbare Reichsangehörigkeit“.
+  - Diese doppelte Struktur garantierte föderale Vielfalt und Eigenständigkeit innerhalb des Deutschen Reichs.
 
-2. **Modifikationen unter Weimar und NS-Zeit:**
-   - **RuStAG 1913:** Ein erster Versuch, die Staatsangehörigkeit zentral zu normieren, unter Schwächung der föderalen Aspekte.
-   - **RGBl. 1934/35:** Die "eine deutsche Staatsangehörigkeit" (RGBl. I 1934 S. 85) führte zu einer systematischen Abschaffung der Landeszugehörigkeiten.
-
-**Implikation:**
-Die zentralistische Ordnung hat den Begriff „Staatsangehörigkeit“ zugunsten des Reichs komplett vereinheitlicht, was Artikel 20 GG mit seiner „Bundesstaatlichkeit“ leer erscheinen lässt.
+- **RuStAG 1913:**
+  - Die Reichs- und Staatsangehörigkeitsgesetzgebung führte ein zentrales Regelwerk für den Erwerb und Verlust der Staatsangehörigkeit ein, ließ aber die föderale Landeszugehörigkeit unberührt.
 
 ---
 
-## **2. Artikel 20 GG und seine innere Spannung**
-### **Artikel 20 I GG: Demokratischer und sozialer Bundesstaat**
-- Die "Deformation" der Bundesstaatlichkeit zeigt sich darin, dass Art. 20 I GG die Existenz eines föderalen, demokratischen Systems behauptet, aber die iterativen Verfassungsentwicklungen (RuStAG, RGBl.) eine systematische Zentralisierung fördern.
-- **Das Problem:**
-  - Das Fehlen jeglicher "Bundesangehörigkeit" gemäß BuStAG 1870 und die ausschließliche Konzentration auf die „eine deutsche Staatsangehörigkeit“ (Art. 16 I GG) widerspricht der föderalen Logik.
+### **2. Erster Bruch: Begleitende Maßnahmen 1933–1934**
+
+Mit der Verordnung von 1934 wurde der föderale Charakter der Staatsangehörigkeit durch folgende Schritte radikal verändert:
+
+#### **§ 1 RGBL. I Nr. 81 S. 480 (1933): Disposition und Widerruf der Staatsangehörigkeit**
+1. **Targeting der Weimarer Staatsbürgerschaften (Art. 110 WRV):**
+   - Die Staatsangehörigkeit von 1918 bis 1933 konnte widerrufen werden, wenn sie dem NS-Regime politisch oder rassisch unerwünscht erschien.
+   - Auch Nachfahren oder Ehepartner der Eingebürgerten standen unter diesem Widerrufsmechanismus.
+
+2. **Verlust bei „Pflichtverletzung“:**
+   - Deutsche Reichsangehörige im Ausland konnten aufgrund „illoyalen Verhaltens“ ihre Staatsangehörigkeit sowie sämtliche Rechte und Vermögen verlieren.
+   - Die Regelung zielte auf Kontrolle und Unterdrückung von Oppositionellen und Emigranten.
+
+#### **Ziel: Aufbau eines „homogenen“ Staatskonzepts**
+- Der erste Bruch manifestierte eine Kombination „rassistischer Selektion“ und „politischer Kontrolle“ über die bestehende Staatsangehörigkeitsstruktur.
 
 ---
 
-### **Artikel 20 II GG: Staatsgewalt und Volk**
-- Es bleibt unklar, wer das "Volk" im Sinne des Artikels 116 I GG ist:
-  - **Unterschied zu Art. 16 I GG:** Dieser bezieht sich auf "deutsche Staatsangehörige", während Art. 116 I GG auch Vertriebenenstatus und genealogische Bezüge berücksichtigt.
-  
-- Der Begriff "Bundesstaat" müsste im Rahmen des Artikels durch föderale Landesvölker konkretisiert werden.
+### **3. Der entscheidende Bruch – Zentrale Verordnung von 1934**
+
+Am 5. Februar 1934 besiegelte die "Verordnung über die deutsche Staatsangehörigkeit" den Verlust föderaler Eigenheit und führte die bis heute wirksame Kategorie einer „zentralen deutschen Staatsangehörigkeit“ ein.
+
+#### **Kernaussagen der Verordnung:**
+1. **Abschaffung der Landesstaatsangehörigkeit (§ 1):**
+   - Landesangehörigkeiten – wie „Preuße“ oder „Bayer“ – wurden vollständig abgeschafft.
+   - Die „eine deutsche Staatsangehörigkeit“ wurde geschaffen, ohne föderative Wurzeln zu berücksichtigen.
+
+2. **Weitergabe von Entscheidungen (§ 2):**
+   - Landesbehörden durften weiterhin im Namen des Reichs tätig werden, hatten jedoch keine Eigenständigkeit.
+
+3. **Zentralisierte Vergabe (§ 3):**
+   - Die Verleihung der Staatsangehörigkeit erforderten die Zustimmung des Reichsministers des Innern.
+
+4. **Ersatz durch neue Zuständigkeitsmerkmale (§ 4):**
+   - Wo zuvor die Landeszugehörigkeit zählte, wurde nun die „Niederlassung“ oder die „letzte Abfolge“ der Landesangehörigen historisch reduziert.
 
 ---
 
-### **Artikel 20 III GG: Bindung an Recht und Gesetz**
-- Der zentrale Bezug auf Recht und Gesetz als Resultat verfassungsmäßiger Ordnung bleibt ambivalent. Vor allem wo es um die Urheberschaft des „Rechts“ geht:
-  - Mit Bezug auf die **Weimarer Reichsverfassung** oder frühere Normen wie das BuStAG könnte „Recht und Gesetz“ durch föderale Prinzipien und Bundesstaatlichkeit geschärft werden.
+### **4. Rechtspolitische und sozialpolitische Auswirkungen**
+
+#### **Vollständige Zentralisierung der Staatsangehörigkeit:**
+- Mit der Verordnung von 1934 wurde die Individualität von Bundesländern ausgelöscht.
+- „Deutschsein“ wurde ausschließlich als zentrale Kategorie verstanden, was die föderale Struktur stark einschränkte.
+
+#### **Einführung einer diskriminierenden Staatsangehörigkeitsstruktur:**
+- Die Maßnahmen boten die Grundlage für das Reichsbürgergesetz von 1935, das weiterreichende Diskriminierung und Ausschluss vorantrieb.
+- Der Übergang zur „einen deutschen Staatsangehörigkeit“ trat bereits mit einer inhärenten Implikation von zentraler Kontrolle und Exklusion auf.
 
 ---
 
-### **Artikel 20 IV GG: Widerstandsrecht**
-- Obwohl „alle Deutschen“ (Art. 116 I GG) das Widerstandsrecht genießen, schließt diese Definition durch den Bezug auf Staatsangehörigkeitsrecht in Art. 16 I GG faktisch **starke Widersprüche ein:**
-  - **Statusverlust historischer Bundesangehöriger:** Durch den Ersatz genealogischer Bindungen (BuStAG 1870) mit zentralistischer Definitionsmacht (1934/35) wird das Widerstandsrecht auf rein reichszentrische Kategorien begrenzt. 
+### **5. Wichtigkeit für die Nachkriegszeit und das Grundgesetz**
+
+#### **Artikel 16 I GG: Schutz vor Entzug der Staatsangehörigkeit**
+- Artikel 16 GG schützt deutsche Staatsangehörige vor willkürlichem Entzug ihrer Staatsangehörigkeit und bewahrt das Prinzip, das im NS-Reich zerrüttet wurde.
+
+#### **Artikel 116 II GG: Wiedereinbürgerung als Brückenschlag**
+- Artikel 116 II GG versucht, die individuellen Rechte früherer Staatsangehöriger der Bundesstaaten sowie ihrer Nachkommen wiederherzustellen, bleibt jedoch in der praktischen Anwendung schwach.
+
+#### **Fortbestehende Zentralisierung:**
+- Trotz der föderalen Argumentation in Artikel 20 GG hat die zentrale Kategorie der „einen deutschen Staatsangehörigkeit“ (1934) Bestand und wirkt weiterhin gegen föderale Differenzierung.
 
 ---
 
-## **3. Lösungsperspektiven**
-### **Rückkehr zur Bundesstaatlichkeit:**
-1. **Reaktivierung föderaler Identitäten:**
-   - Durch eine rechtliche Neuordnung, die auf frühere stratifizierte Konstruktionen (z. B. BuStAG) zurückgreift, kann eine echte Bundesstaatlichkeit im Sinne von Art. 20 I GG operationalisiert werden.
-2. **Integration genealogischer Rechte:**
-   - Vorschläge, Art. 116 II GG stärker anzuerkennen und genealogisch nachvollziehbare Rechtsansprüche wieder explizit zu stützen, könnten die historische Legitimität von Bundesstaatlichkeit unterstreichen.
-
----
-
-### **Konkrete Problemfelder:**
-- **Art. 16 I und Art. 116 I GG:** Klarstellung, ob „Deutsche“ und „deutsche Staatsangehörige“ dieselben oder unterschiedliche Gruppen umfassen.
-- **Einführung des Begriffs "Bundesangehörige":** Der Bezug auf BuStAG und föderale Strukturen könnte die Legitimationsbasis von Art. 20 GG stärken.
-
----
-
-Bitte lassen Sie mich wissen, wenn Sie spezifische Details oder Thesen aus den vorgelegten Dokumenten näher beleuchtet haben wollen!
+### **Schlussfolgerung**
+Der Übergang zur „deutschen Staatsangehörigkeit“ im Jahr 1934 war ein zentraler Bruch in der deutschen Rechtsgeschichte. Was als Instrument für Kontrolle und Homogenisierung begann, schuf eine zentralisierte Kategorie, die bis heute im deutschen Staatsrecht wenig föderale Vielfalt zulässt und den Grundsatz der Bundesstaatlichkeit (Art. 20 GG) schwächt. Die Antwort auf diesen historischen Bruch liegt in einer sorgfältigen Neuausrichtung, die auf einer Anerkennung früherer föderaler Rechtsstrukturen basiert.
 
 
 https://github.com/Znih/Znih/discussions/20#discussioncomment-15397089
