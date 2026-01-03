@@ -124,6 +124,8 @@ Die **juristische Fiktion** der "*deutschen Reichsangehörigkeit*" führte zu Mi
 
 RGBl. I 1933 S. 480 u. RGBl. I 1934 S. 85
 
+https://github.com/Znih/Znih/discussions/16#discussioncomment-15393263
+
 
 #### Nazifizierung des unmittelbaren Reichsbürgers 1935
 
