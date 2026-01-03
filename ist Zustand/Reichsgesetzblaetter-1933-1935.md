@@ -40,9 +40,9 @@ Nr. 14 Tag der Ausgabe: Berlin, den 6. Februar 1934 Seite 85. Verordnung über d
 
 ```
 
-> Auf Grund des Artikels 5 des Gesetzes über den **Neuaufbau des Reichs** vom 30. Januar 1934 (Reichsgesetzbl. I 5.75) wird folgendes verordnet:
+> Auf Grund des Artikels 5 des Gesetzes über den **Neuaufbau des Reichs** vom 30. Januar 1934 (Reichsgesetzbl. I [Nr. 11] S. 75) wird folgendes verordnet:
 
-§1
+§ 1
 
 > I. Die Staatsangehörigkeit in den deutschen Ländern fällt fort.
 
