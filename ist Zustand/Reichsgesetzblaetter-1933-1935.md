@@ -6,31 +6,25 @@ Hitlers zusätzliche Staatsgrundgesetze 1933-1937
 
 § 1 RGBI. I 1933 Nr. 81 S. 480
 
-> I. Deutschen Einbürgerungen, die in der Weimarer Zeit zwischen dem 9. November 1918 und dem 30. Januar 1933 vor-genommen worden sind, 597 können widerrufen werden, falls die deutsche Einbürgerung 598 nicht als erwünscht anzusehen ist.
+> I. Deutschen Einbürgerungen, die in der Weimarer Zeit zwischen dem 9. November 1918 und dem 30. Januar 1933 vorgenommen worden sind, können widerrufen werden, falls die deutsche Einbürgerung 598 nicht als erwünscht anzusehen ist.
 
-> II. Durch den Widerruf (1) verlieren außer dem Eingebürgerten selbst auch diejenigen [natürlichen] Personen die deutsche Staatsangehörigkeit, die sie ohne die Deutsche [Wieder] Einbürgerung nicht erworben hätten.
+> II. Durch den Widerruf (I.) verlieren außer dem Eingebürgerten selbst auch diejenigen Personen die deutsche Staatsangehörigkeit, die sie ohne die Deutsche Einbürgerung nicht erworben hätten.
 
-> III. Der Widerruf (11) wird [nur] wirksam mit der Zustellung der Widerrufsverfügung oder mit dem Zeitpunkt seiner Veröffentlichung im Reichsanzeiger.
+> III. Der Widerruf (II.) wird wirksam mit der Zustellung der Widerrufsverfügung oder mit dem Zeitpunkt seiner Veröffentlichung im Reichsanzeiger.
 
 > IV. Der Widerruf (II.) liegt den deutschen Landesbehörden, bei unmittelbaren Reichsangehörigen dem zuständigen Reichsminister ob.
 
-V. Diese Vorschrift [aus § 1] tritt mit dem Ablauf von 2 Jahren seit ihrer Verkündung außer Kraft."
+V. Diese Vorschrift [§ 1] tritt mit dem Ablauf von 2 Jahren seit ihrer Verkündung außer Kraft.
 
 § 2
 
-> I. Deutsche Reichsangehörige, die sich im Ausland aufhalten, können der deutschen Staatsangehörigkeit für verlustig erklärt werden, sofern sie durch ein [kaisertreues] Verhalten, das gegen die Pflicht zur Treue gegen III. Reich und ReichS-Volk verstößt, die deutschen Belange geschädigt haben. Das gleiche gilt für deutsche Reichsangehörige, die einer Rückkehraufforderung nicht Folge leisten, die der Reichsminister des Innern Frick unter Hinweis auf diese Vorschrift599 an sie gerichtet hat. Bei der Einleitung des Aberkennungsverfahrens oder bei Erlaß der Rückkehraufforderung kann ihr Vermögen beschlagnahmt, nach Aberkennung der deutschen Staatsangehörigkeit als dem Deutschen Reiche [nicht III. Reich!] verfallen erklärt werden.
+> I. Deutsche [mittelbare] Reichsangehörige, die sich im Ausland aufhalten, können der deutschen Staatsangehörigkeit für verlustig erklärt werden, sofern sie durch ein Verhalten, das gegen die Pflicht zur Treue gegen Reich und Volk verstößt, die deutschen Belange geschädigt haben. Das gleiche gilt für deutsche Reichsangehörige (Art. 110 WRV), die einer Rückkehraufforderung nicht Folge leisten, die der Reichsminister des Innern Frick unter Hinweis auf diese Vorschrift an sie gerichtet hat. Bei der Einleitung des Aberkennungsverfahrens oder bei Erlaß der Rückkehraufforderung kann ihr Vermögen beschlagnahmt, nach Aberkennung der deutschen Staatsangehörigkeit als dem Deutschen Reiche [Bund 1871] verfallen erklärt werden.
 
-> II. Die Beschlagnahme des Vermögens (1) endigt spätestens mit dem Ablauf von 2 Jahren, falls es nicht vorher als dem Deutschen Reiche verfallen erklärt wird.
+> II. Die Beschlagnahme des Vermögens (I.) endigt spätestens mit dem Ablauf von 2 Jahren, falls es nicht vorher als dem Deutschen Reiche verfallen erklärt wird.
 
-> III. Diese Maßnahmen (d. u. 11.) können auch gegenüber deutschen Reichsangehörigen im Saargebiet getroffen werden, die in der Zeit nach dem 30. Januar 1933 ihren Aufenthalt dorthin verlegt haben.
+> III. Diese Maßnahmen (d. u. II.) können auch gegenüber deutschen Reichsangehörigen im Saargebiet getroffen werden, die in der Zeit nach dem 30. Januar 1933 ihren Aufenthalt dorthin verlegt haben.
 
-> IV. Die Entscheidung trifft der Reichsminister des Innern im Einvernehmen mit dem Reichsminister des Auswärtigen in der Regel nach Anhörung der Regierungen der beteiligten deutscher Länder, als beteiligt gelten das ReichsLand, dem der deutsche Reichsangehörige angehört, und diejenigen deutschen Länder, in denen er innerhalb der letzten Jahre seine dauernde Niederlassung gehabt hat."
-
-597 § 1 1. Hs. RGBI. I Nr. 81 S. 480 meint die „deutsche Reichsangehörigkeit"
-
-598 Weimarer unmittelbare deutsche Reichsangehörigkeit n. Art. 110 WRV aber auch der Zeitraum von 09.11.1918 bis zum 30.01.1933, womit auch der Zeitraum vor dem Inkrafttreten des Art. 110 WRV am 14.08.1919; am 08.11.1918 waren alle Deutschen noch Preußen, Sachsen, Hamburger, Württemberger! Das ist per Definition ein Verwaltungsgenozid über III unterschiedlich Systeme hinweg böswillig gegen das Deutsche Bundesvolk aus Art. 3 BVerf. v. 1871 gerichtet.
-
-599 § 2 RGBI. I Nr. 81 S. 480 v. 14.07.1933
+> IV. Die Entscheidung trifft der Reichsminister des Innern im Einvernehmen mit dem Reichsminister des Auswärtigen in der Regel nach Anhörung der Regierungen der beteiligten deutscher Länder, als beteiligt gelten das ReichsLand, dem der deutsche Reichsangehörige angehört, und diejenigen deutschen Länder, in denen er innerhalb der letzten Jahre seine dauernde Niederlassung gehabt hat.
 
 
 
@@ -41,43 +35,46 @@ V. Diese Vorschrift [aus § 1] tritt mit dem Ablauf von 2 Jahren seit ihrer Verk
 
 ![Screenshot_20260102_200230~2.jpg](https://github.com/user-attachments/assets/20b574d8-ecd5-4b28-ac9a-48fe33fe5f6c)
 
-§3
+§ 3
 
 > I. Der Reichsminister des Innern im Einvernehmen mit dem Reichsminister des Auswärtigen beschließt im einzelnen Falle, inwieweit sich der Verlust der deutschen Staatsangehörigkeit auf den Ehegatten, auf die ehelichen oder an Kindesstatt angenommenen Kinder, bei Frauen auf die unehelichen Kinder erstreckt.
 
 > II. Die Aberkennung der deutschen Staatsangehörigkeit wird mit der Verkündung der Entscheidung im Reichsanzeiger [nur] wirksam.
 
-Der Reichsminister des Innern kann im Einvernehmen mit den Reichsministern des Auswärtigen und der Finanzen Rechts- und Verwaltungsvorschriften zur [politisch korrekten] Ausführung dieses Gesetzes erlassen. "600
+> Der Reichsminister des Innern kann im Einvernehmen mit den Reichsministern des Auswärtigen und der Finanzen Rechts- und Verwaltungsvorschriften zur [politisch korrekten] Ausführung dieses Gesetzes erlassen.
+
 
 RGBI. I 1934 Nr. 14 S. 85
 
-Nr. 14 Tag der Ausgabe: Berlin, den 6. Februar 1934 Seite 85
+```
 
-Verordnung über die deutsche Staatsangehörigkeit. Vom 5. Februar 1934.
+Nr. 14 Tag der Ausgabe: Berlin, den 6. Februar 1934 Seite 85. Verordnung über die deutsche Staatsangehörigkeit. Vom 5. Februar 1934.
+
+```
 
 Auf Grund des Artikels 5 des Gesetzes über den **Neuaufbau des Reichs** vom 30. Januar 1934 (Reichsgesetzbl. I 5.75) wird folgendes verordnet:
 
 §1
 
-(1) Die Staatsangehörigkeit in den deutschen Ländern fällt fort.
+> (1) Die Staatsangehörigkeit in den deutschen Ländern fällt fort.
 
-(2) Es gibt nur noch eine deutsche Staatsangehörigkeit (Reichsangehörigkeit).
+> (2) Es gibt nur noch eine deutsche Staatsangehörigkeit (Reichsangehörigkeit).
 
 § 2
 
-Die Landesregierungen treffen jede Entscheidung auf dem Gebiete des Staatsangehörigkeitsrechts im Namen und Auftrage des Reichs.
+> Die Landesregierungen treffen jede Entscheidung auf dem Gebiete des Staatsangehörigkeitsrechts im Namen und Auftrage des Reichs.
 
 § 3
 
-Die deutsche Staatsangehörigkeit darf erst verliehen werden, nachdem der Reichsminister des Innern zugestimmt hat. § 9 des Reichs- und Staatsangehörigkeitsgesetzes vom 22. Juli 1913 (Reichsgesetzbl. S. 583) wird aufgehoben.
+> Die deutsche Staatsangehörigkeit darf erst verliehen werden, nachdem der Reichsminister des Innern zugestimmt hat. § 9 des Reichs- und Staatsangehörigkeitsgesetzes vom 22. Juli 1913 (Reichsgesetzbl. S. 583) wird aufgehoben.
 
 
 
 § 4
 
-(1) Soweit es nach geltenden Gesetzen rechtserheblich ist, welche deutsche Landesangehörigkeit ein Reichsangehöriger besitzt, ist fortan maßgebend, in welchem Lande der Reichsangehörige seine Niederlassung hat.
+> (1) Soweit es nach geltenden Gesetzen rechtserheblich ist, welche deutsche Landesangehörigkeit ein Reichsangehöriger besitzt, ist fortan maßgebend, in welchem Lande der Reichsangehörige seine Niederlassung hat.
 
-(2) Fehlt dieses Merkmal, so treten an seine Stelle der Reihe nach:
+> (2) Fehlt dieses Merkmal, so treten an seine Stelle der Reihe nach:
 
 1. die bisherige Landesangehörigkeit;
 
@@ -89,7 +86,7 @@ Die deutsche Staatsangehörigkeit darf erst verliehen werden, nachdem der Reichs
 
 
 
-600 § 1 RGBI. I Nr. 81 S. 480 v. 14.07.1933, automatisch durch § 1 V am 14.07.1935 außer Kraft getreten!!!
+§ 1 RGBI. I Nr. 81 S. 480 v. 14.07.1933, automatisch durch § 1 V am 14.07.1935 außer Kraft getreten!!!
 
 
 
