@@ -1,8 +1,4 @@
-Auszüge aus Zusatzaufsatz zum Offenen Brief an Herrn Steinmeier.
-
-
-
-Hitlers zusätzliche Staatsgrundgesetze 1933-1937 nach RuStAG 1913
+### Hitlers zusätzliche Staatsgrundgesetze 1933-1937 nach RuStAG 1913
 
 § 1 RGBI. I 1933 Nr. 81 S. 480
 
@@ -14,7 +10,7 @@ Hitlers zusätzliche Staatsgrundgesetze 1933-1937 nach RuStAG 1913
 
 > IV. Der Widerruf (II.) liegt den deutschen Landesbehörden, bei unmittelbaren Reichsangehörigen (RuStAG) dem zuständigen Reichsminister ob.
 
-V. Diese Vorschrift [§ 1] tritt mit dem Ablauf von 2 Jahren seit ihrer Verkündung außer Kraft.
+> V. Diese Vorschrift [§ 1] tritt mit dem Ablauf von 2 Jahren seit ihrer Verkündung außer Kraft.
 
 § 2
 
@@ -44,7 +40,7 @@ Nr. 14 Tag der Ausgabe: Berlin, den 6. Februar 1934 Seite 85. Verordnung über d
 
 ```
 
-Auf Grund des Artikels 5 des Gesetzes über den **Neuaufbau des Reichs** vom 30. Januar 1934 (Reichsgesetzbl. I 5.75) wird folgendes verordnet:
+> Auf Grund des Artikels 5 des Gesetzes über den **Neuaufbau des Reichs** vom 30. Januar 1934 (Reichsgesetzbl. I 5.75) wird folgendes verordnet:
 
 §1
 
