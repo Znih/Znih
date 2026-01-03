@@ -10,6 +10,8 @@
 
 ---
 
+https://github.com/Znih/Znih/discussions/20#discussioncomment-15397089
+
 > Die Vereinten Nationen und die beiden (2 von 4) beobachten sehr  genau wie sich das Deutsche Volk entscheidet. 
 > 
 > Bundesstaat (Art. 20 I GG) ohne Bundesangehörige und ohne föderale Staatsangehörige (BuStAG, Art. 116 II GG) oder wenigstens Landesangehörige (Art. 2, 110 WRV, Art. 116 II GG) sondern weiterhin "nur noch eine deutsche Staatsangehörigkeit" (RGBl. I 1934 S. 85, Art. 16 I GG).
