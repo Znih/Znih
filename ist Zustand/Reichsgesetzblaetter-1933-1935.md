@@ -2,17 +2,17 @@ Auszüge aus Zusatzaufsatz zum Offenen Brief an Herrn Steinmeier.
 
 
 
-Hitlers zusätzliche Staatsgrundgesetze 1933-1937
+Hitlers zusätzliche Staatsgrundgesetze 1933-1937 nach RuStAG 1913
 
 § 1 RGBI. I 1933 Nr. 81 S. 480
 
-> I. Deutschen Einbürgerungen, die in der Weimarer Zeit zwischen dem 9. November 1918 und dem 30. Januar 1933 vorgenommen worden sind, können widerrufen werden, falls die deutsche Einbürgerung 598 nicht als erwünscht anzusehen ist.
+> I. Deutschen Einbürgerungen, die in der Weimarer Zeit zwischen dem 9. November 1918 und dem 30. Januar 1933 vorgenommen worden sind (Art. 2, 110 WRV), können widerrufen werden, falls die deutsche Einbürgerung nicht als erwünscht anzusehen ist.
 
 > II. Durch den Widerruf (I.) verlieren außer dem Eingebürgerten selbst auch diejenigen Personen die deutsche Staatsangehörigkeit, die sie ohne die Deutsche Einbürgerung nicht erworben hätten.
 
 > III. Der Widerruf (II.) wird wirksam mit der Zustellung der Widerrufsverfügung oder mit dem Zeitpunkt seiner Veröffentlichung im Reichsanzeiger.
 
-> IV. Der Widerruf (II.) liegt den deutschen Landesbehörden, bei unmittelbaren Reichsangehörigen dem zuständigen Reichsminister ob.
+> IV. Der Widerruf (II.) liegt den deutschen Landesbehörden, bei unmittelbaren Reichsangehörigen (RuStAG) dem zuständigen Reichsminister ob.
 
 V. Diese Vorschrift [§ 1] tritt mit dem Ablauf von 2 Jahren seit ihrer Verkündung außer Kraft.
 
@@ -20,28 +20,20 @@ V. Diese Vorschrift [§ 1] tritt mit dem Ablauf von 2 Jahren seit ihrer Verkünd
 
 > I. Deutsche [mittelbare] Reichsangehörige, die sich im Ausland aufhalten, können der deutschen Staatsangehörigkeit für verlustig erklärt werden, sofern sie durch ein Verhalten, das gegen die Pflicht zur Treue gegen Reich und Volk verstößt, die deutschen Belange geschädigt haben. Das gleiche gilt für deutsche Reichsangehörige (Art. 110 WRV), die einer Rückkehraufforderung nicht Folge leisten, die der Reichsminister des Innern Frick unter Hinweis auf diese Vorschrift an sie gerichtet hat. Bei der Einleitung des Aberkennungsverfahrens oder bei Erlaß der Rückkehraufforderung kann ihr Vermögen beschlagnahmt, nach Aberkennung der deutschen Staatsangehörigkeit als dem Deutschen Reiche [Bund 1871] verfallen erklärt werden.
 
-> II. Die Beschlagnahme des Vermögens (I.) endigt spätestens mit dem Ablauf von 2 Jahren, falls es nicht vorher als dem Deutschen Reiche verfallen erklärt wird.
+> II. Die Beschlagnahme des Vermögens (I.) endigt spätestens mit dem Ablauf von 2 Jahren, falls es nicht vorher als dem Deutschen Reiche (Bund) verfallen erklärt wird.
 
 > III. Diese Maßnahmen (d. u. II.) können auch gegenüber deutschen Reichsangehörigen im Saargebiet getroffen werden, die in der Zeit nach dem 30. Januar 1933 ihren Aufenthalt dorthin verlegt haben.
 
-> IV. Die Entscheidung trifft der Reichsminister des Innern im Einvernehmen mit dem Reichsminister des Auswärtigen in der Regel nach Anhörung der Regierungen der beteiligten deutscher Länder, als beteiligt gelten das ReichsLand, dem der deutsche Reichsangehörige angehört, und diejenigen deutschen Länder, in denen er innerhalb der letzten Jahre seine dauernde Niederlassung gehabt hat.
+> IV. Die Entscheidung trifft der Reichsminister des Innern im Einvernehmen mit dem Reichsminister des Auswärtigen in der Regel nach Anhörung der Regierungen der beteiligten deutscher Länder (Art. 2 WRV), als beteiligt gelten das Land, dem der deutsche Reichsangehörige (Art. 110 I Sz. 2 WRV) angehört, und diejenigen deutschen Länder, in denen er innerhalb der letzten Jahre seine dauernde Niederlassung gehabt hat.
 
-
-
-
-
-
----
-
-![Screenshot_20260102_200230~2.jpg](https://github.com/user-attachments/assets/20b574d8-ecd5-4b28-ac9a-48fe33fe5f6c)
 
 § 3
 
 > I. Der Reichsminister des Innern im Einvernehmen mit dem Reichsminister des Auswärtigen beschließt im einzelnen Falle, inwieweit sich der Verlust der deutschen Staatsangehörigkeit auf den Ehegatten, auf die ehelichen oder an Kindesstatt angenommenen Kinder, bei Frauen auf die unehelichen Kinder erstreckt.
 
-> II. Die Aberkennung der deutschen Staatsangehörigkeit wird mit der Verkündung der Entscheidung im Reichsanzeiger [nur] wirksam.
+> II. Die Aberkennung der deutschen Staatsangehörigkeit wird mit der Verkündung der Entscheidung im Reichsanzeiger wirksam.
 
-> Der Reichsminister des Innern kann im Einvernehmen mit den Reichsministern des Auswärtigen und der Finanzen Rechts- und Verwaltungsvorschriften zur [politisch korrekten] Ausführung dieses Gesetzes erlassen.
+> III. Der Reichsminister des Innern kann im Einvernehmen mit den Reichsministern des Auswärtigen und der Finanzen Rechts- und Verwaltungsvorschriften zur Ausführung dieses Gesetzes erlassen.
 
 
 RGBI. I 1934 Nr. 14 S. 85
@@ -56,9 +48,9 @@ Auf Grund des Artikels 5 des Gesetzes über den **Neuaufbau des Reichs** vom 30.
 
 §1
 
-> (1) Die Staatsangehörigkeit in den deutschen Ländern fällt fort.
+> I. Die Staatsangehörigkeit in den deutschen Ländern fällt fort.
 
-> (2) Es gibt nur noch eine deutsche Staatsangehörigkeit (Reichsangehörigkeit).
+> II. Es gibt nur noch eine deutsche Staatsangehörigkeit (Reichsangehörigkeit).
 
 § 2
 
@@ -72,9 +64,9 @@ Auf Grund des Artikels 5 des Gesetzes über den **Neuaufbau des Reichs** vom 30.
 
 § 4
 
-> (1) Soweit es nach geltenden Gesetzen rechtserheblich ist, welche deutsche Landesangehörigkeit ein Reichsangehöriger besitzt, ist fortan maßgebend, in welchem Lande der Reichsangehörige seine Niederlassung hat.
+> I. Soweit es nach geltenden Gesetzen rechtserheblich ist, welche deutsche Landesangehörigkeit ein Reichsangehöriger besitzt, ist fortan maßgebend, in welchem Lande der Reichsangehörige seine Niederlassung hat.
 
-> (2) Fehlt dieses Merkmal, so treten an seine Stelle der Reihe nach:
+> II. Fehlt dieses Merkmal, so treten an seine Stelle der Reihe nach:
 
 1. die bisherige Landesangehörigkeit;
 
