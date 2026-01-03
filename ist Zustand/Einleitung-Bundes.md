@@ -132,7 +132,7 @@ RGBl. I 1933 S. 480
 
 RGBl. I 1934 S. 85
 
-https://github.com/Znih/Znih/discussions/16#discussioncomment-15393263
+https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FReichsgesetzblaetter-1933-1935.md
 
 
 #### Nazifizierung des unmittelbaren "Deutschen" Reichsbürgers (UR) 1935
