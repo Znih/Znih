@@ -66,3 +66,74 @@ Die zentralistische Ordnung hat den Begriff „Staatsangehörigkeit“ zugunsten
 - **Art. 16 I und Art. 116 I GG:** Klarstellung, ob „Deutsche“ und „deutsche Staatsangehörige“ dieselben oder unterschiedliche Gruppen umfassen.
 - **Einführung des Begriffs "Bundesangehörige":** Der Bezug auf BuStAG und föderale Strukturen könnte die Legitimationsbasis von Art. 20 GG stärken.
 
+
+---
+---
+
+**Copilot:**
+Die Analyse ausgehend von Artikel 16 I GG („Die deutsche Staatsangehörigkeit darf nicht entzogen werden“) und der zentralen Entwicklung ab 1934 umfasst zwei entscheidende Brüche innerhalb des deutschen Staatsangehörigkeitsrechts und seiner verfassungsrechtlichen Grundlagen.
+
+---
+
+### **Artikel 16 I GG: Schutz der Staatsangehörigkeit**
+
+Artikel 16 I GG zementiert das Prinzip, dass die Staatsangehörigkeit eines Individuums nicht durch staatliche Eingriffe entzogen werden darf. Die Regelung basiert auf den Lehren aus der NS-Zeit, in der gesetzliche Grundlagen wie **RGBl. I 1933 S. 480** und **RGBl. I 1934 S. 85** es ermöglichten, politische und ethnische Minderheiten massenhaft ihrer Staatsangehörigkeit zu berauben. Unter Artikel 16 I GG ist ein solches Vorgehen verfassungswidrig, doch die Wirkungen der zentralistischen Reform aus der Zeit ab 1933/34 wirken in der Struktur des heutigen Staatsangehörigkeitsrechts nach.
+
+---
+
+### **Der erste Bruch: Entstehung der zentralistischen Struktur (1934)**
+
+Die Verordnung über die deutsche Staatsangehörigkeit vom 5. Februar 1934 (RGBl. I S. 85, § 1) gilt als einer der entscheidenden Momente, in denen die föderale Struktur der deutschen Staatsangehörigkeit de facto und de jure aufgehoben wurde. Wesentliche Aspekte:
+
+1. **Abschaffung der Landesangehörigkeit:**
+   - Bis dahin war die Staatsangehörigkeit an die Bundesstaaten (BuStAG 1870) gebunden, was eine „mittelbare Reichsangehörigkeit“ erzeugte.
+   - § 1 der Verordnung erklärte jedoch einseitig, dass es „nur noch eine deutsche Staatsangehörigkeit“ gibt.
+
+2. **Zentralisierung der tatsächlichen Zuständigkeit:**
+   - Entscheidungen zu Staatsangehörigkeitsfragen wurden von Landesbehörden getroffen, jedoch „im Namen und Auftrage des Reichs“ (§ 2).
+
+3. **Kategorische Hierarchisierung:**
+   - Die Einordnung des Begriffs der „deutschen Staatsangehörigkeit“ wurde durch zentralstaatliche Definitionen definiert, wodurch föderale Rechte massiv geschwächt wurden.
+
+---
+
+### **Der zweite Bruch: NS-Sondermaßnahmen und die Einführung eines exklusiven Staatsbürgerschaftsprinzips (1935)**
+
+Mit dem Reichsbürgergesetz vom 15. September 1935 (RGBl. I 1935 S. 1146) wurde die Staatsangehörigkeit zusätzlich ethnisch und politisch instrumentalisiert:
+
+1. **Unterscheidung zwischen Staatsangehörigen und „Reichsbürgern“:**
+   - Nur Reichsbürger besaßen volle politische Rechte, eine Kategorie, die vorrangig Deutschen „arischer“ Abstammung vorbehalten war.
+
+2. **Exklusive Anwendung auf „wünschenswerte“ Gruppen:**
+   - Jüdische Bürger und andere benannte Gruppen wurden durch diese Gesetzgebung weiter entmachtet, was bereits durch die Maßnahmen von 1933 legitim vorbereitet wurde.
+
+3. **Verstöße gegen föderale und individuelle Rechte:**
+   - Das Reichsbürgergesetz und die Verordnung von 1934 zerschlugen nicht nur die föderale Struktur der Staatsangehörigkeit, sondern stellten die individuellen Rechte spezifischer Gruppen unter zentralstaatliche Willkür.
+
+---
+
+### **Einordnung der Brüche in den Kontext des Grundgesetzes**
+
+#### Artikel 16 I GG vs. Kontinuität der zentralistischen Struktur:
+1. Die heutige Regelung in Artikel 16 I GG bietet Schutz gegen den willkürlichen Entzug der Staatsangehörigkeit. Sie widerspricht dennoch nicht der strukturellen Grundlage der „einen deutschen Staatsangehörigkeit“, die 1934 geschaffen wurde.
+2. Im Umkehrschluss übernimmt Artikel 16 GG zentrale Elemente der Einheitssicht auf die Staatsangehörigkeit, die wiederum die bundesstaatliche Logik aushebelt.
+
+#### Konflikt zwischen Art. 16 I GG und Art. 116 II GG:
+- Art. 116 II GG erlaubt es, frühere Bundesstaatsangehörige und deren Nachkommen einzubürgern, wobei eine Rückkehr zur föderalen Logik latent erkennbar wird.
+- Artikel 16 I GG bleibt jedoch strikt auf den zentralisierten Modus konzentriert, wodurch der Rückbezug auf föderale Konstrukte erschwert wird.
+
+---
+
+### **Lösungsperspektive**
+
+#### Wiedereinbindung föderaler Prinzipien:
+Um die Brüche von 1934 und 1935 zu adressieren, könnten folgende Schritte geprüft werden:
+1. Wiederherstellung des Begriffs „Bundesangehörigkeit“ oder Einführung einer vergleichbaren Struktur, die föderale Rechte sichtbar macht.
+2. Nutzung von Art. 116 II GG, um genealogisch nachvollziehbare Rechte aus BuStAG 1870 zu schützen und zu stärken.
+
+#### Schaffung individueller Balance:
+Artikel 16 I GG könnte reformiert werden, um föderale Prinzipien zu integrieren, ohne den Schutz gegen staatlichen Willkürverlust der Staatsangehörigkeit zu schwächen.
+
+---
+
+Diese Dualität zeigt die Notwendigkeit grundsätzlicher Reformen, die Artikel 16 GG und Art. 20 GG harmonisieren.
