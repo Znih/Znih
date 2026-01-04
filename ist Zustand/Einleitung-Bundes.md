@@ -1,8 +1,7 @@
-https://github.com/user-attachments/assets/ab354970-396e-4fc4-af63-d5cd24933098
+<video src="https://github.com/user-attachments/assets/51a1c58a-8a1d-4147-b9e9-30049d5e174a" controls="controls" style="max-width: 730px;"></video>
 
-Die EU (sui generis, "*4. Reich*" vs. Europa) dient dem Krieg ("*Wir töten für Wotan*" Asov **MD**, NATOw = **OTAN**), nicht den Familien und den Nationen in friedlicher Wohlfahrt. So Orban sinngemäß.
+[2018_StA-Tiefenblick_MatrixHacker.webm](https://github.com/user-attachments/assets/baa2988b-0df5-467c-8cf2-4831c509d5b6)
 
-https://youtu.be/rEGHd8XpJI8
 
 mwN.: https://github.com/Znih/Znih/discussions/16#discussioncomment-15390472
 
