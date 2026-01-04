@@ -113,11 +113,21 @@ Die Passage "*Staatsangehörigkeit im Reiche und in den Ländern*" deutet auf ei
 
 Die völkerrechtliche Verpflichtung aus dem Versailler Vertrag erschwerte die juristisch präzise Wiederherstellung der föderalen Struktur. Stattdessen entstand eine "juristische Fiktion", die föderale Rechte zugunsten des zentralisierten Staates drastisch schwächte. Dies führte in der Bevölkerung u.a. sukzessive zu einem Verlust des rechtlichen Verständnisses von Bundesstaatlichkeit. Noch heute zeigen sich Auswirkungen, indem diese veränderte Sichtweise auf Staatsbürgerschaft und Föderalität in der Struktur der Bundesrepublik (Art. 116 II GG) undurchsichtig bleibt und nachfolgenden Generationen Probleme bereitet (z. B. Herkunftsrechte, Bodenrechte, Heimatrechte).
 
-Der juristische Übergang vom föderalen Modell der BuStAG-Zugehörigkeit hin zur zentralistischen "*unmittelbaren Reichsangehörigkeit*" im Kontext von WRV, Art. 278 VV und RuStAG 1913 zeigt tiefgreifende rechtliche, gesellschaftspolitische und individuelle Auswirkungen. Es wird deutlich, warum diese juristische Transformation und die daraus folgende technische "Fiktion" bis heute schwer verständlich ist. Das konstruierte Zentralstaatsbild verwässerte die föderalen Prinzipien, und erst durch gezielte rechtliche Argumentation, wie in obiger Analyse, können diese Entwicklungen nachvollzogen werden.
 
-Das RuStAG 1913 diente als Grundlage für eine zentrale, unmittelbare Reichsangehörigkeit. Es ersetzte faktisch die föderale Struktur, welche das BuStAG 1870 etabliert hatte. Auch Artikel 278 VV knüpft an das RuStAG 1913 an, wodurch der Bezug zur ursprünglichen "*mittelbaren Reichsangehörigkeit*" unter den föderalen Bundesstaaten verloren ging. In Pässen wurde der Status "*unmittelbare Reichsangehörigkeit*" **schöpferisch** häufig vermerkt, was implizit ausdrückte, dass die föderale (mittelbare) Herkunft irrelevant wurde. Diese zentralistische Umdeutung wurde jedoch verschleiert, sodass weder Bürger noch die Mehrzahl der Juristen die tiefgreifenden Änderungen auf Anhieb erkannten. Mit den zentralistischen Regelungen des RuStAG 1913 wurden die föderalen Rechte und Zugehörigkeiten der Bundesstaaten (BuStAG) zunehmend irrelevanter. Artikel 278 VV förderte diese Entwicklung, indem er Deutschland zur einheitlichen Anerkennung zentralistisch definierter Staatsangehörigkeiten verpflichtete.
+Die **Weimarer Reichsverfassung (WRV)**, insbesondere **Artikel 110 I und II**, spielt also eine zentrale Rolle in der Transformation des Staatsangehörigkeitsrechts während des Übergangs von einem föderalen System (BuStAG 1870) zu einem zentralistisch geprägten Staatsangehörigkeitsverständnis. 
 
-Die **juristische Fiktion** der "*deutschen Reichsangehörigkeit*" führte zu Missverständnissen und machte die föderalen Ursprünge unsichtbar. Bis heute sind die rechtlichen Konsequenzen dieses Übergangs in den Artikeln 116 I und II GG nachwirkend spürbar.
+Der **Artikel 110 WRV im Original** führt zum "principale" Schein auf neuer Basis einer Landesebene (Art. 2 WRV) eine neue "deutsche Reichsangehörigkeit" auf tatsächlicher Basis der hinter dem Wort "oder" verbliebenen "unmittelbaren Reichsangehörigkeit" (UR) ein. Land und Reich sind hier zwei Ebenen, die formal nebeneinander stehen. Die Staatsangehörigkeit auf Landesebene bleibt erhalten, während durch die unmittelbare Reichsangehörigkeit eine zusätzliche "deutsche" Zugehörigkeit zum Reich geschaffen wird. Reichszugehörigkeit wurde direkt („unmittelbare Reichsangehörigkeit“) definiert, ohne die föderale Verankerung zu bewahren. Die Reichsangehörigkeit wurde zu einer übergeordneten Identität – nicht länger als Zusatz, sondern als Ersatz föderaler Bundesstaatszugehörigkeit. Dies führte dazu, dass die föderale Staatsangehörigkeit schrittweise verdrängt wurde. 
+
+Die juristische Konstruktion der "*deutschen Reichsangehörigkeit*" wurde u.a. durch internationale Regelungen wie den Versailler Vertrag gefestigt, der die Anerkennung zentralisierter Kategorien verlangte. Mit der Abschaffung der Landeszugehörigkeit 1934 wurde die föderale Staatsangehörigkeit de jure eliminiert. Artikel 116 II GG versucht, historische Unrechtmäßigkeiten wie den Verlust der Staatsangehörigkeit durch den NS-Staat zu korrigieren und frühere föderale Rechte zu reaktivieren. Dennoch bleibt die "*deutsche Staatsangehörigkeit*" in ihrer zentralistischen Form erhalten. Die zentrale „*nur noch eine deutsche Staatsangehörigkeit*“ bleibt ein Widerspruch zu den föderalen Prinzipien des Artikels 20 GG. Artikel 16 I GG schützt Staatsangehörige zwar vor willkürlichem Entzug, geht jedoch nicht explizit auf föderale Restitutionen ein.
+
+
+
+
+
+
+
+
+
 
 ---
 
