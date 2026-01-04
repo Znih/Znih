@@ -13,7 +13,7 @@ mwN.: https://github.com/Znih/Znih/discussions/16#discussioncomment-15390472
 **Jedermann** hat das Recht, sich einzeln oder in Gemeinschaft mit anderen schriftlich mit Bitten oder Beschwerden an die zuständigen Stellen und an die Volksvertretung zu wenden.
 
 
-## Wo kommen Wir her, wer sind Wir und wo wollen Wir hin?
+## Wo kommen Wir her, wer sind Wir und wo wollen Wir hin? (Art. 2 I GG, SEV-166)
 
 ### Staatsangehörigkeitsfragen im historischen und rechtlichen Spannungsfeld vom BuStAG zum Grundgesetz und die Notwendigkeit des Artikels 146 GG zur Wiederherstellung der Bundesstaatlichkeit
 
