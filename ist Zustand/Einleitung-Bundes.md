@@ -8,11 +8,16 @@ mwN.: https://github.com/Znih/Znih/discussions/16#discussioncomment-15390472
 
 ---
 
-## **1. Einführung: Historische Perspektive und Kontext**
+# Artikel 17 GG
 
----
 
-### Wo kommen Wir her, wer sind Wir und wo wollen Wir hin?
+**Jedermann** hat das Recht, sich einzeln oder in Gemeinschaft mit anderen schriftlich mit Bitten oder Beschwerden an die zuständigen Stellen und an die Volksvertretung zu wenden.
+
+
+## Wo kommen Wir her, wer sind Wir und wo wollen Wir hin?
+
+### Die Staatsangehörigkeitsfrage im historischen und rechtlichen Spannungsfeld vom BuStAG zum Grundgesetz und die Notwendigkeit des Artikels 146 GG zur Wiederherstellung der Bundesstaatlichkeit
+
 
 
 #### Von den Wiener Bestimmungen 1815/20 über das BuStAG von 1870 bis zur Bundesverfassung von 1871
@@ -37,7 +42,7 @@ Das [BuStAG von 1870](https://github.com/Znih/Znih/blob/main/BuStAG-1870.md) war
 
 Was den Deutschen bis zur Wiener Schlußakte 1820 fehlte, erhielten diese ab 1871 sodann doppelt und sie blieben fest mit ihrer Heimat verknüpft. Verbindliche Bürgerrechte für die nicht nur Arbeiter und Soldaten in ganz Europa kämpften, bluteten oder starben. Nicht perfekt aber skalierbar, reformierbar und bereits 1913 föderaler als alles was ab 1914 folgen sollte. Nur Bayern überdauerte 1914, 1919, 1949 und 1990 (Art. 6, 8, 178 I u. 184 ByVerf. v. 1949).
 
-Um die Umstände und den aufrichtigen Wunsch hinter einem europäischen Friede 1871 verstehen zu können und die Auswirkungen auf 1919, ist ein Blick in die Briefe S.M. und die Stenoberichte aus den Parlamentsdebatten jener Tage notwendig. Der Frankfurter Friede 1871 bestätigt obige Ausführung und illustriert die Wichtigkeit von Staatsangehörigkeiten und Bürgerrechten. Der doppelte Erfolg des [Friedenswerks](https://github.com/Znih/Znih/blob/main/Friede-1871.md) und [Einigungswerks](https://github.com/Znih/Znih/blob/main/1871_Einheit_Verfassungsbund.md) prägten Europa politisch, wirtschaftlich und gesellschaftlich nachhaltig. Die gesammelten Dokumente und Briefe sind daher nicht nur ein Zeugnis der Geschichte, sondern bieten eine wertvolle Grundlage, die bis in unsere Zeit wichtige Erkenntnisse für die Bewertung von Rechts- und Friedensordnungen liefert. Der sichtbare Erfolg im Friede 1871 gab Deutschland Recht, weshalb es zur Bedrohung für ein System werden mußte, das durch geplante Obsoleszenz bereits nach 10 Jahren am nekrophilen Leben erhalten und stets durch Kriege und Zerstörung völlig zurück auf Anfang gesetzt werden musste.
+Um die Umstände und den aufrichtigen Wunsch hinter einem europäischen Friede 1871 verstehen zu können und die Auswirkungen auf 1919, ist ein Blick in die Briefe S.M. und die Stenoberichte aus den Parlamentsdebatten jener Tage notwendig. Der Frankfurter Friede 1871 bestätigt obige Ausführung und illustriert die Wichtigkeit von Staatsangehörigkeiten und Bürgerrechten. Der doppelte Erfolg des [Friedenswerks](https://github.com/Znih/Znih/blob/main/Friede-1871.md) und [Einigungswerks](https://github.com/Znih/Znih/blob/main/1871_Einheit_Verfassungsbund.md) prägten Europa politisch, wirtschaftlich und gesellschaftlich nachhaltig. Die gesammelten Dokumente und Briefe sind daher nicht nur ein Zeugnis der Geschichte, sondern bieten eine wertvolle Grundlage, die bis in unsere Zeit wichtige Erkenntnisse für die Bewertung von Rechts- und Friedensordnungen liefert. Der sichtbare Erfolg im Friede 1871 gab Deutschland Recht, weshalb es zur Bedrohung für ein System werden mußte, das durch geplante Obsoleszenz bereits nach 10 Jahren am nekrophilen "Leben" (n.F.) erhalten und stets durch Kriege und Zerstörung völlig zurück auf Anfang gesetzt werden musste.
 
 "*Deutschland muß untergehen!*", denn Rom siegt immer, notfalls 1000 deutsche Jahre nach dem eigenen Untergang. Auf dem Schlachtfeld oder mit Tücke über den Notar und die Banker.
 
@@ -221,10 +226,13 @@ Die derzeitige zentralistische Ordnung stellt den Bundesstaat im Sinne von Art. 
 
 Hauptaufgabe des Bonner GG von 1949 und weiterhin der Berlin-Bonner GG Erweiterung durch Neuveröffentlichung im BGBl. III, weshalb es auch keine Urschrift des Grundgesetzes von 1990 gibt, bleibt deshalb, die "Wiederherstellung der Freiheit und Einheit Deutschlands", mithin also zweifellos die Wiederherstellung des ewigen Bundes samt Bundesrechts und föderalen Prinzipien aus dem BuStAG. Artikel 146 GG war nie dafür vorgesehen am Dritten Reich festzuhalten oder es gar zu verstärken (Art. 16 I, 20, 23, 116 I u. 139 GG).
 
+
 ---
----
-
-# Artikel 17
 
 
-**Jedermann** hat das Recht, sich einzeln oder in Gemeinschaft mit anderen schriftlich mit Bitten oder Beschwerden an die zuständigen Stellen und an die Volksvertretung zu wenden.
+Die zusätzliche Weigerung zuständiger deutschr Stellen, SEV-166 und insbesondere Kapitel 12, das die Staatsangehörigkeitsfrage komplex behandelt, anzuerkennen oder umzusetzen, spiegelt eine Kontinuität der Zentralisierung und Vereinheitlichung wider, die bereits von 1934 an in der rechtlichen Ordnung Deutschlands etabliert wurde. Trotz des erklärten Ziels, die Freiheit und Einheit Deutschlands wiederherzustellen sowie die föderalen Prinzipien des BuStAG und der Bundesverfassung von 1871 zu beleben, bleibt diese Dimension vernachlässigt. Kapitel 12 und die daraus resultierenden Verpflichtungen hätten der Rückkehr zu einem föderalen Staatsmodell dienen können, das den Begriff des „*Bundesstaates*“ aus Art. 20 GG **substanziell ausgestaltet**. Stattdessen zeigt die Nichtanerkennung einen bewussten Willen, die zentralistische Struktur zu bewahren.
+
+Besonders betroffen sind hierbei staatsrechtliche Linien wie Art. 116 II GG, die die historische Bundesstaatszugehörigkeit im Lichte vergangener Unrechtmäßigkeiten wiederherstellen könnten, aber in der gegenwärtigen Praxis ihrer Wirksamkeit beraubt sind. Artikel 146 GG hätte in diesem Rahmen als Übergangsinstrument fungieren können, um den zentralistischen Bruch zu heilen und die gewollte Rückbesinnung auf einen Bundesstaat im klassischen Sinne zu ermöglichen.
+ 
+Die bewusste Ignoranz gegenüber Kapitel 12 und der Ansatz des SEV-166 entziehen einer bundesstaatlich orientierten Reform des Staatsangehörigkeitsrechts die Grundlage. Ohne diese Rückkehr bleibt der Begriff des „*Bundesstaates*“ in Art. 20 GG **rechtlich und politisch entkernt**. Artikel 146 GG stellt dadurch die **einzig verbliebene Option** zur systematischen Wiederherstellung des föderalen Prinzips dar, indem er den Bundesstaat aus den Fesseln zentralistischer Ideologien befreit und an frühere, föderalistische Prinzipien anknüpft.
+
