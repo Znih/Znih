@@ -221,5 +221,10 @@ Die derzeitige zentralistische Ordnung stellt den Bundesstaat im Sinne von Art. 
 
 Hauptaufgabe des Bonner GG von 1949 und weiterhin der Berlin-Bonner GG Erweiterung durch Neuveröffentlichung im BGBl. III, weshalb es auch keine Urschrift des Grundgesetzes von 1990 gibt, bleibt deshalb, die "Wiederherstellung der Freiheit und Einheit Deutschlands", mithin also zweifellos die Wiederherstellung des ewigen Bundes samt Bundesrechts und föderalen Prinzipien aus dem BuStAG. Artikel 146 GG war nie dafür vorgesehen am Dritten Reich festzuhalten oder es gar zu verstärken (Art. 16 I, 20, 23, 116 I u. 139 GG).
 
+---
+---
+
+# Artikel 17
 
 
+**Jedermann** hat das Recht, sich einzeln oder in Gemeinschaft mit anderen schriftlich mit Bitten oder Beschwerden an die zuständigen Stellen und an die Volksvertretung zu wenden.
