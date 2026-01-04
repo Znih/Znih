@@ -15,7 +15,7 @@ mwN.: https://github.com/Znih/Znih/discussions/16#discussioncomment-15390472
 
 ## Wo kommen Wir her, wer sind Wir und wo wollen Wir hin?
 
-### Die Staatsangehörigkeitsfrage im historischen und rechtlichen Spannungsfeld vom BuStAG zum Grundgesetz und die Notwendigkeit des Artikels 146 GG zur Wiederherstellung der Bundesstaatlichkeit
+### Staatsangehörigkeitsfragen im historischen und rechtlichen Spannungsfeld vom BuStAG zum Grundgesetz und die Notwendigkeit des Artikels 146 GG zur Wiederherstellung der Bundesstaatlichkeit
 
 
 
