@@ -60,6 +60,8 @@ https://youtu.be/Jwa7IjnJk_s
 
 https://github.com/Znih/Znih/blob/main/BrD-Genozide.md
 
+https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FEinleitung-Bundes.md
+
 
 
 **Strafanzeige (§ 158 I StPO)** und **Strafantrag (§ 158 II StPO, § 77 ff. StGB)** 
