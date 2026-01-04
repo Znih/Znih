@@ -2,6 +2,8 @@ An Stadt Büdelsdorf / Geesch 814/2025 04331-355-330 geesch@buedelsdorf.de / Az.
 
 Kurz: Sie begehen offenkundig Straftaten im Amt ohne Sanktionen befürchten zu müssen (Art. 116 I GG). Eine Strafanzeige in Potsdam wird bearbeitet und nun folgt auch ein Strafantrag von mir.
 
+https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FEinleitung-Bundes.md z.K. u. w.V.
+
 Teile der Straftaten finden Sie in GitHub veröffentlicht.
 
 Sie versuchen aktiv wenigstens strittige Grundsteuer pro Quartal einzufordern und notfalls zu pfänden, enteignen oder jedenfalls Grundrechte einzuschränken, resp. entziehen wollen. Das steht Ihnen nicht zu. Sie drohen sogar bei unbeteiligten Dritten in Potsdam pfänden lassen und verkürzten die Frist auf 9 Tage um auf Erfolg zu hoffen.
