@@ -121,7 +121,7 @@ Der **Artikel 110 WRV im Original** führt zum "principale" Schein auf neuer Bas
 Die juristische Konstruktion der "*deutschen Reichsangehörigkeit*" wurde u.a. durch internationale Regelungen wie den Versailler Vertrag gefestigt, der die Anerkennung zentralisierter Kategorien verlangte. Mit der Abschaffung der Landeszugehörigkeit 1934 wurde die föderale Staatsangehörigkeit de jure eliminiert. Artikel 116 II GG versucht, historische Unrechtmäßigkeiten wie den Verlust der Staatsangehörigkeit durch den NS-Staat zu korrigieren und frühere föderale Rechte zu reaktivieren. Dennoch bleibt die "*deutsche Staatsangehörigkeit*" in ihrer zentralistischen Form erhalten. Die zentrale „*nur noch eine deutsche Staatsangehörigkeit*“ bleibt ein Widerspruch zu den föderalen Prinzipien des Artikels 20 GG. Artikel 16 I GG schützt Staatsangehörige zwar vor willkürlichem Entzug, geht jedoch nicht explizit auf föderale Restitutionen ein.
 
 
-
+Das Verbot jederweder neuen Länderangehörigkeit (Art. 23, 116 GG a.F., Art. 2, 110 WRV) seit 1946 – *ebenso wie ihre formelle Abschaffung 1934* - hat die föderale Struktur des deutschen Staates bereits vor 1949 nachhaltig geschwächt. Obwohl Bayern einen formalen Sonderstatus beansprucht, ist die Realität, dass keine "*deutschen Länder*" in der Bundesrepublik über eine unabhängige Zuständigkeit in Staatsangehörigkeitsfragen verfügen. Ein Rückgriff auf vergangene föderale Strukturen wie das BuStAG 1870 wird durch die BrD Organe ("*Deutschen*" n. Art. 116 I GG iVm § 30 I StAG) vernachlässigt oder offen bekriegt.
 
 
 
