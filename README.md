@@ -75,12 +75,11 @@ https://youtu.be/OzII7KoLMAM
 > Carlo Schmidt wörtlich: »**Wir haben hier doch nur einen Schuppen, einen Notbau, und einem Notbau gibt man nicht die Weihe, die dem festen Haus gebührt. Fälschen wir nicht den Charakter dieses Werkes, indem wir es zur Volksabstimmung stellen, bringen wir, indem wir ihm eine Sanktionierung minderen Rechts geben, zum Ausdruck, dass es keine Verfassung ist.**« (Parl. Rat, Bd. 9, S. 597; Stern Staatsrecht, Bd. V, S. 1338; Dreier/Dreier Art. 144 Rn. 7 m.w.N.).
 
 ![Screenshot_20251221_181308.jpg](https://github.com/user-attachments/assets/03be9ea1-90a3-4d8d-86d7-14ba7fc8ef12)
- https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251221_Friede-1815-1820-1871-2025_Artikel-144-GG_Schuppen-oder-Haus.md
 
 https://github.com/Znih/Znih/tree/main
 
 
-https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251219_Friede-1815-1820-1871-2025_Art-116-GG.md
+https://github.com/Znih/Znih/blob/main/ist%20Zustand%2F2025_CopilotKI-Dialog-Deutsche-1871-1919-1935-1990-2000-2005.md
 
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251221_Friede-1815-1820-1871-2025_Artikel-144-GG_Schuppen-oder-Haus.md
 
