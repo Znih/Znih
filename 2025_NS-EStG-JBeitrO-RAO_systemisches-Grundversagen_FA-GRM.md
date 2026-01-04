@@ -1,3 +1,7 @@
+https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FEinleitung-Bundes.md z.K. u. w.V.
+
+---
+
 Sehr geehrte Frau Gottschling,
 
 festgestellt werden muß, daß Sie sich persönlich an gleich mehreren Straftaten im Amt jedenfalls beteiligt haben und jedenfalls statt Aufklärung mit unbegründeter Arroganz, Ignoranz und liebevoller Drohung gegen die Opfer vorgehen, die willkürliche Nachteile in Unkenntnis erduldeten. Statt zu korrigieren solle das Opfer zusätzlich bestraft werden und die Kinder gleich mit. Ihrem Schreiben vom 27.11.2025 ist dies verwertbar als Tatbestand entnehmbar.
