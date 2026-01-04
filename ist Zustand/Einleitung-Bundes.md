@@ -124,35 +124,29 @@ Die juristische Konstruktion der "*deutschen Reichsangehörigkeit*" wurde u.a. d
 Das Verbot jederweder neuen Länderangehörigkeit (Art. 23, 116 GG a.F., Art. 2, 110 WRV) seit 1946 – *ebenso wie ihre formelle Abschaffung 1934* - hat die föderale Struktur des deutschen Staates bereits vor 1949 nachhaltig geschwächt. Obwohl Bayern einen formalen Sonderstatus beansprucht, ist die Realität, dass keine "*deutschen Länder*" in der Bundesrepublik über eine unabhängige Zuständigkeit in Staatsangehörigkeitsfragen verfügen. Ein Rückgriff auf vergangene föderale Strukturen wie das BuStAG 1870 wird durch die BrD Organe ("*Deutschen*" n. Art. 116 I GG iVm § 30 I StAG) vernachlässigt oder offen bekriegt.
 
 
+Die Entscheidung, das **RuStAG 1913** (Reichs- und Staatsangehörigkeitsgesetz) trotz der Einführung der **Weimarer Reichsverfassung (WRV, 1919)** nicht an **Artikel 110 WRV** anzupassen, war sowohl politisch als auch rechtlich weitreichend. Diese Unterlassung führte dazu, dass das **„Oder-Prinzip“**, das wenigstens eine Wahlmöglichkeit zwischen föderaler Landesstaatsangehörigkeit und zentraler Reichsstaatsangehörigkeit hätte sichern können, de facto wegfiel. Mit der Revolution von 1918/1919 und der Machtergreifung sozialistischer Kräfte geriet die klassische föderale Struktur in Deutschland ins Wanken. Die Weimarer Verfassung strebte zwar nominell den Erhalt eines föderalen Systems an (ausgedrückt in Artikel 2 und 110 WRV), setzte jedoch auf eine stärkere Zentralsteuerung, insbesondere in Fragen des Staatsangehörigkeitsrechts.
 
+Eine Anpassung des RuStAG an Artikel 110 WRV hätte die föderalen Strukturen gestärkt und Kompetenzen zurück an die Länder gegeben. Die politische Führung der Weimarer Republik war jedoch daran interessiert, zentrale Kontrolle zu wahren, insbesondere angesichts der instabilen politischen Verhältnisse. Die zentralisierende Tendenz der Weimarer Republik zielte darauf ab, die Macht der Länder zu begrenzen und ein einheitliches Staatskonzept durchzusetzen. Das Fördern eines „Oder-Prinzips“ hätte internationale Unsicherheit erzeugt und den Forderungen der Siegermächte widersprochen. Obwohl Artikel 110 die doppelte Zugehörigkeit andeutet, war die Formulierung vage und ließ Spielraum für eine rein zentralistische Auslegung des RuStAG.
+
+Die Nichtanpassung bot späteren Regimen, wie dem NS-Staat, die Grundlage für Gesetzgebungen wie RGBl. 1934, die die Landesstaatsangehörigkeiten vollständig abschafften. Diese zentralistische Interpretation des RuStAG 1913 prägt bis heute die deutsche Staatsangehörigkeitsordnung, da die föderalen Aspekte des Staatsangehörigkeitsrechts nie wiederhergestellt wurden.
+
+
+Das „*Oder-Prinzip*“ hätte jedoch die föderale Vielfalt geschützt und die Länder als autonome Einheiten gestärkt. Die heutige zentrale „*nur noch eine deutsche Staatsangehörigkeit*“ wäre durch föderative Rechte und Pflichten ergänzt worden, was eine Rückbesinnung auf das Modell des BuStAG 1870 bedeutet hätte.
+
+Die Weimarer Republik entschied sich bewusst dafür, das **RuStAG 1913** nicht an **Artikel 110 WRV** anzupassen, hauptsächlich aus politischen und praktischen Gründen. Anstatt das „*Oder-Prinzip*“ zu bewahren und Bürgern die Wahl zwischen Landes- und Reichsstaatsangehörigkeit zu ermöglichen, wurde die Zentralisierung der Staatsangehörigkeit weiter vorangetrieben, später zusätzlich nazifiziert und wir jedenfalls "*identisch*" durch die BrD fortgeführt (Art. 16 I, 116 I vor 116 II GG).
 
 
 
 
 ---
 
-### Reichsgesetzblätter 1933 bis 1935
+#### Reichsgesetzblätter 1933 bis 1935
 - Reichskonkordat mit Bezug auf "deutschen Staatsangehörigkeit" (RGBl. I 1933 S. 480 statt Art. 110 WRV)
 - "*deutsche Staatsangehörigkeit*" (RGBl. I 1934 S. 85, Art. 16 I GG statt Art. Art. 116 II GG) 
 - "*Deutsche*" Reichsbürger (RGBl. I 1935 S. 1146, Art. 116 GG statt Art. 116 II GG)
 
-#### Nur noch eine deutsche Staatsangehörigkeit 1934
 
-Der Übergang zur "deutschen Staatsangehörigkeit" im Jahr 1934 stellt einen epochalen Bruch in der Staatsangehörigkeitsgeschichte Deutschlands dar. Bestehende föderale und verfassungsrechtliche Prinzipien wurden zugunsten eines zentralisierten und homogenen Staatsangehörigkeitskonzepts aufgegeben.
-
----
-
-##### **Hintergrund: Föderale Struktur und Staatsangehörigkeit vor 1933**
-
-Bis zur Verordnung von 1934 basierte das Konzept der deutschen Staatsangehörigkeit auf einem föderalen System:
-- **Bundesstaatszugehörigkeit (BuStAG 1870):**
-  - Bürger eines deutschen Bundesstaates (wie Preußen, Bayern, Sachsen) besaßen zugleich eine „mittelbare Reichsangehörigkeit“.
-  - Diese doppelte Struktur garantierte föderale Vielfalt und Eigenständigkeit innerhalb des Deutschen Reichs.
-
-- **RuStAG 1913:**
-  - Die Reichs- und Staatsangehörigkeitsgesetzgebung führte ein zentrales Regelwerk für den Erwerb und Verlust der Staatsangehörigkeit ein, ließ aber die föderale Landeszugehörigkeit unberührt.
-
-Mit der Verordnung von 1934 wurde der föderale Charakter der Staatsangehörigkeit durch folgende Schritte radikal verändert:
+Der Übergang zur "*deutschen Staatsangehörigkeit*" im Jahr 1934 stellt einen epochalen Bruch in der Staatsangehörigkeitsgeschichte Deutschlands dar. Bestehende föderale und verfassungsrechtliche Prinzipien wurden zugunsten eines zentralisierten und homogenen Staatsangehörigkeitskonzepts aufgegeben. Mit der Verordnung von 1934 wurde der föderale Charakter der Staatsangehörigkeit u.a. durch folgende Schritte radikal verändert:
 
 #### **§ 1 RGBL. I Nr. 81 S. 480 (1933): Disposition und Widerruf der Staatsangehörigkeit**
 1. **Targeting der Weimarer Staatsbürgerschaften (Art. 110 WRV):**
@@ -183,27 +177,16 @@ Am 5. Februar 1934 besiegelte die "Verordnung über die deutsche Staatsangehöri
 4. **Ersatz durch neue Zuständigkeitsmerkmale (§ 4):**
    - Wo zuvor die Landeszugehörigkeit zählte, wurde nun die „Niederlassung“ oder die „letzte Abfolge“ der Landesangehörigen historisch reduziert.
 
+Mit der [Verordnung von 1934](https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FReichsgesetzblaetter-1933-1935.md) wurde die Individualität von Bundesländern (Reichsländern) ausgelöscht. „Deutschsein“ wurde ausschließlich als zentrale Kategorie verstanden, was die föderale Struktur stark einschränkte. Die Maßnahmen boten die Grundlage für das Reichsbürgergesetz von 1935, das weiterreichende Diskriminierung und Ausschluss vorantrieb. Der Übergang zur „einen deutschen Staatsangehörigkeit“ trat bereits mit einer inhärenten Implikation von zentraler Kontrolle und Exklusion auf.
 
-#### **Vollständige Zentralisierung der Staatsangehörigkeit:**
-- Mit der Verordnung von 1934 wurde die Individualität von Bundesländern ausgelöscht.
-- „Deutschsein“ wurde ausschließlich als zentrale Kategorie verstanden, was die föderale Struktur stark einschränkte.
+Doch erst die Nazifizierung des unmittelbaren "Deutschen" Reichsbürgers (UR) 1935, den es von 1914 bis 1935 so nie gab, machte durch RGBl. I 1935 S. 1146 aus
+dem "Deutschen" Reichsbürger nach Art. 110 II WRV auf Basis UR (RuStAG) ab 15.09.1935 den nazistischen "Deutschen Reichsbürger" ebenfalls auf Basis UR, den nicht jeder "*deutsche Staatsangehöriger*" (1934, Art. 16 I GG) erhielt, identisch in Logik und Methode dem heutigen "*Deutschen*" Staatsbürger nach Art. 116 I GG, der via §§ 30 I, 33 I StAG kontrollierbar bleibt. Es fehlte bewusst ein "*unmittelbarer Reichsbürger*", da die unmittelbaren Reichsangehörigen gerade kein "*Reichstagswahlrecht*" besitzen sollten und demzufolge auch nicht besitzen konnten (vgl. RGBl. I 1935 S. 1333).
 
-#### **Einführung einer diskriminierenden Staatsangehörigkeitsstruktur:**
-- Die Maßnahmen boten die Grundlage für das Reichsbürgergesetz von 1935, das weiterreichende Diskriminierung und Ausschluss vorantrieb.
-- Der Übergang zur „einen deutschen Staatsangehörigkeit“ trat bereits mit einer inhärenten Implikation von zentraler Kontrolle und Exklusion auf.
+[Artikel 16 GG](https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FArtikel-16-GG.md) schützt also diese "*deutschen Staatsangehörigen*" vor willkürlichem Entzug ihrer Staatsangehörigkeit und bewahrt dabei das Prinzip, das im NS-Reich zerrüttet wurde. Artikel 116 II GG versucht, die individuellen Rechte früherer Staatsangehöriger der Bundesstaaten sowie ihrer Nachkommen wiederherzustellen, bleibt jedoch in der praktischen Anwendung schwach. Trotz der föderalen Argumentation in Artikel 20 GG hat die zentrale Kategorie der „einen deutschen Staatsangehörigkeit“ (1934) Bestand und wirkt weiterhin gegen föderale Differenzierung.
 
-Artikel 16 GG schützt deutsche Staatsangehörige vor willkürlichem Entzug ihrer Staatsangehörigkeit und bewahrt das Prinzip, das im NS-Reich zerrüttet wurde. Artikel 116 II GG versucht, die individuellen Rechte früherer Staatsangehöriger der Bundesstaaten sowie ihrer Nachkommen wiederherzustellen, bleibt jedoch in der praktischen Anwendung schwach. Trotz der föderalen Argumentation in Artikel 20 GG hat die zentrale Kategorie der „einen deutschen Staatsangehörigkeit“ (1934) Bestand und wirkt weiterhin gegen föderale Differenzierung.
-
-Der Übergang zur „deutschen Staatsangehörigkeit“ im Jahr 1934 war ein zentraler Bruch in der deutschen Rechtsgeschichte. Was als Instrument für Kontrolle und Homogenisierung begann, schuf eine zentralisierte Kategorie, die bis heute im deutschen Staatsrecht wenig föderale Vielfalt zulässt und den Grundsatz der Bundesstaatlichkeit (Art. 20 GG) schwächt. Die Antwort auf diesen historischen Bruch liegt in einer sorgfältigen Neuausrichtung, die auf einer Anerkennung früherer föderaler Rechtsstrukturen basiert.
-
-https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FReichsgesetzblaetter-1933-1935.md
+Der Übergang zur „*deutschen Staatsangehörigkeit*“ im Jahr 1934 war ein zentraler Bruch in der deutschen Rechtsgeschichte. Was als Instrument für Kontrolle und Homogenisierung begann, schuf eine zentralisierte Kategorie, die bis heute im deutschen Staatsrecht wenig föderale Vielfalt zulässt und den Grundsatz der Bundesstaatlichkeit (Art. 20 GG) schwächt. Die Antwort auf diesen historischen Bruch liegt in einer sorgfältigen Neuausrichtung, die auf einer Anerkennung früherer föderaler Rechtsstrukturen basiert.
 
 
-#### Nazifizierung des unmittelbaren "Deutschen" Reichsbürgers (UR) 1935
-
-RGBl. I 1935 S. 1146
-
-Aus dem "Deutschen" Reichsbürger nach Art. 110 II WRV auf Basis UR (RuStAG) wurde ab 15.09.1935 der nazistische "Deutsche Reichsbürger" nach RGBl. I 1935 S. 1146 auf Basis UR, den nicht jeder "deutsche Staatsangehöriger" (1934, Art. 16 I GG) erhielt, identisch in Logik und Methode dem heutigen "Deutschen Staatsbürger nach Art. 116 I GG, der via §§ 30 I, 33 I StAG kontrollierbar blieb.
 
 
 
@@ -212,11 +195,7 @@ Aus dem "Deutschen" Reichsbürger nach Art. 110 II WRV auf Basis UR (RuStAG) wur
 #### Bonner Grundgesetz 1949 (GG)
 
 
-[Art. 16 GG](https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FArtikel-16-GG.md)
-
-[Art. 20 GG](https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FArtikel-20-GG_nF.md)
-
-Die "Deformation" der Bundesstaatlichkeit zeigt sich darin, dass Art. 20 I GG die Existenz eines föderalen, demokratischen Systems behauptet, aber die iterativen Verfassungsentwicklungen (RuStAG, RGBl. I 1934 u. 1935) eine systematische Zentralisierung fördern. Das Fehlen jeglicher "Bundesangehörigkeit" gemäß BuStAG 1870 (Art. 116 II GG u. selbst n. Art. 110 WRV) und die ausschließliche Konzentration auf die „nur noch eine deutsche Staatsangehörigkeit“ (RGBl. I 1934 S. 85, Art. 16 I GG) widerspricht der föderalen Logik. Im Artikel 20 II GG bleibt unklar, wer das "Volk" im Sinne des Artikels 116 I GG ist, da sich Art. 16 I GG auf "deutsche Staatsangehörige" bezieht, während Art. 116 I GG nur "Deutsche" berücksichtigt. Der mögliche Deutsche Bundesbürger aus Art. 116 II GG wird nicht berücksichtigt. Der Begriff "Bundesstaat" müsste im Rahmen des Artikels durch föderale Landesvölker konkretisiert werden. Dr. v. Rönne würde daher wohl sagen, es fehlt dem "Bundes-Staat" und selbst dem "Bundesstaat" was beiden "eigenthümlich" wäre. Der zentrale Bezug auf Recht und Gesetz im Artikel 20 III GG als Resultat verfassungsmäßiger Ordnung bleibt ambivalent. Vor allem wo es um die Urheberschaft des „Rechtes“ geht. Mit Bezug auf die Weimarer Reichsverfassung oder frühere Normen wie das BuStAG könnte „Recht und Gesetz“ durch föderale Prinzipien und Bundesstaatlichkeit geschärft werden. Fokus liegt also strikt auf 1934/35 statt 1918/19. Artikel 20 IV GG beschreibt Widerstandsrecht nicht für alle (!Art. 16 I u. !Art. 116 II GG). Obwohl „alle Deutschen“ (Art. 116 I GG) das Widerstandsrecht genießen, schließt diese Definition durch den Bezug auf Staatsangehörigkeitsrecht in Art. 16 I GG faktisch starke Widersprüche ein. Der Statusverlust historischer Bundesangehöriger wurde manifestiert. Durch den Ersatz genealogischer Bindungen (BuStAG 1870) mit zentralistischer Definitionsmacht (1934/35) wird das Widerstandsrecht auf rein reichszentrische Kategorien begrenzt. Nur "Deutsche" im Sinne Art. 116 I GG (Reich 1937) und keine "deutschen Staatsangehörigen" (Art. 16 I GG), keine "deutschen Reichsangehörigen" (Art. 110 WRV), keine Bundesangehörigen (BuStAG, Art. 3 I BVerf.) und keine "Deutschen" Bundesbürger (Art. 3 II BVerf., Art. 116 II GG). 
+Die "Deformation" der Bundesstaatlichkeit zeigt sich darin, dass [Artikel 20 I GG](https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FArtikel-20-GG_nF.md) die Existenz eines föderalen, demokratischen Systems behauptet, aber die iterativen Verfassungsentwicklungen (RuStAG, RGBl. I 1934 u. 1935) eine systematische Zentralisierung fördern. Das Fehlen jeglicher "***Bundesangehörigkeit***" gemäß BuStAG 1870 (Art. 116 II GG u. selbst n. Art. 110 WRV) und die ausschließliche Konzentration auf die „*nur noch eine deutsche Staatsangehörigkeit*“ (RGBl. I 1934 S. 85, Art. 16 I GG) widerspricht der föderalen Logik. Im Artikel 20 II GG bleibt unklar, wer das "Volk" im Sinne des Artikels 116 I GG ist, da sich Art. 16 I GG auf "*deutsche Staatsangehörige*" bezieht, während Art. 116 I GG nur "*Deutsche*" berücksichtigt. Der mögliche Deutsche Bundesbürger aus Art. 116 II GG wird nicht berücksichtigt. Der Begriff "*Bundesstaat*" müsste im Rahmen des Artikels durch föderale Landesvölker konkretisiert werden. Dr. v. Rönne würde daher wohl sagen, es fehlt dem "*Bundes-Staat*" und selbst dem "*Bundesstaat*" was beiden "*eigenthümlich*" wäre. Der zentrale Bezug auf Recht und Gesetz im Artikel 20 III GG als Resultat verfassungsmäßiger Ordnung bleibt ambivalent. Vor allem wo es um die Urheberschaft des „Rechtes“ geht. Mit Bezug auf die Weimarer Reichsverfassung oder frühere Normen wie das BuStAG könnte „Recht und Gesetz“ durch föderale Prinzipien und Bundesstaatlichkeit geschärft werden. Fokus liegt also strikt auf 1934/35 statt 1918/19. Artikel 20 IV GG beschreibt Widerstandsrecht nicht für alle (!Art. 16 I u. !Art. 116 II GG). Obwohl „alle Deutschen“ (Art. 116 I GG) das Widerstandsrecht genießen, schließt diese Definition durch den Bezug auf Staatsangehörigkeitsrecht in Art. 16 I GG faktisch starke Widersprüche ein. Der Statusverlust historischer Bundesangehöriger wurde manifestiert. Durch den Ersatz genealogischer Bindungen (BuStAG 1870) mit zentralistischer Definitionsmacht (1934/35) wird das Widerstandsrecht auf rein reichszentrische Kategorien begrenzt. Nur "Deutsche" im Sinne Art. 116 I GG (Reich 1937) und keine "*deutschen Staatsangehörigen*" (Art. 16 I GG), keine "*deutschen Reichsangehörigen*" (Art. 110 WRV), keine Bundesangehörigen (BuStAG, Art. 3 I BVerf.) und keine "*Deutschen*" Bundesbürger (Art. 3 II BVerf., Art. 116 II GG). 
 
 
 https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FArtikel-116-GG_aF.md.
