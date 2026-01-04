@@ -58,9 +58,9 @@ https://youtu.be/Jwa7IjnJk_s
 ---
 
 
-https://github.com/Znih/Znih/blob/main/BrD-Genozide.md
+https://github.com/Znih/Znih/blob/main/BrD-Genozide.md z.K. u. w.V.
 
-https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FEinleitung-Bundes.md
+https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FEinleitung-Bundes.md z.K. u. w.V.
 
 
 
