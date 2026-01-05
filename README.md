@@ -56,7 +56,6 @@ https://github.com/Znih/Znih/discussions/16
 
 -->
 
----
 
 ### **Artikel 17 GG: Petitionsrecht**
 
@@ -66,7 +65,7 @@ https://github.com/Znih/Znih/discussions/16
 
 ### **Strafantrag und Anklage: Schutz der Ordnung in Art. 20 GG und Abwehr gegen Missbrauch**
 
-Gegen alle „*Deutschen*“ Staatsbürger im Sinne des **Artikels 116 Absatz 1** (zentrale Reichskategorie „*Deutscher*“) und vor allem des **Absatzes 2 GG** (historische Bundesbürger nach Bundesstaatslogik), die gegen die Ordnung der Bundesrepublik nach **Artikel 20 GG** vorgehen, kann Strafantrag oder Anklage gestellt werden. Insbesondere richten sich solche Verfahren gegen jene, die **aktiv versuchen**, die [Rechte von Bundesbürgern](https://github.com/Znih/Znih/blob/main/ist%20Zustand%2F2025_CopilotKI-Dialog-Deutsche-1871-1919-1935-1990-2000-2005.md) (im Sinne des [Artikels 116 Absatz 2 GG](https://github.com/Znih/Znih/blob/main/ist%20Zustand%2F2025_CopilotKI-Dialog-Deutsche-1871-1919-1935-1990-2000-2005.md)) zu untergraben oder **auszuschließen**.
+Gegen alle „*Deutschen*“ Staatsbürger im Sinne des **Artikels 116 Absatz 1** (zentrale Reichskategorie „*Deutscher*“) und vor allem des **Absatzes 2 GG** (historische Bundesbürger nach Bundesstaatslogik), die gegen die Ordnung der Bundesrepublik nach **Artikel 20 GG** vorgehen, kann Strafantrag oder Anklage gestellt werden. Insbesondere richten sich solche Verfahren gegen jene, die **aktiv versuchen**, die [Rechte von Bundesbürgern](https://github.com/Znih/Znih/blob/main/ist%20Zustand%2FEinleitung-Bundes.md) (im Sinne des [Artikels 116 Absatz 2 GG](https://github.com/Znih/Znih/blob/main/ist%20Zustand%2F2025_CopilotKI-Dialog-Deutsche-1871-1919-1935-1990-2000-2005.md)) zu untergraben oder **auszuschließen**.
 
 #### **Hintergrund der Problematik**
 
