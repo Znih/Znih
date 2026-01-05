@@ -211,7 +211,7 @@ Die "Deformation" der Bundesstaatlichkeit zeigt sich darin, dass [Artikel 20 I G
 
 
 
-Die Überleitung von 1934 jedenfalls wird im weitgehend unbekannten BGBI. III vom 01.08.1959 Folge 6 Sachgebiet 1 - Staats- und Verfassungsrecht S. 69 noch in Gliederungsnummer 102-5 (FNA) versteckt. Die Sammlung des Bundesrechts dient hauptsächlich der Neuveröffentlichungen als Abschriften des Bundes- und Reichsrecht. So wird darin auch das Gesetz zur Regelung von Fragen der Staatsangehörigkeit vom 22. Februar 1955 versteckt (BGBl. I 1955 S. 65, verk. am 25. 2. 1955).
+Die Überleitung von 1934 und mögliche "Ausschlagung" für "Sammeleingebürgerte" DDR Staatsbürger jedenfalls wird im weitgehend unbekannten **BGBI. III vom 01.08.1959 Folge 6 Sachgebiet 1 - Staats- und Verfassungsrecht S. 69 noch in Gliederungsnummer 102-5 (FNA)** versteckt. Die Sammlung des Bundesrechts dient hauptsächlich der Neuveröffentlichungen als Abschriften des Bundes- und Reichsrecht. So wird darin auch das Gesetz zur Regelung von Fragen der Staatsangehörigkeit vom 22. Februar 1955 versteckt (**BGBl. I 1955 S. 65, verk. am 25. 2. 1955**).
 
 
 
