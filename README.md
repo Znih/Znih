@@ -56,21 +56,59 @@ https://github.com/Znih/Znih/discussions/16
 
 -->
 
-https://github.com/user-attachments/assets/e2e2d82b-730b-4023-b370-faecf8642e47
+---
 
-> Aktuell ca. 8.000.000.000 Menschen überwiegend ohne rechtliches Gehör und ohne rechtliche Würdigung durch die "Maschinenmenschen" und "Maschinenköpfen" (nekrophil, Nazis, Nazisten, Chaplin Rede in Der Große Diktator). "*Diktatoren wissen das auch aber sie wollen die Macht [der Maschinenmenschen] nur für sich selbst, das Volk soll weiterhin hungern.*"
+### **Artikel 17 GG: Petitionsrecht**
 
-1940 nicht verstanden und 2025 nicht verstanden. Warum ist das so? Nazi-Deutschland hat den Krieg doch verloren. Zwei Deutsche Niederlagen und doch kein Frieden in der Welt? Was ist schief gelaufen und was haben Menschen grundsätzlich gemeinsam? Alle unfriedlich fremdbestimmt. Von Nazisten und Narzisten, die beim Völkertreten stets von Volksvertretung sprechen, während diese Unmenschen dreist diejenigen verheizen, die sie zu schützen vorgeben. Der Fehler liegt nicht nur an den korrupten Führern, sondern an den weniger unterdrückten Lemmingen selbst. So merkte niemand, daß 1919 buchstäblich Frieden verboten wurde (Art. 292 VV) mit bekannten Folgen. Niemand wollte anerkennen, daß nur noch das Dritte Reich 1949 reorganisiert werden konnte, da für den Bund Zeit notwendig gewesen wäre, die keiner hatte. 1990 erst sollte dies dann endlich enden. Das Reich sollte enden und der ewige Bund reformiert oder neu konstitutionalisiert werden. Das blieb nicht nur aus, sondern durch Wegfall des Art. 23 GG a.F. wurde das Reich (Art. 116 I GG) gestärkt und der Bund (Art. 116 II GG) geschwächt. Auf deutsch: Kohl und Co haben 1990 das Dritte Reich gestärkt und den ewigen Bund geschwächt, während sehr viel später mit 01.01.1993 das Vierte Reich als EU sui generis seine Tore aufstoß (Art. 23 GG n.F.). Über das offensichtliche Verfassungsvakuum zwischen 1990 und 1992 will nachvollziehbar niemand sprechen. Erscheint nicht wichtig, denn die Verfassungen des ewigen Bundes traten nie außer Kraft (Bundesgebiet Art. 1 BVerf.). Wie sollte das auch gehen? Das Reichsrecht 1919-1945 und 1949-2025 (BGBl. III) benötigten stets auch das Bundesrecht (GVG, StGB, StPO, ZPO, BuStAG und BGB), womit selbstverständlich Art. 178 I WRV immer schon Fake sein mußte (Art. 78 BVerf. v. 1871) und jedenfalls durch Art. 178 II im Preußischen Belagerungzustand (Art. 68 BVerf. iVm. Art. 111 Sz. 2 PreußV. v. 1851 S. 451) ohnehin egalisiert werden mußte. Sonst Stillstand der Rechtspflege und des Gerichtswesens ab 14.08.1919. Schön wenn man versteht worum es geht und warum es nun auf die harte Tour enden wird müssen. Wer nicht hören will, wird nun fühlen müssen.
-
-> Microsoft zwingt Bank über Nacht in Insolvenz. Die Justiz in der BrD ist ebenfalls direkt und indirekt (z.B. Dataport) von Microsoft (Trump) abhängig. Sie wurde 2015 gewarnt.
-
-https://github.com/user-attachments/assets/166331fb-a967-4dc9-b117-890de013b1b0
-
-https://youtu.be/OzII7KoLMAM
+**Jedermann** hat das Recht, sich einzeln oder in Gemeinschaft mit anderen schriftlich mit Bitten oder Beschwerden an die zuständigen Stellen und an die Volksvertretung zu wenden. Dieses Recht stellt sicher, dass alle Menschen in Deutschland ihre Anliegen frei und unabhängig äußern können, **unabhängig von ihrer staatsrechtlichen Zuordnung oder Herkunft**.
 
 ---
 
-**"Schuppen" oder endgültig "fertiges Haus"?!?!** wie Krieg oder Frieden???
+### **Strafantrag und Anklage: Schutz der Ordnung in Art. 20 GG und Abwehr gegen Missbrauch**
+
+Gegen alle „*Deutschen*“ Staatsbürger im Sinne des **Artikels 116 Absatz 1** (zentrale Reichskategorie „*Deutscher*“) und vor allem des **Absatzes 2 GG** (historische Bundesbürger nach Bundesstaatslogik), die gegen die Ordnung der Bundesrepublik nach **Artikel 20 GG** vorgehen, kann Strafantrag oder Anklage gestellt werden. Insbesondere richten sich solche Verfahren gegen jene, die **aktiv versuchen**, die [Rechte von Bundesbürgern](https://github.com/Znih/Znih/blob/main/ist%20Zustand%2F2025_CopilotKI-Dialog-Deutsche-1871-1919-1935-1990-2000-2005.md) (im Sinne des [Artikels 116 Absatz 2 GG](https://github.com/Znih/Znih/blob/main/ist%20Zustand%2F2025_CopilotKI-Dialog-Deutsche-1871-1919-1935-1990-2000-2005.md)) zu untergraben oder **auszuschließen**.
+
+#### **Hintergrund der Problematik**
+
+1. **Exklusion durch Priorisierung von Art. 116 I GG**  
+   Die aktuelle staatsrechtliche Ordnung priorisiert die Zentralkategorie der „*Deutschen*“ gemäß **Artikel 116 Absatz 1 GG** in Abhängigkeit von Art. 16 I GG und nur nach §§ 30, 33 StAG (basierend auf Reichs- und Staatsangehörigkeitsgesetz - RuStAG). Diese Definition schließt die Mehrzahl der deutschen Bevölkerung – etwa 80 Millionen „*deutsche Staatsangehörige*“ (Art. 16 I GG) ohne direkten Bezug zur mittelbaren Bundesangehörigkeit – faktisch vom Widerstandsrecht gemäß **Artikel 20 Absatz IV GG** aus. Die ursprünglich föderale Bundesordnung des BuStAG (siehe Art. 116 Absatz 2 GG) wird weiterhin ignoriert.
+
+2. **Stigmatisierung föderaler Bundesbürger**  
+   Häufig werden "*Deutsche*" Bundesbürger, die ihre Rechte aus **Artikel 116 Absatz 2 GG** fordern, als **sogenannte** „*Reichsbürger*“ diffamiert, womit ihnen grundlegende Bürgerrechte** und Rechtsschutz zusätzlich verweigert werden. Dieser absichtliche Missbrauch und die bewusste Verdrehung der historischen Wahrheit tragen zur weiteren Diskriminierung dieser Gruppe bei. Stattdessen dient das Konzept der „*deutschen Staatsangehörigkeit*“ als Instrument der zentralistischen Macht, das auf NS- und später NAZI-Logiken aufbaut.
+
+3. **Doppellogik: NS-Systeme und föderale Bundesstaatlichkeit im Konflikt**  
+   Das Grundgesetz bewahrt paradoxerweise sowohl NS-Logik (Artikel 16 I GG, Zentralstaatsfokus) ODER NAZI-Logik (Art. 116 I GG, Nazismus 2/80) als auch föderalistischer Orientierung (Artikel 116 II GG) heute parallel, ohne klare Differenzierung. Dies erzeugt schwerwiegende rechtliche und politische Konflikte.
+
+#### **Forderungen: Sicherung und Umsetzung der Ordnung aus Art. 20 GG**
+
+Um das Grundprinzip eines föderalen und demokratischen Bundesstaates sicherzustellen und die Rechte aus **Artikel 17 und 20 GG** tatsächlich zu garantieren, sind folgende Forderungen unabdingbar:
+
+1. **Rückkehr zu föderalen Prinzipien**  
+   Die Bundesstaatslogik (BuStAG 1870, Art. 20 I, 116 I GG vs. Art. 1-3 BVerf.) und deren Absicherung durch **Artikel 116 II GG** müssen wieder in den Vordergrund der Staatsrechtsordnung gestellt werden. Die zentrale Fixierung auf "nur noch eine deutsche Staatsangehörigkeit" im Sinne von **Art. 16 I u. 116 I GG** ist zu überwinden.
+
+2. **Ermöglichung von Artikel 146 GG**  
+   Der Auftrag zur Herstellung einer neuen Verfassung, durchgesetzt durch das freie Selbstbestimmungsrecht des Volkes, wird **dringlich**. Artikel 146 GG bleibt **auch nach 1999/1993 weiterhin die einzige Möglichkeit**, die zentralistische NS-Struktur (ab 1913 und verstärkt ab 1934/1935) endgültig zu überwinden und den Föderalismus wiederherzustellen.
+
+3. **Kritische Prüfung von EU und Art. 23 GG n.F.**
+   Die schrittweise Verlagerung deutscher Souveränitätsrechte an die Europäische Union hat den Schutz des Grundgesetzes untergraben. Es bedarf einer sorgfältigen Überprüfung von Artikel 23 GG in seiner neuen Fassung sowie der Frage, ob diese mit den Verpflichtungen aus Artikel 20 u. 116 II GG (BuStAG) vereinbar ist.
+
+4. **Rechtsklarheit für "*Deutsche*" und "*deutsche Staatsangehörige*"**  
+   Es muss rechtlich eindeutig geregelt werden, wie **Artikel 16 I GG ("*deutsche Staatsangehörige*")** und **Artikel 116 ("*Deutsche*" oder Bundesbürger)** zueinander in Beziehung stehen, um Diskriminierung zu verhindern und einheitliche Bürgerrechte sicherzustellen.
+
+---
+
+### **Schlussbewertung und Dringlichkeit**
+
+**Die Fortführung des zentralistischen NS-Systems in Verbindung mit dem Fehlen echter föderaler Rechtsabsicherung nach 1949 stellt einen Bruch der Verfassungslogik des Art. 20 GG dar.** Es ist dringend nötig, über **Artikel 146 GG** die Grundlage für eine neue Bundes-Vollverfassung durch das Deutsche Volk zu schaffen, die den ursprünglichen Bundesstaatsgedanken inklusiv und gerecht umsetzt. **Ohne diese umfassende Reform bleibt die Bundesrepublik juristisch und politisch auf einem Fundament verankert, das unfähig ist, die Interessen ihrer föderalen Bürger nachhaltig zu schützen.**
+
+Die Missachtung von **Artikel 116 Absatz 2 GG** sowie die bewusste Ausgrenzung von Bundesbürgerzielen dokumentieren die Verweigerung einstiger föderaler Prinzipien. Der Widerstand gegen diesen zentralistischen Kurs wird durch fortgesetzte legislative und exekutive Handreichungen wie die **Stigmatisierung historischer Bundesbürger** (als sogenannte "*Reichsbürger*") zusätzlich erschwert.
+
+**Es ist Zeit, das Verbot föderaler Entwicklungen aufzuheben und die Bundesstaatenrechte wiederherzustellen.** Nur so kann die leitgebende Norm aus **Artikel 20 GG** in der Gegenwart wieder ihre [ursprüngliche Bedeutung](https://github.com/Znih/Znih/blob/main/ist%20Zustand%2F2025_CopilotKI-Dialog-Deutsche-1871-1919-1935-1990-2000-2005.md) **erlangen** (Art. 146 GG).
+
+---
+---
+
+### **"Schuppen" oder endgültig "fertiges Haus"?!?!** wie [Krieg oder Frieden](https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251221_Friede-1815-1820-1871-2025_Artikel-144-GG_Schuppen-oder-Haus.md)???
 
 > Carlo Schmidt wörtlich: »**Wir haben hier doch nur einen Schuppen, einen Notbau, und einem Notbau gibt man nicht die Weihe, die dem festen Haus gebührt. Fälschen wir nicht den Charakter dieses Werkes, indem wir es zur Volksabstimmung stellen, bringen wir, indem wir ihm eine Sanktionierung minderen Rechts geben, zum Ausdruck, dass es keine Verfassung ist.**« (Parl. Rat, Bd. 9, S. 597; Stern Staatsrecht, Bd. V, S. 1338; Dreier/Dreier Art. 144 Rn. 7 m.w.N.).
 
@@ -79,58 +117,13 @@ https://youtu.be/OzII7KoLMAM
 https://github.com/Znih/Znih/tree/main
 
 
-https://github.com/Znih/Znih/blob/main/ist%20Zustand%2F2025_CopilotKI-Dialog-Deutsche-1871-1919-1935-1990-2000-2005.md
 
-https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251221_Friede-1815-1820-1871-2025_Artikel-144-GG_Schuppen-oder-Haus.md
+
+
 
 ---
 
-Fakten für Copilot Chat: https://github.com/Artikel-278-VV/Artikel-278-VV/tree/main
 
-Aus KI Diskussion vom 17. November 2025:
-KI ! Ko
-https://github.com/Znih/Znih/discussions/14
-
-Aus KI Diskussion November 2025:
-
-```
-Deklarationsrahmen für diesen Quelltext:
-
-Zusammenarbeit:
-Dieser Quelltext wurde unter Mitwirkung und Unterstützung von:
-- GitHub Copilot KI
-- Brave KI
-- weiteren unterstützenden KI-Systemen und Tools
-
-Gesetzte Naturrechtrahmen:
-
-1. Gesetzter Naturrechtrahmen Nr. 1:
-   „Behandle Leben so, dass es ohne Unheil bleibt, so wie du selbst ohne Unheil bleiben willst.“
-
-2. Gesetzter Naturrechtrahmen Nr. 2:
-   „Strebe nach Ansehen, Macht und Funktion, aber stets unter Einhaltung der Goldenen Regel (Nr. 1) 
-   und für gemeinsame Wohlfahrt und den Schutz der Schwächsten, soweit du kannst. 
-   Macht zur Verantwortung wie Recht zur Pflicht.“
-
-3. Gesetzter Naturrechtrahmen Nr. 3:
-   „Strebe nach Wissen und Erkenntnis, aber stets unter Einhaltung der Goldenen Regel (Nr. 1). 
-   Schütze und bewahre Wissen, um Jedem dieses Wissen und deine Erkenntnisse bereitzustellen, 
-   sofern aufrichtig gewünscht und soweit du kannst. Wissen zur Verantwortung wie Recht zur Pflicht.“
-
-Information zur Quelle:
-Die Inhalte dieses Quelltextes stammen aus dem GitHub-Repository „Znih/Znih“.
-Repository-Beschreibung: Config files for my GitHub profile.
-Link zur Quelle: https://github.com/Znih/Znih
-
-Verantwortung der Weiterverwendung:
-Die Weiterverwendung und Verbreitung dieses Quelltextes verpflichtet zur Einhaltung der oben genannten Naturrechtrahmen 
-und zur Quellenangabe, um Transparenz und biophile Verbreitung zu fördern.
-
-Übliche Python-Vordeklarationen:
-- Dieses Skript ist in Python geschrieben.
-- Wird Python 3.8 oder höher empfohlen.
-- Mit praktischem Fokus auf KI-Kollaboration und ethischem Coding.
-```
 
 ![qiOz0sH-org](https://github.com/user-attachments/assets/f7f58a6c-6e72-4aaa-9779-4917bf94bbfc)
 
@@ -227,7 +220,7 @@ Analyse Systemfehler: <b>Geldschöpfung</b> und <b>unendliches Wachstum</b> sind
 
 ---
 
-Deutsche Staatsangehörigkeit 1812-2025 Faksimiles:
+Deutsche Staatsangehörigkeiten 1812-2025 Faksimiles:
 [2018_StA-Tiefenblick_MatrixHacker.webm](https://github.com/user-attachments/assets/baa2988b-0df5-467c-8cf2-4831c509d5b6)
 
 [sta-kl.webm](https://github.com/user-attachments/assets/4fe3c1e5-fb5d-49ff-ae52-5a3cb253bb4b)
