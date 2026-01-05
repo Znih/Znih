@@ -8,6 +8,10 @@ Folge dem Geld und den Gesetzestexten!
 
 ![Screenshot_20251229_193645~2.jpg](https://github.com/user-attachments/assets/9d687fe6-8153-4462-bfc8-14b226bbb2ee)
 
+https://github.com/Znih/Znih/blob/main/RuStAG-RoStAG-Falle-1913.md
+
+---
+
 
 ## § 37 StAG (RoStAG)
 
