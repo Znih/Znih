@@ -302,6 +302,26 @@ https://github.com/user-attachments/assets/4d6d345e-4338-4291-873f-767313206479
 
 Noch als "*Deutscher*" im Sinne des Art. 116 I u. II GG zwecks rechtserheblicher Tätigkeit (§§ 30 I, 33 I StAG) in der Eigenschaft als IT-Justiz Systemadministrator AG Rendsburg und Sicherheitsberater für das Justizministerium samt Staatskanzlei Kiel erstellt, jedoch nach der [Remonstration vom 16.02.2017](https://github.com/Znih/Znih/blob/main/BrD-Genozide.md) (nur noch Art. 16 I GG) veröffentlicht. Ab **01.07.2017** kein "***Deutscher***" mehr, sondern "***nur noch***" deutscher Staatsangehörigker im Sinne Art. 16 I GG (1934 statt 1937).
 
+## Zitate adressiert an Jeden der versteht
+
+> "*Verletze niemanden, vielmehr hilf allen, **soweit du kannst**.*" Arthur Schopenhauer
+
+> "*Wie nun, wenn jemand, mit dem, principe' in der Hand, sagte:, gerade solche Handlungen muß man tun, damit andere uns nicht zuvorkommen - damit wir andere außerstand setzen, sie uns anzutun?' - Andrerseits: denken wir uns einen Corsen, dem seine Ehre die vendetta gebietet. Auch er wünscht keine Flintenkugel in den Leib: aber die Aussicht auf eine solche, die Wahrscheinlichkeit einer Kugel hält ihn nicht ab, seiner Ehre zu genügen... Und sind wir nicht in allen anständigen Handlungen eben absichtlich gleichgültig gegen das, was daraus für uns kommt? Eine Handlung zu vermeiden, die schädliche Folgen für uns hätte - das wäre ein Verbot für anständige Handlungen überhaupt.*" Friedrich Wilhelm Nietzsche
+
+### Adressiert an Frau Merkel
+
+> Kommt ein Staatsmann mit dem Handbuch Machiavelli "*Der Fürst*" in der Hand und sagt: "***Wir müssen angreifen bevor die Russen es tun***". Oder kommt die Mafia fordert Blutrache um die Ehre wiederherzustellen, haben wir dann in diesen vermeintlich anständigen Handlungen vollkommen gleichgültig übersehen, was dies für uns an bösen Folgen bringt?
+
+> "***Eine unüberlegte Handlung zu vermeiden, die schädliche Folgen für uns und andere hätte, dass wäre eine anständige Handlungen überhaupt.***" MarcZ (In Anlehnung an Nietzsche)
+
+Mit freundlichen Grüßen
+
+Der Admin Marco Hinz
+
+Anlagen:
+- (Art. 5 Künftige Verfassungsänderungen... **mit der Frage der Anwendung des Artikels 146 des Grundgesetzes** und in deren Rahmen einer **Volksabstimmung**.)
+
+
 https://github.com/user-attachments/assets/5ceb863b-bc61-4979-a83e-3c0b249f07ed
 
 Beides unfreiwillig und ohne gerechten Lohn (Belohnung).
