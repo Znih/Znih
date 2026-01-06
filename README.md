@@ -173,7 +173,6 @@ Bitte beachten: Die Ergebnisse könnten unvollständig sein. Für eine vollstän
 
 ![qiOz0sH-org](https://github.com/user-attachments/assets/f7f58a6c-6e72-4aaa-9779-4917bf94bbfc)
 
-<video src="https://github.com/user-attachments/assets/51a1c58a-8a1d-4147-b9e9-30049d5e174a" controls="controls" style="max-width: 730px;"></video>
 
 
 
@@ -267,7 +266,6 @@ Analyse Systemfehler: <b>Geldschöpfung</b> und <b>unendliches Wachstum</b> sind
 Deutsche Staatsangehörigkeiten 1812-2025 Faksimiles:
 [2018_StA-Tiefenblick_MatrixHacker.webm](https://github.com/user-attachments/assets/baa2988b-0df5-467c-8cf2-4831c509d5b6)
 
-https://github.com/user-attachments/assets/5ceb863b-bc61-4979-a83e-3c0b249f07ed
 
 
 # Hallo, ich bin Znih 👋
@@ -327,6 +325,8 @@ Noch als "*Deutscher*" im Sinne des Art. 116 I u. II GG zwecks rechtserheblicher
 https://github.com/user-attachments/assets/5ceb863b-bc61-4979-a83e-3c0b249f07ed
 
 Beides unfreiwillig und ohne gerechten Lohn (Belohnung).
+
+---
 
 https://github.com/user-attachments/assets/d883fcf2-0a0c-4d8f-9a80-31fd83a9362f
 
