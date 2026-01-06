@@ -70,7 +70,7 @@ https://github.com/user-attachments/assets/f872d24e-8b35-4526-9880-b1f7fc1f6154
 
 > **Richter:**"*Das ist, wenn ich das so sagen darf, eine hoch komplexe Frage, die Sie stellen.*"
 
-Was keine hochkomplexe Frage in einem Recht-Staat sein darf und umso brillianter vom Richter erklärt. **Gesetz**tes Recht, denn Recht stammt von Gerechtigkeit (ius) und wird zusätzlich festgesetzt (Lex), um es praktikabler zu machen. Deshalb gilt stets "***Recht und Gesetz***", mithin also **Recht vor Gesetz**. Gesetz darf Recht weder einschränken, entziehen noch brechen. Insoweit illustriert Art. 20 GG die vorliegenden Fakten und Aussagen im Video. Art. 20 III GG provoziert zusätzlich mit "*Gesetz und Recht*", was zwar seit 1919 so ist aber seit 1990 nicht so sein darf und zudem Art. 20 GG weiter entkernt.
+Was keine hochkomplexe Frage in einem Recht-Staat sein darf und umso brillianter vom Richter erklärt wird. **Gesetz**tes Recht, denn Recht stammt von Gerechtigkeit (ius, Ulpian/Celsus, Buschmann 2022) und wird zusätzlich festgesetzt (Lex), um es praktikabler zu machen. Deshalb gilt stets "***Recht und Gesetz***", mithin also **Recht vor Gesetz**. Gesetz darf Recht weder einschränken, entziehen noch brechen. Insoweit illustriert Art. 20 GG die vorliegenden Fakten und Aussagen im Video. Art. 20 III GG provoziert zusätzlich mit "*Gesetz und Recht*", was zwar seit 1919 so ist aber seit 1990 nicht so sein darf und zudem Art. 20 GG weiter entkernt.
 
 ---
 
