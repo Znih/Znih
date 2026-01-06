@@ -220,7 +220,7 @@ Bitte beachten: Die Ergebnisse könnten unvollständig sein. Für eine vollstän
 
 ## ZUSAMMENhänge ZUSAMMEN ZUSAMMENsetzen!
 
-> **Analyse Systemfehler: **Geldschöpfung** und **unendliches Wachstum** sind **Werkzeuge** zur **modernen Versklavung**. Ein Planet mit **begrenzten Ressourcen** an Rohstoffen und **begrenztem Platz** für den Müll, **widerspricht *logisch*** einem **unendlichen Wachstum** und der Notlösung einer "***Geplanten Obsoleszenz***", mithin also die fortschreitende, sich beschleunigende Umwandlung von Rohstoffen, Energie und menschlicher Arbeitskraft in MÜLL. **Nur ein Krieg setzt das System immer wieder zurück auf Anfang, *was 2025 misslang***.
+> **Analyse Systemfehler: Geldschöpfung** und **unendliches Wachstum** sind **Werkzeuge** zur **modernen Versklavung**. Ein Planet mit **begrenzten Ressourcen** an Rohstoffen und **begrenztem Platz** für den Müll, **widerspricht *logisch*** einem **unendlichen Wachstum** und der Notlösung einer "***Geplanten Obsoleszenz***", mithin also die fortschreitende, sich beschleunigende Umwandlung von Rohstoffen, Energie und menschlicher Arbeitskraft in MÜLL. **Nur ein Krieg setzt das System immer wieder zurück auf Anfang, *was 2025 misslang***.
 
 
 
