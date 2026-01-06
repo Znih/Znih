@@ -110,6 +110,81 @@ https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251219_Frie
 
 ---
 
+![20170216_Geordneter_Rueckzug-zensiert.pdf.1.jpg](https://github.com/user-attachments/assets/cd0f5288-09c8-4299-bdae-f36fabd27b01)
+
+### !GEZ 2.0 | Geordneter Rückzug | **Aufruf zur Einhaltung Artikel 20 Abs. 4 GG**
+
+
+Betreff: !GEZ 2.0 | Geordneter Rückzug | Aufruf zur Einhaltung des GG, gemäß Parlamentarischen Rat und Anwendung des Widerstandsrechts
+
+Von: <Marco. Hinz@AG-Rendsburg. LandSH.de>
+
+Datum: 16.02.2017 11:51
+
+An: <AG-RD_Gesamt@LandSH.de>
+
+Kopie (CC): <poststelle@generalbundesanwalt.de>,
+
+
+Sehr geehrte Kollegen, Vorgesetzte, Richter und vor allem Freunde,
+
+es ist an der Zeit einen geordneten Rückzug anzutreten. Für mich gibt es in der Justiz keine Verwendung mehr und **mein Gewissen** macht es zunehmend schwieriger wie gewohnt zu helfen.
+
+Zudem ist das nicht der Sinn des Lebens, gezwungenermaßen schlecht, dumm oder gar gefährlich zu arbeiten, wo ich es doch besser weiß, besser kann und vor allem eben auch bestmöglich tun möchte.
+
+[...]
+
+**Gleichsam ist diese Mail als eine Anzeige zu werten** und es ist nicht meine Aufgabe dieses zu tun, jedoch scheinen jene dessen Aufgabe es wäre diese bislang nicht übernehmen zu wollen. Nun zwinge ich auf eigene Gefahr alle nachzudenken, zu verstehen und entsprechend zu reagieren. **Aufruf zur Einhaltung des GG**, gemäß Parlamentarischen Rat und **Anwendung des Widerstandsrechts** https://dejure.org /gesetze/GG/20.html (siehe Anlagen).
+
+Diesmal kann niemand sagen, "***Wir haben es nicht gewusst.***". Dabei fordern EU und Regierung bereits seit Jahren offen das Aufleben des Kalten Krieges samt der Atomaren Aufrüstung. Nur Narren glauben noch an ein vermeintliches
+
+1 von 2
+
+22.02.2017 16:55
+
+---
+
+![20170216_Geordneter_Rueckzug-zensiert.pdf.2.jpg](https://github.com/user-attachments/assets/c843fade-a666-4e10-b72a-8836836404fb)
+
+"*Friedensbündnis*" NATO (siehe Anlagen).
+
+## Zitate:
+
+> "*Verletze niemanden, vielmehr hilf allen, soweit du kannst.*" Arthur Schopenhauer
+
+> "*Wie nun, wenn jemand, mit dem, principe' in der Hand, sagte:, gerade solche Handlungen muß man tun, damit andere uns nicht zuvorkommen - damit wir andere außerstand setzen, sie uns anzutun?' - Andrerseits: denken wir uns einen Corsen, dem seine Ehre die vendetta gebietet. Auch er wünscht keine Flintenkugel in den Leib: aber die Aussicht auf eine solche, die Wahrscheinlichkeit einer Kugel hält ihn nicht ab, seiner Ehre zu genügen... Und sind wir nicht in allen anständigen Handlungen eben absichtlich gleichgültig gegen das, was daraus für uns kommt? Eine Handlung zu vermeiden, die schädliche Folgen für uns hätte - das wäre ein Verbot für anständige Handlungen überhaupt.*" Friedrich Wilhelm Nietzsche
+
+### Adressiert an Frau Merkel
+
+> Kommt ein Staatsmann mit dem Handbuch Machiavelli "*Der Fürst*" in der Hand und sagt: "***Wir müssen angreifen bevor die Russen es tun***". Oder kommt die Mafia fordert Blutrache um die Ehre wiederherzustellen, haben wir dann in diesen vermeintlich anständigen Handlungen vollkommen gleichgültig übersehen, was dies für uns an bösen Folgen bringt?
+
+> "***Eine unüberlegte Handlung zu vermeiden, die schädliche Folgen für uns und andere hätte, dass wäre eine anständige Handlungen überhaupt.***" MarcZ (In Anlehnung an Nietzsche)
+
+Mit freundlichen Grüßen
+
+Der Admin Marco Hinz
+
+Anlagen:
+
+!GEZ 2.0 | Rundfunkbeitrag | Flensburger Ratsversammlung vom 02.02.2017 | Marc Paysen (WiF)
+
+https://www.youtube.com/watch?v=vllkgbsrxzA
+
+
+
+(Art. 5 Künftige Verfassungsänderungen... **mit der Frage der Anwendung des Artikels 146 des Grundgesetzes** und in deren Rahmen einer **Volksabstimmung**.)
+
+
+2 von 2
+
+22.02.2017 16:55
+
+---
+
+Remonstration mit Bezug auf Art. IV GG noch als "*Deutscher*" im Sinne Art. 116 I GG vom 16.02.2017 und dennoch ignoriert.
+
+---
+
 Faksimile Abschriften AA v. 1914-1918 mvwN: https://github.com/Artikel-278-VV/Artikel-278-VV/blob/main/transkript%2F20240801_Aufsatz-idF-7-9-2024.md
 
 https://github.com/Artikel-278-VV/Artikel-278-VV/blob/main/NS-EStG-1933-vs-Law-No-1.md
