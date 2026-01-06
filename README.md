@@ -300,7 +300,7 @@ Präzisiert und bereinigt bzgl. Art. 116 GG (2024)
 
 https://github.com/user-attachments/assets/4d6d345e-4338-4291-873f-767313206479
 
-Noch als "*Deutscher*" im Sinne des Art. 116 I u. II GG zwecks rechtserheblicher Tätigkeit (§§ 30 I, 33 I StAG) in der Eigenschaft als IT-Justiz Systemadministrator AG Rendsburg und Sicherheitsberater für das Justizministerium samt Staatskanzlei Kiel jedoch nach der Remonstration vom 16.02.2017 (nur noch Art. 16 I GG).
+Noch als "*Deutscher*" im Sinne des Art. 116 I u. II GG zwecks rechtserheblicher Tätigkeit (§§ 30 I, 33 I StAG) in der Eigenschaft als IT-Justiz Systemadministrator AG Rendsburg und Sicherheitsberater für das Justizministerium samt Staatskanzlei Kiel erstellt, jedoch nach der Remonstration vom 16.02.2017 (nur noch Art. 16 I GG) veröffentlicht. Ab **01.07.2017** kein "***Deutscher***" mehr, sondern "***nur noch***" deutscher Staatsangehörigker im Sinne Art. 16 I GG (1934 statt 1937).
 
 https://github.com/user-attachments/assets/5ceb863b-bc61-4979-a83e-3c0b249f07ed
 
