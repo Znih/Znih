@@ -122,7 +122,7 @@ https://github.com/Znih/Znih/blob/main/1871-Friede-1871.md
 
 ---
 
-## Aufsatz-Ordner mit OVG Beschwerde (1 S 77/24) iVm GitHub/Artikel-278-VV
+### Aufsatz-Ordner mit OVG Beschwerde (1 S 77/24) iVm GitHub/Artikel-278-VV
 
 1. WebView und Download via Proton Cloud zum Ordner, sicher dem WebLink folgen: https://drive.proton.me/urls/CVVMDDE9YW#ZE7PDaXtEnlZ
 
@@ -145,6 +145,8 @@ Zusatzmaterialien-Ordner
 2. WebView und Download via Proton Cloud zum Ordner, sicher dem WebLink folgen: Videos-2 https://drive.proton.me/urls/01SPZYCFCG#76rWvKxorl8g
 
 3. WebView und Download via Proton Cloud zum Ordner, sicher dem WebLink folgen: Videos-3 https://drive.proton.me/urls/F4H2TXFTP8#wSHYnBl5NoQd
+
+vwN.: https://github.com/Znih/Artikel-278-VV/tree/main
 
 
 ---
