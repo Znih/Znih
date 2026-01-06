@@ -47,11 +47,7 @@ In KI-Kollaboration und ethischem Coding. Fortan Globale Plebiszitbiophilie zur 
 
 ```
 
-https://github.com/Znih/Znih/discussions/18
 
-https://github.com/Znih/Znih/discussions/17
-
-https://github.com/Znih/Znih/discussions/16
 
 
 -->
@@ -116,7 +112,7 @@ Die Missachtung von **Artikel 116 Absatz 2 GG** sowie die bewusste Ausgrenzung v
 https://github.com/Znih/Znih/tree/main
 
 
-Was 1948 rückblickend die temporär vernünftigste Lösung gewesen sein mag, ist durch **erneute** "***Sanktionierung minderen Rechts***", seit 03.10.1990 bzw. 01.01.1993, ein Verbrechen gegen die Deutschen Bundesbürger (Art. 116 II GG) und selbstverständlich alle tangierten Nationen bis zur Ukraine. Es fehlte 1990 Europa und das Wort "***Frieden***" in den Überschriften. Es ging nur um BrD und EU in Hoher Hand gegen den Osten, um Rohstoffe zu sichern, die Gott falsch verteilt hat (EU/NATO/Tradoc/"Energiesicherheit").
+Was 1948 rückblickend die temporär vernünftigste Lösung gewesen sein mag, ist durch **erneute** "***Sanktionierung minderen Rechts***", seit 03.10.1990 bzw. 01.01.1993, ein Verbrechen gegen die Deutschen Bundesbürger (Art. 116 II GG) und selbstverständlich alle tangierten Nationen bis zur Ukraine. Es fehlte 1990 Europa und das Wort "***Frieden***" in den Überschriften. Es ging nur um BrD und EU in Hoher Hand gegen den Osten, um Rohstoffe zu sichern, die "Gott falsch verteilte (EU/NATO/Tradoc, "Energiesicherheit").
 
 
 
