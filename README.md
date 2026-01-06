@@ -300,7 +300,9 @@ Präzisiert und bereinigt bzgl. Art. 116 GG (2024)
 
 https://github.com/user-attachments/assets/4d6d345e-4338-4291-873f-767313206479
 
-Noch als "*Deutscher*" im Sinne des Art. 116 I u. II GG zwecks rechtserheblicher Tätigkeit (§§ 30 I, 33 I StAG) in der Eigenschaft als IT-Justiz Systemadministrator AG Rendsburg und Sicherheitsberater für das Justizministerium samt Staatskanzlei Kiel erstellt, jedoch nach der [Remonstration vom 16.02.2017](https://github.com/Znih/Znih/blob/main/BrD-Genozide.md) (nur noch Art. 16 I GG) veröffentlicht. Ab **01.07.2017** kein "***Deutscher***" mehr, sondern "***nur noch***" deutscher Staatsangehörigker im Sinne Art. 16 I GG (1934 statt 1937).
+Noch als "*Deutscher*" im Sinne des Art. 116 I u. II GG zwecks rechtserheblicher Tätigkeit (§§ 30 I, 33 I StAG) in der Eigenschaft als IT-Justiz Systemadministrator AG Rendsburg und Sicherheitsberater für das Justizministerium samt Staatskanzlei Kiel erstellt, jedoch nach der [Remonstration vom 16.02.2017](https://github.com/Znih/Znih/blob/main/BrD-Genozide.md) (nur noch Art. 16 I GG) veröffentlicht. Ab **01.07.2017** kein "***Deutscher***" mehr, sondern "***nur noch***" deutscher Staatsangehörigker im Sinne Art. 16 I GG (1934 statt 1937) ohne Art. 116 I GG.
+
+Tatsächlich blieb jeder ab 1967 geborener DDR Staatsbürger **statusloser Bundes- und Staatsangehöriger** ohne Art. 16 I GG, da 1990 nie wirklich in Art. 16 I GG statt in Art. 116 II GG rechtlich wirksam "***Zwangs-Sammeleingebürgert***" (c.f.) werden konnte (Jalta, Potsdam, New York, Bonn, Art. 20, 116 II, 123 I, 139 u. 146 GG). 
 
 ## Zitate adressiert an Jeden der versteht
 
