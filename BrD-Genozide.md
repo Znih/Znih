@@ -74,7 +74,7 @@ wegen
 
 Nazismus, Rechtsbeugung, Ausgrenzung bis zum Rechtschutzentzug durch systemisch wirkende "Handreichung", Beteiligung an einem Genozid gegen Deutsche und Europäer (EU Bürger n. Art. 116 I GG und nicht Art. 16 I GG.) und allen noch zu ermittelnden Delikte, Straftaten und Verbrechen.
 
-Beweise:
+## Beweise (s..u.):
 
 1990 wurde nicht daß Dritte Reich beendet, sondern als Groß-BrD fortgeführt ohne Verfassungskontinuität zum Bund wiederherzustellen und an Bundesrecht statt weiterhin an Reichsrecht anzuknüpfen. Zudem fehlt es bis heute an einer Bundesangehörigkeit und bis 1999 wurde Hitlers "deutsche Staatsangehörigkeit" sogar direkt fortgeführt und seit 1949 die nazistische NS-Reichsbürgerlogik nachgebaut und verschlimmert. Dies ist den Alliierten vermutlich nie wirklich entfallen jedenfalls nun ein oft angesprochener Fakt in der internationalen Gemeinschaft. Die Lebenswirklichkeit gibt den technischen Ausführungen absolut Recht.
 
@@ -119,6 +119,33 @@ https://github.com/Znih/Znih/blob/main/Versailler-Unfrieden-1919-1925.md
 https://github.com/Znih/Znih/blob/main/19161212_Deutsches-Friedensangebot.md
 
 https://github.com/Znih/Znih/blob/main/1871-Friede-1871.md
+
+---
+
+## Aufsatz-Ordner mit OVG Beschwerde (1 S 77/24) iVm GitHub/Artikel-278-VV
+
+1. WebView und Download via Proton Cloud zum Ordner, sicher dem WebLink folgen: https://drive.proton.me/urls/CVVMDDE9YW#ZE7PDaXtEnlZ
+
+A. Artikel-278-VV_Artikel-110-WRV_RGBI-I-1933-S480_u_RGBI-I-1934-S85_Artikel-16-I-GG_deutsch.mp4
+
+https://drive.proton.me/urls/S0H5J89YNM#k0MFtlrKjQQC
+
+b. Historie der „deutschen Staatsangehörigkeit" und der weniger bekannten „~bürgerschaften": https://drive.proton.me/urls/4CARPZNE9G#zushQtbiqxHA
+
+c. zusätzlich in externem Proton Ordner eine Sammlung d. Deutschen Bundesrechtes mvwN u. Faksmilies im Vergleich mit Artikel 9 aus 2plus4 „Das-vereinte-Deutschland" https://drive.proton.me/urls/MEY7CR9XXM#rIhfRk0TC47j
+
+Aufsatz-Anlagen-Ordner
+
+1. WebView und Download via Proton Cloud zum Ordner, sicher dem WebLink folgen: https://drive.proton.me/urls/R615QZ8XAM#AVGYEBVmRsbY
+
+Zusatzmaterialien-Ordner
+
+1. WebView und Download via Proton Cloud zum Ordner, sicher dem WebLink folgen: Videos https://drive.proton.me/urls/02S83SWHNW#Lg1IfehbdveJ
+
+2. WebView und Download via Proton Cloud zum Ordner, sicher dem WebLink folgen: Videos-2 https://drive.proton.me/urls/01SPZYCFCG#76rWvKxorl8g
+
+3. WebView und Download via Proton Cloud zum Ordner, sicher dem WebLink folgen: Videos-3 https://drive.proton.me/urls/F4H2TXFTP8#wSHYnBl5NoQd
+
 
 ---
 ---
