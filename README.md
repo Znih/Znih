@@ -134,7 +134,7 @@ Die Missachtung von **Artikel 116 Absatz 2 GG** sowie die bewusste Ausgrenzung v
 https://github.com/Znih/Znih/tree/main
 
 
-Was 1948 rückblickend die temporär vernünftigste Lösung gewesen sein mag, ist durch **erneute** "***Sanktionierung minderen Rechts***", seit 03.10.1990 bzw. 01.01.1993, ein Verbrechen gegen die Deutschen Bundesbürger (Art. 116 II GG) und selbstverständlich alle tangierten Nationen bis zur Ukraine. Es fehlte 1990 Europa und das Wort "***Frieden***" in den Überschriften. Es ging nur um BrD und EU in Hoher Hand gegen den Osten, um Rohstoffe zu sichern, die "Gott falsch verteilte (EU/NATO/Tradoc, "Energiesicherheit").
+Was 1948 rückblickend die temporär vernünftigste Lösung gewesen sein mag, ist durch **erneute** "***Sanktionierung minderen Rechts***", seit 03.10.1990 bzw. 01.01.1993, ein Verbrechen gegen die Deutschen Bundesbürger (Art. 116 II GG) und selbstverständlich alle tangierten Nationen bis zur Ukraine. Es fehlte 1990 Europa und das Wort "***Frieden***" in den Überschriften. Es ging nur um **Zins-Schulden des Dritten Reichs**, der **Groß-**BrD** und **EU** in Hoher Hand **gegen** den Osten, um Rohstoffe zu sichern, die "Gott falsch" verteilte (EU/NATO/Tradoc, "Energiesicherheit") aber **nicht** um die Europäer (inkl. Ukraine und Rußland) oder um die Deutschen und nie um einen **ewigen Frieden** (1871-1914) für den *e*uropäischen **UROPA**. Entgegen dem Punkt der Kapitulation vom 09.05.1945 um 01:00, dem Potsdamer Protokoll VIII nach auch "*zukünftig*" gegen "***Nazismus und Militarismus***" (UN Art. 53, 107, BefrG. v. 05.03.1946), mithin also vollständig und **systemisch entgegen Art. 20, 116 II, 123 I, 139 und 146 GG** mit Folgen bis in die Ukraine Krise hinein.
 
 
 ---
