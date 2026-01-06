@@ -60,7 +60,7 @@ Seit der Einführung des Grundgesetzes 1949 steht die Bundesrepublik Deutschland
 
 ### **Artikel 17 GG: Petitionsrecht**
 
-**Jedermann** hat das Recht, sich einzeln oder in Gemeinschaft mit anderen schriftlich mit Bitten oder Beschwerden an die zuständigen Stellen und an die Volksvertretung zu wenden. Dieses Recht stellt sicher, dass alle Menschen in Deutschland ihre Anliegen frei und unabhängig äußern können, **unabhängig von ihrer staatsrechtlichen Zuordnung oder Herkunft**.
+**Jedermann** (Art. 16 u. 116 GG) hat das Recht, sich einzeln oder in Gemeinschaft mit anderen schriftlich mit Bitten oder Beschwerden an die zuständigen Stellen und an die Volksvertretung zu wenden. Dieses Recht stellt sicher, dass alle Menschen in Deutschland ihre Anliegen frei und unabhängig äußern können, **unabhängig von ihrer staatsrechtlichen Zuordnung oder Herkunft**.
 
 ---
 
