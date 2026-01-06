@@ -316,7 +316,17 @@ https://github.com/Znih/script/blob/master/powershell/Window10Setup2K18/Window10
 
 Danke, dass Sie mein Profil besucht haben! Ich wünsche Ihnen einen schönen Tag! 😊
 
+https://github.com/user-attachments/assets/2f4ee7fc-298f-4da7-b75b-b3aed4e5e82b
 
+Präzisiert und bereinigt bzgl. Art. 116 GG (2024)
+
+https://github.com/user-attachments/assets/4d6d345e-4338-4291-873f-767313206479
+
+Noch als "*Deutscher*" im Sinne des Art. 116 I u. II GG zwecks rechtserheblicher Tätigkeit (§§ 30 I, 33 I StAG) in der Eigenschaft als IT-Justiz Systemadministrator AG Rendsburg und Sicherheitsberater für das Justizministerium samt Staatskanzlei Kiel jedoch nach der Remonstration vom 16.02.2017 (nur noch Art. 16 I GG).
+
+https://github.com/user-attachments/assets/5ceb863b-bc61-4979-a83e-3c0b249f07ed
+
+Beides unfreiwillig und ohne gerechten Lohn (Belohnung).
 
 https://github.com/user-attachments/assets/d883fcf2-0a0c-4d8f-9a80-31fd83a9362f
 
