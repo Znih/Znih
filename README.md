@@ -83,7 +83,7 @@ Gegen alle „*Deutschen*“ Staatsbürger im Sinne des **Artikels 116 Absatz 1*
 Um das Grundprinzip eines föderalen und demokratischen Bundesstaates sicherzustellen und die Rechte aus **Artikel 17 und 20 GG** tatsächlich zu garantieren, sind folgende Forderungen unabdingbar:
 
 1. **Rückkehr zu föderalen Prinzipien**  
-   Die Bundesstaatslogik (BuStAG 1870, Art. 20 I, 116 I GG vs. Art. 1-3 BVerf.) und deren Absicherung durch **Artikel 116 II GG** müssen wieder in den Vordergrund der Staatsrechtsordnung gestellt werden. Die zentrale Fixierung auf "nur noch eine deutsche Staatsangehörigkeit" im Sinne von **Art. 16 I u. 116 I GG** ist zu überwinden.
+   Die Bundesstaatslogik (BuStAG 1870, Art. 20 I, 116 I GG vs. Art. 1-3 BVerf.) und deren Absicherung durch **Artikel 116 II GG** müssen wieder in den Vordergrund der Staatsrechtsordnung gestellt werden. Die zentrale Fixierung auf "***nur noch eine** deutsche Staatsangehörigkeit*" im Sinne von **Art. 16 I u. 116 I GG** ist zu überwinden.
 
 2. **Ermöglichung von Artikel 146 GG**  
    Der Auftrag zur Herstellung einer neuen Verfassung, durchgesetzt durch das freie Selbstbestimmungsrecht des Volkes, wird **dringlich**. Artikel 146 GG bleibt **auch nach 1999/1993 weiterhin die einzige Möglichkeit**, die zentralistische NS-Struktur (ab 1913 und verstärkt ab 1934/1935) endgültig zu überwinden und den Föderalismus wiederherzustellen.
@@ -107,7 +107,7 @@ Die Missachtung von **Artikel 116 Absatz 2 GG** sowie die bewusste Ausgrenzung v
 ---
 ---
 
-### **"Schuppen" oder endgültig "fertiges Haus"?!?!** wie [Krieg oder Frieden](https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251221_Friede-1815-1820-1871-2025_Artikel-144-GG_Schuppen-oder-Haus.md)???
+### **"Schuppen" oder endgültig "fertiges Haus"?!?!** Wie [Krieg oder Frieden](https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251221_Friede-1815-1820-1871-2025_Artikel-144-GG_Schuppen-oder-Haus.md)???
 
 > Carlo Schmidt wörtlich: »**Wir haben hier doch nur einen Schuppen, einen Notbau, und einem Notbau gibt man nicht die Weihe, die dem festen Haus gebührt. Fälschen wir nicht den Charakter dieses Werkes, indem wir es zur Volksabstimmung stellen, bringen wir, indem wir ihm eine Sanktionierung minderen Rechts geben, zum Ausdruck, dass es keine Verfassung ist.**« (Parl. Rat, Bd. 9, S. 597; Stern Staatsrecht, Bd. V, S. 1338; Dreier/Dreier Art. 144 Rn. 7 m.w.N.).
 
@@ -116,7 +116,7 @@ Die Missachtung von **Artikel 116 Absatz 2 GG** sowie die bewusste Ausgrenzung v
 https://github.com/Znih/Znih/tree/main
 
 
-
+Was 1948 rückblickend die temporär vernünftigste Lösung gewesen sein mag, ist die **erneute** "***Sanktionierung minderen Rechts***" seit 03.10.1990 bzw. 01.01.1993 ein Verbrechen gegen die Deutschen Bundesbürger (Art. 116 II GG) und selbstverständlich alle tangierten Nationen bis zur Ukraine. Es fehlte 1990 Europa und das Wort "***Frieden***" in den Überschriften. Es ging nur um BrD und EU in Hoher Hand gegen den Osten, um Rohstoffe zu sichern (EU/NATO/Tradoc/"Energiesicherheit").
 
 
 
