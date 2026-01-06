@@ -300,6 +300,8 @@ Noch als "*Deutscher*" im Sinne des Art. 116 I u. II GG zwecks rechtserheblicher
 
 Tatsächlich blieb jeder ab 1967 geborener DDR Staatsbürger **statusloser Bundes- und Staatsangehöriger** ohne Art. 16 I GG, da 1990 nie wirklich in Art. 16 I GG statt in Art. 116 II GG rechtlich wirksam "***Zwangs-Sammeleingebürgert***" (c.f.) werden konnte (Jalta, Potsdam, New York, Bonn, Art. 20, 116 II, 123 I, 139 u. 146 GG). 
 
+![20241102_StA-Liste (2).jpg](https://github.com/user-attachments/assets/3c6e4185-b0e0-4bd7-9442-cc3f6a9161f8)
+
 ## Zitate adressiert an Jeden der versteht
 
 > "*Verletze niemanden, vielmehr hilf allen, **soweit du kannst**.*" Arthur Schopenhauer
