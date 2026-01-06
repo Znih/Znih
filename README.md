@@ -58,6 +58,23 @@ In KI-Kollaboration und ethischem Coding. Fortan Globale Plebiszitbiophilie zur 
 Seit der Einführung des Grundgesetzes 1949 steht die Bundesrepublik Deutschland vor einem ungelösten Spannungsverhältnis zwischen zentralistischen Staatsstrukturen und den im Grundgesetz verankerten föderalen Prinzipien. Während zentrale Regelungen wie **Artikel 16 I GG** eine homogene „*deutsche Staatsangehörigkeit*“ implizieren, bleibt die historische Bundesstaatlichkeit, wie sie in **Art. 116 II GG** angesprochen wird, weitgehend unbeachtet. Dies führt zu einem rechtlichen, politischen und sozialen Ausschluss wesentlicher Teile der deutschen Gesellschaft. Über das „*Provisorium*“ hinaus ist die Zeit reif, über **Art. 146 GG** eine umfassende Verfassungsreform anzustoßen. Nun bleibt kaum noch Zeit. ***Fällt die EU, verliert Art. 23 n.F. seine Wirkung und es verbleibt ein unbeschränkter Art. 116 I GG n.F. (1937 statt 1949).***
 
 
+https://github.com/user-attachments/assets/9f50aaee-ce83-419a-b821-4a89e5fd2687
+
+Ein Volljuristen mit klaren Worten und klarer Botschaft. Wichtiger indes erscheint, daß dieser Volljurist (Richter) nicht nur den Unterschied zwischen Recht (ius) und Gesetz (Lex) kennt, sondern juristisch perfekt in verständlichen Worten erklärt (Professur, rector), was bislang (Znih) zu kompliziert zu erklären versucht wurde. Ulpian und Celsus und der erste Volljurist (Art. 116 I u. II GG iVm § 9 Nr. 1 DRiG u. § 38 DRiG), der trotz Gefahr freiwillig nach Art. 116 II GG gerutscht ist. Denn im Unrecht (Art. 116 I GG, Reichsrecht als Sammlung des Bundesrechts) findest du kein Recht (Art. 116 II GG, Bundesrecht). Diesem ehrenwerten Richter unbedingt zuhören!
+
+https://youtu.be/djHgxogBj0c
+
+https://github.com/user-attachments/assets/f872d24e-8b35-4526-9880-b1f7fc1f6154
+
+> Wird der Bürger oder der Machtstaat geschützt?
+
+> **Richter:**"*Das ist, wenn ich das so sagen darf, eine hoch komplexe Frage, die Sie stellen.*"
+
+Was keine hochkomplexe Frage in einem Recht-Staat sein darf und umso brillianter vom Richter erklärt. **Gesetz**tes Recht, denn Recht stammt von Gerechtigkeit (ius) und wird zusätzlich festgesetzt (Lex), um es praktikabler zu machen. Deshalb gilt stets "***Recht und Gesetz***", mithin also **Recht vor Gesetz**. Gesetz darf Recht weder einschränken, entziehen noch brechen. Insoweit illustriert Art. 20 GG die vorliegenden Fakten und Aussagen im Video. Art. 20 III GG provoziert zusätzlich mit "*Gesetz und Recht*", was zwar seit 1919 so ist aber seit 1990 nicht so sein darf und zudem Art. 20 GG weiter entkernt.
+
+---
+
+
 ### **Artikel 17 GG: Petitionsrecht**
 
 **Jedermann** (Art. 16 u. 116 GG) hat das Recht, sich einzeln oder in Gemeinschaft mit anderen schriftlich mit Bitten oder Beschwerden an die zuständigen Stellen und an die Volksvertretung zu wenden. Dieses Recht stellt sicher, dass alle Menschen in Deutschland ihre Anliegen frei und unabhängig äußern können, **unabhängig von ihrer staatsrechtlichen Zuordnung oder Herkunft**.
