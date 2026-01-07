@@ -167,6 +167,11 @@ Bitte beachten: Die Ergebnisse könnten unvollständig sein. Für eine vollstän
 > "*Vergangenheit beweist Gegenwart und Gegenwart beweist Vergangenheit.*"
 
 
+[Merz in Paris](https://youtu.be/ioiGbFN8rbs?si=bznXWGVrj6kf7TAU):  Unbedingt "*Waffenstillstand*" ohne Vorfrieden und nur annähernd Frieden in Wochen oder Monaten, klingt für informierte Deutsche, wie 1918 im "***Nirgendwo***" (geräumte Front), Versailles 1919, erneuter Waffenstillstand 1945 und "*asymptotischer Friedenszustand*" 1949/1990. Wir **wissen** wo dies hinführt. Nie wieder?
+
+https://github.com/user-attachments/assets/69acc1a7-35ad-45ae-a4f5-5a0f30768ec7
+
+
 ---
 
 
