@@ -157,7 +157,7 @@ Entwürfe u. Vorschläge für Grundartikel:
 9. [Präambel – Vorschlag](https://github.com/Artikel-278-Versailler-Diktat/befreiung/blob/d33e84004878bdfae796e6c8c1b449db0311a801/Entwurf/Präambel.md)
 10. [Ki-bundes Erfassungsentwurf](https://github.com/Artikel-278-Versailler-Diktat/befreiung/blob/d33e84004878bdfae796e6c8c1b449db0311a801/Entwurf/Ki-bundes%20Erfassungsentwurf.md)
 
-Bitte beachten: Die Ergebnisse könnten unvollständig sein. Für eine vollständige Übersicht aller Dateien können Sie [die Repository-Suche](https://github.com/Artikel-278-Versailler-Diktat/befreiung) direkt verwenden. Jeder Deutsche (Art. 116 GG) ist aufgerufen mitzumachen oder mindestens zu Remonstrieren (§ 36 II Sz. 4-5 BeamtenStG, § 63 II Sz. 4-5 BBG). Andernfalls bleibt für alle nur (Art. 16, 116 GG), im Dritten Reich als involvente und Wert lose EU-BrD (Art. 116 I GG wenn 16 I GG erwiesen) unterzugehen.
+Bitte beachten: Die Ergebnisse könnten unvollständig sein. Für eine vollständige Übersicht aller Dateien können Sie [die Repository-Suche](https://github.com/Artikel-278-Versailler-Diktat/befreiung) direkt verwenden. Jeder Deutsche (Art. 116 GG) ist aufgerufen mitzumachen oder mindestens zu Remonstrieren (§ 36 II Sz. 4-5 BeamtenStG, § 63 II Sz. 4-5 BBG). Andernfalls bleibt für alle nur (Art. 16, 116 GG), im Dritten Reich als insolvente und Wert lose EU-BrD (Art. 116 I GG wenn 16 I GG erwiesen) unterzugehen.
 
 
 ---
