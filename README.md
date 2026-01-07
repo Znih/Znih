@@ -60,7 +60,7 @@ Seit der Einführung des Grundgesetzes 1949 steht die Bundesrepublik Deutschland
 
 https://github.com/user-attachments/assets/9f50aaee-ce83-419a-b821-4a89e5fd2687
 
-Ein Volljuristen mit klaren Worten und klarer Botschaft. Wichtiger indes erscheint, daß dieser Volljurist (Richter) nicht nur den Unterschied zwischen Recht (ius) und Gesetz (Lex) kennt, sondern juristisch perfekt in verständlichen Worten erklärt (Professur, rector), was bislang (Znih) zu kompliziert zu erklären versucht wurde. Ulpian und Celsus und der erste Volljurist (Art. 116 I u. II GG iVm § 9 Nr. 1 DRiG u. § 38 DRiG), der trotz Gefahr freiwillig nach Art. 116 II GG gerutscht ist. Denn im Unrecht (Art. 116 I GG, Reichsrecht als Sammlung des Bundesrechts) findest du kein Recht (Art. 116 II GG, Bundesrecht). Diesem ehrenwerten Richter unbedingt zuhören!
+Ein Volljurist mit klaren Worten und klarer Botschaft. Wichtiger indes erscheint, daß dieser Volljurist (Richter) nicht nur den Unterschied zwischen Recht (ius) und Gesetz (Lex) kennt, sondern juristisch perfekt in verständlichen Worten erklärt (Professur, rector), was bislang (Znih) zu kompliziert zu erklären versucht wurde. Ulpian und Celsus und der erste Volljurist (Art. 116 I u. II GG iVm § 9 Nr. 1 DRiG u. § 38 DRiG), der trotz Gefahr freiwillig nach Art. 116 II GG gerutscht ist. Denn im Unrecht (Art. 116 I GG, Reichsrecht als Sammlung des Bundesrechts) findest du kein Recht (Art. 116 II GG, Bundesrecht). Diesem ehrenwerten Richter unbedingt zuhören!
 
 https://youtu.be/djHgxogBj0c
 
