@@ -171,6 +171,8 @@ Bitte beachten: Die Ergebnisse könnten unvollständig sein. Für eine vollstän
 
 https://github.com/user-attachments/assets/69acc1a7-35ad-45ae-a4f5-5a0f30768ec7
 
+Zeitgleich zu Paris: "*Linker Strom-Terror in Berlin*" - "*Fünf Tage ohne Strom - für eine Hauptstadt einfach nur bitter*" ([Nius](https://youtu.be/xY4ZDixTqhk))
+
 
 ---
 
