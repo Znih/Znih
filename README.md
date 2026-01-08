@@ -261,7 +261,7 @@ Zeitgleich zu Paris: "*Linker Strom-Terror in Berlin*" - "*Fünf Tage ohne Strom
 
 
 <a href="https://github.com/Znih">
-    <img src="https://github.com/Znih/XiaomingX/blob/315b265f6f081e9104f18365412cedaab4110e99/output/github-snake.svg" />
+    <img src="https://github.com/Znih/Znih/blob/main/output%2Fgithub-snake.svg" />
 </a>
 
 ---
