@@ -271,7 +271,7 @@ Deutsche Staatsangehörigkeiten 1812-2025 Faksimiles:
 
 
 
-# Hallo, ich bin Znih 👋
+# Hallo, ich bin Znih 👋 {{GITHUB_USER}}
 
 Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher (Recht)Entwickler, der immer lernbegierig ist und zu Open-Source-Projekten beitragen möchte. Hier ein paar Informationen über mich und was ich mache:
 
