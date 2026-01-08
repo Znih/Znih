@@ -8,7 +8,13 @@ console.log(`Backup created at ${backupPath}`);
 
 // Lese die aktuelle README.md
 const readmePath = path.join(__dirname, 'README.md');
-let readmeContent = fs.readFileSync(readmePath, 'utf-8');
+try {
+       let readmeContent = fs.readFileSync(readmePath, 'utf-8');
+       // Content replacement logic
+     } catch (err) {
+       console.error('Error reading README.md:', err.message);
+       process.exit(1);
+     }
 
 // Ersetze Platzhalter durch GitHub-Benutzername und Repository-Besitzer
 const githubUser = process.env.GITHUB_USER;
