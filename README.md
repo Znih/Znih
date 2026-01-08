@@ -271,7 +271,7 @@ Deutsche Staatsangehörigkeiten 1812-2025 Faksimiles:
 
 
 
-# Hallo, ich bin Znih 👋 {{GITHUB_USER}}
+# Hallo, ich bin Znih 👋 
 
 Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher (Recht)Entwickler, der immer lernbegierig ist und zu Open-Source-Projekten beitragen möchte. Hier ein paar Informationen über mich und was ich mache:
 
@@ -362,3 +362,6 @@ https://github.com/user-attachments/assets/d883fcf2-0a0c-4d8f-9a80-31fd83a9362f
 [russland.webm](https://github.com/user-attachments/assets/437a0e59-d2c1-4957-bf5a-239b3a404530)
 
 [Dmitri-Anatoljewitsch-Medwedew.webm](https://github.com/user-attachments/assets/d11635e4-66a2-4ee8-bb52-e139bd4a8b6f)
+
+
+{{GITHUB_USER}}
