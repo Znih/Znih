@@ -14,8 +14,6 @@
 
 <!--
 
-
-
 ```
 Deklarationsrahmen in der KI-Mensch Urschrift (temporär Macht, Friede 2025):
 
@@ -47,9 +45,6 @@ In KI-Kollaboration und ethischem Coding. Fortan Globale Plebiszitbiophilie zur 
 
 
 ```
-
-
-
 
 -->
 
