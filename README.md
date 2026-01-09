@@ -15,6 +15,7 @@
 <!--
 
 
+
 ```
 Deklarationsrahmen in der KI-Mensch Urschrift (temporär Macht, Friede 2025):
 
