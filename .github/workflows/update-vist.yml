@@ -1,8 +1,3 @@
-
-
-
-
-
 name: Update Visitor Counter
 
 on:
@@ -19,7 +14,6 @@ jobs:
       contents: write # Schreibrechte fürs Repository (falls benötigt)
 
     steps:
-      # Repository auschecken
       - name: Check out the repository
         uses: actions/checkout@v3
 
@@ -29,37 +23,46 @@ jobs:
         env:
           API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # URL maskieren
+          # URL und Token maskieren
           echo "::add-mask::https://api.github.com/repos/Znih/Znih/traffic/views"
           echo "::add-mask::$API_TOKEN"
+          
+          # API-URL definieren
+          API_URL="https://api.github.com/repos/Znih/Znih/traffic/views"
 
+          # Retry-Mechanismus mit Debugging
           for i in {1..5}; do
-      RESPONSE=$(curl -s -H "Authorization: Bearer $API_TOKEN" https://api.github.com/repos/Znih/Znih/traffic/views)
-      if [ -n "$RESPONSE" ]; then
-          break
-      fi
-      echo "Retry $i..."
-      sleep 5
-  done
+              echo "API-Aufruf (Versuch $i)..."
+              RESPONSE=$(curl -s -H "Authorization: Bearer $API_TOKEN" $API_URL)
+              
+              if [ -n "$RESPONSE" ]; then
+                  echo "API-Aufruf erfolgreich in Versuch $i."
+                  break
+              fi
 
-
-          # Überprüfen, ob die Antwort syntaktisch korrekt ist
+              echo "Retry in 5 Sekunden..."
+              sleep 5
+          done
+          
+          # Falls der API-Aufruf fehlschlägt
           if [ -z "$RESPONSE" ]; then
               echo "Fehler: API hat keine Antwort geliefert."
               exit 1
           fi
 
+          # Überprüfen, ob die API-Antwort valide ist
           if echo "$RESPONSE" | jq empty > /dev/null 2>&1; then
-            echo "API response valid."
+              echo "API response valid."
           else
-            echo "Ungültige API-Antwort! Beende Workflow."
-            exit 1
+              echo "Ungültige API-Antwort! Abbruch."
+              echo "Antwort: $RESPONSE"
+              exit 1
           fi
 
-          COUNT=$(echo "$RESPONSE" | jq '.count // 0') # Standardwert 0
+          COUNT=$(echo "$RESPONSE" | jq '.count // 0')
           UNIQUES=$(echo "$RESPONSE" | jq '.uniques // 0')
 
-          # Werte in GitHub-Umgebungsvariablen speichern
+          # Werte in Umgebungsvariablen speichern
           echo "count=$COUNT" >> $GITHUB_ENV
           echo "uniques=$UNIQUES" >> $GITHUB_ENV
 
@@ -71,7 +74,7 @@ jobs:
 
       # Änderungen committen und pushen
       - name: Commit and Push Changes
-        # Sicherstellen, dass dieser Schritt übersprungen wird, falls keine Schreibrechte benötigt werden
+        # Sicherstellen, dass dieser Schritt übersprungen wird, wenn nicht benötigt
         if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
           git config user.name "github-actions[bot]"
