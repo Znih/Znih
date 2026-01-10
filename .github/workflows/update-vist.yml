@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write # Nur Schreibrechte fürs Repository
+         contents: read
 
     steps:
       # Repository auschecken
