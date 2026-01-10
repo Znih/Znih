@@ -29,7 +29,11 @@ jobs:
           UNIQUES=$(echo $RESPONSE | jq '.uniques')
           echo "Besucher: $COUNT, Eindeutige Besucher: $UNIQUES" > visitor_count.txt
 
-
+- name: Debug API Response
+     run: |
+       echo $RESPONSE
+       echo "Gesamtbesucher: $TOTAL"
+       echo "Einzigartige Besucher: $UNIQUES"
 
 
 
