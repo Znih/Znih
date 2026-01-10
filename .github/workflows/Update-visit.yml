@@ -29,11 +29,21 @@ jobs:
           UNIQUES=$(echo $RESPONSE | jq '.uniques')
           echo "Besucher: $COUNT, Eindeutige Besucher: $UNIQUES" > visitor_count.txt
 
+
+
+
+
       # README aktualisieren
       - name: Update README with visitor count
-        run: |
-          COUNT=$(cat visitor_count.txt)
-          sed -i "s/<!--visitor-counter-->.*$/<!--visitor-counter--> $COUNT/" README.md
+  run: |
+    COUNT=$(cat visitor_count.txt)
+    TOTAL=$(echo $COUNT | jq -r '.count')
+    UNIQUES=$(echo $COUNT | jq -r '.uniques')
+    sed -i "s/<!--visitor-counter-->.*$/<!--visitor-counter--> Besucher: $TOTAL/" README.md
+    sed -i "s/<!--visitor-uniques-->.*$/<!--visitor-uniques--> $UNIQUES/" README.md
+
+
+
 
       # Änderungen committen und pushen
       - name: Commit changes
