@@ -17,7 +17,7 @@ jobs:
     # Löschen der Datei(en) oder Ordner
     - name: Lösche die Datei oder den Ordner
       run: |
-        rm -rf md%2Fsandbox%2Ftesting.md # Beispiel: rm -rf docs/test.txt
+        rm -rf md/sandbox/testing.md # Beispiel: rm -rf docs/test.txt
 
     # Änderungen committen und pushen
     - name: Änderungen committen und pushen
