@@ -11,7 +11,7 @@ jobs:
 
     # Berechtigungen auf Repository-Inhalte
     permissions:
-      contents: write # Schreibrechte fürs Repository, um Änderungen zu committen und zu pushen
+      contents: read # Schreibrechte fürs Repository (falls nötig)
 
     steps:
       - name: Check out the repository
