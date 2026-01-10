@@ -25,7 +25,8 @@ jobs:
         fi
 
         if [ -f "output/github-snake.svg" ]; then
-          rm -f output/github-snake.svg' wurde gelöscht."
+          rm -f output/github-snake-dark.svg
+          echo "Datei 'output/github-snake.svg' wurde gelöscht."
         else
           echo "Datei 'output/github-snake.svg' nicht gefunden. Überspringe."
         fi
