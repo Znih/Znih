@@ -1,3 +1,8 @@
+
+
+
+
+
 name: Update Visitor Counter
 
 on:
@@ -16,7 +21,7 @@ jobs:
     steps:
       # Repository auschecken
       - name: Check out the repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       # GitHub-API-Daten abrufen
       - name: Fetch Visitor Data
@@ -28,8 +33,15 @@ jobs:
           echo "::add-mask::https://api.github.com/repos/Znih/Znih/traffic/views"
           echo "::add-mask::$API_TOKEN"
 
-          API_URL="https://api.github.com/repos/Znih/Znih/traffic/views"
-          RESPONSE=$(curl -s -H "Authorization: Bearer $API_TOKEN" $API_URL)
+          for i in {1..5}; do
+      RESPONSE=$(curl -s -H "Authorization: Bearer $API_TOKEN" https://api.github.com/repos/Znih/Znih/traffic/views)
+      if [ -n "$RESPONSE" ]; then
+          break
+      fi
+      echo "Retry $i..."
+      sleep 5
+  done
+
 
           # Überprüfen, ob die Antwort syntaktisch korrekt ist
           if [ -z "$RESPONSE" ]; then
