@@ -9,9 +9,9 @@ jobs:
   update-counter:
     runs-on: ubuntu-latest
 
-    # Vorschlag 1: Berechtigungen auf Lesen beschränken
+    # Berechtigungen auf Repository-Inhalte 
     permissions:
-      contents: read # Schreibrechte sind nicht mehr erforderlich
+      contents: write # Schreibrechte fürs Repository (falls benötigt)
 
     steps:
       # Repository auschecken
@@ -24,14 +24,16 @@ jobs:
         env:
           API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Vorschlag 4: Maske für den API-Token aktivieren
+          # URL maskieren
+          echo "::add-mask::https://api.github.com/repos/Znih/Znih/traffic/views"
           echo "::add-mask::$API_TOKEN"
 
-          RESPONSE=$(curl -s -H "Authorization: Bearer $API_TOKEN" https://api.github.com/repos/Znih/Znih/traffic/views)
+          API_URL="https://api.github.com/repos/Znih/Znih/traffic/views"
+          RESPONSE=$(curl -s -H "Authorization: Bearer $API_TOKEN" $API_URL)
 
-          # Vorschlag 2: Verbesserte Fehlerbehandlung hinzufügen
+          # Überprüfen, ob die Antwort syntaktisch korrekt ist
           if [ -z "$RESPONSE" ]; then
-              echo "Fehler: Keine Antwort von der API erhalten. Überprüfen Sie die Verbindung oder die API-Berechtigungen."
+              echo "Fehler: API hat keine Antwort geliefert."
               exit 1
           fi
 
@@ -45,9 +47,7 @@ jobs:
           COUNT=$(echo "$RESPONSE" | jq '.count // 0') # Standardwert 0
           UNIQUES=$(echo "$RESPONSE" | jq '.uniques // 0')
 
-          # Hinzufügen für Debugging (optional)
-          echo "Count: $COUNT, Uniques: $UNIQUES"
-
+          # Werte in GitHub-Umgebungsvariablen speichern
           echo "count=$COUNT" >> $GITHUB_ENV
           echo "uniques=$UNIQUES" >> $GITHUB_ENV
 
