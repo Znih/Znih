@@ -2,15 +2,16 @@ name: Update Visitor Counter
 
 on:
   schedule:
-    - "0 0 * * *" # Täglich um Mitternacht
+    - cron: "0 0 * * *" # Täglich um Mitternacht
   workflow_dispatch:
 
 jobs:
   update-counter:
     runs-on: ubuntu-latest
 
+    # Vorschlag 1: Berechtigungen auf Lesen beschränken
     permissions:
-         contents: read
+      contents: read # Schreibrechte sind nicht mehr erforderlich
 
     steps:
       # Repository auschecken
@@ -23,12 +24,17 @@ jobs:
         env:
           API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Maske für den API-Token aktivieren, sodass er nicht im Protokoll erscheint
+          # Vorschlag 4: Maske für den API-Token aktivieren
           echo "::add-mask::$API_TOKEN"
 
           RESPONSE=$(curl -s -H "Authorization: Bearer $API_TOKEN" https://api.github.com/repos/Znih/Znih/traffic/views)
 
-          # Überprüfen, ob die Antwort syntaktisch korrekt ist
+          # Vorschlag 2: Verbesserte Fehlerbehandlung hinzufügen
+          if [ -z "$RESPONSE" ]; then
+              echo "Fehler: Keine Antwort von der API erhalten. Überprüfen Sie die Verbindung oder die API-Berechtigungen."
+              exit 1
+          fi
+
           if echo "$RESPONSE" | jq empty > /dev/null 2>&1; then
             echo "API response valid."
           else
@@ -38,6 +44,9 @@ jobs:
 
           COUNT=$(echo "$RESPONSE" | jq '.count // 0') # Standardwert 0
           UNIQUES=$(echo "$RESPONSE" | jq '.uniques // 0')
+
+          # Hinzufügen für Debugging (optional)
+          echo "Count: $COUNT, Uniques: $UNIQUES"
 
           echo "count=$COUNT" >> $GITHUB_ENV
           echo "uniques=$UNIQUES" >> $GITHUB_ENV
@@ -50,6 +59,8 @@ jobs:
 
       # Änderungen committen und pushen
       - name: Commit and Push Changes
+        # Sicherstellen, dass dieser Schritt übersprungen wird, falls keine Schreibrechte benötigt werden
+        if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
