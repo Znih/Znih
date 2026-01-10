@@ -24,19 +24,18 @@ jobs:
           echo "Datei 'output/github-snake-dark.svg' nicht gefunden. Überspringe."
         fi
 
-        if [ -f "pfad/zur/zweiten_datei.md" ]; then
-          rm -f pfad/zur/zweiten_datei.md
-          echo "Datei 'pfad/zur/zweiten_datei.md' wurde gelöscht."
+        if [ -f "output/github-snake.svg" ]; then
+          rm -f output/github-snake.svg' wurde gelöscht."
         else
-          echo "Datei 'pfad/zur/zweiten_datei.md' nicht gefunden. Überspringe."
+          echo "Datei 'output/github-snake.svg' nicht gefunden. Überspringe."
         fi
 
         # Beispiel für das Löschen eines Ordners
-        if [ -d "pfad/zum/ordner" ]; then
-          rm -rf pfad/zum/ordner
-          echo "Ordner 'pfad/zum/ordner' wurde gelöscht."
+        if [ -d "output" ]; then
+          rm -rf output 
+          echo "Ordner 'output' wurde gelöscht."
         else
-          echo "Ordner 'pfad/zum/ordner' nicht gefunden. Überspringe."
+          echo "Ordner 'output' nicht gefunden. Überspringe."
         fi
 
 
