@@ -16,8 +16,15 @@ jobs:
 
     # Löschen der Datei(en) oder Ordner
     - name: Lösche die Datei oder den Ordner
+#      run: |
+#        rm -rf md/sandbox/testing.md # Beispiel: rm -rf docs/test.txt
+
+    # Lösche spezifische Dateien (Pfad zu den Dateien definieren)
+    - name: Lösche die angegebenen Dateien
       run: |
-        rm -rf md/sandbox/testing.md # Beispiel: rm -rf docs/test.txt
+        rm -f pfad/zur/ersten_datei.txt  # Beispiel: rm -f docs/file1.txt
+        rm -f pfad/zur/zweiten_datei.md  # Beispiel: rm -f README.md
+
 
     # Änderungen committen und pushen
     - name: Änderungen committen und pushen
