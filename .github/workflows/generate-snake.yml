@@ -1,3 +1,5 @@
+# snkV3 erhält keinen Zugriff beim Anlegen von output in readme Znih. Fehler dennoch behoben durch alternativ Repo. Znih scheint besonders zu sein. ;)
+
 name: Generate GitHub Contribution Snake
 
 on:
