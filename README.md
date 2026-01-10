@@ -357,7 +357,15 @@ Danke, dass Sie mein Profil besucht haben! Ich wünsche Ihnen einen schönen Tag
 
 # Besucherstatistik
 
+Besucherstatistik für dieses Repository wird täglich automatisch aktualisiert.
 
+## 🔢 Besucherzähler
+- **Gesamtbesuche:** <!--visitor-counter--> Besucher: 0
+- **Einzigartige Besucher:** <!--visitor-uniques--> 0
+
+---
+
+🌟 **Hinweis:** Diese Statistik wird durch einen [GitHub Actions Workflow](https://github.com/Znih/Znih/actions) aktualisiert.
 
 ---
 
