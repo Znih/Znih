@@ -48,6 +48,12 @@ In KI-Kollaboration und ethischem Coding. Fortan Globale Plebiszitbiophilie zur 
 
 -->
 
+https://github.com/user-attachments/assets/d2ad81f0-ed7f-4ef4-9bcc-6dbe889ef192
+
+https://github.com/Znih/Znih/discussions/20#discussioncomment-15463427
+
+---
+
 ### ***„Falsche Einheit? Wiederherstellung der föderalen Prinzipien im deutschen Staatsrecht“***
 
 
