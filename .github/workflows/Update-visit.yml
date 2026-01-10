@@ -39,9 +39,7 @@ jobs:
           echo "count=$COUNT" >> $GITHUB_ENV
           echo "uniques=$UNIQUES" >> $GITHUB_ENV
 
-          # Response debuggen
-          #echo "$RESPONSE" > api_response.json
-          #echo "COMPLETE. Besucher: $COUNT, Einzigartige Besucher: $UNIQUES"
+          
 
       # Update README-Datei
       - name: Update README
