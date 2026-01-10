@@ -2,7 +2,7 @@ name: Update Visitor Counter
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Täglich um Mitternacht
+    - "0 0 * * *" # Täglich um Mitternacht
   workflow_dispatch:
 
 jobs:
@@ -23,8 +23,11 @@ jobs:
         env:
           API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          # Maske für den API-Token aktivieren, sodass er nicht im Protokoll erscheint
+          echo "::add-mask::$API_TOKEN"
+
           RESPONSE=$(curl -s -H "Authorization: Bearer $API_TOKEN" https://api.github.com/repos/Znih/Znih/traffic/views)
-          
+
           # Überprüfen, ob die Antwort syntaktisch korrekt ist
           if echo "$RESPONSE" | jq empty > /dev/null 2>&1; then
             echo "API response valid."
@@ -35,11 +38,9 @@ jobs:
 
           COUNT=$(echo "$RESPONSE" | jq '.count // 0') # Standardwert 0
           UNIQUES=$(echo "$RESPONSE" | jq '.uniques // 0')
-          
+
           echo "count=$COUNT" >> $GITHUB_ENV
           echo "uniques=$UNIQUES" >> $GITHUB_ENV
-
-          
 
       # Update README-Datei
       - name: Update README
