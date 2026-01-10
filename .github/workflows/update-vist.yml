@@ -9,9 +9,9 @@ jobs:
   update-counter:
     runs-on: ubuntu-latest
 
-    # Berechtigungen auf Repository-Inhalte 
+    # Berechtigungen auf Repository-Inhalte
     permissions:
-      contents: write # Schreibrechte fürs Repository (falls benötigt)
+      contents: write # Schreibrechte fürs Repository, um Änderungen zu committen und zu pushen
 
     steps:
       - name: Check out the repository
@@ -34,7 +34,7 @@ jobs:
           for i in {1..5}; do
               echo "API-Aufruf (Versuch $i)..."
               RESPONSE=$(curl -s -H "Authorization: Bearer $API_TOKEN" $API_URL)
-              
+
               if [ -n "$RESPONSE" ]; then
                   echo "API-Aufruf erfolgreich in Versuch $i."
                   break
@@ -51,18 +51,19 @@ jobs:
           fi
 
           # Überprüfen, ob die API-Antwort valide ist
-          if echo "$RESPONSE" | jq empty > /dev/null 2>&1; then
-              echo "API response valid."
-          else
+          if ! echo "$RESPONSE" | jq empty > /dev/null 2>&1; then
               echo "Ungültige API-Antwort! Abbruch."
               echo "Antwort: $RESPONSE"
               exit 1
           fi
 
-          COUNT=$(echo "$RESPONSE" | jq '.count // 0')
+          echo "API response valid."
+
+          # Besucherdaten extrahieren
+          COUNT=$(echo "$RESPONSE" | jq '.count // 0') # Standardwert 0
           UNIQUES=$(echo "$RESPONSE" | jq '.uniques // 0')
 
-          # Werte in Umgebungsvariablen speichern
+          # Werte in GitHub-Umgebungsvariablen speichern
           echo "count=$COUNT" >> $GITHUB_ENV
           echo "uniques=$UNIQUES" >> $GITHUB_ENV
 
