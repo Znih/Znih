@@ -355,7 +355,9 @@ https://github.com/Znih/script/blob/master/powershell/Window10Setup2K18/Window10
 
 Danke, dass Sie mein Profil besucht haben! Ich wünsche Ihnen einen schönen Tag! 😊
 
+# Besucherstatistik
 
+<!--visitor-counter--> Besucher: 0, Eindeutige Besucher: 0
 
 ---
 
