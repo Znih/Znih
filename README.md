@@ -357,7 +357,7 @@ Danke, dass Sie mein Profil besucht haben! Ich wünsche Ihnen einen schönen Tag
 
 # Besucherstatistik
 
-<!--visitor-counter--> Besucher: 0, Eindeutige Besucher: 0-->
+
 
 ---
 
