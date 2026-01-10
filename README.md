@@ -363,9 +363,7 @@ Besucherstatistik für dieses Repository wird täglich automatisch aktualisiert.
 - **Gesamtbesuche:** <!--visitor-counter--> Besucher: 0
 - **Einzigartige Besucher:** <!--visitor-uniques--> 0
 
----
 
-🌟 **Hinweis:** Diese Statistik wird durch einen [GitHub Actions Workflow](https://github.com/Znih/Znih/actions) aktualisiert.
 
 ---
 
