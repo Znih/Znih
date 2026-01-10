@@ -10,50 +10,47 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write  # Schreibe nur Inhalte ins Repo, nichts weiter
+      contents: write # Nur Schreibrechte fürs Repository
 
     steps:
       # Repository auschecken
       - name: Check out the repository
         uses: actions/checkout@v2
 
-      # Besucheranzahl von GitHub-API abrufen
-      - name: Get Visitor Count
+      # GitHub-API-Daten abrufen
+      - name: Fetch Visitor Data
+        id: api_step
         env:
-          API_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Eingebauter GitHub-Token
+          API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          RESPONSE=$(curl -s \
-            -H "Authorization: token $API_TOKEN" \
-            https://api.github.com/repos/Znih/Znih/traffic/views)
-          COUNT=$(echo $RESPONSE | jq '.count')
-          UNIQUES=$(echo $RESPONSE | jq '.uniques')
-          echo "Besucher: $COUNT, Eindeutige Besucher: $UNIQUES" > visitor_count.txt
+          RESPONSE=$(curl -s -H "Authorization: Bearer $API_TOKEN" https://api.github.com/repos/Znih/Znih/traffic/views)
+          
+          # Überprüfen, ob die Antwort syntaktisch korrekt ist
+          if echo "$RESPONSE" | jq empty > /dev/null 2>&1; then
+            echo "API response valid."
+          else
+            echo "Ungültige API-Antwort! Beende Workflow."
+            exit 1
+          fi
 
-- name: Debug API Response
-     run: |
-       echo $RESPONSE
-       echo "Gesamtbesucher: $TOTAL"
-       echo "Einzigartige Besucher: $UNIQUES"
+          COUNT=$(echo "$RESPONSE" | jq '.count // 0') # Standardwert 0
+          UNIQUES=$(echo "$RESPONSE" | jq '.uniques // 0')
+          
+          echo "count=$COUNT" >> $GITHUB_ENV
+          echo "uniques=$UNIQUES" >> $GITHUB_ENV
 
+          # Response debuggen
+          #echo "$RESPONSE" > api_response.json
+          #echo "COMPLETE. Besucher: $COUNT, Einzigartige Besucher: $UNIQUES"
 
-
-      # README aktualisieren
-      - name: Update README with visitor count
-  run: |
-    # Lese die gespeicherten Werte aus der Datei
-    TOTAL=$(jq -r '.count' visitor_count.txt)
-    UNIQUES=$(jq -r '.uniques' visitor_count.txt)
-    
-    # Ersetze die Platzhalter in der README-Datei
-    sed -i "s/<!--visitor-counter-->.*$/<!--visitor-counter--> Besucher: $TOTAL/" README.md
-    sed -i "s/<!--visitor-uniques-->.*$/<!--visitor-uniques--> $UNIQUES/" README.md
-    
-
-
-
+      # Update README-Datei
+      - name: Update README
+        run: |
+          sed -i "s/<!--visitor-counter-->.*$/<!--visitor-counter--> Besucher: ${{ env.count }}/" README.md
+          sed -i "s/<!--visitor-uniques-->.*$/<!--visitor-uniques--> ${{ env.uniques }}/" README.md
 
       # Änderungen committen und pushen
-      - name: Commit changes
+      - name: Commit and Push Changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
