@@ -1,0 +1,45 @@
+name: Update Visitor Counter
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Täglich um Mitternacht
+  workflow_dispatch:
+
+jobs:
+  update-counter:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # Schreibe nur Inhalte ins Repo, nichts weiter
+
+    steps:
+      # Repository auschecken
+      - name: Check out the repository
+        uses: actions/checkout@v2
+
+      # Besucheranzahl von GitHub-API abrufen
+      - name: Get Visitor Count
+        env:
+          API_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Eingebauter GitHub-Token
+        run: |
+          RESPONSE=$(curl -s \
+            -H "Authorization: token $API_TOKEN" \
+            https://api.github.com/repos/Znih/Znih/traffic/views)
+          COUNT=$(echo $RESPONSE | jq '.count')
+          UNIQUES=$(echo $RESPONSE | jq '.uniques')
+          echo "Besucher: $COUNT, Eindeutige Besucher: $UNIQUES" > visitor_count.txt
+
+      # README aktualisieren
+      - name: Update README with visitor count
+        run: |
+          COUNT=$(cat visitor_count.txt)
+          sed -i "s/<!--visitor-counter-->.*$/<!--visitor-counter--> $COUNT/" README.md
+
+      # Änderungen committen und pushen
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Aktualisiere Besucherzähler"
+          git push
