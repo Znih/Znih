@@ -348,7 +348,7 @@ Danke, dass Sie mein Profil besucht haben! Ich wünsche Ihnen einen schönen Tag
 Dieses Repository verfolgt die Anzahl der Besucher.
 
 ## 📝 Besucherstatistik
-- **Gesamtbesucher:** <!--visitor-counter--> 0
+- **Gesamtbesucher:** <!--visitor-counter--> Besucher: 0
 - **Einzigartige Besucher:** <!--visitor-uniques--> 0
 
 ---
