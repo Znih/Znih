@@ -14,16 +14,30 @@ jobs:
     - name: Check out the repository
       uses: actions/checkout@v3
 
-    # Löschen der Datei(en) oder Ordner
-    - name: Lösche die Datei oder den Ordner
-#      run: |
-#        rm -rf md/sandbox/testing.md # Beispiel: rm -rf docs/test.txt
-
-    # Lösche spezifische Dateien (Pfad zu den Dateien definieren)
+  # Lösche die angegebenen Dateien nur, wenn sie existieren
     - name: Lösche die angegebenen Dateien
       run: |
-        rm -f pfad/zur/ersten_datei.txt  # Beispiel: rm -f docs/file1.txt
-        rm -f pfad/zur/zweiten_datei.md  # Beispiel: rm -f README.md
+        if [ -f "pfad/zur/ersten_datei.txt" ]; then
+          rm -f pfad/zur/ersten_datei.txt
+          echo "Datei 'pfad/zur/ersten_datei.txt' wurde gelöscht."
+        else
+          echo "Datei 'pfad/zur/ersten_datei.txt' nicht gefunden. Überspringe."
+        fi
+
+        if [ -f "pfad/zur/zweiten_datei.md" ]; then
+          rm -f pfad/zur/zweiten_datei.md
+          echo "Datei 'pfad/zur/zweiten_datei.md' wurde gelöscht."
+        else
+          echo "Datei 'pfad/zur/zweiten_datei.md' nicht gefunden. Überspringe."
+        fi
+
+        # Beispiel für das Löschen eines Ordners
+        if [ -d "pfad/zum/ordner" ]; then
+          rm -rf pfad/zum/ordner
+          echo "Ordner 'pfad/zum/ordner' wurde gelöscht."
+        else
+          echo "Ordner 'pfad/zum/ordner' nicht gefunden. Überspringe."
+        fi
 
 
     # Änderungen committen und pushen
