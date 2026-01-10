@@ -40,16 +40,14 @@ jobs:
       # README aktualisieren
       - name: Update README with visitor count
   run: |
-    RESPONSE=$(curl -s \
-      -H "Authorization: token $API_TOKEN" \
-      https://api.github.com/repos/Znih/Znih/traffic/views)
-
-    TOTAL=$(echo $RESPONSE | jq '.count')
-    UNIQUES=$(echo $RESPONSE | jq '.uniques')
-
-    # Ersetze die Platzhalter in der README
-    sed -i "s/<!--visitor-counter-->.*$/<!--visitor-counter--> $TOTAL/" README.md
+    # Lese die gespeicherten Werte aus der Datei
+    TOTAL=$(jq -r '.count' visitor_count.txt)
+    UNIQUES=$(jq -r '.uniques' visitor_count.txt)
+    
+    # Ersetze die Platzhalter in der README-Datei
+    sed -i "s/<!--visitor-counter-->.*$/<!--visitor-counter--> Besucher: $TOTAL/" README.md
     sed -i "s/<!--visitor-uniques-->.*$/<!--visitor-uniques--> $UNIQUES/" README.md
+    
 
 
 
