@@ -17,11 +17,11 @@ jobs:
   # Lösche die angegebenen Dateien nur, wenn sie existieren
     - name: Lösche die angegebenen Dateien
       run: |
-        if [ -f "output/github-snake.svg" ]; then
-          rm -f output/github-snake.svg
-          echo "Datei 'output/github-snake.svg' wurde gelöscht."
+        if [ -f "output/github-snake-dark.svg" ]; then
+          rm -f output/github-snake-dark.svg
+          echo "Datei 'output/github-snake-dark.svg' wurde gelöscht."
         else
-          echo "Datei 'output/github-snake.svg' nicht gefunden. Überspringe."
+          echo "Datei 'output/github-snake-dark.svg' nicht gefunden. Überspringe."
         fi
 
         if [ -f "pfad/zur/zweiten_datei.md" ]; then
