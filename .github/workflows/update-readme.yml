@@ -23,7 +23,9 @@ jobs:
           cache: 'npm' # Aktiviert Caching für npm-Module
 
       - name: Install dependencies
-        run nicht konfiguriert"; 
+        run: |
+          if [ ! -f package.json ]; then 
+            echo "Fehler: package.json fehlt. Der Workflow wird abgebrochen.";
             exit 1; 
           fi
           npm ci # Schnellere und konsistentere Installation mit Lockfile
