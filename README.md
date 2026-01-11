@@ -343,15 +343,6 @@ Danke, dass Sie mein Profil besucht haben! Ich wünsche Ihnen einen schönen Tag
 
 
 
-## 📝 Besucherstatistik
-- **Gesamtbesucher:** <!--visitor-counter--> Besucher: 0
-- **Einzigartige Besucher:** <!--visitor-uniques--> 0
-
----
-
-🌟 **Hinweis:** Diese Statistik wird automatisch täglich aktualisiert.
-
-
 
 ---
 
