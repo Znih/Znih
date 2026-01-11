@@ -79,9 +79,9 @@ jobs:
       # Update README-Datei
       - name: Update README
         run: |
-          chmod +w Znih/Znih/README.md
-          sed -i "s/<!--visitor-counter-->.*$/<!--visitor-counter--> Besucher: ${{ env.count }}/" Znih/Znih/README.md
-          sed -i "s/<!--visitor-uniques-->.*$/<!--visitor-uniques--> ${{ env.uniques }}/" Znih/Znih/README.md
+          chmod +w README.md
+          sed -i "s/<!--visitor-counter-->.*$/<!--visitor-counter--> Besucher: ${{ env.count }}/" README.md
+          sed -i "s/<!--visitor-uniques-->.*$/<!--visitor-uniques--> ${{ env.uniques }}/" README.md
 
       # Änderungen committen und pushen
       - name: Commit and Push Changes
@@ -89,6 +89,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Znih/Znih/README.md
+          git add README.md
           git commit -m "Aktualisiere Besucherzähler"
           git push
