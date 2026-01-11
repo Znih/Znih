@@ -11,11 +11,20 @@ jobs:
 
     # Berechtigungen auf Repository-Inhalte
     permissions:
-      contents: read # Schreibrechte fürs Repository (write falls nötig)
+      contents: write # Schreibrechte fürs Repository (write falls nötig)
 
     steps:
       - name: Check out the repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Verify Repository Structure
+        run: |
+          echo "Check the repository structure:"
+          ls -la
+          echo "Check Znih/Znih structure:"
+          ls -la Znih || echo "No Znih directory found"
 
       # GitHub-API-Daten abrufen
       - name: Fetch Visitor Data
@@ -70,8 +79,7 @@ jobs:
       # Update README-Datei
       - name: Update README
         run: |
-          ls -la Znih/Znih/README.md
-
+          chmod +w Znih/Znih/README.md
           sed -i "s/<!--visitor-counter-->.*$/<!--visitor-counter--> Besucher: ${{ env.count }}/" Znih/Znih/README.md
           sed -i "s/<!--visitor-uniques-->.*$/<!--visitor-uniques--> ${{ env.uniques }}/" Znih/Znih/README.md
 
