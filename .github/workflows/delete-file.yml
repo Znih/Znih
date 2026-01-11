@@ -17,11 +17,11 @@ jobs:
   # Lösche die angegebenen Dateien nur, wenn sie existieren
     - name: Lösche die angegebenen Dateien
       run: |
-        if [ -f ".github/workflows/update-readme.yml" ]; then
-          rm -f .github/workflows/update-readme.yml
-          echo "Datei '.github/workflows/update-readme.yml' wurde gelöscht."
+        if [ -f "package.json" ]; then
+          rm -f package.json
+          echo "Datei 'package.json' wurde gelöscht."
         else
-          echo "Datei '.github/workflows/update-readme.yml' nicht gefunden. Überspringe."
+          echo "Datei 'package.json' nicht gefunden. Überspringe."
         fi
 
 
