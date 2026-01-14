@@ -3,15 +3,15 @@ name: Update Visitor Counter
 on:
   schedule:
     - cron: "0 0 * * *" # Täglich um Mitternacht
-  workflow_dispatch:
+  workflow_dispatch: 
 
 jobs:
-  update-counter:
+  update-counter: 
     runs-on: ubuntu-latest
 
     # Berechtigungen auf Repository-Inhalte
     permissions:
-      contents: read # Schreibrechte fürs Repository (write falls nötig)
+      contents:  write # Schreibrechte fürs Repository (erforderlich für push)
 
     steps:
       - name: Check out the repository
@@ -30,7 +30,7 @@ jobs:
       - name: Fetch Visitor Data
         id: api_step
         env:
-          API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          API_TOKEN:  ${{ secrets.GITHUB_TOKEN }}
         run: |
           # URL und Token maskieren
           echo "::add-mask::https://api.github.com/repos/Znih/Znih/traffic/views"
@@ -42,7 +42,7 @@ jobs:
           # Retry-Mechanismus mit Debugging
           for i in {1..5}; do
               echo "API-Aufruf (Versuch $i)..."
-              RESPONSE=$(curl -s -H "Authorization: Bearer $API_TOKEN" $API_URL)
+              RESPONSE=$(curl -s -H "Authorization:  Bearer $API_TOKEN" $API_URL)
 
               if [ -n "$RESPONSE" ]; then
                   echo "API-Aufruf erfolgreich in Versuch $i."
@@ -61,7 +61,7 @@ jobs:
 
           # Überprüfen, ob die API-Antwort valide ist
           if ! echo "$RESPONSE" | jq empty > /dev/null 2>&1; then
-              echo "Ungültige API-Antwort! Abbruch."
+              echo "Ungültige API-Antwort!  Abbruch."
               echo "Antwort: $RESPONSE"
               exit 1
           fi
@@ -81,14 +81,13 @@ jobs:
         run: |
           chmod +w README.md
           sed -i "s/<!--visitor-counter-->.*$/<!--visitor-counter--> Besucher: ${{ env.count }}/" README.md
-          sed -i "s/<!--visitor-uniques-->.*$/<!--visitor-uniques--> ${{ env.uniques }}/" README.md
+          sed -i "s/<!--visitor-uniques-->.*$/<!--visitor-uniques--> ${{ env.uniques }}/" README. md
 
       # Änderungen committen und pushen
       - name: Commit and Push Changes
-        if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
-          git config user.name "github-actions[bot]"
+          git config user. name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Aktualisiere Besucherzähler"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Aktualisiere Besucherzähler" && git push)
+          
