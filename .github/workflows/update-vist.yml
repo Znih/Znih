@@ -1,8 +1,8 @@
 name: Update Visitor Counter
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # Täglich um Mitternacht
+#  schedule:
+#    - cron: "0 0 * * *" # Täglich um Mitternacht
   workflow_dispatch: 
 
 jobs:
