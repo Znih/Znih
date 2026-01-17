@@ -81,7 +81,7 @@ jobs:
         run: |
           chmod +w README.md
           sed -i "s/<!--visitor-counter-->.*$/<!--visitor-counter--> Besucher: ${{ env.count }}/" README.md
-          sed -i "s/<!--visitor-uniques-->.*$/<!--visitor-uniques--> ${{ env.uniques }}/" README. md
+          sed -i "s/<!--visitor-uniques-->.*$/<!--visitor-uniques--> ${{ env.uniques }}/" README.md
 
       # Änderungen committen und pushen
       - name: Commit and Push Changes
